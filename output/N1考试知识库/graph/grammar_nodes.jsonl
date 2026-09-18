@@ -1,0 +1,9 @@
+{"node_id": "grammar.cause_reason", "type": "grammar", "label": "cause reason", "aliases": ["ばかりに", "だけあって", "からして", "ことから", "おかげで", "せいで", "ために"], "description": "", "occurrence_count": 281}
+{"node_id": "grammar.evaluation_degree", "type": "grammar", "label": "evaluation degree", "aliases": ["極まりない", "でならない", "に越したことはない", "にすぎない", "ほど"], "description": "", "occurrence_count": 223}
+{"node_id": "grammar.contrast_concession", "type": "grammar", "label": "contrast concession", "aliases": ["にしても", "にもかかわらず", "とはいえ", "一方", "反面", "ところが", "それでも"], "description": "", "occurrence_count": 181}
+{"node_id": "grammar.keigo_request", "type": "grammar", "label": "keigo request", "aliases": ["いただき", "いただけ", "いたし", "申し上げ", "願います", "願いいたします", "恐れ入"], "description": "", "occurrence_count": 163}
+{"node_id": "grammar.condition", "type": "grammar", "label": "condition", "aliases": ["限り", "次第", "さえ", "ならでは", "にしては"], "description": "", "occurrence_count": 144}
+{"node_id": "grammar.negation", "type": "grammar", "label": "negation", "aliases": ["ものか", "わけではない", "とは限らない", "ないことはない", "ずにはいられない"], "description": "", "occurrence_count": 102}
+{"node_id": "grammar.temporal_aspect", "type": "grammar", "label": "temporal aspect", "aliases": ["に先立って", "にあたって", "に際して", "うちに", "最中", "次第"], "description": "", "occurrence_count": 91}
+{"node_id": "grammar.organization", "type": "grammar", "label": "organization", "aliases": ["★", "並べ替え", "順番", "文の組み立て"], "description": "", "occurrence_count": 52}
+{"node_id": "grammar.text_cohesion", "type": "grammar", "label": "text cohesion", "aliases": ["文章の文法", "文中の", "空欄", "流れ", "接続"], "description": "", "occurrence_count": 48}
