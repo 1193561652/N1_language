@@ -1,0 +1,41 @@
+{
+  "snapshotDate": "2026-08-29",
+  "sourceRange": {
+    "from": "2026-08-28",
+    "through": "2026-08-29"
+  },
+  "summary": "文字・词汇基础较扎实，词语用法最强、近义改写最弱；语法样本未完成，篇章语法证据不足。",
+  "metrics": {
+    "allRecords": {
+      "attempts": 10,
+      "total": 225,
+      "answered": 220,
+      "correct": 169
+    },
+    "vocabularyAll": {
+      "total": 206,
+      "correct": 160,
+      "rate": 0.7767
+    },
+    "vocabularyFullSetsOn2026-08-29": {
+      "sets": 8,
+      "total": 200,
+      "correct": 156,
+      "rate": 0.78
+    },
+    "grammarOn2026-08-29": {
+      "total": 19,
+      "answered": 14,
+      "correct": 9,
+      "rateOnTotal": 0.4737,
+      "rateOnAnswered": 0.6429,
+      "completionRate": 0.7368
+    }
+  },
+  "confidenceNotes": [
+    "词汇结论来自跨 8 套完整样本，可信度中高。",
+    "语法只有 1 套且有 5 题未答，可信度低。",
+    "阅读与听力无数据。"
+  ]
+}
+

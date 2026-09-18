@@ -1,0 +1,48 @@
+{
+  "snapshotDate": "2026-09-03",
+  "sourceRange": {
+    "from": "2026-08-28",
+    "through": "2026-09-03"
+  },
+  "summary": "2022.12词汇熟题复测20/25，五个旧错重复；新套语法16/19创当前最佳，篇章语法首次4/4，排序保持4/5。",
+  "metrics": {
+    "allRecords": {
+      "attempts": 19,
+      "total": 420,
+      "answered": 415,
+      "recordedCorrect": 315,
+      "adjudicatedCorrect": 315
+    },
+    "day": {
+      "date": "2026-09-03",
+      "attempts": 2,
+      "total": 44,
+      "answered": 44,
+      "correct": 36,
+      "rate": 0.8182,
+      "durationSeconds": 1555
+    },
+    "vocabularyRetest": {
+      "period": "2022.12",
+      "previous": "19/25",
+      "latest": "20/25",
+      "durationSeconds": 179,
+      "persistentErrors": ["派生（はせい）", "念願の～", "ピントを合わせる", "風当たり", "あどけない"]
+    },
+    "newGrammarSet": {
+      "period": "2022.12",
+      "total": 19,
+      "correct": 16,
+      "sentenceGrammar": "8/10",
+      "sentenceOrdering": "4/5",
+      "textGrammar": "4/4",
+      "durationSeconds": 1376
+    }
+  },
+  "changeNotes": [
+    "语法16/19，为当前最佳新套成绩。",
+    "篇章语法首次4/4，由持续短板转为出现明确改善信号。",
+    "排序继续保持4/5，改善趋势稳定。",
+    "词汇五个旧错重复，其中派生已连续三次错误。"
+  ]
+}

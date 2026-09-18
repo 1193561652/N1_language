@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-09",
+  "newRecords": 2,
+  "newRecordIds": ["1788953694946-nts8cc", "1788955481796-nytkiw"],
+  "scope": "2021.07文字词汇复测与语法首次作答",
+  "summary": {
+    "totalCorrect": 36,
+    "totalQuestions": 44,
+    "rate": 0.8182,
+    "durationSeconds": 2137,
+    "vocabulary": {"correct": 22, "total": 25, "rate": 0.88, "durationSeconds": 382, "familiar": true},
+    "grammar": {"correct": 14, "total": 19, "rate": 0.7368, "durationSeconds": 1755, "familiar": false},
+    "sentenceGrammar": {"correct": 7, "total": 10, "rate": 0.7},
+    "sentenceOrderingStar": {"correct": 5, "total": 5, "rate": 1.0},
+    "sentenceOrderingFull": {"correct": 4, "total": 5, "rate": 0.8, "verification": "manual"},
+    "textGrammar": {"correct": 2, "total": 4, "rate": 0.5}
+  },
+  "knowledgePointFindings": {
+    "semanticDegree": ["ろくに～ない=大して～ない，不等于全く～ない"],
+    "abstractLexicalRelations": ["スケール=規模", "寄与=貢献，不等于援助"],
+    "unconditionalConcession": ["AならまだしもB", "雨だろうと雪だろうと"],
+    "formalExplanatoryRegister": ["お願いしたく、ご連絡した次第です"],
+    "quotationNominalization": ["冗談だってことくらいわかるだろうに；完整顺序2-4-1-3"],
+    "discourseRestrictionAndContrast": ["箱の中身なら", "とはいえ"]
+  },
+  "repeatedEvidence": [
+    "ろくに、スケール、寄与与2026-08-29完全相同的误选重复。",
+    "无条件让步在连续两日跨题出错。",
+    "系统排序5/5但完整顺序为4/5。"
+  ],
+  "reasonAvailability": "两份提交均无reason或optionReasons；错误机制为反推。"
+}

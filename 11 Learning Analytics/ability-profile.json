@@ -1,0 +1,391 @@
+{
+  "schemaVersion": 1,
+  "updatedThrough": "2026-09-14",
+  "timezone": "Asia/Shanghai",
+  "analysisPolicy": "题型用于统计；诊断、能力追踪和计划以跨题型考点为主。同一题可标注多个考点。语法考点须映射《新完全マスター文法N1》的部—课—条目；没有精确条目时只标对应能力章节。",
+  "evidence": {
+    "firstDate": "2026-08-28",
+    "lastDate": "2026-09-14",
+    "attempts": 42,
+    "totalQuestions": 923,
+    "answeredQuestions": 918,
+    "recordedCorrectAnswers": 734,
+    "adjudicatedCorrectAnswers": 734,
+    "coverage": [
+      "文字・词汇",
+      "语法（八个期次，含熟题集中复测）"
+    ],
+    "missingCoverage": [
+      "阅读",
+      "听力",
+      "阅读与听力基线"
+    ]
+  },
+  "abilities": {
+    "kanjiReading": {
+      "correct": 98,
+      "total": 114,
+      "rate": 0.8596,
+      "confidence": "high",
+      "description": "基础良好；枯渇、慰める显示音读映射和近音训读辨析仍会波动。"
+    },
+    "contextVocabulary": {
+      "correct": 114,
+      "total": 133,
+      "rate": 0.8571,
+      "confidence": "high",
+      "description": "整体较强；固定搭配、惯用动词和外来语辨析仍会回退。"
+    },
+    "paraphrase": {
+      "correct": 90,
+      "total": 114,
+      "rate": 0.7895,
+      "confidence": "high",
+      "description": "词汇内部明确短板；ろくに、スケール、寄与已三次错误，ずれ込む出现纠正后回退。"
+    },
+    "wordUsage": {
+      "correct": 102,
+      "total": 114,
+      "rate": 0.8947,
+      "confidence": "high",
+      "description": "仍是最稳定题型，但本场的本場、秘める说明词义对象限制需要单独追踪。"
+    },
+    "sentenceGrammar": {
+      "latestCorrect": 10,
+      "total": 10,
+      "answered": 10,
+      "latestRate": 1.0,
+      "firstAttemptCorrect": 6,
+      "confidence": "medium",
+      "description": "2024.12熟题复测10/10，连续两次保持满分；句内形式当前稳定，但不能抵消篇章关系的失分。"
+    },
+    "sentenceOrdering": {
+      "latestRecordedCorrect": 5,
+      "latestAdjudicatedCorrect": 5,
+      "latestFullOrderCorrect": 5,
+      "total": 5,
+      "answered": 5,
+      "latestAdjudicatedRate": 1.0,
+      "latestFullOrderRate": 1.0,
+      "firstAttemptCorrect": 3,
+      "confidence": "medium-high",
+      "description": "2024.12熟题完整排序5/5，较9月5日同套4/5提高；固定块、关系从句与时间线在本套稳定，仍需新题验证迁移。"
+    },
+    "textGrammar": {
+      "latestCorrect": 0,
+      "total": 4,
+      "answered": 4,
+      "latestRate": 0.0,
+      "previousCompleteAttemptCorrect": 1,
+      "confidence": "medium-high",
+      "description": "2024.12熟题篇章0/4，较9月5日同套1/4继续下降；使役方向、逆接、反事实条件和口语举例全部失分。"
+    },
+    "reading": {
+      "confidence": "none",
+      "description": "无作答记录。"
+    },
+    "listening": {
+      "confidence": "none",
+      "description": "无作答记录。"
+    }
+  },
+  "knowledgePoints": {
+    "orthographicReading": {
+      "status": "generally-strong-with-detail-errors",
+      "evidence": ["枯渇→こかつ", "慰める→なぐさめる", "施錠→せじょう", "阻む→はばむ"],
+      "diagnosis": "会受熟悉音节、长音和近音训读干扰，需要按汉字音与对比词建立映射。"
+    },
+    "lexicalScopeAndCollocation": {
+      "status": "priority-weakness",
+      "evidence": ["ろくに/大して/全く三错", "スケール=規模三错", "寄与=貢献三错", "話がこじれる两错", "本場与秘める两错"],
+      "diagnosis": "近义强度、抽象关系和适用对象不精确；熟题继续重复，必须转为无选项提取。"
+    },
+    "honorificAndBenefactivePerspective": {
+      "status": "priority-weakness",
+      "evidence": ["先生においでいただく连续两错", "お越しになる/伺う", "見える/伺う", "といたしましては/におかれましては"],
+      "diagnosis": "动作主体、助词和くださる/いただく视角尚未自动联动；对应教材第3部第6课。"
+    },
+    "concessionConditionAndDegree": {
+      "status": "priority-weakness",
+      "evidence": ["雨だろうと雪だろうと连续两错", "立ち上がれそうにないぐらい连续两错", "ものを", "ばこそ", "とはいえ连续两错"],
+      "diagnosis": "需要区分无条件让步、遗憾逆接、原因强调、能力/禁止和程度；对应教材第1部第8、10、12、13课。"
+    },
+    "aspectTimeAndSpeakerStance": {
+      "status": "priority-weakness",
+      "evidence": ["戻すことにしていこう连续两错", "入学したとたん回退", "思ったのである回退", "言っておいて的逆预期责备"],
+      "diagnosis": "熟题仍忽略实际/假设、过去回忆/未来决定；对应教材第3部第1、4、11、12课。"
+    },
+    "modifierDependencyAndOrdering": {
+      "status": "improving-needs-new-item-validation",
+      "evidence": ["9月13日三套熟题完整顺序10/15，与首次相同", "9月14日2024.12单套完整顺序5/5", "ばこそ说明框架", "授受目的+关系从句", "冗談だってこと", "嵌入疑问与回指"],
+      "diagnosis": "本套从4/5提高到5/5，但此前跨套复测未改善；继续用教材第2部第1—3课训练，并用新题验证。"
+    },
+    "discourseCoherence": {
+      "status": "priority-weakness",
+      "evidence": ["三套熟题篇章由首次9/12降至4/12", "2024.12熟题篇章由9月5日1/4降至0/4", "Q41、Q42、Q44四次作答均错", "そうした指示", "ただ与とはいえ接续", "时制和文体", "话语流程"],
+      "diagnosis": "显著保持崩落已持续；用户理由还显示连接词和样态表达存在明确义项误解。优先复习第3部第9、12、2、5课。"
+    }
+  },
+  "textbookMapping": {
+    "book": "新完全マスター文法 日本語能力試験N1",
+    "source": "https://www.3anet.co.jp/np/books/3600/",
+    "locatorFormat": "部—课—条目；不使用页码",
+    "currentPriority": [
+      "第3部第9课 接续表达",
+      "第3部第12课 考虑话语流程",
+      "第2部第1—3课 句子组装",
+      "第3部第5—6课 使役/被动与授受视点",
+      "第1部第8课 逆说",
+      "第1部第12课第1项 ～ばこそ",
+      "第1部第4课第2项 ～であろうと…であろうと"
+    ]
+  },
+  "currentStrengths": [
+    "文字词汇整体识别速度",
+    "词语用法与对象判断的整体正确率",
+    "句子语法在熟题复测中的保持与改善",
+    "2024.12熟题的完整排序结构复原"
+  ],
+  "currentPriorities": [
+    "篇章连接词的方向：因果、追加、强反转、承认后逆接",
+    "反事实条件、かのように与だって的精确义项",
+    "敬语主体、助词与授受视角联动",
+    "让步、条件与程度功能辨析",
+    "固定连接块和修饰依存",
+    "词义适用对象与固定搭配",
+    "汉字读音映射和近音训读",
+    "保持篇章时间轴与说话人立场判断",
+    "建立阅读与听力基线"
+  ],
+  "repeatedErrors": [
+    {
+      "item": "派生",
+      "expected": "はせい",
+      "observedWrong": "はっせい",
+      "occurrences": 3,
+      "dates": [
+        "2026-08-28",
+        "2026-08-29",
+        "2026-09-03"
+      ]
+    },
+    {
+      "item": "Vることがあってはならない",
+      "expected": "绝不能发生 V 这样的事",
+      "observedWrong": "误用であるわけではない，并把わけではない理解为不应该",
+      "occurrences": 2,
+      "dates": [
+        "2026-08-29",
+        "2026-08-30"
+      ]
+    },
+    {
+      "item": "2024.12语法Q38固定搭配排序",
+      "expected": "3→1→4★→2",
+      "observedWrong": "连续选择抵抗がある人にも，而非★位置的ビジネス書に",
+      "occurrences": 2,
+      "dates": [
+        "2026-08-29",
+        "2026-08-30"
+      ]
+    },
+    {
+      "item": "誇張",
+      "expected": "こちょう",
+      "observedWrong": "先后误选こうちょう、ごちょう，首字音与长音未固定",
+      "occurrences": 2,
+      "dates": [
+        "2026-08-29",
+        "2026-09-01"
+      ]
+    },
+    {
+      "item": "見返りを求める",
+      "expected": "索求回报、报偿",
+      "observedWrong": "连续与仕返し（报复）混淆",
+      "occurrences": 2,
+      "dates": [
+        "2026-08-29",
+        "2026-09-01"
+      ]
+    },
+    {
+      "item": "秩序",
+      "expected": "ちつじょ",
+      "observedWrong": "连续误选しつじょう",
+      "occurrences": 2,
+      "dates": ["2026-08-29", "2026-09-02"]
+    },
+    {
+      "item": "振興",
+      "expected": "しんこう",
+      "observedWrong": "先后误选しんきょう、じんこう",
+      "occurrences": 2,
+      "dates": ["2026-08-29", "2026-09-02"]
+    },
+    {
+      "item": "ネックになる",
+      "expected": "成为瓶颈或障碍",
+      "observedWrong": "先后与ロック、タブー混淆",
+      "occurrences": 2,
+      "dates": ["2026-08-29", "2026-09-02"]
+    },
+    {
+      "item": "行き届く",
+      "expected": "照顾或管理遍及细节",
+      "observedWrong": "先后与行き着く、行き詰まる混淆",
+      "occurrences": 2,
+      "dates": ["2026-08-29", "2026-09-02"]
+    },
+    {
+      "item": "念願の～",
+      "expected": "长期愿望中的～；念願のマイホーム",
+      "observedWrong": "连续与欲求混淆",
+      "occurrences": 3,
+      "dates": ["2026-08-29", "2026-09-03", "2026-09-05"]
+    },
+    {
+      "item": "ピントを合わせる",
+      "expected": "调焦、对焦",
+      "observedWrong": "先后误选ポーズ、テンポ，未建立相机与聚焦语义",
+      "occurrences": 3,
+      "dates": ["2026-08-29", "2026-09-03", "2026-09-05"]
+    },
+    {
+      "item": "風当たり",
+      "expected": "来自周围的批评、敌意或压力",
+      "observedWrong": "连续误解为要求",
+      "occurrences": 2,
+      "dates": ["2026-08-29", "2026-09-03"]
+    },
+    {
+      "item": "あどけない",
+      "expected": "天真稚气的、無邪気な",
+      "observedWrong": "连续误解为真剣な",
+      "occurrences": 2,
+      "dates": ["2026-08-29", "2026-09-03"]
+    },
+    {
+      "item": "騒然",
+      "expected": "そうぜん",
+      "observedWrong": "连续误选そぜん，长音未固定",
+      "occurrences": 2,
+      "dates": ["2026-09-02", "2026-09-05"]
+    },
+    {
+      "item": "ろくに～ない",
+      "expected": "不充分、不像样地；近义为大して～ない",
+      "observedWrong": "连续误选全く～ない，把不充分扩大为完全没有",
+      "occurrences": 3,
+      "dates": ["2026-08-29", "2026-09-09", "2026-09-13"]
+    },
+    {
+      "item": "スケール",
+      "expected": "規模、尺度",
+      "observedWrong": "连续误选方針",
+      "occurrences": 3,
+      "dates": ["2026-08-29", "2026-09-09", "2026-09-13"]
+    },
+    {
+      "item": "寄与",
+      "expected": "貢献；对成果或发展产生积极作用",
+      "observedWrong": "连续误选援助",
+      "occurrences": 3,
+      "dates": ["2026-08-29", "2026-09-09", "2026-09-13"]
+    },
+    {
+      "item": "話がこじれる",
+      "expected": "谈话、交涉或问题复杂化、恶化",
+      "observedWrong": "连续误选しびれる",
+      "occurrences": 2,
+      "dates": ["2026-09-08", "2026-09-13"]
+    },
+    {
+      "item": "本場",
+      "expected": "某文化、产品或技艺的正宗中心地",
+      "observedWrong": "与現地混淆",
+      "occurrences": 2,
+      "dates": ["2026-09-08", "2026-09-13"]
+    },
+    {
+      "item": "秘める",
+      "expected": "把情感、潜力等含藏于内",
+      "observedWrong": "与隠す、こらえる、抑える的对象范围混淆",
+      "occurrences": 2,
+      "dates": ["2026-09-08", "2026-09-13"]
+    },
+    {
+      "item": "雨だろうと雪だろうと",
+      "expected": "无论下雨还是下雪，结果不变",
+      "observedWrong": "连续误选雨とも雪とも",
+      "occurrences": 2,
+      "dates": ["2026-09-09", "2026-09-13"]
+    },
+    {
+      "item": "先生においでいただくからには",
+      "expected": "我方承蒙老师前来；先生に与いただく联动",
+      "observedWrong": "连续误选おいでくださるにしては",
+      "occurrences": 2,
+      "dates": ["2026-09-08", "2026-09-13"]
+    },
+    {
+      "item": "戻すことにしていこう",
+      "expected": "从现在起作为持续方针把东西放回去",
+      "observedWrong": "连续误选戻せてよかった，把未来决定理解成过去结果评价",
+      "occurrences": 2,
+      "dates": ["2026-09-08", "2026-09-13"]
+    },
+    {
+      "item": "2024.12篇章Q41 気を使わせられはしない",
+      "expected": "作者不能让编辑们为自己费心；使役＋可能否定＋は强调",
+      "observedWrong": "四次忽略使役层，把动作方向理解为作者自己不能费心",
+      "occurrences": 4,
+      "dates": ["2026-08-29", "2026-08-30", "2026-09-05", "2026-09-14"]
+    },
+    {
+      "item": "2024.12篇章Q42 それにもかかわらず",
+      "expected": "承认补订不难，却仍异常失落",
+      "observedWrong": "四次未识别承认前项后的逆接；最新理由误解为与此无关",
+      "occurrences": 4,
+      "dates": ["2026-08-29", "2026-08-30", "2026-09-05", "2026-09-14"]
+    },
+    {
+      "item": "2024.12篇章Q43 承知していれば",
+      "expected": "如果从一开始知道自己粗心，就不会如此失落",
+      "observedWrong": "两次错；最新把かのように误解为可能/应该，而非仿佛",
+      "occurrences": 2,
+      "dates": ["2026-08-29", "2026-09-14"]
+    },
+    {
+      "item": "2024.12篇章Q44 ピアスだって",
+      "expected": "耳环也/就连耳环也不例外；口语举例兼让步",
+      "observedWrong": "四次未识别だって义项，最新误选といっても",
+      "occurrences": 4,
+      "dates": ["2026-08-29", "2026-08-30", "2026-09-05", "2026-09-14"]
+    }
+  ],
+  "answerKeyAdjudications": [
+    {
+      "questionId": "jlpt4you-2024.12-grammar-6-2",
+      "questionNumber": 37,
+      "localExpected": 4,
+      "adjudicatedExpected": 2,
+      "correctOrder": [1, 3, 2, 4],
+      "reason": "本地答案键与多份公开参考答案冲突；完整句法支持真面目すぎるがゆえに→トラブルが絶えない→男。",
+      "appliedToDate": "2026-08-30"
+    }
+  ],
+  "presentationAdjudications": [
+    {
+      "questionId": "jlpt4you-2024.07-grammar-6-1",
+      "questionNumber": 36,
+      "originalStarPosition": 2,
+      "displayedStarPosition": 3,
+      "correctOrder": [3, 2, 4, 1],
+      "recordedSelected": 4,
+      "adjudicatedExpected": 2,
+      "reason": "原卷★位于第2空；离线排序控件当时将所有排序题硬编码为第3空。用户完整排序正确，系统从错误显示的位置取出片段4而误判。",
+      "appliedToDate": "2026-08-31"
+    }
+  ]
+}

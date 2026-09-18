@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-05",
+  "generatedAt": "2026-09-06",
+  "newRecords": 10,
+  "newRecordIds": [
+    "1788611749993-yss10y",
+    "1788612055271-z6gpje",
+    "1788612387907-02rwx7",
+    "1788612561389-gmry0u",
+    "1788612909383-2i4nb9",
+    "1788613416895-h77r25",
+    "1788614119408-mi0b5w",
+    "1788614922944-7wbxyg",
+    "1788615828292-c4ic3r",
+    "1788616288743-au81cx"
+  ],
+  "scope": "五个既做期次的文字词汇与语法复测",
+  "summary": {
+    "totalCorrect": 194,
+    "totalQuestions": 220,
+    "rate": 0.8818,
+    "durationSeconds": 4334,
+    "vocabulary": {"correct": 119, "total": 125, "rate": 0.952, "durationSeconds": 1290},
+    "grammar": {"correct": 75, "total": 95, "rate": 0.7895, "durationSeconds": 3044},
+    "sentenceGrammar": {"correct": 45, "total": 50, "rate": 0.9},
+    "sentenceOrderingStar": {"correct": 22, "total": 25, "rate": 0.88},
+    "sentenceOrderingFull": {"correct": 22, "total": 25, "rate": 0.88, "verification": "manual"},
+    "textGrammar": {"correct": 8, "total": 20, "rate": 0.4}
+  },
+  "interpretation": [
+    "熟题词汇保持率高，句子语法和完整排序也较稳定。",
+    "篇章语法未复现2026-09-03的4/4，五套合计仅8/20，是当前首要短板。",
+    "念願与ピント均累计第三次错误；派生首次纠正但仍需间隔复测。",
+    "所有新记录均未填写reason或optionReasons，无法直接核对主观理解。"
+  ]
+}

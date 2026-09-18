@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-13",
+  "newRecords": 6,
+  "newRecordIds": [
+    "1789304520800-r2ymut",
+    "1789305257811-4epg46",
+    "1789305581413-i3uaec",
+    "1789306564853-6ut794",
+    "1789307875495-ao3x7g",
+    "1789308592515-07m4v4"
+  ],
+  "scope": "2022.07、2021.12、2021.07文字词汇与语法熟题复测",
+  "summary": {
+    "totalCorrect": 104,
+    "totalQuestions": 132,
+    "rate": 0.7879,
+    "durationSeconds": 4016,
+    "vocabulary": {"correct": 65, "total": 75, "rate": 0.8667, "durationSeconds": 1319},
+    "grammar": {"correct": 39, "total": 57, "rate": 0.6842, "durationSeconds": 2697},
+    "sentenceGrammar": {"correct": 25, "total": 30, "rate": 0.8333},
+    "sentenceOrderingStar": {"correct": 10, "total": 15, "rate": 0.6667},
+    "sentenceOrderingFull": {"correct": 10, "total": 15, "rate": 0.6667, "verification": "manual"},
+    "textGrammar": {"correct": 4, "total": 12, "rate": 0.3333}
+  },
+  "comparisonWithFirstAttempts": {
+    "sentenceGrammar": "22/30→25/30",
+    "sentenceOrderingFull": "10/15→10/15",
+    "textGrammar": "9/12→4/12"
+  },
+  "textbookPriorities": [
+    "第3部第9课 接续表达",
+    "第3部第12课 考虑话语流程",
+    "第2部第1—3课 句子组装",
+    "第3部第5—6课 使役/被动与授受视点",
+    "第1部第8课 逆说",
+    "第1部第12课第1项 ～ばこそ",
+    "第1部第4课第2项 ～であろうと…であろうと"
+  ],
+  "reasonAvailability": "六份提交均无reason或optionReasons；错误机制为反推。"
+}

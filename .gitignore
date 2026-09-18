@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+/tmp/
+*.log
+.env
+.env.*
+!.env.example
+*.dpapi
+/offline-exam-tool/config/
+/offline-exam-tool/history/
+/local-config/

@@ -1,0 +1,50 @@
+{
+  "snapshotDate": "2026-08-31",
+  "sourceRange": {
+    "from": "2026-08-28",
+    "through": "2026-08-31"
+  },
+  "summary": "熟题词汇复测25/25，三处旧错全部纠正；新套语法核正后11/19，排序回升到4/5，但篇章语法0/4，已确认为当前明确短板。",
+  "metrics": {
+    "allRecords": {
+      "attempts": 13,
+      "total": 288,
+      "answered": 283,
+      "recordedCorrect": 214,
+      "adjudicatedCorrect": 216
+    },
+    "today": {
+      "attempts": 2,
+      "total": 44,
+      "answered": 44,
+      "correct": 36,
+      "rate": 0.8182,
+      "recordedCorrect": 35,
+      "adjudicatedCorrect": 36,
+      "adjudicatedRate": 0.8182,
+      "durationSeconds": 1831
+    },
+    "vocabularyRetest": {
+      "period": "2024.07",
+      "previous": "22/25",
+      "latest": "25/25",
+      "durationSeconds": 310
+    },
+    "newGrammarSet": {
+      "period": "2024.07",
+      "total": 19,
+      "correct": 11,
+      "recordedCorrect": 10,
+      "adjudicatedCorrect": 11,
+      "sentenceGrammar": "7/10",
+      "sentenceOrdering": "4/5（Q36工具星号错位核正后）",
+      "textGrammar": "0/4",
+      "durationSeconds": 1521
+    }
+  },
+  "changeNotes": [
+    "2024.07词汇三处旧错全部纠正，但属于熟题保持。",
+    "排序题在新套题核正后达到4/5；Q36完整排序正确，原始失分来自离线控件星号错位。",
+    "篇章语法连续完整样本1/4、0/4，升级为明确短板。"
+  ]
+}

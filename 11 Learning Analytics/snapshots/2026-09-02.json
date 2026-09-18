@@ -1,0 +1,47 @@
+{
+  "snapshotDate": "2026-09-02",
+  "sourceRange": {
+    "from": "2026-08-28",
+    "through": "2026-09-02"
+  },
+  "summary": "2023.07词汇熟题复测20/25，仅比首次提高1题；新套语法12/19，排序4/5趋稳，但篇章语法连续第二天1/4。",
+  "metrics": {
+    "allRecords": {
+      "attempts": 17,
+      "total": 376,
+      "answered": 371,
+      "recordedCorrect": 278,
+      "adjudicatedCorrect": 279
+    },
+    "today": {
+      "attempts": 2,
+      "total": 44,
+      "answered": 44,
+      "correct": 32,
+      "rate": 0.7273,
+      "durationSeconds": 3665
+    },
+    "vocabularyRetest": {
+      "period": "2023.07",
+      "previous": "19/25",
+      "latest": "20/25",
+      "durationSeconds": 186,
+      "persistentErrors": ["秩序（ちつじょ）", "振興（しんこう）", "ネックになる", "行き届く"]
+    },
+    "newGrammarSet": {
+      "period": "2023.07",
+      "total": 19,
+      "correct": 12,
+      "sentenceGrammar": "7/10",
+      "sentenceOrdering": "4/5",
+      "textGrammar": "1/4",
+      "durationSeconds": 3479
+    }
+  },
+  "changeNotes": [
+    "新套语法12/19，为当前最佳新套语法成绩。",
+    "排序最近三套为4/5、3/5、4/5，改善趋势较可信。",
+    "篇章语法连续四套为1/4、0/4、1/4、1/4，仍是首要短板。",
+    "词汇复测仍保留四个旧错，并出现騒然由对变错。"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "snapshotDate": "2026-09-01",
+  "sourceRange": {
+    "from": "2026-08-28",
+    "through": "2026-09-01"
+  },
+  "summary": "2023.12词汇熟题复测由17/25提升到22/25；新套语法9/19，排序3/5，篇章语法1/4，篇章功能识别仍是首要短板。",
+  "metrics": {
+    "allRecords": {
+      "attempts": 15,
+      "total": 332,
+      "answered": 327,
+      "recordedCorrect": 246,
+      "adjudicatedCorrect": 247
+    },
+    "today": {
+      "attempts": 2,
+      "total": 44,
+      "answered": 44,
+      "correct": 31,
+      "rate": 0.7045,
+      "durationSeconds": 2224
+    },
+    "vocabularyRetest": {
+      "period": "2023.12",
+      "previous": "17/25",
+      "latest": "22/25",
+      "durationSeconds": 246,
+      "repeatedErrors": ["誇張（こちょう）", "見返りを求める"]
+    },
+    "newGrammarSet": {
+      "period": "2023.12",
+      "total": 19,
+      "correct": 9,
+      "sentenceGrammar": "5/10",
+      "sentenceOrdering": "3/5",
+      "textGrammar": "1/4",
+      "durationSeconds": 1978
+    }
+  },
+  "changeNotes": [
+    "2023.12词汇八处旧错中六处纠正，熟题保持明显改善。",
+    "誇張与見返り连续第二次错误，升级为重复错点。",
+    "排序三题完整正确，两题错误均源于局部依存关系未锁定。",
+    "篇章语法最近三个完整样本为1/4、0/4、1/4，仍是首要短板。"
+  ]
+}

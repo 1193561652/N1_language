@@ -1,0 +1,36 @@
+{
+  "snapshotDate": "2026-08-30",
+  "sourceRange": {
+    "from": "2026-08-28",
+    "through": "2026-08-30"
+  },
+  "summary": "文字・词汇画像不变；语法复测完成率达到100%，句子语法明显改善。Q37答案键经人工核正后，排序题为1/5，★位置映射和长句结构处理仍不稳定。",
+  "metrics": {
+    "allRecords": {
+      "attempts": 11,
+      "total": 244,
+      "answered": 239,
+      "recordedCorrect": 179,
+      "adjudicatedCorrect": 180
+    },
+    "todayGrammarRetest": {
+      "total": 19,
+      "answered": 19,
+      "recordedCorrect": 10,
+      "adjudicatedCorrect": 11,
+      "adjudicatedRate": 0.5789,
+      "completionRate": 1.0,
+      "durationSeconds": 2209,
+      "sentenceGrammar": "9/10",
+      "sentenceOrdering": "原始0/5，核正后1/5",
+      "textGrammar": "1/4"
+    }
+  },
+  "changeNotes": [
+    "完成率由前一日73.7%提升到100%。",
+    "同套句子语法由6/10提升到9/10。",
+    "排序题由3/5变为核正后的1/5，结合文字理解判断为流程与结构定位不稳定。",
+    "Q34、Q38确认为两次重复错误。",
+    "Q37本地答案键误标为4；人工核正答案为2，用户今日作答正确。"
+  ]
+}

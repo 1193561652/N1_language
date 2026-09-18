@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-14",
+  "newRecords": 1,
+  "newRecordIds": [
+    "1789394764951-zrpp7r"
+  ],
+  "scope": "2024.12语法熟题复测",
+  "summary": {
+    "totalCorrect": 15,
+    "totalQuestions": 19,
+    "rate": 0.7895,
+    "durationSeconds": 946,
+    "sentenceGrammar": {"correct": 10, "total": 10, "rate": 1.0},
+    "sentenceOrderingStar": {"correct": 5, "total": 5, "rate": 1.0},
+    "sentenceOrderingFull": {"correct": 5, "total": 5, "rate": 1.0, "verification": "manual"},
+    "textGrammar": {"correct": 0, "total": 4, "rate": 0.0}
+  },
+  "comparisonWithPreviousSameSet": {
+    "date": "2026-09-05",
+    "sentenceGrammar": "10/10→10/10",
+    "sentenceOrderingFull": "4/5→5/5",
+    "textGrammar": "1/4→0/4"
+  },
+  "wrongQuestions": [41, 42, 43, 44],
+  "repeatedPattern": {
+    "q41": "四次错误：使役方向＋强烈不可能",
+    "q42": "四次错误：篇章逆接关系",
+    "q43": "两次错误：反事实条件与かのように",
+    "q44": "四次错误：だって的举例/让步功能"
+  },
+  "textbookPriorities": [
+    "第3部第9课 接续表达",
+    "第3部第12课 考虑话语流程",
+    "第3部第2课 表示条件的句子",
+    "第3部第5课 被动、使役、使役被动",
+    "第1部Ⅳ F 助词、复合助词"
+  ],
+  "reasonAvailability": "Q32、Q36、Q42、Q43、Q44填写了理由；其中Q42、Q43、Q44存在需要纠正的义项理解。"
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-07",
+  "generatedAt": "2026-09-08",
+  "newRecords": 2,
+  "newRecordIds": [
+    "1788782746969-eut38g",
+    "1788784062659-cao081"
+  ],
+  "scope": "首次作答2022.07文字词汇与语法",
+  "summary": {
+    "totalCorrect": 38,
+    "totalQuestions": 44,
+    "rate": 0.8636,
+    "durationSeconds": 1507,
+    "vocabulary": {"correct": 22, "total": 25, "rate": 0.88, "durationSeconds": 242},
+    "grammar": {"correct": 16, "total": 19, "rate": 0.8421, "durationSeconds": 1265},
+    "sentenceGrammar": {"correct": 9, "total": 10, "rate": 0.9},
+    "sentenceOrderingStar": {"correct": 3, "total": 5, "rate": 0.6},
+    "sentenceOrderingFull": {"correct": 3, "total": 5, "rate": 0.6, "verification": "manual"},
+    "textGrammar": {"correct": 4, "total": 4, "rate": 1.0}
+  },
+  "interpretation": [
+    "新题词汇与句子语法表现稳定。",
+    "篇章语法在全新期次达到4/4，改善开始出现迁移证据。",
+    "排序新题只有3/5，低于熟题复测，长句核心结构仍不稳定。",
+    "两次提交均未填写reason或optionReasons。"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-08",
+  "newRecords": 2,
+  "newRecordIds": ["1788871365855-g8b73f", "1788872767020-6lqrci"],
+  "scope": "首次作答2021.12文字词汇与语法",
+  "summary": {
+    "totalCorrect": 32,
+    "totalQuestions": 44,
+    "rate": 0.7273,
+    "durationSeconds": 1665,
+    "vocabulary": {"correct": 20, "total": 25, "rate": 0.8, "durationSeconds": 322},
+    "grammar": {"correct": 12, "total": 19, "rate": 0.6316, "durationSeconds": 1343},
+    "sentenceGrammar": {"correct": 6, "total": 10, "rate": 0.6},
+    "sentenceOrderingStar": {"correct": 3, "total": 5, "rate": 0.6},
+    "sentenceOrderingFull": {"correct": 3, "total": 5, "rate": 0.6, "verification": "manual"},
+    "textGrammar": {"correct": 3, "total": 4, "rate": 0.75}
+  },
+  "knowledgePointFindings": {
+    "orthographicReading": ["枯渇=こかつ", "慰める=なぐさめる；与なだめる区分"],
+    "lexicalScopeAndCollocation": ["話がこじれる", "本場/現地/現場", "秘める/隠す/こらえる/抑える"],
+    "concessionAndDegree": ["Nはどうであれ", "一度断られたぐらいで", "どんなにVてもVきれない"],
+    "honorificPerspective": ["先生においでいただく；助词、动作主体与授受视角联动"],
+    "aspectAndSpeakerStance": ["言っておいて的逆预期责备", "ことにしていこう的未来自主决定"],
+    "modifierDependency": ["表現力で修饰演じきる", "見事なまでに不可拆", "ぐらいで连接被轻视条件与不应发生的反应"]
+  },
+  "interpretation": [
+    "最近两套全新排序均为完整顺序3/5，修饰依存和固定连接块是稳定训练重点。",
+    "篇章语法3/4，最近两套新题合计7/8，改善大体保持。",
+    "敬语授受视角再次跨期次出错，应升级为机制性弱点。",
+    "所有新记录均未填写reason或optionReasons，错误机制为反推。"
+  ]
+}
