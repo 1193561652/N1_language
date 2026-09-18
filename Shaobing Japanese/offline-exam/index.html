@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>N1 真题离线练习</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div>
+      <p class="eyebrow">JLPT · N1</p>
+      <h1>真题离线练习</h1>
+      <p class="subtitle">题库、听力与答题记录全部留在本机</p>
+    </div>
+    <nav class="tabs" aria-label="主导航">
+      <button class="tab active" data-view="practice">开始答题</button>
+      <button class="tab" data-view="history">答题历史 <span id="history-count" class="count">0</span></button>
+    </nav>
+  </header>
+
+  <main>
+    <section id="practice-view" class="view active">
+      <div id="setup-panel" class="setup-card">
+        <div>
+          <p class="section-kicker">选择练习范围</p>
+          <h2>一次完成一期的一科</h2>
+        </div>
+        <div class="selectors">
+          <label>考试期次
+            <select id="year-select"></select>
+          </label>
+          <label>科目
+            <select id="category-select"></select>
+          </label>
+        </div>
+        <div class="selection-summary">
+          <span><strong id="question-count">0</strong> 道题</span>
+          <span id="media-summary">无媒体</span>
+          <span>提交后立即判分</span>
+        </div>
+        <button id="start-button" class="primary-button">开始答题</button>
+      </div>
+
+      <section id="exam-panel" class="exam-panel" hidden>
+        <div class="exam-toolbar">
+          <div>
+            <button id="back-button" class="text-button">← 返回选择</button>
+            <h2 id="exam-title"></h2>
+          </div>
+          <div class="toolbar-status">
+            <span id="answer-progress">已答 0 / 0</span>
+            <span id="timer">00:00</span>
+            <button id="submit-button" class="primary-button compact">提交判分</button>
+          </div>
+        </div>
+        <div id="score-panel" class="score-panel" hidden></div>
+        <form id="questions-form" class="questions-list"></form>
+        <div class="bottom-submit">
+          <button id="submit-bottom-button" class="primary-button">提交并保存记录</button>
+        </div>
+      </section>
+    </section>
+
+    <section id="history-view" class="view" hidden>
+      <div class="history-heading">
+        <div>
+          <p class="section-kicker">本地学习档案</p>
+          <h2>答题历史</h2>
+          <p>记录保存在当前浏览器中，包含提交日期、时间、用时与每题结果。</p>
+        </div>
+        <div class="history-actions">
+          <button id="export-button" class="secondary-button">导出备份</button>
+          <label class="secondary-button file-button">导入备份<input id="import-input" type="file" accept="application/json"></label>
+        </div>
+      </div>
+      <div id="history-empty" class="empty-state">
+        <p>还没有答题记录。</p>
+        <button class="text-button" data-go-practice>去做一套题 →</button>
+      </div>
+      <div id="history-list" class="history-list"></div>
+    </section>
+  </main>
+
+  <dialog id="history-dialog">
+    <button id="dialog-close" class="dialog-close" aria-label="关闭">×</button>
+    <div id="history-detail"></div>
+  </dialog>
+
+  <footer>离线应用 · 数据不会上传 · 清除浏览器网站数据会同时清除未导出的历史记录</footer>
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
