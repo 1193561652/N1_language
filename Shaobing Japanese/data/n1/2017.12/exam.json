@@ -1,0 +1,3051 @@
+{
+  "submitted": false,
+  "examName": null,
+  "parts": [
+    {
+      "partName": "文字・語彙",
+      "bigQuestionBeans": [
+        {
+          "bigTitle": "の言葉の読み方として最もよいものを、1・2・3・4&nbsp;から一つ選びなさい。",
+          "bigQuestionNo": 1,
+          "questions": [
+            {
+              "questionId": "n1-2017.12-文字・語彙-1-1",
+              "questionNo": 1,
+              "question": "新しい販売ルートを【開拓】した。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "かいたく",
+                "かいだく",
+                "かいせき",
+                "かいぜき"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 1,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(1)\n　解析:开拓新的销售渠道。\n　かいたく(開拓):开垦，开拓\n　かいだく(快諾):欣然承诺\n　かいせき(解析):解析\n　かいぜき:干扰项",
+                "rightCount": 7,
+                "wrongCount": 1,
+                "rightTime": 1782032650019,
+                "wrongTime": 1773288491430,
+                "lastAnswerNo": 1,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-文字・語彙-1-2",
+              "questionNo": 2,
+              "question": "私たちは、町の【復興】に全力で取り組んでいます。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "ふっこう",
+                "ふっきょう",
+                "ふくこう",
+                "ふくきょう"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 1,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(1)\n　解析:我们为了城镇的复兴全力以赴。\n　ふっこう(復興):复兴\n　ふっきょう:干扰项\n　ふくこう(腹腔):腹腔\n　ふくきょう:干扰项",
+                "rightCount": 6,
+                "wrongCount": 2,
+                "rightTime": 1782032650018,
+                "wrongTime": 1773288491429,
+                "lastAnswerNo": 1,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-文字・語彙-1-3",
+              "questionNo": 3,
+              "question": "書類の確認を【怠った】ために、問題が生じた。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "いつわった",
+                "ためらった",
+                "あやまった",
+                "おこたった"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 4,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(4)\n　解析:因为在文件的检查上有了疏漏，所以产生了问题。\n　いつわる(偽る):说谎，假冒\n　ためらう(躊躇う):踌躇，犹豫\n　あやまる(謝る):道歉，赔礼\n　おこたる(怠る):懒惰，疏漏，疏忽",
+                "rightCount": 7,
+                "wrongCount": 1,
+                "rightTime": 1782032650017,
+                "wrongTime": 1771763739604,
+                "lastAnswerNo": 4,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-文字・語彙-1-4",
+              "questionNo": 4,
+              "question": "本人の【了承】を得て、写真を掲載した。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "りょうしゅう",
+                "ろうしょう",
+                "りょうしょう",
+                "ろうしゅう"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 3,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(3)\n　解析:得到了本人的同意，登了照片。\n　りょうしゅう(領収):收到\n　ろうしょう(朗誦):朗诵\n　りょうしょう(了承):理解，同意\n　ろうしゅう(陋習):陋习，恶习",
+                "rightCount": 6,
+                "wrongCount": 2,
+                "rightTime": 1782032650016,
+                "wrongTime": 1775793181656,
+                "lastAnswerNo": 3,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-文字・語彙-1-5",
+              "questionNo": 5,
+              "question": "あの人はいつもあれこれ【指図】をする。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "さしじ",
+                "さしず",
+                "しず",
+                "しじ"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 2,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(2)\n　解析:那个人经常指指点点。\n　さしじ:干扰项\n　さしず(指図):指示\n　しず(静):【接头/接尾】表示安静，心情平静\n　しじ(支持):支持",
+                "rightCount": 5,
+                "wrongCount": 3,
+                "rightTime": 1782032650015,
+                "wrongTime": 1775793181655,
+                "lastAnswerNo": 2,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-文字・語彙-1-6",
+              "questionNo": 6,
+              "question": "友人と東京の名所を【巡り】、旅を満喫した。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "さぐり",
+                "たどり",
+                "めぐり",
+                "ねばり"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 3,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(3)\n　解析:和朋友游玩了东京的景点，充分享受了旅行。\n　さぐり(探り):探索\n　たどり(辿り):追溯，查找\n　めぐり(巡り):巡游，历访\n　ねばり(粘り):韧性，粘性",
+                "rightCount": 8,
+                "wrongCount": 0,
+                "rightTime": 1782032650014,
+                "wrongTime": 0,
+                "lastAnswerNo": 3,
+                "fav": false
+              }
+            }
+          ]
+        },
+        {
+          "bigTitle": "(&nbsp;)に入れるのに最もよいものを、1・2・3・4&nbsp;から一つ選びなさい",
+          "bigQuestionNo": 2,
+          "questions": [
+            {
+              "questionId": "n1-2017.12-文字・語彙-2-7",
+              "questionNo": 7,
+              "question": "小型カメラの国内市場では、弊社が20パーセントの()を占めています。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "レート",
+                "レベル",
+                "ランク",
+                "シェア"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 4,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(4)\n　解析:我司的小型相机在国内市场中占20%的份额。\n　(1)レート:汇率\n　(2)レベル:水平\n　(3)ランク:排名\n　(4)シェア:份额",
+                "rightCount": 1,
+                "wrongCount": 7,
+                "rightTime": 1771763739600,
+                "wrongTime": 1782032650013,
+                "lastAnswerNo": 1,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-文字・語彙-2-8",
+              "questionNo": 8,
+              "question": "転勤の意向を上司からそれとなく()されたが、返答に迷っている。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "自問",
+                "打診",
+                "試行",
+                "探索"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 2,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(2)\n　解析:上司委婉地试探着问了我调动工作的意向，我不知道如何回复。\n　(1)自問(じもん):自问\n　(2)打診(だしん):试探，探问\n　(3)試行(しこう):试行\n　(4)探索(たんさく):探索",
+                "rightCount": 7,
+                "wrongCount": 1,
+                "rightTime": 1782032650012,
+                "wrongTime": 1771763739599,
+                "lastAnswerNo": 2,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-文字・語彙-2-9",
+              "questionNo": 9,
+              "question": "新しい上司は、元警察官という()の持ち主だ。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "由来",
+                "経路",
+                "経歴",
+                "従来"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 3,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(3)\n　解析:新上司有着做警察的经历。\n　(1)由来(ゆらい):来历，由来\n　(2)経路(けいろ):路径，路线\n　(3)経歴(けいれき):经历，履历\n　(4)従来(じゅうらい):过去，从前",
+                "rightCount": 8,
+                "wrongCount": 0,
+                "rightTime": 1782032650011,
+                "wrongTime": 0,
+                "lastAnswerNo": 3,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-文字・語彙-2-10",
+              "questionNo": 10,
+              "question": "布のバッグは水が染み込みやすいが、このバッグは水を()素材で作られているので、雨の日も安心だ。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "はじく",
+                "そらす",
+                "さける",
+                "こばむ"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 1,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(1)\n　解析:布包容易被水浸湿，但是这个包是由防水的材料制成的，雨天也可以安心使用。\n　(1)はじく(弾く):排斥，防，抗\n　(2)そらす(逸らす):岔开，偏离\n　(3)さける(避ける):避开，回避\n　(4)こばむ(拒む):阻挡，阻止",
+                "rightCount": 5,
+                "wrongCount": 3,
+                "rightTime": 1782032650010,
+                "wrongTime": 1775793181650,
+                "lastAnswerNo": 1,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-文字・語彙-2-11",
+              "questionNo": 11,
+              "question": "今回の活動の趣旨は、この団体の設立目的から大きく()している。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "脱退",
+                "逸脱",
+                "分散",
+                "拡散"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 2,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(2)\n　解析:这次活动的宗旨，严重脱离了这个团体设立的目的。\n　(1)脱退:退出，脱离(组织，团体等)\n　(2)逸脱:越出，脱离(主题，中心等)\n　(3)分散:分散，散开\n　(4)拡散:扩散",
+                "rightCount": 7,
+                "wrongCount": 1,
+                "rightTime": 1781950419992,
+                "wrongTime": 1782032650009,
+                "lastAnswerNo": 1,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-文字・語彙-2-12",
+              "questionNo": 12,
+              "question": "インターネットを使えば、様々な情報を()簡単に入手できる。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "あえて",
+                "いっそ",
+                "せめて",
+                "いとも"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 4,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(4)\n　解析:如果使用网络，就能非常容易获得各种各样的情报。\n　(1)あえて:敢于，硬要\n　(2)いっそ:干脆，宁可\n　(3)せめて:起码，至少，总算\n　(4)いとも:非常，十分",
+                "rightCount": 4,
+                "wrongCount": 4,
+                "rightTime": 1782032650008,
+                "wrongTime": 1781950419991,
+                "lastAnswerNo": 4,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-文字・語彙-2-13",
+              "questionNo": 13,
+              "question": "河原の石は形も大きさも()で、同じものが一つもないように見えた。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "ごろごろ",
+                "まちまち",
+                "ぐらぐら",
+                "ぬるぬる"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 2,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(2)\n　解析:这条河的河滩上的石头形状和大小各有不同，看起来没有两个是一样的。\n　(1)ごろごろ:雷的轰鸣声;滚动的样子\n　(2)まちまち:各式各样，形形色色\n　(3)ぐらぐら:摇晃，摇摆，不稳定\n　(4)ぬるぬる:黏滑地",
+                "rightCount": 7,
+                "wrongCount": 1,
+                "rightTime": 1782032650007,
+                "wrongTime": 1771763739594,
+                "lastAnswerNo": 2,
+                "fav": false
+              }
+            }
+          ]
+        },
+        {
+          "bigTitle": "の言葉に意味が最も近いものを、1・2・3・4&nbsp;から一つ選びなさい。",
+          "bigQuestionNo": 3,
+          "questions": [
+            {
+              "questionId": "n1-2017.12-文字・語彙-3-14",
+              "questionNo": 14,
+              "question": "松本氏は自身のブログで【抱負】を述べていた。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "見解",
+                "感謝",
+                "反省",
+                "決意"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 4,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(4)\n　解析:松本先生在自己的博客中讲述了自己的抱负。\n　抱負:心中的决心和理想\n　(1)見解:见解，看法\n　(2)感謝:感谢\n　(3)反省:反省\n　(4)決意:决心，决意",
+                "rightCount": 8,
+                "wrongCount": 0,
+                "rightTime": 1782032650006,
+                "wrongTime": 0,
+                "lastAnswerNo": 4,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-文字・語彙-3-15",
+              "questionNo": 15,
+              "question": "あのころは、暮らしに【ゆとり】があった。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "目標",
+                "活気",
+                "余裕",
+                "知恵"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 3,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(3)\n　解析:那个时候生活比较宽裕。\n　ゆとり:宽裕，余地，轻松\n　(1)目標:目标\n　(2)活気:活力，生机\n　(3)余裕:充裕，从容，富余\n　(4)知恵:智慧，主意，办法",
+                "rightCount": 7,
+                "wrongCount": 1,
+                "rightTime": 1782032650005,
+                "wrongTime": 1773288491416,
+                "lastAnswerNo": 3,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-文字・語彙-3-16",
+              "questionNo": 16,
+              "question": "出荷台数は【若干】伸びている。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "いまだに",
+                "わずかに",
+                "つねに",
+                "さらに"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 2,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(2)\n　解析:发货数量增加了少许。\n　若干:少许，有些\n　(1)いまだに:仍然，还(多接否定语)\n　(2)わずかに:少许，一些\n　(3)つねに:平时，常常地，总是\n　(4)さらに:更加，愈发，再",
+                "rightCount": 7,
+                "wrongCount": 1,
+                "rightTime": 1782032650004,
+                "wrongTime": 1771763739591,
+                "lastAnswerNo": 2,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-文字・語彙-3-17",
+              "questionNo": 17,
+              "question": "その議員は議会での発言を【撤回】した。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "とりけした",
+                "訂正した",
+                "くりかえした",
+                "省略した"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 1,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(1)\n　解析:那个议员撤销了在议会中的发言。\n　撤回:撤销，撤回\n　(1)とりけした:撤销，取消，作废\n　(2)訂正した:订正\n　(3)くりかえした:重复\n　(4)省略した:省略",
+                "rightCount": 4,
+                "wrongCount": 4,
+                "rightTime": 1782032650003,
+                "wrongTime": 1781950419986,
+                "lastAnswerNo": 1,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-文字・語彙-3-18",
+              "questionNo": 18,
+              "question": "あの二人はいつも【張り合って】いる。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "見つめ合って",
+                "助け合って",
+                "競い合って",
+                "傷つけ合って"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 3,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(3)\n　解析:那两个人总是在竞争。\n　張り合っている:竞争，争持，争夺\n　(1)見つめ合って:互相注视\n　(2)助け合って:互相帮助\n　(3)競い合って:互相竞争\n　(4)傷つけ合って:互相伤害",
+                "rightCount": 2,
+                "wrongCount": 6,
+                "rightTime": 1782032650002,
+                "wrongTime": 1781950419985,
+                "lastAnswerNo": 3,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-文字・語彙-3-19",
+              "questionNo": 19,
+              "question": "中村(なかむら)氏の【かたくな】態度は変わらなかった。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "冷静な",
+                "頑固な",
+                "強引な",
+                "真剣な"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 2,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(2)\n　解析:中村先生固执的态度没有变过。\n　かたくな:顽固，固执的\n　(1)冷静な:冷静的\n　(2)頑固な:顽固的\n　(3)強引な:强行的，强硬的\n　(4)真剣な:认真的",
+                "rightCount": 8,
+                "wrongCount": 0,
+                "rightTime": 1782032650001,
+                "wrongTime": 0,
+                "lastAnswerNo": 2,
+                "fav": false
+              }
+            }
+          ]
+        },
+        {
+          "bigTitle": "次の言葉の使い方として最もよいものを、1・2・3・4&nbsp;から一つ選びなさい。",
+          "bigQuestionNo": 4,
+          "questions": [
+            {
+              "questionId": "n1-2017.12-文字・語彙-4-20",
+              "questionNo": 20,
+              "question": "重複",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "私は、努力を惜しまず何度も【重複】して覚えることで、記憶を定着させた。",
+                "大量のデータの中には【重複】しているものもあり、早急に整理が必要だった。",
+                "健康に自信があっても、無理が【重複】すれば体を壊してしまいますよ。",
+                "開園を待つ人の列が、驚くほど【重複】して入場ゲートの前にできていた。"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 2,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(2)\n　解析:重複:重复，重合，重叠(指多个同样的事物)\n　(1)私は、努力を惜しまず何度も重複して(反復して・繰り返して)覚えることで、記憶を定着させた。\n我不遗余力地反复记忆，以此来巩固记忆。\n　(2)大量的数据中有重复的内容，有必要尽快整理。\n　(3)健康に自信があっても、無理が重複すれば(重なれば)体を壊してしまいますよ。\n即使对自己的身体健康有信心，如果过度勉强，也会搞坏身体的。\n　(4)開園を待つ人の列が、驚くほど重複して(伸びて)入場ゲートの前にできていた。\n等待开园的队伍，排队都延伸到入场大门前了，太吓人了。",
+                "rightCount": 8,
+                "wrongCount": 0,
+                "rightTime": 1782032650000,
+                "wrongTime": 0,
+                "lastAnswerNo": 2,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-文字・語彙-4-21",
+              "questionNo": 21,
+              "question": "拠点",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "うわさの【拠点】を追究しても、なにも解決はしないだろう。",
+                "日本近代文学の【拠点】となった作品として、この小説は高く評価された。",
+                "この都市は、広場を【拠点】にして道が放射状に伸びている。",
+                "A社は、地元の京都を【拠点】に全国各地でビジネスを展開している。"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 4,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(4)\n　解析:拠点:基地，据点\n　(1)うわさの拠点(源)を追究しても、なにも解決はしないだろう。\n　(2)日本近代文学の拠点(原点)となった作品として、この小説は高く評価された。\n　(3)この都市は、広場を拠点(中心)にして道が放射状に伸びている。\n　(4)A公司以所在城市京都为据点，向全国各地发展业务。",
+                "rightCount": 7,
+                "wrongCount": 1,
+                "rightTime": 1782032649999,
+                "wrongTime": 1771763739586,
+                "lastAnswerNo": 4,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-文字・語彙-4-22",
+              "questionNo": 22,
+              "question": "真っ先",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "リーダーに適した人として、【真っ先】に私の頭に浮かんだのは石川(いしかわ)さんだった。",
+                "次のテストではクラスで【真っ先】になれるように頑張って勉強しようと思う。",
+                "先ほどお配りした資料の【真っ先】にあるグラフをご覧ください。",
+                "目が悪いので、教室の【真っ先】に座らないと、黒板の字がよく読めない。"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 1,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(1)\n　解析:真っ先:最先，首先，最前面\n　(1)最适合领导者的人选，我脑海中最先浮现的人是石川先生。\n　(2)次のテストではクラスで真っ先(トップ)になれるように頑張って勉強しようと思う。\n　(3)先ほどお配りした資料の真っ先(最初)にあるグラフをご覧ください。\n　(4)目が悪いので、教室の真っ先(一番前)に座らないと、黒板の字がよく読めない。",
+                "rightCount": 6,
+                "wrongCount": 2,
+                "rightTime": 1782032649998,
+                "wrongTime": 1781950419981,
+                "lastAnswerNo": 1,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-文字・語彙-4-23",
+              "questionNo": 23,
+              "question": "緊密",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "空港の滑走路を増設したことで、航空機の発着がますます【緊密】になった。",
+                "今日の講演会は参加者が多く、会場の体育館には【緊密】にいすが並べられた。",
+                "この二つの単語は意味が【緊密】に使い分けられているので、習得が難しい。",
+                "この地区では子どもの安全を守るため、学校と地域が【緊密】に協力している。"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 4,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(4)\n　解析:緊密:紧密，密切\n　(1)空港の滑走路を増設したことで、航空機の発着がますます緊密(頻繁)になった。\n　(2)今日の講演会は参加者が多く、会場の体育館には緊密に(ぎっしり)いすが並べられ\n　た。\n　(3)この二つの単語は意味が緊密(微細)に使い分けられているので、習得が難しい。\n　(4)在这个地区，学校和地区密切合作，保证孩子的安全。",
+                "rightCount": 7,
+                "wrongCount": 1,
+                "rightTime": 1782032649997,
+                "wrongTime": 1771763739584,
+                "lastAnswerNo": 4,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-文字・語彙-4-24",
+              "questionNo": 24,
+              "question": "遂げる",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "この町は、近年の再開発により、驚くような変化を【遂げた】。",
+                "指定の口座に入金した時点で、正式な契約が【遂げら】れる。",
+                "池田(いけだ)さんは若手だが、担当部署で重要な責任を【遂げて】いる。",
+                "業者の話では、来月末には駅前の工事を【遂げる】予定らしい。"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 1,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(1)\n　解析:遂げる:完成(任务)，达成(目标)，最终形成(某种结果)\n　(1)这个小镇由于近年的重新开发，有着相当惊人的变化。\n　(2)指定の口座に入金した時点で、正式な契約が遂げられる(発効する)。\n　(3)池田さんは若手だが、担当部署で重要な責任を遂げて(担って)いる。\n　(4)業者の話では、来月末には駅前の工事を遂げる(完了する)予定らしい。",
+                "rightCount": 2,
+                "wrongCount": 6,
+                "rightTime": 1782032649996,
+                "wrongTime": 1781950419979,
+                "lastAnswerNo": 1,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-文字・語彙-4-25",
+              "questionNo": 25,
+              "question": "うなだれる",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "ビルの最上階の窓から【うなだれる】と、あまりの高さに恐怖を感じた。",
+                "昨日の会議では、皆、部長の話に納得し力強く【うなだれて】いた。",
+                "姉は知らせを聞いてがっかりしたのか、【うなだれて】顔を上げなかった。",
+                "何か踏んだような気がしたので、思わず【うなだれて】足元を見た。"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 3,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(3)\n　解析:うなだれる:(因为悲观，失望，担心等)低头，垂头\n　(1)ビルの最上階の窓からうなだれる(見下ろす)と、あまりの高さに恐怖を感じた。\n　(2)昨日の会議では、皆、部長の話に納得し力強くうなだれて(うなずいて)いた。\n　(3)姐姐听了那个消息后，很失望，低下了头。\n　(4)何か踏んだような気がしたので、思わずうなだれて(うつむいて)足元を見た。",
+                "rightCount": 6,
+                "wrongCount": 2,
+                "rightTime": 1782032649995,
+                "wrongTime": 1773288491406,
+                "lastAnswerNo": 3,
+                "fav": false
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partName": "文法",
+      "bigQuestionBeans": [
+        {
+          "bigTitle": "次の文の()に入れるのに最もよいものを、1・2・3・4&nbsp;から一つ選びなさい。",
+          "bigQuestionNo": 5,
+          "questions": [
+            {
+              "questionId": "n1-2017.12-文法-5-26",
+              "questionNo": 26,
+              "question": "X陶芸美術館が25日、Y市に開館する。同美術館ではこれ()、23日に関係者を招いて記念式典を行った。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "に先立ち",
+                "に次ぎ",
+                "につけ",
+                "につれ"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 1,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(1)\n　解析:X陶艺美术馆25号在Y市开馆。在此之前已于23日在该美术馆邀请相关人员举行纪念仪式。\n　~に先立ち:表示在...之前\n　に次ぎ:继...之后\n　につけ:只要一...(自然就会)...\n　につれ:随着…",
+                "rightCount": 4,
+                "wrongCount": 1,
+                "rightTime": 1782033536168,
+                "wrongTime": 1777970860353,
+                "lastAnswerNo": 1,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-文法-5-27",
+              "questionNo": 27,
+              "question": "水泳の水川陽(みずかわよう)選手。父親が有名な水泳選手である()、彼は周囲からの大きなプレッシャーに苦しんできたが、それを乗り越え、見事オリンピック出場を決めた。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "かというと",
+                "がゆえに",
+                "といえば",
+                "ように"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 2,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(2)\n　解析:正因为水川阳的父亲是有名的游泳选手，所以他一直以来承受着周围的很大的压力，但是他跨过这些难关，顺利地获得了奥运会的参赛资格。通过理解4个选项会发现，选项(2)是最为符合句意的，虽然整句话后半句是转折，但是前半句话中是在描述一种合理的因果关系，故选择选项(2)。\n　~かというと:如果要说......\n　~がゆえに:正因为\n　~といえば:如果说起......\n　~ように:像是......",
+                "rightCount": 5,
+                "wrongCount": 0,
+                "rightTime": 1782033536167,
+                "wrongTime": 0,
+                "lastAnswerNo": 2,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-文法-5-28",
+              "questionNo": 28,
+              "question": "姉「あれ?出かけるの?」\n妹「うん、ちょっと新宿(しんじゅく)まで。」\n姉「あ、新宿(しんじゅく)に()、帰りにみるく屋のチーズケーキ、買ってきてくれない?」\n妹「うん、いいよ。」",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "行くと",
+                "行けば",
+                "行ってたら",
+                "行くんなら"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 4,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(4)\n　姐姐:诶?要出去?\n　妹妹:嗯，要去一下新宿。姐姐:要去新宿的话，回来的时候可以到“牛奶屋”给我捎个芝士蛋糕回来么?\n　妹妹:嗯，可以的。\n　(1)行くと:一去...的话，就...(后面表示必然情况)\n　(2)行けば:如果去(后项表示因果关系)\n　(3)行ってたら:干扰项\n　(4)行くんなら:如果要去的话",
+                "rightCount": 3,
+                "wrongCount": 2,
+                "rightTime": 1782033536166,
+                "wrongTime": 1779113557639,
+                "lastAnswerNo": 4,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-文法-5-29",
+              "questionNo": 29,
+              "question": "5年前に植えた校庭の桜が、今年初めて花を()。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "咲いた",
+                "咲いている",
+                "咲かせた",
+                "咲くだろう"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 3,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(3)\n　解析:5年前在学校院子里种的樱花树，今年终于开花了。这题主要是注意助词「を」，由于「咲く」本身是一个自动词，所以4个选项中只有选项(3)的使役形式能够接在助词「を」后面。",
+                "rightCount": 4,
+                "wrongCount": 1,
+                "rightTime": 1782033536165,
+                "wrongTime": 1777970860350,
+                "lastAnswerNo": 3,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-文法-5-30",
+              "questionNo": 30,
+              "question": "(社内メールで)\n営業部各位\n第三回プレゼン勉強会を開催します。参加希望者は1月15日までに、人事課村田(むらた)までお知らせ()。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "いたします",
+                "なさいます",
+                "願います",
+                "申し上げます"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 3,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(3)\n　解析:(邮件)营业部各位。我们将要举办第三次企划学习会。想要参加的请在1月15日之前，通知人事课的村田。由于是公司内部的邮件，所以首先需要一个尊敬的表达，其次，由于是拜托他人办事，所以只有选项(3)是表示拜托的。\n　お~いたします:自谦语，表示自己做......\n　お~なさいます:与お〜になる相似，是一种尊他表达方式。\n　お~願います:拜托别人做......\n　申し上げます:「言う」的自谦语",
+                "rightCount": 0,
+                "wrongCount": 5,
+                "rightTime": 0,
+                "wrongTime": 1782033536164,
+                "lastAnswerNo": 1,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-文法-5-31",
+              "questionNo": 31,
+              "question": "悩んでいるときは、信頼できる誰かに話を聞いてもらうといい。話すことで自分の考えも整理でき、解決には至らない()、気持ちが楽になるだろう。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "ほどでは",
+                "ほどを",
+                "までも",
+                "までもが"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 3,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(3)\n　解析:烦恼的时候，可以和值得信赖的人说说话。说说话能够让自己的思绪整理清楚，虽然不能实际解决问题，但是心情会轻松许多。本题通过理解句意能够发现，需要一个逆接来连接空格前后，选项(3)本身就已经自带逆接，不需要再加上「が」。\n　~ないまでも:表示:即使不......也。相当于「~にしても」。",
+                "rightCount": 4,
+                "wrongCount": 1,
+                "rightTime": 1782033536163,
+                "wrongTime": 1777970860348,
+                "lastAnswerNo": 3,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-文法-5-32",
+              "questionNo": 32,
+              "question": "(テレビ番組で)\n司会「きちんと手を()、指の間などに意外に汚れが残っていることも多いのです。そこで今日は正しい手の洗い方をご紹介します。」",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "洗えるとは",
+                "洗えるとのことで",
+                "洗ったつもりだし",
+                "洗ったつもりでも"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 4,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(4)\n　解析:(在电视节目中)主持人:“虽然自认为已经把手好好洗过了，但是在手指缝等地方经常会意外地留下很多脏东西。所以，今天我来为大家介绍一下正确的洗手方式。”由后文的「意外に」能得知，前文应当是说“好好洗过手”这样的意思，但是实际却和前文相反，才会出现后文的「意外に」。所以，选项(4)能够表达这样的意思。\n　~たつもり:就当做，以为是......样\n　~とのことだ:表传闻",
+                "rightCount": 5,
+                "wrongCount": 0,
+                "rightTime": 1782033536162,
+                "wrongTime": 0,
+                "lastAnswerNo": 4,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-文法-5-33",
+              "questionNo": 33,
+              "question": "今日は朝から胃の調子が悪い。夜中にラーメンなんか()。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "食べるんじゃなかった",
+                "食べられるんじゃなかった",
+                "食べたんじゃなかった",
+                "食べられたんじゃなかった"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 1,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正解:(1)\n　解析:今天从早上开始胃就不舒服。果然就不该在半夜吃什么拉面。\n　~するんじゃない:不该......",
+                "rightCount": 2,
+                "wrongCount": 3,
+                "rightTime": 1782033536161,
+                "wrongTime": 1781951558670,
+                "lastAnswerNo": 1,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-文法-5-34",
+              "questionNo": 34,
+              "question": "近年、世界的な人口増加により、将来の水不足への関心は急激に()。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "高まりつつある",
+                "高める見込みだ",
+                "高まるケースだ",
+                "高めることを余儀なくさせた"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 1,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(1)\n　解析:近年来世界人口的增加，导致对于将来用水不足问题的关注急剧上升。关注度上升理应是一个自动词的表达，并非人为使它上升，所以可以排除(2)和(4)，剩下(1)和(3)中，「ケース」这个词是表示某个事件的意思，和句意不符。\n　つつある:不断...",
+                "rightCount": 4,
+                "wrongCount": 1,
+                "rightTime": 1782033536160,
+                "wrongTime": 1781951558669,
+                "lastAnswerNo": 1,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-文法-5-35",
+              "questionNo": 35,
+              "question": "昨日午後2時ごろ、X市の一部地域で、約400世帯が停電した。ABC電力は、工事中のクレーン車が電線に接触したのが原因()。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "になっている",
+                "としている",
+                "にある",
+                "とある"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 2,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(2)\n　解析:昨日下午2点左右，在X市的一部分地区，约400户人家停电。ABC电力认为是施工中的吊车接触到电线的原因。这题的关键在于:前文有「ABC電力は」这个大主语，所以后面需要该大主语的一个动作，才能很好描述ABC电力到底干了什么这个意思，选项(1)、(3)、(4)都是自动词或无意志动词，只有选项(2)可以表达“ABC电力认为......是原因”。\n　~としている:认为......",
+                "rightCount": 2,
+                "wrongCount": 3,
+                "rightTime": 1782033536159,
+                "wrongTime": 1781951558668,
+                "lastAnswerNo": 2,
+                "fav": false
+              }
+            }
+          ]
+        },
+        {
+          "bigTitle": "次の文の&nbsp;★&nbsp;に入る最もよいものを、1・2・3・4&nbsp;から一つ選びなさい。",
+          "bigQuestionNo": 6,
+          "questions": [
+            {
+              "questionId": "n1-2017.12-文法-6-36",
+              "questionNo": 36,
+              "question": "「乗りかかった船」ということわざは、乗った船が岸を離れれば途中で降りることができない--+★+--+--ことのたとえである。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "物事を始めてしまった",
+                "ことから",
+                "途中でやめるわけにはいかない",
+                "以上"
+              ],
+              "optionCount": 4,
+              "qaType": 5,
+              "rightAnswer": 1,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(1)\n　解析:「乗りかかった船」ということわざは、乗った船が岸を離れれば途中で降りることができない(2)ことから★(1)物事を始めてしまった(4)以上(3)途中でやめるわけにはいかない。“上了不能下的船(骑虎难下)”这个谚语是说“乘上去的船一旦行驶离了岸边，就不能在中途下船”。从这个意思中衍生出“既然开始了一件事情就不能半途而废”的意思。\n　要点:关键点在于「ことから」，表示“由此;由某事推导出......”的意思。通过看选项(1)和(3)应该不难发现，要我们排列组合的句子理应是对于前文“骑虎难下”的翻译。所以「ことから」应该放在第一个空，而接下来的第二个要点是「以上」意思是:既然......，通过理解选项(1)和(3)会从逻辑上判断出，「以上」前是(1)，后是(3)，所以正确顺序是(2)(1)(4)(3)，星号处应该填选项(1)。",
+                "rightCount": 2,
+                "wrongCount": 2,
+                "rightTime": 1782033536158,
+                "wrongTime": 1781951558667,
+                "lastAnswerNo": 1,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-文法-6-37",
+              "questionNo": 37,
+              "question": "年をとって人生を振り返った時に--+★+--+--したくない。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "生き方は",
+                "あの時ああしていたら",
+                "後悔するような",
+                "もっと素晴らしい人生を送れていたはずと"
+              ],
+              "optionCount": 4,
+              "qaType": 5,
+              "rightAnswer": 4,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(4)\n　解析:年をとって人生を振り返った時に(2)あのときああしていたら★(4)もっとすばらしい人生を送れていたはずと(3)後悔するような(1)生き方はしたくない。我不想等上了年纪后回首过往，才感到追悔莫及。后悔自己在过去的某个时候，为什么没有做出另一个选择，失去了本应更加精彩的人生。\n　要点:关键点在「と」这一点，此处的「と」是表示动作作用的内容之意，所以有动词表达的只有选项(2)和(3)，但是选项(2)中我们发现「していたら」的内容应当是「ああ」，所以只有选项(3)的「後悔する」能够接在「と」之后表示后悔的内容，所以前三个空应该填(2)(4)(3)，再由于选项(3)的「~ような」后面只能够接名词，所以理应接续(1)，所以正确顺序为(2)(4)(3)(1)，星号处应该是选项(4)。",
+                "rightCount": 4,
+                "wrongCount": 0,
+                "rightTime": 1782033536157,
+                "wrongTime": 0,
+                "lastAnswerNo": 4,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-文法-6-38",
+              "questionNo": 38,
+              "question": "NPO法人「音楽の夢」では、音楽を通じたさまざまな教育プロジェクトを展開していくことに--+--+★+--活動をしています。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "目的に",
+                "豊かな社会の実現に寄与する",
+                "ことを",
+                "よって"
+              ],
+              "optionCount": 4,
+              "qaType": 5,
+              "rightAnswer": 3,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(3)\n　解析:NPO法人「音楽の夢」では、音楽を通じたさまざまな教育プロジェクトを展開していくことに(4)よって(2)豊かな社会の実現に寄与する★(3)ことを(1)目的に活動をしています。NPO法人「音乐之梦」的活动宗旨是，通过开展多样化的音乐教育项目，为实现社会的丰富多彩作贡献。\n　要点:看到选项中有「よって」就应该可以联想到「によって」这个句型，并且如果组成「目的によって」，则会发现开头的「~ことに」并无可接续之处，所以「よって」放在开头。另外选项中有「を」和「目的に」则可以想到句型「~を目的に」。所以后面的两个空则是(3).(1)。因此正确顺序就是(4)(2)(3)(1)，星号处应该填选项(3)。",
+                "rightCount": 3,
+                "wrongCount": 1,
+                "rightTime": 1782033536156,
+                "wrongTime": 1779113557629,
+                "lastAnswerNo": 3,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-文法-6-39",
+              "questionNo": 39,
+              "question": "今は、一学年5クラスもある北森川(きたもりかわ)小学校だが--+--+★+--危機感があった。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "存続は難しい",
+                "のでは",
+                "という",
+                "かつては少子化で"
+              ],
+              "optionCount": 4,
+              "qaType": 5,
+              "rightAnswer": 2,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(2)\n　解析:今は、一学年5クラスもある北森川小学校だが(4)かつては少子化で(1)存続は難しい★(2)のでは(3)という危機感があった。\n　如今的北森川小学光一个年级就有5个班，然而在过去，它却曾因社会少子化而陷入过难以存续的危机。\n　要点:整题最难之处在于「のでは」，这里的「のでは」应该理解为「のではないか」，比如「ここが間違っているのでは?」这样的句子就是表达「のではないか」的意思，它可以做简体句的句尾。所以其后面应该接「という」构成一个连体修饰句。另外，选项(4)「かつては少子化で」中的「で」应该是表示原因，而选项(1)则是其结果。所以正确顺序是(4)(1)(2)(3)，星号处应该是选项(2)。",
+                "rightCount": 1,
+                "wrongCount": 3,
+                "rightTime": 1782033536155,
+                "wrongTime": 1781951558664,
+                "lastAnswerNo": 2,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-文法-6-40",
+              "questionNo": 40,
+              "question": "県立高校の校長が、同校に在学する知人の娘の成績証明書を偽造したことが明らかになり、教育関係者からは--+--+--+★と怒りの声が上がった。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "教育現場の長",
+                "行為",
+                "あるまじき",
+                "として"
+              ],
+              "optionCount": 4,
+              "qaType": 5,
+              "rightAnswer": 2,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(2)\n　解析:県立高校の校長が、同校に在学する知人の娘の成績証明書を偽造したことが明らかになり、教育関係者からは(1)教育現場の長(4)として(3)あるまじき★(2)行為と怒りの声が上がった。\n　县立高中的校长被发现为在该校就读的熟人女儿伪造成绩单，教育从事者对此愤慨不已，表示这不该是教育第一线的领头人应有的行为。\n　要点:理解「あるまじき」的含义为“不应该”是最主要的，接着「あるまじき行為」;「あるまじき発言」等是比较常用的句型，而「として」的意思是“作为......”。所以能得出结论:「教育現場の長」和「として」应该是连在一起的，所以正确顺序是(1)(4)(3)(2)，星号处应该是选项(2)。",
+                "rightCount": 2,
+                "wrongCount": 2,
+                "rightTime": 1782033536154,
+                "wrongTime": 1781951558663,
+                "lastAnswerNo": 2,
+                "fav": false
+              }
+            }
+          ]
+        },
+        {
+          "bigTitle": "次の文書を読んで、文章全体の趣旨を踏まえて、(&nbsp;41&nbsp;)から(&nbsp;45&nbsp;)の中に入&nbsp;る最もよいものを、1・2・3・4・から一つ選びなさい。",
+          "bigQuestionNo": 7,
+          "questions": [
+            {
+              "questionId": "n1-2017.12-文法-7-41",
+              "questionNo": 41,
+              "question": "",
+              "subQuestion": null,
+              "passage": "　以下は、小説『望月青果店』(小手鞠るい著)についての書評である。\n　思春期の頃ころ、母親の存在を疎うとましく(注1)思った。初めて恋をした頃ころだった。恋するという感情が嬉うれしいような恐ろしいような気がしていて、何かのせいにしたかったのだと思う。自分の中には母親と同じ血が流れていて、だから恋なんかするんだ、全てお母さんのせいなのだと変な理屈で恋心を納得させようとしていた。\n　本書の主人公・鈴子(すずこ)<b>(&nbsp;41&nbsp;)</b>母親は天敵のような存在で、母からいつも逃げたいと思っていた。そして結婚に猛反対した母を捨てるような気持ちで誠一郎(せいいちろう)と一緒になったのだ。50代になった鈴子は、盲目の夫・誠一郎(せいいちろう)と盲導犬の茶々(ちゃちゃ)とアメリカでペンションを経営しながら穏やかな日々を過ごしている。<b>(&nbsp;42&nbsp;)</b>、小さな青果店を営む岡山の実家から母親の体調が悪いことを知らされ、5年ぶりの里帰り(注2)を計画するのだが、大雪による停電が続き里帰りは危ぶまれる。停電の中で様々な過去の記憶が甦(よみがえ)る。母との確執、初恋の人・隆史(たかし)と交わした約束......。\n　過去の記憶を過ぎたことと忘れてしまえればどんなに楽かと<b>(&nbsp;43&nbsp;)</b>。記憶は塗り変えることが出来ないから厄介で、いつまでも胸を締め付ける。思春期の頃(ころ)に母親に投げかけた酷い言葉がふとした時に生々しく心の中に甦(よみがえ)って居たたまれないような気持ちになる(注3)ことがある。\n　<b>(&nbsp;44&nbsp;)</b>、記憶は塗り変えられないけれど、新しい記憶を育むことは出来る。停電の中で鈴子(すずこ)は、結婚前に再会した隆史(たかし)が時間を超えて果たしてくれた約束を思い出す。それは、母から誠一郎(せいいちろう)へと旅立つ鈴子の背中を強引に押してくれた。誰にも言えない秘密の思い出だった。記憶は人の心を締め付けることも温めることも出来る。誠一郎(せいいちろう)との暮らしの中で育まれてゆく静かで豊かな幸福な時間は、鈴子の母への思いを少しずつ和らげてくれる。物語の最後で交わされる母娘の電話の会話はとても可愛(かわい)くて微笑(ほほえ)ましかった。本を閉じた後、<b>(&nbsp;45&nbsp;)</b>車を実家に走らせた。\n　(注1)疎(うと)ましい:いやな感じがして避けたい\n　(注2)里帰り:実家に帰ること\n　(注3)居たたまれないような気持ちになる:ここでは、落ち着いた気持ちでいられなくなる",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "ではないが",
+                "と同じく",
+                "とは違って",
+                "にとっても"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 4,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(4)\n　解析:前文是书评作者对自己青春期时对母亲的看法，作者在青春期谈恋爱的时候讨厌母亲。接下来的后文讲的是书中主人公玲子曾经很想逃离母亲，可见作者与玲子之间有相同的经历。因此正确选项是选项(4)「にとっても」，要表达的意思应该是“对于玲子来说，母亲同样像是自己的天敌一般”。\n　(1)ではないが:不是......\n　(2)と同じく:和......一样\n　(3)とは違って:和......不同",
+                "rightCount": 1,
+                "wrongCount": 3,
+                "rightTime": 1779166644073,
+                "wrongTime": 1782033536153,
+                "lastAnswerNo": 1,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-文法-7-42",
+              "questionNo": 42,
+              "question": "",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "ある日",
+                "あの日に",
+                "こうして",
+                "そうやって"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 1,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(1)\n　解析:有一天，从经营蔬果店的冈山老家，传来母亲身体不好的消息。\n　(1)ある日:有一天\n　(2)あの日に:在那一天\n　(3)こうして:如此，这样\n　(4)そうやって:照那样做\n　首先根据意思可以排除选项(3)和(4)。另外前文并没有表述到某一天的具体情境，因此“在那一天”无法与前文衔接，排除。",
+                "rightCount": 4,
+                "wrongCount": 0,
+                "rightTime": 1782033536152,
+                "wrongTime": 0,
+                "lastAnswerNo": 1,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-文法-7-43",
+              "questionNo": 43,
+              "question": "",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "よく思う",
+                "よく思うらしい",
+                "思った場合だ",
+                "思っただけだ"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 1,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(1)\n　解析:上一段描述的是:玲子准备回家，遇到了停电的过程中，回想起过去的回忆，在接下来的后文说因为记忆无法更改，所以过去的那些记忆会一直让人的内心痛苦纠结，总是让心灵无法平静。所以这里要说的应该是“时常想着，如果能忘了之前的记忆的话该有多么轻松啊”。因为这里作者已经代入了玲子的视角，是在替玲子发声，同时也是抒发自己的心声，因此不会用「らしい」。",
+                "rightCount": 3,
+                "wrongCount": 1,
+                "rightTime": 1782033536151,
+                "wrongTime": 1779113557624,
+                "lastAnswerNo": 1,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-文法-7-44",
+              "questionNo": 44,
+              "question": "",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "それに",
+                "ただ",
+                "だって",
+                "まして"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 2,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(2)\n　解析:括号前面一段描述的是过去的回忆不能更改，后面一段又在说可以制造新的记忆，所以这里应该填一个表示转折的接续词「ただ」(虽然表示转折关系，但是有补充的含义)。\n　(1)それに:“而且”，表示递进\n　(3)だって:“即便是;但是”，表示完全的转折，没有补充的含义\n　(4)まして:何况，况且根据文章的语境判断，这里填入「ただ」比「だって」更加合适。",
+                "rightCount": 1,
+                "wrongCount": 3,
+                "rightTime": 1779166644070,
+                "wrongTime": 1782033536150,
+                "lastAnswerNo": 1,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-文法-7-45",
+              "questionNo": 45,
+              "question": "",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "鈴子(すずこ)は会いたくなって",
+                "鈴子(すずこ)は母親に会いたくなって",
+                "母親に会いたくなって",
+                "母親は鈴子(すずこ)に会いたくなって"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 3,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(3)\n　解析:从「本を閉じた後」，我们可以得知作者已经从书中的世界回到了自己生活的世界。前面讲的是书的最后，玲子和母亲的通话很令作者喜欢，所以合上书之后，作者自然是想到了自己的母亲，想要去见自己的母亲。",
+                "rightCount": 2,
+                "wrongCount": 2,
+                "rightTime": 1779166644069,
+                "wrongTime": 1782033536149,
+                "lastAnswerNo": 1,
+                "fav": false
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partName": "聴解",
+      "bigQuestionBeans": [
+        {
+          "bigTitle": "では、まず質問を聞いてください。それから話を聞いて、問題用紙の&nbsp;1&nbsp;から&nbsp;4&nbsp;の&nbsp;中から、最もよいものを一つ選んでください。",
+          "bigQuestionNo": 1,
+          "questions": [
+            {
+              "questionId": "n1-2017.12-聴解-51-1",
+              "questionNo": 1,
+              "question": "",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "新しいスポンサーを探す",
+                "入場券の料金を考える",
+                "大学で寄付を集める",
+                "資金集めのためのサイトを探す"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 2,
+              "selectedAnswer": 0,
+              "listening": true,
+              "analysis": {
+                "explain": "　正解：2\n学校舞蹈社团部长和女同学在关于社团运营经费的话题进行讨论。由于从明年开始学校将不再出社团运营经费的补助金，所以他们要开会讨论筹措资金的方法。现在已经与当地两家公司有合作，但是考虑到会场费用等问题，还需要寻找新的赞助商。关于这个问题社团成员已经开始在行动，但仅此不够，还需要考虑新的资金筹措方法，排除1。\n想到现在能去做的是把至今一直免费的入场券改成收费制、在大学校内举行募捐活动、利用网络上向大众募集筹款的网站筹措资金。关于这几个问题，在学校募集筹款需要举办活动，关于这个活动内容会在稍后的会议中讨论，排除3。\n现在关键的问题是入场券的问题，需要拜托女同学在稍后的会议中讨论出来。2正确。\n最后男生会详细的调查一下资金筹措网站的使用方法，而不是去查询网站，排除4。\n\nしておく:做这个动作的主体是说话人，也就是男生。\n若是让女生去调查筹资网站的使用方法的话，这句话需要改成「資金調達サイトは利用方法も詳しく調べておくこと。」\n或者「資金調達サイトは利用方法も詳しく調べておいてください。」",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-聴解-51-2",
+              "questionNo": 2,
+              "question": "",
+              "subQuestion": "https://audio-jlpt.oss-cn-shanghai.aliyuncs.com/images/n1/201712/IMG_201712_51_2P.png",
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "ア→イ→ウ",
+                "ア→ウ→イ",
+                "イ→ア→ウ",
+                "イ→ウ→ア"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 1,
+              "selectedAnswer": 0,
+              "listening": true,
+              "analysis": {
+                "explain": "　正解：1\n　女人最近刚搬到南市，想要办理迁入证，此时正在市民科提交相关材料并询问相关事宜。从职员介绍得知，女人想要办理健康保险和驾驶证的相关手续需要分别到保险科和警察署，而到警察署办理手续时需要新住所的证明材料，女人没有带，男职员告诉他居住证的副本也可以证明，在旁边的交付窗口可以办理印发，现在交付窗口女人排22号，人很多，大概还需要等二三十分钟，男职员建议女人先去保险科办理健康保险手续，因为这个过程花不到十分钟，办完后再回来交付窗口接着排队，所以按照图示所示位置，应该是先保险科，在交付窗口，最后是警察署。选(1)",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-聴解-51-3",
+              "questionNo": 3,
+              "question": "",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "課で行った取組みを見直す",
+                "スタッフをやとうかどうか決める",
+                "事務スタッフの業務を決定する",
+                "係りの仕事内容をリスト化する"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 4,
+              "selectedAnswer": 0,
+              "listening": true,
+              "analysis": {
+                "explain": "　正解：4\n　科长表示这几年来由于加班时间增加的问题，针对提升工作效率的问题大家都提出了各种各样的对策，但是也都也有限度，在明年会雇佣新的事务职员。与此同时，需要决定出派给新职工的工作内容。所以现在需要各股长把自己部门的业务内容整理出项目来提交给科长，科长会根据各业务部门工作内容整理出给新员工的工作文案来，稍后会通过邮件将整理模板发给各个股长。所以选(4).股长需要将各自的业务内容列表化。",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-聴解-51-4",
+              "questionNo": 4,
+              "question": "",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "県内のほかのてんぽに連絡する",
+                "店の外に並ぶ客の列を整理する",
+                "ほかの店員に在庫のかくにんを頼む",
+                "本社に入荷予定日(よていび)を聞く"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 3,
+              "selectedAnswer": 0,
+              "listening": true,
+              "analysis": {
+                "explain": "　正解：3\n　服装店刚开门，店外就排起了长队，照这种架势，新晋偶像梦野光设计的T恤即使是人手一件也会很快卖光，经过男店员大谷联系，得知同县的其他店铺也出现这种情况。店长吩咐大谷为了不让邻居们发牢骚，让他去整理顾客的队列，不要给交通带来阻碍。在他出去之前，请他拜托别的店员确认一下仓库的存货数量，然后请这位店员将数量告知店长，店长得知后会通过手机通知大谷，让大谷确认顾客数量，将商品数量不够的信息及时传达给今天买不到的顾客。同时也要及时把下次进货时间告诉这批顾客，店长会联系总部确认时间，确认后会把这个消息一并在电话里告诉大谷。所以店员大谷需要先通知别的店员确认仓库数量然后去店外整理队伍，选(3).",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-聴解-51-5",
+              "questionNo": 5,
+              "question": "",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "先行研究を詳しく書直す",
+                "調査方法を簡潔に書直す",
+                "研究の動機を書直す",
+                "全体の構成を見直す"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 3,
+              "selectedAnswer": 0,
+              "listening": true,
+              "analysis": {
+                "explain": "　正解：3\n　老师针对女学生的论文进行了评价，先行研究、调查方法和全文构成老师没有提出别的问题，而针对写作动机，老师说明女学生只写了关于这方面的研究很少，没有写别的，这样的研究原因看起来太无力，而女学生在前面说过，她看到在饮食店父母给小孩子看手机里的动画，产生了就这样弃之不管真的没有问题吗的疑问，如果把这个也加在研究动机里面，会提起读者的阅读兴趣，所以女学生还需要改动的是她的研究动机，选(3).",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-聴解-51-6",
+              "questionNo": 6,
+              "question": "",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "冷凍食品の売上額を調べる",
+                "冷凍食品が売れる理由を調べる",
+                "高級食品の売上額を調べる",
+                "高級食品が売れる理由を調べる"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 4,
+              "selectedAnswer": 0,
+              "listening": true,
+              "analysis": {
+                "explain": "　正解：4\n　部长对女人说公司目前在售的冷冻食品，这几年的销售额都不是很理想，前几天开董事会决定开发新商品，改变今后的发展路线，出现了以喜爱高级食品的消费者为对象开发冷冻食品的建议，因为从调查结果来看高级食品的销售额是呈上升趋势的，所以考虑今后以这个为发展路线，但是没有做过什么能刺激消费者的高级食品消费欲望的研究，部长想把这个任务交给吉田，即这个女人，当然，她有什么疑问，店长都会给与解答和帮助，所以选(4).调查高级食品能卖出去的理由。",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            }
+          ]
+        },
+        {
+          "bigTitle": "では、まず質問を聞いてください。そのあと、問題用紙のせんたくしを読んでくだ&nbsp;さい。読む時間があります。それから話を聞いて、問題用紙の&nbsp;1&nbsp;から&nbsp;4&nbsp;の中から、最も&nbsp;よいものを一つ選らんでください。",
+          "bigQuestionNo": 2,
+          "questions": [
+            {
+              "questionId": "n1-2017.12-聴解-52-1",
+              "questionNo": 1,
+              "question": "",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "仕事のことを一日中全く考えない",
+                "軽い運動をして適度に体を動かす",
+                "参考になる資料をたくさん見る",
+                "仕事と関係のない友人に相談する"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 3,
+              "selectedAnswer": 0,
+              "listening": true,
+              "analysis": {
+                "explain": "　正解：3\n　男人关于总是没有设计思路的问题很烦恼，于是询问女人这种时候她总做什么，女人说如果没有思路的话，连休息都不能好好休息，有些人这个时候可能散步啊做体操啊，做一些适当的运动就会产生很多想法，可是她会一本一本地去看与设计主题相关的参考文献，这样她就会产生一些想法了。男人听了之后阐述了他之前跟科长聊这个事情的时候，科长的办法，科长会找与工作没有关系的朋友聊天，在聊天中提出与设计主题相关的问题，慢慢地产生自己的想法。所以问题问的是关于女人的做法，应该选(3)，看很多相关资料。",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-聴解-52-2",
+              "questionNo": 2,
+              "question": "",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "高齢者の介護施設で散歩を手伝う",
+                "高齢者の介護施設でえんそう会を開く",
+                "一人暮らしのお年寄りの家事を手伝う",
+                "一人暮らしのお年寄りの交流会を開く"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 4,
+              "selectedAnswer": 0,
+              "listening": true,
+              "analysis": {
+                "explain": "　正解：4\n　男生和女生都要在暑假找志愿者工作做。男生表示还没找到，但是希望能服务于老人。女生说他周末在护理院做辅助老人散步的志愿者，那里在寻找能够开演奏会的志愿者，建议男生一起去，可是男生不擅长乐器，还是希望能找个能与人相关的活动，觉得最近孤寡老人增多，来家中慰问帮做家事的需求也增多。女生说她也想做，最近她也到市里的志愿者中心打听了，正好是夏天的时间，志愿者中心的人问她如果可以能不能和同学们计划一个让孤寡老人集合起来的交流会，做做饭、做做体操、乐器之类的，当然不会乐器也可以去做志愿者。男生听后觉得不错，越是二人觉得去参加这个志愿者活动。所以选(4).",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-聴解-52-3",
+              "questionNo": 3,
+              "question": "",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "昔えどへ行くときに渡ったから",
+                "えどばくふと関係のある橋だから",
+                "設計した人の名前がえどだから",
+                "「えど物語」という映画に出たから"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 3,
+              "selectedAnswer": 0,
+              "listening": true,
+              "analysis": {
+                "explain": "　正解：3\n　女生问男生为什么在这个既不是东京，以前也不叫江户的地方，这个桥叫“江户桥”。男生猜可能是过去从这里去江户需要经过这个桥，但是在江户时代这里还没有桥，男生又猜这附近可能和江户幕府有缘分，所以后来称这里为“江户桥”。女生解答道：“这个桥修建于大正时代，因为那个有名的设计师叫江户渡。”由于这个桥有怀旧的感觉，所以之后会以这里为背景拍摄电影“江户物语”。所以选(3).",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-聴解-52-4",
+              "questionNo": 4,
+              "question": "",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "基本賃金を上げた",
+                "ボーナスを支給した",
+                "資格取得の費用を負担した",
+                "正規社員として採用した"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 1,
+              "selectedAnswer": 0,
+              "listening": true,
+              "analysis": {
+                "explain": "　正解：1\n　记者问社长针对兼职人员的待遇改善有采取什么措施。社长回答说应政府的相关要求，作为需要提高兼职人员基本工资的企业之一，早在上月就实行了这项措施。社长还说为了让兼职人员能够长期稳定的在这里工作，他最近还在考虑给员工支付奖金，最近也在讨论关于向有志于提升专业技能的人提供食品管理和贩卖等证书相关的费用。问题问的是这个超市对于兼职人员的待遇改善已经采取的措施是什么，所以应该选(1).",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-聴解-52-5",
+              "questionNo": 5,
+              "question": "",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "会社の経営理念をクイズ形式で教える",
+                "電話応対のロールプレイを行う",
+                "社長自らがビジネスマナーを教える",
+                "コミュニケーションゲームを行う"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 1,
+              "selectedAnswer": 0,
+              "listening": true,
+              "analysis": {
+                "explain": "　正解：1\n　问题问的是女人要提出什么样的新计划。女人问男人关于他上次参加新员工培训的一些体验，别的一些项目都很好，可是关于社长经营理念的讲解，大多数人都觉得枯燥无聊。男人提出上次关于商业礼仪的研修用的是猜谜的形式，大家反应都很热烈，而且现在还有记忆，男人建议可以将猜谜的形式运用到经营理念中。女人表示这很新鲜，也在最后表示要采用男人的意见，所以应该选(1).",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-聴解-52-6",
+              "questionNo": 6,
+              "question": "",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "にんち心理学の研究のがいかん",
+                "人の文章理解のメカニズム",
+                "にんち心理学に基づいた文章表現",
+                "文章を正しく理解させる指導法"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 2,
+              "selectedAnswer": 0,
+              "listening": true,
+              "analysis": {
+                "explain": "　正解：2\n　老师说这次对认知心理学的概观有了大概的了解，下次会在阅读最新认知心理学的研究成果之上，研究人是如何去理解文章的。比如当大家去阅读一篇文章，以为自己读懂了，可是之后当谁问起问题的时候发现自己答不上来，就是这种“以为自己读懂了”的状态。即人阅读文章的认知机制，选(2)",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            }
+          ]
+        },
+        {
+          "bigTitle": "では、問題用紙に何も印刷されていません。この問題は、全体としてどんな内容&nbsp;かを聞く問題です。話の前に質問はありません。まず話を聞いてください。それから、質&nbsp;問とせんたくしを聞いて、1&nbsp;から&nbsp;4&nbsp;の中から、最もよいものを一つ選らんでください。",
+          "bigQuestionNo": 3,
+          "questions": [
+            {
+              "questionId": "n1-2017.12-聴解-53-1",
+              "questionNo": 1,
+              "question": "",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": null,
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 3,
+              "selectedAnswer": 0,
+              "listening": true,
+              "analysis": {
+                "explain": "　正解：3\n　职员讲的是绿市只几年买入了一些传统古宿，买的人也变多，维持房子的外观和构造，把立面进行改造，既有住房又有店铺，古建筑有独特的韵味，也能再利用被放置的空房，消除了防止犯罪的不安，而且以后这样的民宿多的地方可以复原以前街上房屋排列的情形，作为一种观光资源，也可以火雨城市的发展。这些说的都是古民宿再利用的优点，选(3)",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-聴解-53-2",
+              "questionNo": 2,
+              "question": "",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": null,
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 4,
+              "selectedAnswer": 0,
+              "listening": true,
+              "analysis": {
+                "explain": "　正解：4\n　男人在跟女人商量昨天预定的物品的交付期和价格的问题。男人说由于最近原材料和原油的价格高涨，使他们的物品生产进展迟缓，所以对于女人定的这个月中旬的交付期难以答复，但是他们定了目标，预计会在月底给予答复，但是关于要求降价的问题，由于他们原材料价格上涨，所以他们也遇到了很困难的状况，但是如果女人能谅解交付期的问题，价格可以按照她们的期望来交易。所以根据题意，男人可以按照女人期望回复价格的问题，但是交付期不能。选(4)",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-聴解-53-3",
+              "questionNo": 3,
+              "question": "",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": null,
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 2,
+              "selectedAnswer": 0,
+              "listening": true,
+              "analysis": {
+                "explain": "　正解：2\n　以前所说的“燕子低飞要下雨”，现在已经有科学证明，乌云临近时，湿度上升，作为燕子食物的羽蚁就飞不高了，但是在没有气象学的时代，从眼前的自然现象就能推出一定的法则，真的很佩服当时人们的能力，可能是因为那个时候天气和气候对人们的影响比现在更大吧，从微妙的变化就能发现现实的变化的能力也和现在的我们有很大不同。说的都是过去人们观察力的锐利。选(2)",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-聴解-53-4",
+              "questionNo": 4,
+              "question": "",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": null,
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 4,
+              "selectedAnswer": 0,
+              "listening": true,
+              "analysis": {
+                "explain": "　正解：4\n　老师说很多昆虫像蝴蝶、蜜蜂、蝉等，在幼虫期和成长之后的样子有很大不同。这些昆虫在幼虫期是褶皱很少长度很长的的躯干下长着很短的足，这样是为了成长在体内尽可能多的储存营养的外形。一旦长大后，就需要为繁殖做准备，为了能找到交配对象，它们就需要有能飞很远的翅膀。所以这些说的都是昆虫外形变化的原因。选(4).",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-聴解-53-5",
+              "questionNo": 5,
+              "question": "",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": null,
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 1,
+              "selectedAnswer": 0,
+              "listening": true,
+              "analysis": {
+                "explain": "　正解：1\n　许多零售店在考虑想要顾客怎么在店里转的时候就决定了店内的布局。比如说很多超市为了能让顾客在店里走一圈，会从入口开始沿着墙壁摆列很多购买率很高的商品，这样顾客自然就很走很长的距离，也能看到拿到目的之外的很多商品，促进了购买。这不仅限于超市，在很多家电市场，与超市多少有些不同，会把顾客关注度高的商品放在离入口很远的地方，目的也是提高销售额。所以说的都是为了提高收益而进行的物品陈列，选(1)",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-聴解-53-6",
+              "questionNo": 6,
+              "question": "",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": null,
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 2,
+              "selectedAnswer": 0,
+              "listening": true,
+              "analysis": {
+                "explain": "　正解：2\n　由于生活用水的排放导致海洋营养过剩，微生物繁殖造成海洋污染，而对于抑制微生物增殖很有帮助的生物是海中的牡蛎。牡蛎主要以海中的微生物为饵料，通过摄取海水，过滤出饵料，把澄清的水在吐出去，一只牡蛎一天可以过滤200升的海水，也有的地方会专门养殖净化海水的牡蛎。所以说的是牡蛎对于水质的改善作用。选(2)",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            }
+          ]
+        },
+        {
+          "bigTitle": "では、問題用紙に何も印刷されていません。まず文を聞いてください。それから、&nbsp;それに対する返事を聞いて、1&nbsp;から&nbsp;3&nbsp;の中から、最もよいものを一つ選んでください。",
+          "bigQuestionNo": 4,
+          "questions": [
+            {
+              "questionId": "n1-2017.12-聴解-54-1",
+              "questionNo": 1,
+              "question": "",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": null,
+              "optionCount": 3,
+              "qaType": 0,
+              "rightAnswer": 3,
+              "selectedAnswer": 0,
+              "listening": true,
+              "analysis": {
+                "explain": "　正解：3\n　第一题考察了“結果が待ち遠しい(まちどおしい)”、意思为“结果指日可待“，说明说话人对自己的结果非常有自信。因此选择选项(3)．なんだか自信がありそうだね(你好像很有自信嘛)。",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-聴解-54-2",
+              "questionNo": 2,
+              "question": "",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": null,
+              "optionCount": 3,
+              "qaType": 0,
+              "rightAnswer": 2,
+              "selectedAnswer": 0,
+              "listening": true,
+              "analysis": {
+                "explain": "　正解：2\n　第二题考察了授受动词的敬语表达，说话人说：先日結構(けっこう)なものを頂戴いたしまして。“けっこう”即为“いい”，意为“好的”，“頂戴(ちょうだい)する”意为(收到)，为“もらう”的谦逊语。整体意思为：“前几天收到了好东西“。\n　回答选择选项(2).気に入っていただいて…(你喜欢就太好啦)",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-聴解-54-3",
+              "questionNo": 3,
+              "question": "",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": null,
+              "optionCount": 3,
+              "qaType": 0,
+              "rightAnswer": 1,
+              "selectedAnswer": 0,
+              "listening": true,
+              "analysis": {
+                "explain": "　正解：1\n　本题的语意为“我儿子大学毕业以后，每天也不找工作净想着玩儿(仕事を探そうともしない)，愁死我了“，答案选择(1).ほかにやりたいことがあるんじゃない？(他是不是有其他想做的事情呀？)。",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-聴解-54-4",
+              "questionNo": 4,
+              "question": "",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": null,
+              "optionCount": 3,
+              "qaType": 0,
+              "rightAnswer": 3,
+              "selectedAnswer": 0,
+              "listening": true,
+              "analysis": {
+                "explain": "　正解：3\n　本题的语意为“要不是你的帮忙这个事情就完成不了了(君の…がないと成り立たないよ)”、“成り立つ“意为”出来上がる、完成する“。\n　答案为3.こっちこそいろいろ助けてもらって(我才是受到了很多帮助呢)，“こっちこそ“、我这边才是，用于应对别人感谢时的谦虚固定表达。",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-聴解-54-5",
+              "questionNo": 5,
+              "question": "",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": null,
+              "optionCount": 3,
+              "qaType": 0,
+              "rightAnswer": 1,
+              "selectedAnswer": 0,
+              "listening": true,
+              "analysis": {
+                "explain": "　正解：1\n　本题的语意为“你的包放在那里会绊到人的(つまずいちゃうよ)”、“つまずく“、意思为“绊倒，栽跟头“。\n　答案为1.すみません、じゃまにならないところに移します。(抱歉，我会移到不碍事的地方去)“じゃまにならない“，意思为“不会碍事，不构成妨碍“。",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-聴解-54-6",
+              "questionNo": 6,
+              "question": "",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": null,
+              "optionCount": 3,
+              "qaType": 0,
+              "rightAnswer": 3,
+              "selectedAnswer": 0,
+              "listening": true,
+              "analysis": {
+                "explain": "　正解：3\n　男人说“社长让我把昨天会议的笔记整理一份给他，我多希望他是昨天就跟我说一下啊(昨日言ってほしかった)”。表达了说话人不满和崩溃的心情。\n　回答为3.急に言われてもね。(突然被告知，确实很难办呢)。“言われても”后面省略了后半句，整句话补全应为：“急に言われても仕方がないね”。",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-聴解-54-7",
+              "questionNo": 7,
+              "question": "",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": null,
+              "optionCount": 3,
+              "qaType": 0,
+              "rightAnswer": 1,
+              "selectedAnswer": 0,
+              "listening": true,
+              "analysis": {
+                "explain": "　正解：1\n　本题的语意是女人说，“店里让我增加出勤时间，不过因为人手不足，这也是没办法的事情”，回答为选项(1)．無理(むり)なら、ちゃんと言ったほうがいいよ。如果勉强的话，最好是说出来哦。",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-聴解-54-8",
+              "questionNo": 8,
+              "question": "",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": null,
+              "optionCount": 3,
+              "qaType": 0,
+              "rightAnswer": 2,
+              "selectedAnswer": 0,
+              "listening": true,
+              "analysis": {
+                "explain": "　正解：2\n　本题的语意是“面试感觉不错。(面接(めんせつ)、手応え(てごたえ)があったよ)。““手応え(てごたえ)がある”的意思为“手感不错，感觉不错，事情做得很顺”。\n　回答为选项(2)．うまくいったみたいね。(看来你进展的不错)",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-聴解-54-9",
+              "questionNo": 9,
+              "question": "",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": null,
+              "optionCount": 3,
+              "qaType": 0,
+              "rightAnswer": 2,
+              "selectedAnswer": 0,
+              "listening": true,
+              "analysis": {
+                "explain": "　正解：2\n　本题的语意为“这家餐厅的味道自不用说(見た目もさることならが)，味道也非常好”。“AもさることながらB“意思为”A自不必说B更加好“。\n　回答为选项(2).目でも舌でも味わえますね。(眼睛和舌头都能享受到呢)",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-聴解-54-10",
+              "questionNo": 10,
+              "question": "",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": null,
+              "optionCount": 3,
+              "qaType": 0,
+              "rightAnswer": 3,
+              "selectedAnswer": 0,
+              "listening": true,
+              "analysis": {
+                "explain": "　正解：3\n　本题的语意是“今年的新人招聘延期了(みあわせる)”、“見合(みあ)わせる“意为”延長する“。\n　回答为选项(3).不景気(ふけいき)の影響(えいきょう)かな。(是经济不好的原因吧)。“不景気(ふけいき)“、经济不好、经济下滑。",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-聴解-54-11",
+              "questionNo": 11,
+              "question": "",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": null,
+              "optionCount": 3,
+              "qaType": 0,
+              "rightAnswer": 1,
+              "selectedAnswer": 0,
+              "listening": true,
+              "analysis": {
+                "explain": "　正解：1\n　本题的语意是“这位客人，抱歉，可否请你拼一下桌呢？(テーブルのあいせき)”。相席(あいせき)、意思为“拼桌“。\n　回答为选项(1).あとでもう１人来るんですけど。(等下还有一个人要来的)。",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-聴解-54-12",
+              "questionNo": 12,
+              "question": "",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": null,
+              "optionCount": 3,
+              "qaType": 0,
+              "rightAnswer": 1,
+              "selectedAnswer": 0,
+              "listening": true,
+              "analysis": {
+                "explain": "　正解：1\n　本题的语意是“今年新年会的主持人，如果不是他报名(申し出がなければ)，就会摊到我头上了(わたしがやらされる)。やらされる、使役被动态，表示被迫做某事。\n　回答为选项(1).じゃ、感謝しないとね。(那，你得感谢他呢)",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-聴解-54-13",
+              "questionNo": 13,
+              "question": "",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": null,
+              "optionCount": 3,
+              "qaType": 0,
+              "rightAnswer": 2,
+              "selectedAnswer": 0,
+              "listening": true,
+              "analysis": {
+                "explain": "　正解：2\n　你的方案我看了，成本不是还有压缩空间吗？(コスト面で改善の余地があるんじゃない?的意思就是：コストを抑える余地があるんじゃない？)コストをおさえる：压缩成本，余地(よち)：余地。\n　回答为选项(2).やってみますが、これ以上だと難しくなると思いますが。(我试试看吧，不过我认为再压缩就很困难了)。",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            }
+          ]
+        },
+        {
+          "bigTitle": "では、長めの話を聞きます。この問題には練習はありません。問題用紙にメモを&nbsp;とってもかまいません。",
+          "bigQuestionNo": 5,
+          "questions": [
+            {
+              "questionId": "n1-2017.12-聴解-55-1",
+              "questionNo": 1,
+              "question": "問題用紙に何も印刷されていません。まず話を聞いてください。それから、質問とせんたくしを聞いて、1から4の中から、最もよいものを一つ選んでください。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": null,
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 2,
+              "selectedAnswer": 0,
+              "listening": true,
+              "analysis": {
+                "explain": "　正解：2\n　男生说想要找一个夏季的兼职工作，他的需求为：1)最好公司有进军海外的经历；\n2)因为自己英语不错，所以想找能用到英语的工作；\n3)希望是能工作3周。但因为8月第1、2周有事情，所以想避开这两周。\n　针对他的要求，推荐给他的四个公司是：\n　公司一8月后旬工作，只工作2周，不会用到英语。\n　公司二没有海外经历，招接待外国人的翻译，时间为7月~9月之间连续3周即可。\n　公司三公司在日本，工作时间为7月中旬到下旬，无需用到英语。\n　公司四有海外经历，招聘英语打字员，7月到8月上旬工作。\n　听完推荐后，男生表示：\n1)海外经历不重要了\n2)但还是想要用到英语，实际跟外国人对话，\n3)时间还是希望3周工作，\n　因此，符合条件的公司为公司2，即桜デパート、工作职位为外国人の通訳(外语翻译)。",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-聴解-55-2",
+              "questionNo": 2,
+              "question": "問題用紙に何も印刷されていません。まず話を聞いてください。それから、質問とせんたくしを聞いて、1から4の中から、最もよいものを一つ選んでください。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": null,
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 2,
+              "selectedAnswer": 0,
+              "listening": true,
+              "analysis": {
+                "explain": "　正解：2\n　解析：发生场景为一个卖鱼的餐厅。男人表示最近销量不太好，希望能有一些改善方案。员工提出的四个方案如下：\n　方案一将鱼事先为顾客收拾好，比如把鱼的骨头等剔除，但需要增加人手和空间。\n　方案二放置食谱，为顾客提供烹饪鱼的方法。\n　方案三将鱼进行半加工处理，让顾客比较方便的浇上调料就可以食用。\n　方案四将鱼做成熟食小菜(惣菜―そうざい)\n　听了四个方案后，男人认为增加人手的方案不太可行，店里的经营方针希望提供新鲜的、不加烹调的鱼，\n　因此最后选择了方案二，即“レシピを置くこと”(放置食谱)。",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-聴解-55-3",
+              "questionNo": 3,
+              "question": "",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "1番",
+                "2番",
+                "3番",
+                "4番",
+                "1番と2番(ばん)",
+                "1番と4番",
+                "3番と2番",
+                "3番と4番"
+              ],
+              "optionCount": 4,
+              "qaType": 4,
+              "rightAnswer": 23,
+              "selectedAnswer": 0,
+              "listening": true,
+              "analysis": {
+                "explain": "　正解：23\n　场景在一个商场，广播里说可以进行抽奖，奖品有以下四种：\n　第一种海鲜30人\n　第二种日式烤点心(やきがし)25人\n　第三种演出的招待券(公演の招待券)3人\n　第四种望远镜(ぼうえんきょ)1人\n　男人表示想要望远镜，但望远镜只有1个，胜率太低，因此想要中奖人数排名第2的项目。在四个项目里，日式烤点心为25人，人数排第二，因此第一问选择选项(2)，2番、即“焼き菓子”。\n　女人表示她喜欢吃甜食，但也想去看公演，在两个项目里徘徊不定。男人说，我们有三张票，那你拿两张去抽奖，两种都试试好了，因此女人的选择为选项(3)．２番＋３番、即“焼き菓子と公演の招待券“。",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "partName": "読解",
+      "bigQuestionBeans": [
+        {
+          "bigTitle": "次の(1)から(4)の文章を読んで、後の問いに対する答えとして最もよいものを、1・&nbsp;2・3・4&nbsp;から一つ選びなさい。",
+          "bigQuestionNo": 8,
+          "questions": [
+            {
+              "questionId": "n1-2017.12-読解-8-46",
+              "questionNo": 46,
+              "question": "このメールで最も伝えたいことは何か。",
+              "subQuestion": null,
+              "passage": "　(一)\n　以下は、あるツアーに申し込んだ人に送られてきたメールである。\n　田川優子様この度はトラベルライトをご利用いただきありがとうこざいます。\n　弊社ホームページよりお申し込みいただいた「小型飛行機で行く暁島」(12月&nbsp;9日発)&nbsp;は、航空券の発売がご搭乗日1&nbsp;か月前からとなるため、現時点では仮予約になっております。ご希望の便が確保できましたら、田川様のご自宅宛あてに確認書をお送りします。\n　万が一、ご希望に添えなかった場合は、別の便をご提案させていただくこともございます。何とぞご了承ください。\n　それでは、引き続きどうぞよろしくお願いいたします。\n　2017年&nbsp;9月&nbsp;10日&nbsp;株式会社トラベルライト(担当中村)\n　電話:024-881-6456(平日10~19時・土日祝9~18時)&nbsp;\n　メールアドレス:toiawase@travellight.co.jp",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "航空券仮予約の確認書を近日中に送ること",
+                "航空券の予約はまだ確定していないこと",
+                "航空券の手配に必要な情報が足りないこと",
+                "航空券が手配できないので別の便を提案したいこと"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 2,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(2)\n　解析:问题是:邮件想要传达的是什么信息?这个邮件是旅行社给到客户的一封通知邮件。文中说「ご希望の便が確保できましたら、田川様のご自宅あてに確認書をお送りします。」如果订到了你需求的那个航班的话，我们会给你发确认书的，「万が一、ご希望に添えなかった場合は、別の便をご提案させて」，但是如果无法满足您的需求的话，我们会给您推荐其他航班，也就是说目前是否能订到客户需要的那个航班，暂时还未确定，正确答案是「航空券の予約はまだ確定していないこと」。",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-読解-8-47",
+              "questionNo": 47,
+              "question": "筆者の考えに合うのはどれか。",
+              "subQuestion": null,
+              "passage": "　(2)あらゆる仕事はなんらかの形で、その人を世界の中に位置づける。畑仕事のような個人作業でもそうだ。自然のサイクルの中に、自分の存在を確かめることができる。\n　人はどんなに大金持ちになっても、なんらかの形で働こうとする生き物だろう。お金持ちはお金持ちなりの仕事を、自分でつくり出すはずだ。それは人間が、外の世界との関わり合いを通じてしか自分が存在する実感を得ることができず、またそれを常に渇望(かつぼう)(注)していることを示している。\n　(注)渇望(かつぼう)する:強く望む",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "世界に存在するあらゆる仕事には、それぞれの価値がある。",
+                "自然の中で働き、自身の存在を確認することが大切だ。",
+                "人はどんなに豊かになっても、働くことをやめてはいけない。",
+                "人は仕事を通じて、自身が存在する意義を実感できる。"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 4,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(4)\n　问题是:下列选项中符合作者的看法的是哪一个选项?文章的主旨是要表达，人们通过工作，以及自己的工作带给社会的价值，来找到自己在社会中的定位，进一步确认自己存在的意义。所以正确选项是「人は仕事を通じて、自身が存在する意義を実感できる」。",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-読解-8-48",
+              "questionNo": 48,
+              "question": "筆者によると、歴史学とはどのようなものか。",
+              "subQuestion": null,
+              "passage": "　(3)&nbsp;「すべての歴史は現代史である。」この有名な言葉が示す内容は、われわれが史料(注1)に対した場合、けっきょく史料をとおして過去を見るのは、ほかならぬ現在のわれわれであり現在の眼(め)である、ということである。われわれは、公平無私に(注2)、また古い時代の人の心になって対処しようとしても、われわれが生きている現在の時代の人間である、ということから脱出することはできないからである。&nbsp;\n　要するに歴史学は、こうした性格をもった学問である。&nbsp;\n　(注1)史料:歴史研究のために必要な文献や遺物など\n　(注2)公平無私に:私的な感情を持たずに公平に",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "史料の分析をとおして現代史を解明するもの",
+                "古い時代の人々の立場に立って研究するもの",
+                "過去を現代の人々の視点で解釈するもの",
+                "過去を現代史と比較して理解するもの"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 3,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(3)\n　问题是:历史学是一种什么样的东西?文章中有提到「すべての歴史は全部現代史である」,也就是说，不管我们再怎么想要公正客观地站在历史的角度去看待当时，我们都摆脱不了自己是现代人，拥有现代人的思维的事实，所以每个时代的人会以该时代的视角去解读历史，所以历史学其实是「過去を現代の人々の視点で解釈するもの」(以现代视角去解读过去)。",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-読解-8-49",
+              "questionNo": 49,
+              "question": "筆者の考えに合うのはどれか。",
+              "subQuestion": null,
+              "passage": "　(4)&nbsp;人間は古い昔から、「人間とは何か」を問うてきた。けれどそれは、早く言えば「人間は動物とどこがちがうか?」という問いかけであった。いわく(注)「人間には動物にはない言語がある」、いわく「人間には思想がある」、「人間には文化がある」等々。しかしこの問いかけは、根本的にまちがっていた。\n　問題は「人間は動物とどうちがうか?」ではなくて、「人間は他の動物とどうちがうか?」ということだったのである。\n　これに答えるには、人間はどういう動物であるかを問う以外にない。&nbsp;\n　(注)いわく:ここでは、よく言われるように",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "言語・思想・文化は、人間だけのものと考えるべきではない。",
+                "人間も動物であるという視点で、人間について考えるべきだ。",
+                "人間と他の動物とのちがいを問うても意味がない。",
+                "人間と動物のちがいを根本的に問い直すべきだ。"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 2,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(2)\n　问题是:笔者想要表达的是什么观点?笔者在文章开始提到，现在有很多人提出“人类跟动物的区别是什么”这样的问题，然后有很多人给出了各种人类与动物区别的答案，但是在笔者看来，要想回答这个问题，其实首先应该纠正问题本身，人类也是动物的一种，所以这个问题应该是“人类和其他动物的区别是什么”。所以答案应该是「人間も動物であるという視点で人間について考えるべきだ。」应该从人类也是动物这个视角去考虑人类。",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            }
+          ]
+        },
+        {
+          "bigTitle": "次の(1)から(3)の文章を読んで、後の問いに対する答えとして最もよいもの&nbsp;を、1・2・3・4&nbsp;から一つ選びなさい。",
+          "bigQuestionNo": 9,
+          "questions": [
+            {
+              "questionId": "n1-2017.12-読解-9-50",
+              "questionNo": 50,
+              "question": "富士山(ふじさん)の例を挙げて、筆者が述べようとしていることは何か。",
+              "subQuestion": null,
+              "passage": "　(1)&nbsp;日本には昔から「物見(ものみ)遊山(ゆさん)」(注1)という言葉がありますが、非日常への憧(あこが)れは観光の一つの本質です。\n　しかしその一方で、物見(ものみ)遊山(ゆさん)だけに頼った観光地はいずれ必ず飽きられてしまうというのも事実です。例えば富士山(ふじさん)を見た外国人が、もう一度富士山(ふじさん)だけを見るために訪日してくれるでしょうか?よほど個人的な思い入れでもない限り、そういうケースは稀(まれ)でしょう。海外からわざわざやって来た旅行者に日本という場所へのリピーター(注2)となってもらうためには、彼らがまた戻って来たくなる別の工夫が必要です。\n　どの様なビジネスであったとしても、顧客(=ファン)の存在は決定的な意味を持ちます。そのブランドの価値を認めて、長期にわたって買い支えてくれる人の存在無しには安定的な収益は望めません。<b>このことは観光地においても事情は同じ</b>です。(中略)ここで再び、本質的な問いかけが浮かんできます。顧客とリピーターを生みだし、観光・リゾート地として何度も選ばれ続けるためには、一体何が必要なのでしょうか?\n　本当の意味で旅行者を惹(ひ)きつけ、その土地のファンとなるのは、名所旧跡(きゅうせき)のような観光資源だけではありません。重要なのは自分たちとは異なる豊かな「日常性(ライフスタイル)」です。その土地の人たちが生き生きと暮らしていれば、訪れた人はきっとその理由を見つけたくなる。風土に根差した生活様式、独自の食文化、季節ごとの行事、その地の環境が育んだ産業――。二回、三回と足を運べば、その度にまた違った表情が見えてくる。その深さを知れば、決して飽きることはありません。\n　(注1)物見(ものみ)遊山(ゆさん):見物して遊びまわること\n　(注2)リピーター:ここでは、繰り返し訪れる人",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "旅行者の観光の目的が変化してきた。",
+                "旅行者が個人的な思い入れのある観光地にしか行かなくなった。",
+                "ただ見物するだけの観光地は飽きられやすい。",
+                "観光地は非日常への憧(あこが)れを満たす場ではなくなった。"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 3,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(3)\n　解析:问题是:笔者举了富士山的例子，是想说明什么?文章中提到了旅游景点的经济增长点，如果旅游景点仅仅是靠只来一次的游客，做一次性买卖的话，存活是比较困难的事情。就像很少会有外国人会仅仅因为想再看一次富士山再来日本一样。看过一次，就容易厌倦。所以答案选「ただ見物するだけの観光地は飽きられやすい」。",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-読解-9-51",
+              "questionNo": 51,
+              "question": "このことは観光地においても事情は同じとあるが、どういうことか。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "繰り返し訪れる旅行者の存在が観光地の経営を支える。",
+                "観光地の価値を認めて広めてくれる人が必要だ。",
+                "観光地が新しい旅行者を獲得し続けなければならない。",
+                "安定的な収益を得て観光地の価値を高めることが必要だ。"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 1,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(1)\n　问题是:“这件事情在旅游景点方面也是一样的”，指的是什么事情?这件事情指的是很多商店都需要回头客来支撑生意，那么其实相对于旅游景点也是一样的，旅游景点要保证收入和盈利，也需要很多反复来景点的回头客的支持。所以答案选「繰り返し訪れる旅行者の存在が観光地の経営を支える」。",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-読解-9-52",
+              "questionNo": 52,
+              "question": "観光地として何度も足を運んでもらうには、何が重要か。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "次々と新しい観光資源を生み出し続けること",
+                "観光資源としての名所旧跡(きゅうせき)を大切に保存すること",
+                "風土特有の文化や産業の中で人々が暮らしていること",
+                "その土地の人たちが生き生きと暮らせる理由を説明すること"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 3,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(3)\n　问题是:为了能让游客能够多次来景点游玩，最重要的是什么?笔者觉得，旅游景点想要长期吸引回头客，不仅仅是需要有景点风景，更需要有当地生活的人，和他们日常，不同于外界的生活方式。这样的民俗，风俗，才是可以让游客愿意再次光顾的原因。所以答案是「風土特有の文化や産業の中で人々が暮らしていること」。",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-読解-9-53",
+              "questionNo": 53,
+              "question": "筆者によると、【①天邪鬼(あまのじゃく)としての芸術】が社会に必要なのはなぜか。",
+              "subQuestion": null,
+              "passage": "　(2)&nbsp;芸術作品が私たちにもたらすものは、感動ばかりではない。驚きとか困惑、ときに不快感やイライラ感だったりする。それまでだれも思いつかなかったような形状や色彩や音は、私たちをさまざまに揺さぶる。私たちは慣れ親しんだ世界に浸っているとき心地よさに包まれているが、そこから新しいものは生まれない。そういう意味で穏やかで心地よい文化は、保守的で現状肯定的であり、創造性やエネルギーにとぼしい。だからこそ、あえて不安とか狂気、驚きといった刺激をもたらしてくれる<b>①天邪鬼(あまのじゃく)(注1)としての芸術</b>が社会には必要なのである。\n　そういう意味で芸術は安定した穏やかなものを否定するところで生まれる。そうした芸術が誕生すると、社会は大きな包摂(ほうせつ)性(注2)をもっているから、トゲトゲしたものもくるんで呑(の)み込んでしまう。すると、また異質な刺激因子としての芸術が必要になってくる。<b>②その繰り返し</b>によって、社会と文化のエネルギーが維持されるのではないか。\n　(中略)\n　そうした芸術の天邪鬼(あまのじゃく)性は、活力よりも穏やかさが優勢になりがちな成熟社会においてはより重要である。しかも、いまは昔とちがって世の中の変化のサイクルがどんどん短くなっており、これは芸術を生み出す側に大きな変化が求められていることを意味している。なぜなら時代の変化に合わそうとすると、必然的に次々と作品を世に出さなければならず、個々の作品の質を高めることがむずかしくなる。質を高めて完成域に近づいたときには、もう時代は次のサイクルに入っていて、次の作品に取りかからなくてはならない。\n　(注1)天邪鬼(あまのじゃく):ここでは、逆らったり否定したりするようなもの&nbsp;\n　(注2)包摂(ほうせつ)性:中に包み込む性質",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "社会が不安や刺激を当然のものとして受け入れられるようになるから",
+                "社会にこれまでにないような創造性やエネルギーをもたらすから",
+                "社会の穏やかさや心地よさを人々に再認識させるから",
+                "社会の不安や狂気や驚きから人々を解放するから"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 2,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(2)\n　问题是:天邪鬼(喜欢唱反调的)一样的艺术存在的必要是什么?文章中提到，天邪鬼一样颠覆性的艺术，带给社会很多的冲击力，可以为安稳的社会带来未曾有过的创造性和能量。所以答案是「社会にこれまでにないような創造性やエネルギーをもたらすから」。",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-読解-9-54",
+              "questionNo": 54,
+              "question": "【②その繰り返し】とあるが、何を繰り返すのか。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "ある芸術が社会に取り込まれ、また異質性を持った別の芸術が求められること",
+                "ひとつの芸術が社会に完全に排除されると、次の新たな芸術が誕生すること",
+                "新しい芸術が、社会に刺激を与えたり与えなかったりすること",
+                "芸術に、同質性が求められたり異質性が求められたりすること"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 1,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(1)\n　问题是:提到“反复”，这里的反复指的是什么?文中有写道，当与社会不和谐的，有叛逆精神的艺术出现的时候，会被社会的包容性吞没，渐渐融入到社会中，这个时候社会就会需要其他能带来挑战和能量的艺术，然后再将其吞没和包容，这里的反复正是指这个出现-挑战-吞没-再出现的过程。所以答案是「ある芸術が社会に取り込まれ、また異質性を持った別の芸術が求められること」。",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-読解-9-55",
+              "questionNo": 55,
+              "question": "筆者によると、いまの芸術家はどのような状況に置かれているか。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "時代の変化を感じさせる作品を世に出さなければならない。",
+                "穏やかさをもたらす作品を世に出さなければならない。",
+                "常に作品の質を追求していかなければならない。",
+                "作品を世に出し続けていかなければならない。"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 4,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(4)\n　问题是:现在的艺术家被迫处于什么样的一种状况?文中有写道，现在社会的节奏变快，对艺术的需求节奏也变快了，所以艺术家需要不停地产生出新的艺术作品，当一个作品刚被认可的时候，可能时代已经走到了下一个章节，所以又得抓紧创作下面的作品。所以正确答案是「作品を世に出し続けていかなければならない」。",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-読解-9-56",
+              "questionNo": 56,
+              "question": "【①大きな誤り】とは何か。",
+              "subQuestion": null,
+              "passage": "　(3)&nbsp;いま私たちの多くは、社会など動かしようがないと考えているのではないでしようか。そして、それを所与(注1)の条件として、どのように行動すればいいかの判断基準を決めているのです。言い換えれば私たちは、「この社会は動かしようがないのだから、それを現実として受け入れるしかない」と思い込み、その範囲内で実行可能な行為しか考慮しなくなってしまうのです。ここに<b>①大きな誤り</b>があります。\n　たしかにこの社会は動かし難い。それは事実です。しかし、そのことと、この社会がいかにあるべきかは、まったく別のことです。にもかかわらず、目の前の現実に依拠(いきょ)(注2)して、私たちの行為の正しさやよさが決められてしまう。これでは、現実に不正義が行われていても、それを問うことはできません。なぜなら、そのような現実を前提にして、正しい行為とは何かのルール設定がなされているからです。目の前の現実が正義にかなっていない場合、そこでの行為の正しさやよさを問うことはできないと私は考えていますが、ともすると(注3)私たちは、その現実の範囲内での「適切な」行為を「正しい」行為であると考えてしまいがちです。たしかに、<b>②その現実</b>が動かしがたく、そのなかで生きていかねばならないとすれば、そこにおいて最も適切な行為とは何かを探究することには意味がありますし、その探究によって最も適切とされる行為を選択すべきでしょう。\n　しかしながら、その現実のほうに問題があるとすれば、そこで最も適切とされた行為は「適切」であるにしても、「正しい」行為ではないはずです。\n　(注1)所与の:与えられた\n　(注2)~に依拠(いきょ)する:~に基づく\n　(注3)ともすると:ここでは、つい",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "あるべき社会の姿と現実とを区別できず、的確な判断ができないこと",
+                "現実社会における行動の判断基準があるにもかかわらず、従わないこと",
+                "現実は動かしようがないとあきらめて、自ら動こうとしないこと",
+                "現実を変えられないものとして受け入れ、そのなかでしか行動を考えないこと"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 4,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(4)\n　问题是:“大的错误”指的是什么错误?文章开头有提到，现在人们都普遍认为现实是很难被改变的，所以他们会把现实作为一种不变的事物接受，然后只在这个范围内规划自己的行为。所以答案是「現実を変えられないものとして受け入れ、その中でしか行動を考えないこと」。",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-読解-9-57",
+              "questionNo": 57,
+              "question": "【②その現実】とあるが、どのようなものか。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "不正義が行われている現実",
+                "何が不正義か決められない現実",
+                "社会が正義を求めている現実",
+                "あるべき社会を求めている現実"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 1,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(1)\n　问题是:作者所说的“那样的现实”，指的是什么现实?文章开头阐述了人们现在固有的行为模式，都是以“现实不可变”为前提进行的，在这个前提下去做“合适”的事情，然而当这个现实本身是“非正义，不正确”的时候，人们做的事情就是“合适”而“非正义”的。所以这个现实指的是价值观为“非正义”的现实，答案是「不正義が行われている現実」。",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-読解-9-58",
+              "questionNo": 58,
+              "question": "行為の適切さと正しさについて、筆者はどのように考えているか。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "現実においては、正しい行為より最も適切とされる行為を選択すべきだ。",
+                "現実で適切とされる行為が、いつも正しい行為であるとは言えない。",
+                "行為の正しさを追求しすぎて、現実における適切さを忘れてはいけない。",
+                "最も適切な行為を探究しても、正しい行為は見つけ出せない。"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 2,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(2)\n　问题是:关于合适的行为和正确的行为，笔者是如何考虑的?如上一问中分析的，当现实是不正确非正义的时候，人们做的事情就有可能是“合适”而“非正义”的，所以正确答案是「現実で適切さとされる行為がいつも正しい行為であるとは言えない」。",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            }
+          ]
+        },
+        {
+          "bigTitle": "次の文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4から一つ選びなさい。",
+          "bigQuestionNo": 10,
+          "questions": [
+            {
+              "questionId": "n1-2017.12-読解-10-59",
+              "questionNo": 59,
+              "question": "筆者によると、サル社会のルールとは何か。",
+              "subQuestion": null,
+              "passage": "　互いに視線を向けるという場面では、サルと人間には大きな違いがある。サルにとって相手をじっと見つめるのは軽い威嚇(いかく)になり、強いサルの特権である。弱いサルは、見つめられたら決して見返してはいけない。挑戦したとみなされて攻撃を受ける羽目になるからだ。強いサルの視線を避けて横や下を向くか、歯をむき出して笑ったような表情をすればいい。\n　強いサルは自分の優位性を確認できれば、それ以上威嚇(いかく)することはない。ただ、自分が強いサルの関心を引きそうな食物に手をかけていたら、すぐさまその場を退いたほうがいいだろう。競合する場面では、弱いサルが強いサルに譲るように誰もが期待しているからだ。それがサル社会のルールである。\n　人間ではサルとは違ったことが起こる。時折「眼(がん)(注1)をつけただろう」とすごまれる(注2)ことがあるが、見つめるという行為はふつう威嚇(いかく)にはつながらない。むしろ、相手に積極的な関心を向けたり、許容や忠告、愛の表現であったりする。視線の向け方にも作法があり、目をかっと見開いたり、細めたり、丸くしたり、四角にしたり、横目や流し目、上目づかいや見下すなど、多種多様である。その作法は文化によっても、性別や年齢、身分や服装によっても違ってくる。それは人間にとって、顔と顔とを合わせ、視線を交わすことが重要なコミュニケーションであるからだ。\n　実際、言葉が発達した私たちの社会でも、重要なことは直接会って決めることが多いし、面接は人物を確かめる手段として重用されている。\n　(中略)&nbsp;ところが、現代の情報機器はこの視線の作法をあまり使わなくてもすむ社会をつくってしまった。人々は毎日インターネットやメールをのぞくために多くの時間を使っている。家族や親しい仲間とじっくり顔を合わせて、対話や協同作業を楽しむ時間を失いつつある。\n　その結果、多様な視線の作法を忘れ、他人と視線を合わせることが億劫(おっくう)&nbsp;となっているのではないだろうか。だが、言葉は視線のコミュニケーションを代替できない。言葉は意味を、視線は感情を伝える。むしろ意味があいまいであるからこそ、視線は暖かくも冷たくもなりうるし、そこで受けた印象を後で変えることもできるのである。\n　言葉は視覚で得た映像や画像を意味として切り取る。そして文字はその言葉を化石化する装置である。それが持ち運び可能な効率的な手段だからこそ、人間は世界を言葉や文字で塗り替えた。だがそのおかげで、私たちは豊かな心を育んできた視線による対面の世界を忘れようとしている。それは皮肉にもサルのような視線を合わせない、優劣社会に移行することにつながるのではないか、と私は不安に思っている。\n　(注1)眼(がん)をつける:相手の顔をにらむ\n　(注2)すごむ:脅すような態度をとる",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "強いサルも弱いサルも、挑戦されれば相手を攻撃する。",
+                "強いサルは、弱いサルを威(い)嚇(かく)することはない。",
+                "弱いサルは、強いサルに挑戦するようなことはしない。",
+                "弱いサルは、強いサルの関心を引こうとする。"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 3,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(3)\n　问题是:猿猴的社会规则是怎样的?文章第一段说猿猴的社会里面，强的猿猴会通过目视弱的猿猴来宣告主权，弱的猿猴一般也不敢看回去。当弱的猿猴的食物被强的猿猴盯上之后，一般不会去挑战权威而是拱手奉上。所以猿猴社会的规则是「弱いサルは強いサルに挑戦するようなことはしない」。",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-読解-10-60",
+              "questionNo": 60,
+              "question": "サルとは違ったこととは何か。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "視線以外の手段を使って気持ちを表現すること",
+                "視線の向け方が場面によって決められること",
+                "視線を向け続ければ威嚇(いかく)につながること",
+                "視線を様々な意味に使い分けること"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 4,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(4)\n　问题是:“和猿猴不同”的是哪个方面?文章在第一段中提到了猿猴界，目光的对视代表着挑衅，但是在人类之间，目光对视所代表的含义则不同，有爱抚的目光，关怀的目光，感兴趣的目光，等等，所以是有各种各样的功能和含义在里面的。所以答案是「視線を様々な意味に使い分けること」。",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-読解-10-61",
+              "questionNo": 61,
+              "question": "筆者は、視線の作法をどのようにとらえているか。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "お互いの感情をうまく伝え合うために必要なもの",
+                "言葉によるコミュニケーションの替わりになるもの",
+                "相手にいやな感情を伝えないようにするためのもの",
+                "性別や年齢、身分や服装に惑わされないように使うもの"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 1,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(1)\n　问题是:笔者如何看待使用视线交流的礼节?文章的主旨即是在说，目光对视可以传达各种意思和情感，有时候语言无法表述清楚的内容也可以通过视线交流来传递。所以答案是「お互いの感情をうまく伝え合うために必要なもの」。",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-読解-10-62",
+              "questionNo": 62,
+              "question": "筆者の考えに合うものはどれか。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "情報機器を使用せずに感情を伝え合うことは難しくなってきている。",
+                "情報機器によるよりも対面のほうが、意味を伝え合うには効果的である。",
+                "情報機器の使用も視線を交わすことも、コミュニケーションに不可欠である。",
+                "情報機器の発達で、視線がコミュニケーションに果たす役割が見失われつつある。"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 4,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(4)\n　问题是:符合作者想法的是哪一项?文章中说到，因为信息化的发展，人跟人见面的机会越来越少，大部分通过文字来交流，作者担心，视线在交流中的作用会越来越弱，失去作用。所以正确选项是「情報機器の発達で視線がコミュニケーションに果たす役割が失われつつある」。",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            }
+          ]
+        },
+        {
+          "bigTitle": "次の&nbsp;A&nbsp;と&nbsp;B&nbsp;の文章を読んで、後の問いに対する答えとして最もよいものを、1・&nbsp;2・3・4&nbsp;から一つ選びなさい。",
+          "bigQuestionNo": 11,
+          "questions": [
+            {
+              "questionId": "n1-2017.12-読解-11-63",
+              "questionNo": 63,
+              "question": "部下に未経験の仕事をさせることについて、AとBはどのように述べているか。",
+              "subQuestion": null,
+              "passage": "　A\n　会社の仕事は学校と違い、知識だけでは役に立たず、実際の判断や行動が問題である。だから何ごとも、実際に経験しない限り、新しい能力は身につかない。今持っている能力というのはすべて、過去において未経験の仕事に取り組んだ結果、身についたものだ。\n　したがって、部下や後輩に対しては常に、今までの仕事をだいたいこなせる(注)ようになったなと思ったら、すかさず彼にとっては未経験の仕事を与え、それをやりとげるようバックアップをする必要がある。(中略)\n　そして何とか問題を克服したら、必ずほめる。ほめることによって本人も“おれもやれるな”と自信がつき、次はこちらから未経験の仕事を与えなくても、自分で新しい問題を買って出るようになる。そして全力投球でそれと対決し、克服してさらに自信の持てる範囲を広げ、さらに未経験の課題に取り組むという成長循環に入っていく。\n　B\n　企業で人材を育てるには、上司が部下の行動のスタイルを理解して指導を行うことが\n　重要だ。これまでは、まずはとにかく経験させ、その過程で試行錯誤しながら進歩していくのがよいと考えられてきたが、最近では事前に情報をインプットした上で経験をしたいというタイプが多い。このようなタイプには、未経験の仕事をいきなり与えるのではなく、十分に情報を与え全体像をつかませた上で、新しい仕事に取り組ませることが効果的だ。\n&nbsp;&nbsp;&nbsp;&nbsp;最近の部下は現状維持でいいと考える人が多いという批判が聞かれるが、彼らの行動のスタイルに合わせて経験を積ませていくことによって視野が広がり、自ら新しいことに取り組もうという姿勢を持つようになるだろう。\n　(注)こなす:処理する",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "AもBも、仕事上の判断や行動を学べるので多くさせたほうがいいと述べている。",
+                "AもBも、与えられた仕事ができるようになったらさせたほうがいいと述べている。",
+                "Aは自力でやりとげられそうな仕事ならさせたほうがいいと述べ、Bはイメージがつかめる仕事ならさせたほうがいいと述べている。",
+                "Aは積極的に経験させたほうがいいと述べ、Bは十分な情報を与えてからさせたほうがいいと述べている。"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 4,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(4)\n　问题是:关于让部下做没经验的工作，A和B分别是怎么叙述的?\n　A文章的主旨是上司应该给到部下很多未知的工作和锻炼机会，让部下挑战自己，发现新的工作技能，获得快速的成长。B文章的主旨是觉得应该首先给到部下关于工作的尽量多的信息之后，再让部下去做会比较好。\n　选项(1):A和B都认为可以学到工作上的判断和做法，所以多多益善。所以错误。\n　选项(2):A和B都认为等部下会做交待的工作了之后，再让部下去做比较好。所以错误。\n　选项(3):A说如果是可以自力更生完成的工作，那么可以让部下去做，B说如果是可以想象到的工作，可以让部下去做。所以错误。\n　选项(4):A说最好让部下积极积累(工作)经验，B说先给到充分的信息之后再让部下做比较好。正确。",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-読解-11-64",
+              "questionNo": 64,
+              "question": "AとBが共通して部下に期待していることは何か。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "会社で必要な新しい行動スタイルを身につけること",
+                "新しいことに挑戦しようという気持ちを持つこと",
+                "自力で多くの問題を克服できるようになること",
+                "自身がしている仕事に自信を持つこと"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 2,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(2)\n　问题是:A和B对待部下的共同期望是什么?\n　选项(1):掌握公司所需的行为模式\n　选项(2):能够拥有希望挑战新事物的态度\n　选项(3):能够靠自己的能力解决很多问题\n　选项(4):对自己所做的工作抱有自信，A和B两篇文章的末尾都有提到，不论是让部下多去积累经验，还是给到充足的信息之后再去尝试，AB所期待的都是部下通过这些尝试可以变得愿意去挑战新事物，所以选(2)。",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            }
+          ]
+        },
+        {
+          "bigTitle": "次に文章を読んで、後の問いに対する答えとして最もよいものを、1・2・3・4&nbsp;から一つ選びなさい。",
+          "bigQuestionNo": 12,
+          "questions": [
+            {
+              "questionId": "n1-2017.12-読解-12-65",
+              "questionNo": 65,
+              "question": "そうした雰囲気とあるが、どのようなことか。",
+              "subQuestion": null,
+              "passage": "　このところ、「○○倫理」という言葉をしばしば耳にする。マスコミでは、政治倫理、企業倫理、メディア倫理などといった言葉はおなじみのものだろう。そうした言葉は、なにか問題が起きたときの掛け声のようなもので、空疎(くうそ)(注)な常套句(じょうとうく)にすぎないのかもしれない。だが、漠然と、倫理といったものが必要だという気分が漂っているのは、事実であるように思う。\n　そうした雰囲気を受けて、倫理学では、応用倫理学と呼ばれる分野が急速に成長し、さまざまな倫理が提唱されつつある。たとえば、生命倫理、環境倫理、ビジネス倫理に始まって、情報倫理、工学倫理、スポーツ倫理、さらには、遺伝子倫理、脳神経倫理、ナノ倫理、ロボット倫理といった具合に、言葉を見ただけでは、内容がにわかには想像しにくいものまで登場している。「なんでも倫理症候群」とでもいいたくなるほど、「○○倫理」が大はやりなのだ。どうやら、現代は「倫理的な時代」らしいのである。\n　こうした倫理ばやりは、わたしのように哲学や倫理学を専攻する人間にとって、必ずしも喜ばしい事態であるわけではない。それは、倫理が空気のようなものだからだ。\n　普段、わたしたちが生活しているときに、空気を吸っていることをとりたてて意識などしない。生きていく上で空気が必要なことはわかってはいても、希薄になって、息苦しくでもならない限り、空気は意識されたりはしない。&nbsp;\n　倫理には、それと似たところがある。倫理がさかんに語られるのは、社会がそれまで通りにはいかず、息苦しくなっているような時代である。少なくとも歴史を振り返ってみると、「倫理的な時代」はいずれも価値観の大きな変動期にあたっていた。つまり、それまで当然だと思っていた考え方や生き方が大きく揺らぎ、どう考え、どう生きたらよいのかわからないようなときに、倫理は求められてきたのだ。わたしたちが生きている現代は、そうした時代である可能性が高い。\n　この場合、一番の問題は、変動期の人間には、先が容易に見通せないことである。現在は、過去の歴史的な事例とは違って、どのような結果が待ち受けているか、あらかじめ知ることはできない。わたしたちは、そうした不確かさのなかで、現在を生きていかざるをえない。\n　もちろん、こうした事態を、わたしたちが新たな未来を切り開くのだと、積極的にいってみることはできるかもしれない。しかし、そうした積極的な態度や発言が簡単にはできないのが、「倫理的な時代」なのだ。とりあえずできるのは、なにが起きつつあるのか、どのような問題が出てきているのかを知り、考えていくことである。それが、現在を生きるということであるはずだ。&nbsp;\n　(注)空疎(くうそ)\n　(注)な常套句(じょうとうく):ここでは、中身のない形だけの言葉",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "社会が倫理を求めている。",
+                "マスコミが倫理の必要性を訴えている。",
+                "倫理学の価値が見直されつつある。",
+                "倫理学が他の分野に応用され始めている。"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 1,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(1)\n　问题是:那样的氛围，是指怎样的气氛?前面提到，大众媒体都在宣传伦理。而由于这种造势，「漠然と、倫理といったものが必要だという気分が漂っているのは、事実であるように思う」。(模糊地觉得，好像事实就是这样，到处弥漫着需要伦理的气氛)，所以这样的氛围指的就是当今社会上需要伦理这样的氛围。所以答案是「社会が論理を求めている」。",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-読解-12-66",
+              "questionNo": 66,
+              "question": "倫理と空気の似ている点について、筆者の考えに合うのはどれか。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "実体がわかりにくいので、意識されない。",
+                "生きていく上で、常になくてはならない。",
+                "必要だと感じなければ、意識されない。",
+                "必要になっても、すぐには意識されにくい。"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 3,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(3)\n　问题是:伦理和空气相同的点是什么?文章中说到，空气是我们生存所需要的，不到缺氧得很痛苦的时候，我们是不会感受到空气的存在的，而伦理跟空气一样，没感到必要的时候，不会意识到它。所以正确选项是选项(3)「必要と感じなければ、意識されない」。",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-読解-12-67",
+              "questionNo": 67,
+              "question": "筆者は「倫理的な時代」をどのような時代だととらえているか。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "新たな価値観が生まれ、社会に受け入れられている。",
+                "従来の価値観が通用しなくなり、人々が生きる方向性を見失っている。",
+                "倫理の価値が再評価され、次の世代に積極的に倫理を教えている。",
+                "倫理自体に価値がないと考えられ、社会が大きく揺らいでいる。"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 2,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(2)\n　问题是:作者是如何看待“伦理时代”的?文章中提到，在社会特别强调伦理的时候，一般都是社会环境剧烈动荡的时候，现在正是这样的一个时代。在这样的时代里，以前的价值观已不再适用，人们迷失了活着的方向。所以正确选项是(2)「従来の価値観が通用しなくなり、人々が生きる方向性を見失っている」。",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-読解-12-68",
+              "questionNo": 68,
+              "question": "筆者は「倫理的な時代」を生きる人間にできることは何だと考えているか。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "積極的に発言し行動すること",
+                "現在の経験を将来に生かすこと",
+                "現状の問題を把握して考えること",
+                "未来を切り開く方法を考えること"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 3,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(3)\n　问题是:作者认为什么是生活在“伦理时代”的人们能够做的事情?文章最后一段有一句「とりあえずできるのは、なにが起きつつあるのか、どのような問題が出てきているのかを知り、考えていくことである。」(总而言之，我们现在能做的，就是了解当下正在发生什么事情，出现什么样的问题，并进行思考)。所以正确选项是选项(3):「現状の問題を把握して考えること」。",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            }
+          ]
+        },
+        {
+          "bigTitle": "右のページは、北山大学のホームページに書かれた証明書発行についての案内で&nbsp;ある。下の問いに対する答えとして最もよいものを、1・2・3・4&nbsp;から一つ選びなさい。",
+          "bigQuestionNo": 13,
+          "questions": [
+            {
+              "questionId": "n1-2017.12-読解-13-69",
+              "questionNo": 69,
+              "question": "マイクさんは北山大学の4年生である。就職活動のため、以下の四つの証明書が必要になり、メモをした。この中で、受付時間内に申請をすれば、その日のうちに受け取れるのはどれか。マイクさんのメモ・成績証明書・卒業見込証明書・健康診断証明書(書式は会社指定のもの)・調査書(書式は会社指定のもの)",
+              "subQuestion": null,
+              "passage": "　北山大学\n　証明書の発行&nbsp;(在学生)&nbsp;本学に在籍中の学生には以下の証明書の発行が可能です。証明書の種類や書式によって、発行方法が異なります。\n　証明書自動発行機で申請?発行できる証明書&nbsp;(全て北山大学の書式を使用)\n　<img>\n　※2&nbsp;手数料は、お問い合わせください。\n　?申請の時点で、その前の学期までの授業料を納入していない場合証明書は発行できません。\n　?申請には、学生証が必要です。証明書自動発行機を利用しての申請は、さらに4&nbsp;けたのパスワードも必要です。パスワードを忘れた学生は、所届学部の事務に再立付を願い出てください。\n　?3月&nbsp;26日~4月&nbsp;5日、9月&nbsp;25日~&nbsp;10月&nbsp;5日は、データ更新のため、証明書自動発行機の利用を停止します。この期間は、全ての証明書の申請を学生センター窓口で受け付けます。電話やメールによる申請はできませんが、郵送での申請は可能です。その場合、郵送にかかる日数も考慮して申請してください。詳しくは、お問い合わせください。\n　問い合わせ先:北山大学学生センター証明書係(041-295ー8941&nbsp;)",
+              "title": "",
+              "imageUrls": [
+                "https://audio-jlpt.oss-cn-shanghai.aliyuncs.com/images/n1/201712/IMG_201712_13P.png"
+              ],
+              "options": [
+                "成績証明書と卒業見込証明書",
+                "成績証明書と卒業見込証明書と健康診断証明書",
+                "成績証明書と卒業見込証明書と調查書",
+                "成績証明書と健康診断証明書"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 1,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(1)\n　问题是:マイク是北山大学四年级的学生，为求职，他需要以下四种证明书，他写下了需要的文件。如果在受理期间申请，那这些文件中的哪些是能够当天拿到的呢?一共有四种证明，其中看表格一中右边栏记录的办公时间，可以判断出当天能拿到的有“成绩证明”，“在学证明”和“健康诊断证明”。然而由于“健康诊断证明”需要公司指定的格式来开具，只能在窗口申请，需要几天，不能当天拿到，所以排除。正确选项是选项(1):成绩证明和在学证明。",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            },
+            {
+              "questionId": "n1-2017.12-読解-13-70",
+              "questionNo": 70,
+              "question": "証明書の申請に関して、留意しなければならないことはどれか。",
+              "subQuestion": null,
+              "passage": "",
+              "title": "",
+              "imageUrls": null,
+              "options": [
+                "申請までに、次の学期の授業料を納入しておく必要がある。",
+                "窓口で申請する場合、学生証とパスワードが必要である。",
+                "学生センター窓口でしか申請ができない期間がある。",
+                "大学に行けない場合の申請方法はメールのみである。"
+              ],
+              "optionCount": 4,
+              "qaType": 0,
+              "rightAnswer": 3,
+              "selectedAnswer": 0,
+              "listening": false,
+              "analysis": {
+                "explain": "　正确答案:(3)\n　问题是:在申请证明书的过程中，需要注意的点是?\n　选项(1):申请前必须缴纳好下学期的学费。表二下第一个注意事项提到，申请时如果还未缴纳上学期学费，则不予开具证明。选项(1)排除。\n　选项(2):在窗口申请需要学生证和密码。表二下第二个注意事项提到，用机器自助申请时需要密码。选项(2)排除。\n　选项(3):某段时期内只能通过学生中心的办事窗口申请。表二下第三条有讲到申请有两种方式——到窗口申请，或者机器自助申请。但是需要注意的是，有一段时间机器自助申请是暂停的，所以只能到窗口申请。所以正确答案是选项(3)。\n　选项(4):不能去大学申请的情况下，只能使用邮件申请。最后一项注意事项提到，电话和邮件申请都不行，选项(4)排除。",
+                "rightCount": 0,
+                "wrongCount": 0,
+                "rightTime": 0,
+                "wrongTime": 0,
+                "lastAnswerNo": 0,
+                "fav": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

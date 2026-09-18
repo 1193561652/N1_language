@@ -1,0 +1,411 @@
+{
+  "status": "passed_with_warnings",
+  "totals": {
+    "exams": 28,
+    "sections": 502,
+    "questions": 2875,
+    "media_expected": 898,
+    "media_saved": 896,
+    "media_unavailable": 2
+  },
+  "exams": [
+    {
+      "year": "2010.12",
+      "sections": 18,
+      "questions": 105,
+      "parts": {
+        "grammar": 3,
+        "listening": 5,
+        "reading": 6,
+        "vocabulary": 4
+      },
+      "media_expected": 34,
+      "media_saved": 34,
+      "media_unavailable": 0
+    },
+    {
+      "year": "2011.07",
+      "sections": 18,
+      "questions": 103,
+      "parts": {
+        "grammar": 3,
+        "listening": 5,
+        "reading": 6,
+        "vocabulary": 4
+      },
+      "media_expected": 33,
+      "media_saved": 33,
+      "media_unavailable": 0
+    },
+    {
+      "year": "2011.12",
+      "sections": 18,
+      "questions": 103,
+      "parts": {
+        "grammar": 3,
+        "listening": 5,
+        "reading": 6,
+        "vocabulary": 4
+      },
+      "media_expected": 33,
+      "media_saved": 33,
+      "media_unavailable": 0
+    },
+    {
+      "year": "2012.07",
+      "sections": 16,
+      "questions": 85,
+      "parts": {
+        "grammar": 3,
+        "listening": 3,
+        "reading": 6,
+        "vocabulary": 4
+      },
+      "media_expected": 15,
+      "media_saved": 15,
+      "media_unavailable": 0
+    },
+    {
+      "year": "2012.12",
+      "sections": 18,
+      "questions": 104,
+      "parts": {
+        "grammar": 3,
+        "listening": 5,
+        "reading": 6,
+        "vocabulary": 4
+      },
+      "media_expected": 34,
+      "media_saved": 34,
+      "media_unavailable": 0
+    },
+    {
+      "year": "2013.07",
+      "sections": 18,
+      "questions": 106,
+      "parts": {
+        "grammar": 3,
+        "listening": 5,
+        "reading": 6,
+        "vocabulary": 4
+      },
+      "media_expected": 32,
+      "media_saved": 32,
+      "media_unavailable": 0
+    },
+    {
+      "year": "2013.12",
+      "sections": 18,
+      "questions": 106,
+      "parts": {
+        "grammar": 3,
+        "listening": 5,
+        "reading": 6,
+        "vocabulary": 4
+      },
+      "media_expected": 36,
+      "media_saved": 35,
+      "media_unavailable": 1
+    },
+    {
+      "year": "2014.07",
+      "sections": 18,
+      "questions": 107,
+      "parts": {
+        "grammar": 3,
+        "listening": 5,
+        "reading": 6,
+        "vocabulary": 4
+      },
+      "media_expected": 35,
+      "media_saved": 35,
+      "media_unavailable": 0
+    },
+    {
+      "year": "2014.12",
+      "sections": 18,
+      "questions": 107,
+      "parts": {
+        "grammar": 3,
+        "listening": 5,
+        "reading": 6,
+        "vocabulary": 4
+      },
+      "media_expected": 35,
+      "media_saved": 35,
+      "media_unavailable": 0
+    },
+    {
+      "year": "2015.07",
+      "sections": 18,
+      "questions": 107,
+      "parts": {
+        "grammar": 3,
+        "listening": 5,
+        "reading": 6,
+        "vocabulary": 4
+      },
+      "media_expected": 35,
+      "media_saved": 35,
+      "media_unavailable": 0
+    },
+    {
+      "year": "2015.12",
+      "sections": 18,
+      "questions": 107,
+      "parts": {
+        "grammar": 3,
+        "listening": 5,
+        "reading": 6,
+        "vocabulary": 4
+      },
+      "media_expected": 35,
+      "media_saved": 35,
+      "media_unavailable": 0
+    },
+    {
+      "year": "2016.07",
+      "sections": 18,
+      "questions": 106,
+      "parts": {
+        "grammar": 3,
+        "listening": 5,
+        "reading": 6,
+        "vocabulary": 4
+      },
+      "media_expected": 36,
+      "media_saved": 35,
+      "media_unavailable": 1
+    },
+    {
+      "year": "2016.12",
+      "sections": 18,
+      "questions": 107,
+      "parts": {
+        "grammar": 3,
+        "listening": 5,
+        "reading": 6,
+        "vocabulary": 4
+      },
+      "media_expected": 35,
+      "media_saved": 35,
+      "media_unavailable": 0
+    },
+    {
+      "year": "2017.07",
+      "sections": 18,
+      "questions": 105,
+      "parts": {
+        "grammar": 3,
+        "listening": 5,
+        "reading": 6,
+        "vocabulary": 4
+      },
+      "media_expected": 33,
+      "media_saved": 33,
+      "media_unavailable": 0
+    },
+    {
+      "year": "2017.12",
+      "sections": 18,
+      "questions": 105,
+      "parts": {
+        "grammar": 3,
+        "listening": 5,
+        "reading": 6,
+        "vocabulary": 4
+      },
+      "media_expected": 33,
+      "media_saved": 33,
+      "media_unavailable": 0
+    },
+    {
+      "year": "2018.07",
+      "sections": 18,
+      "questions": 105,
+      "parts": {
+        "grammar": 3,
+        "listening": 5,
+        "reading": 6,
+        "vocabulary": 4
+      },
+      "media_expected": 33,
+      "media_saved": 33,
+      "media_unavailable": 0
+    },
+    {
+      "year": "2018.12",
+      "sections": 18,
+      "questions": 105,
+      "parts": {
+        "grammar": 3,
+        "listening": 5,
+        "reading": 6,
+        "vocabulary": 4
+      },
+      "media_expected": 33,
+      "media_saved": 33,
+      "media_unavailable": 0
+    },
+    {
+      "year": "2019.07",
+      "sections": 18,
+      "questions": 104,
+      "parts": {
+        "grammar": 3,
+        "listening": 5,
+        "reading": 6,
+        "vocabulary": 4
+      },
+      "media_expected": 33,
+      "media_saved": 33,
+      "media_unavailable": 0
+    },
+    {
+      "year": "2019.12",
+      "sections": 18,
+      "questions": 104,
+      "parts": {
+        "grammar": 3,
+        "listening": 5,
+        "reading": 6,
+        "vocabulary": 4
+      },
+      "media_expected": 33,
+      "media_saved": 33,
+      "media_unavailable": 0
+    },
+    {
+      "year": "2020.12",
+      "sections": 18,
+      "questions": 103,
+      "parts": {
+        "grammar": 3,
+        "listening": 5,
+        "reading": 6,
+        "vocabulary": 4
+      },
+      "media_expected": 33,
+      "media_saved": 33,
+      "media_unavailable": 0
+    },
+    {
+      "year": "2021.07",
+      "sections": 18,
+      "questions": 104,
+      "parts": {
+        "grammar": 3,
+        "listening": 5,
+        "reading": 6,
+        "vocabulary": 4
+      },
+      "media_expected": 33,
+      "media_saved": 33,
+      "media_unavailable": 0
+    },
+    {
+      "year": "2021.12",
+      "sections": 18,
+      "questions": 104,
+      "parts": {
+        "grammar": 3,
+        "listening": 5,
+        "reading": 6,
+        "vocabulary": 4
+      },
+      "media_expected": 33,
+      "media_saved": 33,
+      "media_unavailable": 0
+    },
+    {
+      "year": "2022.07",
+      "sections": 18,
+      "questions": 103,
+      "parts": {
+        "grammar": 3,
+        "listening": 5,
+        "reading": 6,
+        "vocabulary": 4
+      },
+      "media_expected": 33,
+      "media_saved": 33,
+      "media_unavailable": 0
+    },
+    {
+      "year": "2022.12",
+      "sections": 18,
+      "questions": 96,
+      "parts": {
+        "grammar": 3,
+        "listening": 5,
+        "reading": 6,
+        "vocabulary": 4
+      },
+      "media_expected": 28,
+      "media_saved": 28,
+      "media_unavailable": 0
+    },
+    {
+      "year": "2023.07",
+      "sections": 18,
+      "questions": 96,
+      "parts": {
+        "grammar": 3,
+        "listening": 5,
+        "reading": 6,
+        "vocabulary": 4
+      },
+      "media_expected": 28,
+      "media_saved": 28,
+      "media_unavailable": 0
+    },
+    {
+      "year": "2023.12",
+      "sections": 18,
+      "questions": 96,
+      "parts": {
+        "grammar": 3,
+        "listening": 5,
+        "reading": 6,
+        "vocabulary": 4
+      },
+      "media_expected": 28,
+      "media_saved": 28,
+      "media_unavailable": 0
+    },
+    {
+      "year": "2024.07",
+      "sections": 18,
+      "questions": 96,
+      "parts": {
+        "grammar": 3,
+        "listening": 5,
+        "reading": 6,
+        "vocabulary": 4
+      },
+      "media_expected": 28,
+      "media_saved": 28,
+      "media_unavailable": 0
+    },
+    {
+      "year": "2024.12",
+      "sections": 18,
+      "questions": 96,
+      "parts": {
+        "grammar": 3,
+        "listening": 5,
+        "reading": 6,
+        "vocabulary": 4
+      },
+      "media_expected": 28,
+      "media_saved": 28,
+      "media_unavailable": 0
+    }
+  ],
+  "warnings": [
+    "2012.07: source provides only 16 sections and 85 questions",
+    "2013.12: 1 source media URL(s) unavailable",
+    "2016.07: 1 source media URL(s) unavailable"
+  ],
+  "errors": []
+}
