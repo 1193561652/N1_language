@@ -1,0 +1,66 @@
+{
+  "periods": {
+    "2025.12": {
+      "total": 96,
+      "source": 0,
+      "generated": 96
+    },
+    "2025.07": {
+      "total": 96,
+      "source": 0,
+      "generated": 96
+    },
+    "2024.12": {
+      "total": 96,
+      "source": 0,
+      "generated": 96
+    },
+    "2024.07": {
+      "total": 96,
+      "source": 40,
+      "generated": 56
+    },
+    "2023.12": {
+      "total": 96,
+      "source": 66,
+      "generated": 30
+    },
+    "2023.07": {
+      "total": 96,
+      "source": 35,
+      "generated": 61
+    },
+    "2022.12": {
+      "total": 95,
+      "source": 95,
+      "generated": 0
+    },
+    "2022.07": {
+      "total": 102,
+      "source": 102,
+      "generated": 0
+    },
+    "2021.12": {
+      "total": 103,
+      "source": 103,
+      "generated": 0
+    },
+    "2021.07": {
+      "total": 103,
+      "source": 103,
+      "generated": 0
+    }
+  },
+  "targetPeriods": [
+    "2025.12",
+    "2025.07",
+    "2024.12",
+    "2024.07",
+    "2023.12",
+    "2023.07",
+    "2022.12",
+    "2022.07",
+    "2021.12",
+    "2021.07"
+  ]
+}

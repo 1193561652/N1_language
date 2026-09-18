@@ -1,0 +1,3379 @@
+{
+  "periods": [
+    "2025.12",
+    "2025.07",
+    "2024.12",
+    "2024.07",
+    "2023.12",
+    "2023.07",
+    "2022.12",
+    "2022.07",
+    "2021.12",
+    "2021.07"
+  ],
+  "qualityStandard": {
+    "grammar": "逐项说明含义、区别、在本句能否使用及具体原因；排序题给出完整顺序和组合依据",
+    "reading": "引用或准确转述定位句，逐项核对范围、条件、因果、指代与无依据推断",
+    "listening": "基于听力原文说明谈话推进、转折、最终决定，并逐项指出被否定或未采用的位置",
+    "vocabulary": "逐项给出词义或读音、搭配差异，并说明正确或错误的具体原因"
+  },
+  "generatedCounts": {
+    "2023.07|听力": 30,
+    "2023.07|词汇": 3,
+    "2023.07|语法": 6,
+    "2023.07|阅读": 22,
+    "2023.12|听力": 30,
+    "2023.12|语法": 4,
+    "2024.07|听力": 30,
+    "2024.07|语法": 14,
+    "2024.07|阅读": 22,
+    "2024.12|听力": 30,
+    "2024.12|文字": 6,
+    "2024.12|词汇": 19,
+    "2024.12|语法": 19,
+    "2024.12|阅读": 22,
+    "2025.07|听力": 30,
+    "2025.07|文字": 6,
+    "2025.07|词汇": 19,
+    "2025.07|语法": 19,
+    "2025.07|阅读": 22,
+    "2025.12|听力": 30,
+    "2025.12|文字": 6,
+    "2025.12|词汇": 19,
+    "2025.12|语法": 19,
+    "2025.12|阅读": 22
+  },
+  "flaggedCounts": {
+    "2023.07|听力": 30,
+    "2023.07|词汇": 0,
+    "2023.07|语法": 0,
+    "2023.07|阅读": 22,
+    "2023.12|听力": 30,
+    "2023.12|语法": 0,
+    "2024.07|听力": 30,
+    "2024.07|语法": 0,
+    "2024.07|阅读": 22,
+    "2024.12|听力": 30,
+    "2024.12|文字": 0,
+    "2024.12|词汇": 0,
+    "2024.12|语法": 0,
+    "2024.12|阅读": 22,
+    "2025.07|听力": 30,
+    "2025.07|文字": 0,
+    "2025.07|词汇": 0,
+    "2025.07|语法": 14,
+    "2025.07|阅读": 22,
+    "2025.12|听力": 30,
+    "2025.12|文字": 0,
+    "2025.12|词汇": 0,
+    "2025.12|语法": 14,
+    "2025.12|阅读": 22
+  },
+  "flagCounts": {
+    "genericGrammarRole": 16,
+    "genericListening": 180,
+    "genericReading": 110,
+    "grammarMissing区别": 28,
+    "grammarMissing含义": 28,
+    "grammarMissing本句": 28,
+    "placeholderOptionsInQuestion": 42
+  },
+  "unflaggedGeneratedCount": 131,
+  "issueCount": 318,
+  "issues": [
+    {
+      "id": "markdown-2025.12-language-26",
+      "period": "2025.12",
+      "category": "语法",
+      "group": 5,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "grammarMissing含义：0/4",
+        "grammarMissing区别：0/4",
+        "grammarMissing本句：0/4"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-language-27",
+      "period": "2025.12",
+      "category": "语法",
+      "group": 5,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "grammarMissing含义：0/4",
+        "grammarMissing区别：0/4",
+        "grammarMissing本句：0/4"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-language-28",
+      "period": "2025.12",
+      "category": "语法",
+      "group": 5,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "grammarMissing含义：0/4",
+        "grammarMissing区别：0/4",
+        "grammarMissing本句：0/4"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-language-29",
+      "period": "2025.12",
+      "category": "语法",
+      "group": 5,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "grammarMissing含义：0/4",
+        "grammarMissing区别：0/4",
+        "grammarMissing本句：0/4"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-language-30",
+      "period": "2025.12",
+      "category": "语法",
+      "group": 5,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "grammarMissing含义：0/4",
+        "grammarMissing区别：0/4",
+        "grammarMissing本句：0/4"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-language-31",
+      "period": "2025.12",
+      "category": "语法",
+      "group": 5,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "grammarMissing含义：0/4",
+        "grammarMissing区别：0/4",
+        "grammarMissing本句：0/4"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-language-32",
+      "period": "2025.12",
+      "category": "语法",
+      "group": 5,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericGrammarRole",
+        "grammarMissing含义：0/4",
+        "grammarMissing区别：0/4",
+        "grammarMissing本句：0/4"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-language-33",
+      "period": "2025.12",
+      "category": "语法",
+      "group": 5,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "grammarMissing含义：0/4",
+        "grammarMissing区别：0/4",
+        "grammarMissing本句：0/4"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-language-34",
+      "period": "2025.12",
+      "category": "语法",
+      "group": 5,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "grammarMissing含义：0/4",
+        "grammarMissing区别：0/4",
+        "grammarMissing本句：0/4"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-language-35",
+      "period": "2025.12",
+      "category": "语法",
+      "group": 5,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericGrammarRole",
+        "grammarMissing含义：0/4",
+        "grammarMissing区别：0/4",
+        "grammarMissing本句：0/4"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-language-41",
+      "period": "2025.12",
+      "category": "语法",
+      "group": 7,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericGrammarRole",
+        "grammarMissing含义：0/4",
+        "grammarMissing区别：0/4",
+        "grammarMissing本句：0/4"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-language-42",
+      "period": "2025.12",
+      "category": "语法",
+      "group": 7,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericGrammarRole",
+        "grammarMissing含义：0/4",
+        "grammarMissing区别：0/4",
+        "grammarMissing本句：0/4"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-language-43",
+      "period": "2025.12",
+      "category": "语法",
+      "group": 7,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericGrammarRole",
+        "grammarMissing含义：0/4",
+        "grammarMissing区别：0/4",
+        "grammarMissing本句：0/4"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-language-44",
+      "period": "2025.12",
+      "category": "语法",
+      "group": 7,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericGrammarRole",
+        "grammarMissing含义：0/4",
+        "grammarMissing区别：0/4",
+        "grammarMissing本句：0/4"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-language-45",
+      "period": "2025.12",
+      "category": "阅读",
+      "group": 8,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-language-46",
+      "period": "2025.12",
+      "category": "阅读",
+      "group": 8,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-language-47",
+      "period": "2025.12",
+      "category": "阅读",
+      "group": 8,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-language-48",
+      "period": "2025.12",
+      "category": "阅读",
+      "group": 8,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-language-49",
+      "period": "2025.12",
+      "category": "阅读",
+      "group": 9,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-language-50",
+      "period": "2025.12",
+      "category": "阅读",
+      "group": 9,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-language-51",
+      "period": "2025.12",
+      "category": "阅读",
+      "group": 9,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-language-52",
+      "period": "2025.12",
+      "category": "阅读",
+      "group": 9,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-language-53",
+      "period": "2025.12",
+      "category": "阅读",
+      "group": 9,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-language-54",
+      "period": "2025.12",
+      "category": "阅读",
+      "group": 9,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-language-55",
+      "period": "2025.12",
+      "category": "阅读",
+      "group": 9,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-language-56",
+      "period": "2025.12",
+      "category": "阅读",
+      "group": 9,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-language-57",
+      "period": "2025.12",
+      "category": "阅读",
+      "group": 10,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-language-58",
+      "period": "2025.12",
+      "category": "阅读",
+      "group": 10,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-language-59",
+      "period": "2025.12",
+      "category": "阅读",
+      "group": 10,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-language-60",
+      "period": "2025.12",
+      "category": "阅读",
+      "group": 11,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-language-61",
+      "period": "2025.12",
+      "category": "阅读",
+      "group": 11,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-language-62",
+      "period": "2025.12",
+      "category": "阅读",
+      "group": 12,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-language-63",
+      "period": "2025.12",
+      "category": "阅读",
+      "group": 12,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-language-64",
+      "period": "2025.12",
+      "category": "阅读",
+      "group": 12,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-language-65",
+      "period": "2025.12",
+      "category": "阅读",
+      "group": 13,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-language-66",
+      "period": "2025.12",
+      "category": "阅读",
+      "group": 13,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-listening-1-1",
+      "period": "2025.12",
+      "category": "听力",
+      "group": 1,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-listening-1-2",
+      "period": "2025.12",
+      "category": "听力",
+      "group": 1,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-listening-1-3",
+      "period": "2025.12",
+      "category": "听力",
+      "group": 1,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening",
+        "placeholderOptionsInQuestion"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-listening-1-4",
+      "period": "2025.12",
+      "category": "听力",
+      "group": 1,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening",
+        "placeholderOptionsInQuestion"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-listening-1-5",
+      "period": "2025.12",
+      "category": "听力",
+      "group": 1,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-listening-2-1",
+      "period": "2025.12",
+      "category": "听力",
+      "group": 2,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening",
+        "placeholderOptionsInQuestion"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-listening-2-2",
+      "period": "2025.12",
+      "category": "听力",
+      "group": 2,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening",
+        "placeholderOptionsInQuestion"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-listening-2-3",
+      "period": "2025.12",
+      "category": "听力",
+      "group": 2,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-listening-2-4",
+      "period": "2025.12",
+      "category": "听力",
+      "group": 2,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-listening-2-5",
+      "period": "2025.12",
+      "category": "听力",
+      "group": 2,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-listening-2-6",
+      "period": "2025.12",
+      "category": "听力",
+      "group": 2,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-listening-3-1",
+      "period": "2025.12",
+      "category": "听力",
+      "group": 3,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening",
+        "placeholderOptionsInQuestion"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-listening-3-2",
+      "period": "2025.12",
+      "category": "听力",
+      "group": 3,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening",
+        "placeholderOptionsInQuestion"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-listening-3-3",
+      "period": "2025.12",
+      "category": "听力",
+      "group": 3,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening",
+        "placeholderOptionsInQuestion"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-listening-3-4",
+      "period": "2025.12",
+      "category": "听力",
+      "group": 3,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening",
+        "placeholderOptionsInQuestion"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-listening-3-5",
+      "period": "2025.12",
+      "category": "听力",
+      "group": 3,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening",
+        "placeholderOptionsInQuestion"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-listening-4-1",
+      "period": "2025.12",
+      "category": "听力",
+      "group": 4,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening",
+        "placeholderOptionsInQuestion"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-listening-4-2",
+      "period": "2025.12",
+      "category": "听力",
+      "group": 4,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening",
+        "placeholderOptionsInQuestion"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-listening-4-3",
+      "period": "2025.12",
+      "category": "听力",
+      "group": 4,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening",
+        "placeholderOptionsInQuestion"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-listening-4-4",
+      "period": "2025.12",
+      "category": "听力",
+      "group": 4,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening",
+        "placeholderOptionsInQuestion"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-listening-4-5",
+      "period": "2025.12",
+      "category": "听力",
+      "group": 4,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening",
+        "placeholderOptionsInQuestion"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-listening-4-6",
+      "period": "2025.12",
+      "category": "听力",
+      "group": 4,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening",
+        "placeholderOptionsInQuestion"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-listening-4-7",
+      "period": "2025.12",
+      "category": "听力",
+      "group": 4,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening",
+        "placeholderOptionsInQuestion"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-listening-4-8",
+      "period": "2025.12",
+      "category": "听力",
+      "group": 4,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening",
+        "placeholderOptionsInQuestion"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-listening-4-9",
+      "period": "2025.12",
+      "category": "听力",
+      "group": 4,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening",
+        "placeholderOptionsInQuestion"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-listening-4-10",
+      "period": "2025.12",
+      "category": "听力",
+      "group": 4,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening",
+        "placeholderOptionsInQuestion"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-listening-4-11",
+      "period": "2025.12",
+      "category": "听力",
+      "group": 4,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening",
+        "placeholderOptionsInQuestion"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-listening-5-1",
+      "period": "2025.12",
+      "category": "听力",
+      "group": 5,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening",
+        "placeholderOptionsInQuestion"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-listening-5-2",
+      "period": "2025.12",
+      "category": "听力",
+      "group": 5,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening",
+        "placeholderOptionsInQuestion"
+      ]
+    },
+    {
+      "id": "markdown-2025.12-listening-5-3",
+      "period": "2025.12",
+      "category": "听力",
+      "group": 5,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening",
+        "placeholderOptionsInQuestion"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-language-26",
+      "period": "2025.07",
+      "category": "语法",
+      "group": 5,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericGrammarRole",
+        "grammarMissing含义：0/4",
+        "grammarMissing区别：0/4",
+        "grammarMissing本句：0/4"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-language-27",
+      "period": "2025.07",
+      "category": "语法",
+      "group": 5,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericGrammarRole",
+        "grammarMissing含义：0/4",
+        "grammarMissing区别：0/4",
+        "grammarMissing本句：0/4"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-language-28",
+      "period": "2025.07",
+      "category": "语法",
+      "group": 5,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericGrammarRole",
+        "grammarMissing含义：0/4",
+        "grammarMissing区别：0/4",
+        "grammarMissing本句：0/4"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-language-29",
+      "period": "2025.07",
+      "category": "语法",
+      "group": 5,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "grammarMissing含义：0/4",
+        "grammarMissing区别：0/4",
+        "grammarMissing本句：0/4"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-language-30",
+      "period": "2025.07",
+      "category": "语法",
+      "group": 5,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericGrammarRole",
+        "grammarMissing含义：0/4",
+        "grammarMissing区别：0/4",
+        "grammarMissing本句：0/4"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-language-31",
+      "period": "2025.07",
+      "category": "语法",
+      "group": 5,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "grammarMissing含义：0/4",
+        "grammarMissing区别：0/4",
+        "grammarMissing本句：0/4"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-language-32",
+      "period": "2025.07",
+      "category": "语法",
+      "group": 5,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericGrammarRole",
+        "grammarMissing含义：0/4",
+        "grammarMissing区别：0/4",
+        "grammarMissing本句：0/4"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-language-33",
+      "period": "2025.07",
+      "category": "语法",
+      "group": 5,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericGrammarRole",
+        "grammarMissing含义：0/4",
+        "grammarMissing区别：0/4",
+        "grammarMissing本句：0/4"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-language-34",
+      "period": "2025.07",
+      "category": "语法",
+      "group": 5,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "grammarMissing含义：0/4",
+        "grammarMissing区别：0/4",
+        "grammarMissing本句：0/4"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-language-35",
+      "period": "2025.07",
+      "category": "语法",
+      "group": 5,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericGrammarRole",
+        "grammarMissing含义：0/4",
+        "grammarMissing区别：0/4",
+        "grammarMissing本句：0/4"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-language-41",
+      "period": "2025.07",
+      "category": "语法",
+      "group": 7,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericGrammarRole",
+        "grammarMissing含义：0/4",
+        "grammarMissing区别：0/4",
+        "grammarMissing本句：0/4"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-language-42",
+      "period": "2025.07",
+      "category": "语法",
+      "group": 7,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericGrammarRole",
+        "grammarMissing含义：0/4",
+        "grammarMissing区别：0/4",
+        "grammarMissing本句：0/4"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-language-43",
+      "period": "2025.07",
+      "category": "语法",
+      "group": 7,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "grammarMissing含义：0/4",
+        "grammarMissing区别：0/4",
+        "grammarMissing本句：0/4"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-language-44",
+      "period": "2025.07",
+      "category": "语法",
+      "group": 7,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericGrammarRole",
+        "grammarMissing含义：0/4",
+        "grammarMissing区别：0/4",
+        "grammarMissing本句：0/4"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-language-45",
+      "period": "2025.07",
+      "category": "阅读",
+      "group": 8,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-language-46",
+      "period": "2025.07",
+      "category": "阅读",
+      "group": 8,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-language-47",
+      "period": "2025.07",
+      "category": "阅读",
+      "group": 8,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-language-48",
+      "period": "2025.07",
+      "category": "阅读",
+      "group": 8,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-language-49",
+      "period": "2025.07",
+      "category": "阅读",
+      "group": 9,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-language-50",
+      "period": "2025.07",
+      "category": "阅读",
+      "group": 9,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-language-51",
+      "period": "2025.07",
+      "category": "阅读",
+      "group": 9,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-language-52",
+      "period": "2025.07",
+      "category": "阅读",
+      "group": 9,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-language-53",
+      "period": "2025.07",
+      "category": "阅读",
+      "group": 9,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-language-54",
+      "period": "2025.07",
+      "category": "阅读",
+      "group": 9,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-language-55",
+      "period": "2025.07",
+      "category": "阅读",
+      "group": 9,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-language-56",
+      "period": "2025.07",
+      "category": "阅读",
+      "group": 9,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-language-57",
+      "period": "2025.07",
+      "category": "阅读",
+      "group": 10,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-language-58",
+      "period": "2025.07",
+      "category": "阅读",
+      "group": 10,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-language-59",
+      "period": "2025.07",
+      "category": "阅读",
+      "group": 10,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-language-60",
+      "period": "2025.07",
+      "category": "阅读",
+      "group": 11,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-language-61",
+      "period": "2025.07",
+      "category": "阅读",
+      "group": 11,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-language-62",
+      "period": "2025.07",
+      "category": "阅读",
+      "group": 12,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-language-63",
+      "period": "2025.07",
+      "category": "阅读",
+      "group": 12,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-language-64",
+      "period": "2025.07",
+      "category": "阅读",
+      "group": 12,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-language-65",
+      "period": "2025.07",
+      "category": "阅读",
+      "group": 13,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-language-66",
+      "period": "2025.07",
+      "category": "阅读",
+      "group": 13,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-listening-1-1",
+      "period": "2025.07",
+      "category": "听力",
+      "group": 1,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-listening-1-2",
+      "period": "2025.07",
+      "category": "听力",
+      "group": 1,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-listening-1-3",
+      "period": "2025.07",
+      "category": "听力",
+      "group": 1,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-listening-1-4",
+      "period": "2025.07",
+      "category": "听力",
+      "group": 1,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-listening-1-5",
+      "period": "2025.07",
+      "category": "听力",
+      "group": 1,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-listening-2-1",
+      "period": "2025.07",
+      "category": "听力",
+      "group": 2,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-listening-2-2",
+      "period": "2025.07",
+      "category": "听力",
+      "group": 2,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-listening-2-3",
+      "period": "2025.07",
+      "category": "听力",
+      "group": 2,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-listening-2-4",
+      "period": "2025.07",
+      "category": "听力",
+      "group": 2,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-listening-2-5",
+      "period": "2025.07",
+      "category": "听力",
+      "group": 2,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-listening-2-6",
+      "period": "2025.07",
+      "category": "听力",
+      "group": 2,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-listening-3-1",
+      "period": "2025.07",
+      "category": "听力",
+      "group": 3,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening",
+        "placeholderOptionsInQuestion"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-listening-3-2",
+      "period": "2025.07",
+      "category": "听力",
+      "group": 3,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening",
+        "placeholderOptionsInQuestion"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-listening-3-3",
+      "period": "2025.07",
+      "category": "听力",
+      "group": 3,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening",
+        "placeholderOptionsInQuestion"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-listening-3-4",
+      "period": "2025.07",
+      "category": "听力",
+      "group": 3,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening",
+        "placeholderOptionsInQuestion"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-listening-3-5",
+      "period": "2025.07",
+      "category": "听力",
+      "group": 3,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening",
+        "placeholderOptionsInQuestion"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-listening-4-1",
+      "period": "2025.07",
+      "category": "听力",
+      "group": 4,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening",
+        "placeholderOptionsInQuestion"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-listening-4-2",
+      "period": "2025.07",
+      "category": "听力",
+      "group": 4,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening",
+        "placeholderOptionsInQuestion"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-listening-4-3",
+      "period": "2025.07",
+      "category": "听力",
+      "group": 4,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening",
+        "placeholderOptionsInQuestion"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-listening-4-4",
+      "period": "2025.07",
+      "category": "听力",
+      "group": 4,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening",
+        "placeholderOptionsInQuestion"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-listening-4-5",
+      "period": "2025.07",
+      "category": "听力",
+      "group": 4,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening",
+        "placeholderOptionsInQuestion"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-listening-4-6",
+      "period": "2025.07",
+      "category": "听力",
+      "group": 4,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening",
+        "placeholderOptionsInQuestion"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-listening-4-7",
+      "period": "2025.07",
+      "category": "听力",
+      "group": 4,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening",
+        "placeholderOptionsInQuestion"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-listening-4-8",
+      "period": "2025.07",
+      "category": "听力",
+      "group": 4,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening",
+        "placeholderOptionsInQuestion"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-listening-4-9",
+      "period": "2025.07",
+      "category": "听力",
+      "group": 4,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening",
+        "placeholderOptionsInQuestion"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-listening-4-10",
+      "period": "2025.07",
+      "category": "听力",
+      "group": 4,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening",
+        "placeholderOptionsInQuestion"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-listening-4-11",
+      "period": "2025.07",
+      "category": "听力",
+      "group": 4,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening",
+        "placeholderOptionsInQuestion"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-listening-5-1",
+      "period": "2025.07",
+      "category": "听力",
+      "group": 5,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening",
+        "placeholderOptionsInQuestion"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-listening-5-2",
+      "period": "2025.07",
+      "category": "听力",
+      "group": 5,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening",
+        "placeholderOptionsInQuestion"
+      ]
+    },
+    {
+      "id": "markdown-2025.07-listening-5-3",
+      "period": "2025.07",
+      "category": "听力",
+      "group": 5,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening",
+        "placeholderOptionsInQuestion"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-reading-8-1",
+      "period": "2024.12",
+      "category": "阅读",
+      "group": 8,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-reading-8-2",
+      "period": "2024.12",
+      "category": "阅读",
+      "group": 8,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-reading-8-3",
+      "period": "2024.12",
+      "category": "阅读",
+      "group": 8,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-reading-8-4",
+      "period": "2024.12",
+      "category": "阅读",
+      "group": 8,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-reading-9-1",
+      "period": "2024.12",
+      "category": "阅读",
+      "group": 9,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-reading-9-2",
+      "period": "2024.12",
+      "category": "阅读",
+      "group": 9,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-reading-9-3",
+      "period": "2024.12",
+      "category": "阅读",
+      "group": 9,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-reading-9-4",
+      "period": "2024.12",
+      "category": "阅读",
+      "group": 9,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-reading-9-5",
+      "period": "2024.12",
+      "category": "阅读",
+      "group": 9,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-reading-9-6",
+      "period": "2024.12",
+      "category": "阅读",
+      "group": 9,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-reading-9-7",
+      "period": "2024.12",
+      "category": "阅读",
+      "group": 9,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-reading-9-8",
+      "period": "2024.12",
+      "category": "阅读",
+      "group": 9,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-reading-10-1",
+      "period": "2024.12",
+      "category": "阅读",
+      "group": 10,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-reading-10-2",
+      "period": "2024.12",
+      "category": "阅读",
+      "group": 10,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-reading-10-3",
+      "period": "2024.12",
+      "category": "阅读",
+      "group": 10,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-reading-11-1",
+      "period": "2024.12",
+      "category": "阅读",
+      "group": 11,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-reading-11-2",
+      "period": "2024.12",
+      "category": "阅读",
+      "group": 11,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-reading-12-1",
+      "period": "2024.12",
+      "category": "阅读",
+      "group": 12,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-reading-12-2",
+      "period": "2024.12",
+      "category": "阅读",
+      "group": 12,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-reading-12-3",
+      "period": "2024.12",
+      "category": "阅读",
+      "group": 12,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-reading-13-1",
+      "period": "2024.12",
+      "category": "阅读",
+      "group": 13,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-reading-13-2",
+      "period": "2024.12",
+      "category": "阅读",
+      "group": 13,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-listening-14-1",
+      "period": "2024.12",
+      "category": "听力",
+      "group": 14,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-listening-14-2",
+      "period": "2024.12",
+      "category": "听力",
+      "group": 14,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-listening-14-3",
+      "period": "2024.12",
+      "category": "听力",
+      "group": 14,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-listening-14-4",
+      "period": "2024.12",
+      "category": "听力",
+      "group": 14,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-listening-14-5",
+      "period": "2024.12",
+      "category": "听力",
+      "group": 14,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-listening-15-1",
+      "period": "2024.12",
+      "category": "听力",
+      "group": 15,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-listening-15-2",
+      "period": "2024.12",
+      "category": "听力",
+      "group": 15,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-listening-15-3",
+      "period": "2024.12",
+      "category": "听力",
+      "group": 15,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-listening-15-4",
+      "period": "2024.12",
+      "category": "听力",
+      "group": 15,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-listening-15-5",
+      "period": "2024.12",
+      "category": "听力",
+      "group": 15,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-listening-15-6",
+      "period": "2024.12",
+      "category": "听力",
+      "group": 15,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-listening-16-1",
+      "period": "2024.12",
+      "category": "听力",
+      "group": 16,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-listening-16-2",
+      "period": "2024.12",
+      "category": "听力",
+      "group": 16,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-listening-16-3",
+      "period": "2024.12",
+      "category": "听力",
+      "group": 16,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-listening-16-4",
+      "period": "2024.12",
+      "category": "听力",
+      "group": 16,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-listening-16-5",
+      "period": "2024.12",
+      "category": "听力",
+      "group": 16,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-listening-17-1",
+      "period": "2024.12",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-listening-17-2",
+      "period": "2024.12",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-listening-17-3",
+      "period": "2024.12",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-listening-17-4",
+      "period": "2024.12",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-listening-17-5",
+      "period": "2024.12",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-listening-17-6",
+      "period": "2024.12",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-listening-17-7",
+      "period": "2024.12",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-listening-17-8",
+      "period": "2024.12",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-listening-17-9",
+      "period": "2024.12",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-listening-17-10",
+      "period": "2024.12",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-listening-17-11",
+      "period": "2024.12",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-listening-18-1",
+      "period": "2024.12",
+      "category": "听力",
+      "group": 18,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-listening-18-2",
+      "period": "2024.12",
+      "category": "听力",
+      "group": 18,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.12-listening-18-3",
+      "period": "2024.12",
+      "category": "听力",
+      "group": 18,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-reading-8-1",
+      "period": "2024.07",
+      "category": "阅读",
+      "group": 8,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-reading-8-2",
+      "period": "2024.07",
+      "category": "阅读",
+      "group": 8,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-reading-8-3",
+      "period": "2024.07",
+      "category": "阅读",
+      "group": 8,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-reading-8-4",
+      "period": "2024.07",
+      "category": "阅读",
+      "group": 8,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-reading-9-1",
+      "period": "2024.07",
+      "category": "阅读",
+      "group": 9,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-reading-9-2",
+      "period": "2024.07",
+      "category": "阅读",
+      "group": 9,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-reading-9-3",
+      "period": "2024.07",
+      "category": "阅读",
+      "group": 9,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-reading-9-4",
+      "period": "2024.07",
+      "category": "阅读",
+      "group": 9,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-reading-9-5",
+      "period": "2024.07",
+      "category": "阅读",
+      "group": 9,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-reading-9-6",
+      "period": "2024.07",
+      "category": "阅读",
+      "group": 9,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-reading-9-7",
+      "period": "2024.07",
+      "category": "阅读",
+      "group": 9,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-reading-9-8",
+      "period": "2024.07",
+      "category": "阅读",
+      "group": 9,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-reading-10-1",
+      "period": "2024.07",
+      "category": "阅读",
+      "group": 10,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-reading-10-2",
+      "period": "2024.07",
+      "category": "阅读",
+      "group": 10,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-reading-10-3",
+      "period": "2024.07",
+      "category": "阅读",
+      "group": 10,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-reading-11-1",
+      "period": "2024.07",
+      "category": "阅读",
+      "group": 11,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-reading-11-2",
+      "period": "2024.07",
+      "category": "阅读",
+      "group": 11,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-reading-12-1",
+      "period": "2024.07",
+      "category": "阅读",
+      "group": 12,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-reading-12-2",
+      "period": "2024.07",
+      "category": "阅读",
+      "group": 12,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-reading-12-3",
+      "period": "2024.07",
+      "category": "阅读",
+      "group": 12,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-reading-13-1",
+      "period": "2024.07",
+      "category": "阅读",
+      "group": 13,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-reading-13-2",
+      "period": "2024.07",
+      "category": "阅读",
+      "group": 13,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-listening-14-1",
+      "period": "2024.07",
+      "category": "听力",
+      "group": 14,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-listening-14-2",
+      "period": "2024.07",
+      "category": "听力",
+      "group": 14,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-listening-14-3",
+      "period": "2024.07",
+      "category": "听力",
+      "group": 14,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-listening-14-4",
+      "period": "2024.07",
+      "category": "听力",
+      "group": 14,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-listening-14-5",
+      "period": "2024.07",
+      "category": "听力",
+      "group": 14,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-listening-15-1",
+      "period": "2024.07",
+      "category": "听力",
+      "group": 15,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-listening-15-2",
+      "period": "2024.07",
+      "category": "听力",
+      "group": 15,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-listening-15-3",
+      "period": "2024.07",
+      "category": "听力",
+      "group": 15,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-listening-15-4",
+      "period": "2024.07",
+      "category": "听力",
+      "group": 15,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-listening-15-5",
+      "period": "2024.07",
+      "category": "听力",
+      "group": 15,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-listening-15-6",
+      "period": "2024.07",
+      "category": "听力",
+      "group": 15,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-listening-16-1",
+      "period": "2024.07",
+      "category": "听力",
+      "group": 16,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-listening-16-2",
+      "period": "2024.07",
+      "category": "听力",
+      "group": 16,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-listening-16-3",
+      "period": "2024.07",
+      "category": "听力",
+      "group": 16,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-listening-16-4",
+      "period": "2024.07",
+      "category": "听力",
+      "group": 16,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-listening-16-5",
+      "period": "2024.07",
+      "category": "听力",
+      "group": 16,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-listening-17-1",
+      "period": "2024.07",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-listening-17-2",
+      "period": "2024.07",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-listening-17-3",
+      "period": "2024.07",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-listening-17-4",
+      "period": "2024.07",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-listening-17-5",
+      "period": "2024.07",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-listening-17-6",
+      "period": "2024.07",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-listening-17-7",
+      "period": "2024.07",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-listening-17-8",
+      "period": "2024.07",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-listening-17-9",
+      "period": "2024.07",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-listening-17-10",
+      "period": "2024.07",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-listening-17-11",
+      "period": "2024.07",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-listening-18-1",
+      "period": "2024.07",
+      "category": "听力",
+      "group": 18,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-listening-18-2",
+      "period": "2024.07",
+      "category": "听力",
+      "group": 18,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2024.07-listening-18-3",
+      "period": "2024.07",
+      "category": "听力",
+      "group": 18,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.12-listening-14-1",
+      "period": "2023.12",
+      "category": "听力",
+      "group": 14,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.12-listening-14-2",
+      "period": "2023.12",
+      "category": "听力",
+      "group": 14,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.12-listening-14-3",
+      "period": "2023.12",
+      "category": "听力",
+      "group": 14,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.12-listening-14-4",
+      "period": "2023.12",
+      "category": "听力",
+      "group": 14,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.12-listening-14-5",
+      "period": "2023.12",
+      "category": "听力",
+      "group": 14,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.12-listening-15-1",
+      "period": "2023.12",
+      "category": "听力",
+      "group": 15,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.12-listening-15-2",
+      "period": "2023.12",
+      "category": "听力",
+      "group": 15,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.12-listening-15-3",
+      "period": "2023.12",
+      "category": "听力",
+      "group": 15,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.12-listening-15-4",
+      "period": "2023.12",
+      "category": "听力",
+      "group": 15,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.12-listening-15-5",
+      "period": "2023.12",
+      "category": "听力",
+      "group": 15,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.12-listening-15-6",
+      "period": "2023.12",
+      "category": "听力",
+      "group": 15,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.12-listening-16-1",
+      "period": "2023.12",
+      "category": "听力",
+      "group": 16,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.12-listening-16-2",
+      "period": "2023.12",
+      "category": "听力",
+      "group": 16,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.12-listening-16-3",
+      "period": "2023.12",
+      "category": "听力",
+      "group": 16,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.12-listening-16-4",
+      "period": "2023.12",
+      "category": "听力",
+      "group": 16,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.12-listening-16-5",
+      "period": "2023.12",
+      "category": "听力",
+      "group": 16,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.12-listening-17-1",
+      "period": "2023.12",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.12-listening-17-2",
+      "period": "2023.12",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.12-listening-17-3",
+      "period": "2023.12",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.12-listening-17-4",
+      "period": "2023.12",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.12-listening-17-5",
+      "period": "2023.12",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.12-listening-17-6",
+      "period": "2023.12",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.12-listening-17-7",
+      "period": "2023.12",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.12-listening-17-8",
+      "period": "2023.12",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.12-listening-17-9",
+      "period": "2023.12",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.12-listening-17-10",
+      "period": "2023.12",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.12-listening-17-11",
+      "period": "2023.12",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.12-listening-18-1",
+      "period": "2023.12",
+      "category": "听力",
+      "group": 18,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.12-listening-18-2",
+      "period": "2023.12",
+      "category": "听力",
+      "group": 18,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.12-listening-18-3",
+      "period": "2023.12",
+      "category": "听力",
+      "group": 18,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-reading-8-1",
+      "period": "2023.07",
+      "category": "阅读",
+      "group": 8,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-reading-8-2",
+      "period": "2023.07",
+      "category": "阅读",
+      "group": 8,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-reading-8-3",
+      "period": "2023.07",
+      "category": "阅读",
+      "group": 8,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-reading-8-4",
+      "period": "2023.07",
+      "category": "阅读",
+      "group": 8,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-reading-9-1",
+      "period": "2023.07",
+      "category": "阅读",
+      "group": 9,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-reading-9-2",
+      "period": "2023.07",
+      "category": "阅读",
+      "group": 9,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-reading-9-3",
+      "period": "2023.07",
+      "category": "阅读",
+      "group": 9,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-reading-9-4",
+      "period": "2023.07",
+      "category": "阅读",
+      "group": 9,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-reading-9-5",
+      "period": "2023.07",
+      "category": "阅读",
+      "group": 9,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-reading-9-6",
+      "period": "2023.07",
+      "category": "阅读",
+      "group": 9,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-reading-9-7",
+      "period": "2023.07",
+      "category": "阅读",
+      "group": 9,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-reading-9-8",
+      "period": "2023.07",
+      "category": "阅读",
+      "group": 9,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-reading-10-1",
+      "period": "2023.07",
+      "category": "阅读",
+      "group": 10,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-reading-10-2",
+      "period": "2023.07",
+      "category": "阅读",
+      "group": 10,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-reading-10-3",
+      "period": "2023.07",
+      "category": "阅读",
+      "group": 10,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-reading-11-1",
+      "period": "2023.07",
+      "category": "阅读",
+      "group": 11,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-reading-11-2",
+      "period": "2023.07",
+      "category": "阅读",
+      "group": 11,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-reading-12-1",
+      "period": "2023.07",
+      "category": "阅读",
+      "group": 12,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-reading-12-2",
+      "period": "2023.07",
+      "category": "阅读",
+      "group": 12,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-reading-12-3",
+      "period": "2023.07",
+      "category": "阅读",
+      "group": 12,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-reading-13-1",
+      "period": "2023.07",
+      "category": "阅读",
+      "group": 13,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-reading-13-2",
+      "period": "2023.07",
+      "category": "阅读",
+      "group": 13,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericReading"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-listening-14-1",
+      "period": "2023.07",
+      "category": "听力",
+      "group": 14,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-listening-14-2",
+      "period": "2023.07",
+      "category": "听力",
+      "group": 14,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-listening-14-3",
+      "period": "2023.07",
+      "category": "听力",
+      "group": 14,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-listening-14-4",
+      "period": "2023.07",
+      "category": "听力",
+      "group": 14,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-listening-14-5",
+      "period": "2023.07",
+      "category": "听力",
+      "group": 14,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-listening-15-1",
+      "period": "2023.07",
+      "category": "听力",
+      "group": 15,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-listening-15-2",
+      "period": "2023.07",
+      "category": "听力",
+      "group": 15,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-listening-15-3",
+      "period": "2023.07",
+      "category": "听力",
+      "group": 15,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-listening-15-4",
+      "period": "2023.07",
+      "category": "听力",
+      "group": 15,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-listening-15-5",
+      "period": "2023.07",
+      "category": "听力",
+      "group": 15,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-listening-15-6",
+      "period": "2023.07",
+      "category": "听力",
+      "group": 15,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-listening-16-1",
+      "period": "2023.07",
+      "category": "听力",
+      "group": 16,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-listening-16-2",
+      "period": "2023.07",
+      "category": "听力",
+      "group": 16,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-listening-16-3",
+      "period": "2023.07",
+      "category": "听力",
+      "group": 16,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-listening-16-4",
+      "period": "2023.07",
+      "category": "听力",
+      "group": 16,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-listening-16-5",
+      "period": "2023.07",
+      "category": "听力",
+      "group": 16,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-listening-17-1",
+      "period": "2023.07",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-listening-17-2",
+      "period": "2023.07",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-listening-17-3",
+      "period": "2023.07",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-listening-17-4",
+      "period": "2023.07",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-listening-17-5",
+      "period": "2023.07",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-listening-17-6",
+      "period": "2023.07",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-listening-17-7",
+      "period": "2023.07",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-listening-17-8",
+      "period": "2023.07",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-listening-17-9",
+      "period": "2023.07",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-listening-17-10",
+      "period": "2023.07",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-listening-17-11",
+      "period": "2023.07",
+      "category": "听力",
+      "group": 17,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-listening-18-1",
+      "period": "2023.07",
+      "category": "听力",
+      "group": 18,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-listening-18-2",
+      "period": "2023.07",
+      "category": "听力",
+      "group": 18,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    },
+    {
+      "id": "jlpt4you-2023.07-listening-18-3",
+      "period": "2023.07",
+      "category": "听力",
+      "group": 18,
+      "source": "AI 生成（依据题干、选项与标准答案）",
+      "flags": [
+        "genericListening"
+      ]
+    }
+  ]
+}

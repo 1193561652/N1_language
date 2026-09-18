@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>N1 真题离线练习</title>
+  <style>
+__STYLE__
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <div>
+      <p class="eyebrow">JLPT · N1</p>
+      <h1>真题离线练习</h1>
+      <p class="subtitle">烧饼日语、JLPT4YOU 与本地 PDF 归档统一题库</p>
+    </div>
+    <nav class="tabs" aria-label="主导航">
+      <button class="tab active" data-view="practice">开始答题</button>
+      <button class="tab" data-view="history">答题历史 <span id="history-count" class="count">0</span></button>
+      <button class="tab" data-view="ai-config">AI 配置</button>
+    </nav>
+  </header>
+
+  <main>
+    <section id="practice-view" class="view active">
+      <div id="setup-panel">
+        <div class="setup-card">
+          <div><p class="section-kicker">选择练习范围</p><h2>一次完成一期的一科</h2></div>
+          <div class="selectors">
+            <label>考试期次<select id="year-select"></select></label>
+            <label>科目<select id="category-select"></select></label>
+          </div>
+          <div class="selection-summary">
+            <span><strong id="question-count">0</strong> 道题</span>
+            <span id="media-summary">无媒体</span>
+            <span>提交后立即判分</span>
+          </div>
+          <button id="start-button" class="primary-button">开始答题</button>
+        </div>
+        <section id="home-insights" class="home-insights" aria-live="polite"></section>
+      </div>
+
+      <section id="exam-panel" class="exam-panel" hidden>
+        <div class="exam-toolbar">
+          <div><button id="back-button" class="text-button">← 返回选择</button><h2 id="exam-title"></h2></div>
+          <div class="toolbar-status">
+            <span id="answer-progress">已答 0 / 0</span><span id="timer">00:00</span>
+            <button id="submit-button" class="primary-button compact">提交判分</button>
+          </div>
+        </div>
+        <div id="score-panel" class="score-panel" hidden></div>
+        <div class="exam-layout">
+          <aside id="question-nav" class="question-nav" aria-label="题目目录"></aside>
+          <div class="exam-content">
+            <form id="questions-form" class="questions-list"></form>
+            <div class="bottom-submit"><button id="submit-bottom-button" class="primary-button">提交并保存记录</button></div>
+          </div>
+        </div>
+      </section>
+    </section>
+
+    <section id="history-view" class="view" hidden>
+      <div class="history-heading">
+        <div><p class="section-kicker">本地学习档案</p><h2>答题历史</h2><p>包含提交日期、时间、用时与每题结果。</p></div>
+        <div class="history-actions">
+          <button id="export-button" class="secondary-button">导出备份</button>
+          <label class="secondary-button file-button">导入备份<input id="import-input" type="file" accept="application/json"></label>
+        </div>
+      </div>
+      <div class="history-filters">
+        <label>期次<select id="history-year-filter"><option value="">全部期次</option></select></label>
+        <label>科目<select id="history-category-filter"><option value="">全部科目</option></select></label>
+        <span id="history-filter-summary">显示全部记录</span>
+      </div>
+      <div id="history-empty" class="empty-state"><p>还没有答题记录。</p><button class="text-button" data-go-practice>去做一套题 →</button></div>
+      <div id="history-list" class="history-list"></div>
+    </section>
+
+    <section id="ai-config-view" class="view" hidden>
+      <div class="setup-card ai-config-card">
+        <div><p class="section-kicker">Gemini 题目对话</p><h2>配置 Gemini API Key</h2></div>
+        <p>模型固定为 <code>gemini-3.6-flash</code>。密钥只保存在项目本地配置文件中，不写入 HTML、答题历史或导出备份。</p>
+        <label>API Key
+          <input id="gemini-api-key" type="password" autocomplete="off" spellcheck="false" placeholder="输入 Google AI Studio API Key">
+        </label>
+        <div class="ai-config-actions">
+          <button id="save-gemini-key" class="primary-button">保存到本地</button>
+          <span id="gemini-config-status">正在检查配置……</span>
+        </div>
+        <p class="ai-config-note">AI 对话仅在通过项目启动器访问时可用。打开历史答卷后，点击题目右上角的“AI 解析”，即可在界面右侧打开对话。发起对话时会向 Gemini 发送该题题干、选项、作答、正确答案和答题理由；阅读题还会发送文章全文。</p>
+      </div>
+    </section>
+  </main>
+
+  <aside id="question-ai-drawer" class="question-ai" aria-label="AI 题目解析" hidden>
+    <div class="question-ai-heading">
+      <div><strong id="ai-drawer-title">AI 解析对话</strong><small id="ai-drawer-question-id">Gemini 3.6 Flash</small></div>
+      <div class="ai-drawer-actions"><button type="button" id="ai-drawer-clear" class="ai-clear-button" title="清空本题对话">清空</button><button type="button" id="ai-drawer-close" class="ai-close-button" aria-label="关闭 AI 对话" title="关闭 AI 对话"><span aria-hidden="true">×</span> 关闭</button></div>
+    </div>
+    <div class="ai-chat-messages" aria-live="polite"><p class="ai-chat-empty">询问这道题的考点、错误原因或近义表达。</p></div>
+    <div class="ai-chat-compose"><textarea id="ai-drawer-input" rows="3" maxlength="4000" placeholder="例如：为什么选项 2 不可以？"></textarea><button type="button" id="ai-drawer-send" class="primary-button compact">发送</button></div>
+    <p class="ai-chat-status"></p>
+  </aside>
+  <dialog id="history-dialog"><button id="dialog-close" class="dialog-close" aria-label="关闭">×</button><div id="history-detail"></div></dialog>
+  <footer><span id="storage-status">正在检测记录存储方式……</span> · 答题记录仅存本地；使用 AI 时当前题目上下文会发送至 Gemini</footer>
+  <script>
+window.EXAM_DATA=__DATA__;
+  </script>
+  <script>
+__APP__
+  </script>
+</body>
+</html>
