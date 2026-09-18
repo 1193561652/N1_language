@@ -1,0 +1,8 @@
+{"node_id": "topic.public_society", "type": "topic", "label": "public society", "aliases": ["地域", "社会", "政府", "制度", "市民", "町", "公共", "人口", "問題"], "description": "", "occurrence_count": 746}
+{"node_id": "topic.culture_media", "type": "topic", "label": "culture media", "aliases": ["映画", "本", "小説", "音楽", "美術", "文化", "番組", "テレビ", "ラジオ", "広告"], "description": "", "occurrence_count": 584}
+{"node_id": "topic.daily_life", "type": "topic", "label": "daily life", "aliases": ["家", "部屋", "家族", "店", "買", "料理", "電話", "旅行", "生活", "食事"], "description": "", "occurrence_count": 565}
+{"node_id": "topic.work_business", "type": "topic", "label": "work business", "aliases": ["会社", "会議", "上司", "部長", "社員", "仕事", "職場", "ビジネス", "プロジェクト", "商品", "開発", "営業"], "description": "", "occurrence_count": 439}
+{"node_id": "topic.school_research", "type": "topic", "label": "school research", "aliases": ["大学", "学生", "先生", "授業", "研究", "論文", "発表", "講義", "レポート", "ゼミ"], "description": "", "occurrence_count": 333}
+{"node_id": "topic.health_medical", "type": "topic", "label": "health medical", "aliases": ["病院", "医者", "健康", "薬", "患者", "医療", "体", "症状"], "description": "", "occurrence_count": 248}
+{"node_id": "topic.tech_science", "type": "topic", "label": "tech science", "aliases": ["技術", "機械", "ロボット", "コンピューター", "データ", "研究", "開発", "科学"], "description": "", "occurrence_count": 214}
+{"node_id": "topic.environment", "type": "topic", "label": "environment", "aliases": ["環境", "自然", "森", "水", "エネルギー", "ごみ", "温暖化", "リサイクル", "農業"], "description": "", "occurrence_count": 201}

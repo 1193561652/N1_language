@@ -1,0 +1,17 @@
+{"node_id": "skill.grammar_form_choice", "type": "skill", "label": "文法形式选择", "aliases": [], "description": "", "occurrence_count": 136}
+{"node_id": "skill.vocab_usage", "type": "skill", "label": "词语用法", "aliases": [], "description": "", "occurrence_count": 136}
+{"node_id": "skill.listening_task_understanding", "type": "skill", "label": "课题理解", "aliases": [], "description": "", "occurrence_count": 124}
+{"node_id": "skill.vocab_paraphrase", "type": "skill", "label": "近义替换", "aliases": [], "description": "", "occurrence_count": 123}
+{"node_id": "skill.vocab_kanji_reading", "type": "skill", "label": "汉字读音", "aliases": [], "description": "", "occurrence_count": 119}
+{"node_id": "skill.vocab_context_fill", "type": "skill", "label": "语境词汇填空", "aliases": [], "description": "", "occurrence_count": 118}
+{"node_id": "skill.listening_point_understanding", "type": "skill", "label": "ポイント理解", "aliases": [], "description": "", "occurrence_count": 99}
+{"node_id": "skill.listening_quick_response", "type": "skill", "label": "即时应答", "aliases": [], "description": "", "occurrence_count": 95}
+{"node_id": "skill.grammar_text_cohesion", "type": "skill", "label": "文章内文法", "aliases": [], "description": "", "occurrence_count": 95}
+{"node_id": "skill.listening_summary", "type": "skill", "label": "概要理解", "aliases": [], "description": "", "occurrence_count": 79}
+{"node_id": "skill.listening_integrated", "type": "skill", "label": "综合理解听力", "aliases": [], "description": "", "occurrence_count": 64}
+{"node_id": "skill.reading_medium", "type": "skill", "label": "中篇阅读", "aliases": [], "description": "", "occurrence_count": 57}
+{"node_id": "skill.grammar_sentence_order", "type": "skill", "label": "句子排列", "aliases": [], "description": "", "occurrence_count": 57}
+{"node_id": "skill.reading_integrated", "type": "skill", "label": "综合理解", "aliases": [], "description": "", "occurrence_count": 57}
+{"node_id": "skill.reading_long", "type": "skill", "label": "长篇阅读", "aliases": [], "description": "", "occurrence_count": 57}
+{"node_id": "skill.reading_information_search", "type": "skill", "label": "信息检索", "aliases": [], "description": "", "occurrence_count": 56}
+{"node_id": "skill.reading_short", "type": "skill", "label": "短篇阅读", "aliases": [], "description": "", "occurrence_count": 54}
