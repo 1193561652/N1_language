@@ -1,0 +1,197 @@
+[
+  {
+    "id": "reading-sound",
+    "parent": "汉字与词汇",
+    "name": "汉字与读音对应"
+  },
+  {
+    "id": "voicing",
+    "parent": "汉字与词汇",
+    "name": "清音与浊音辨析"
+  },
+  {
+    "id": "long-vowel",
+    "parent": "汉字与词汇",
+    "name": "长音辨析"
+  },
+  {
+    "id": "lexical-context",
+    "parent": "汉字与词汇",
+    "name": "语境中的词义与搭配"
+  },
+  {
+    "id": "synonym",
+    "parent": "汉字与词汇",
+    "name": "近义改写与词义边界"
+  },
+  {
+    "id": "usage",
+    "parent": "汉字与词汇",
+    "name": "词语适用对象与用法"
+  },
+  {
+    "id": "concession",
+    "parent": "逻辑关系",
+    "name": "让步与逆接"
+  },
+  {
+    "id": "condition",
+    "parent": "逻辑关系",
+    "name": "假定与条件"
+  },
+  {
+    "id": "necessary",
+    "parent": "逻辑关系",
+    "name": "必要条件"
+  },
+  {
+    "id": "counterfactual",
+    "parent": "逻辑关系",
+    "name": "反事实条件"
+  },
+  {
+    "id": "cause",
+    "parent": "逻辑关系",
+    "name": "原因与理由"
+  },
+  {
+    "id": "choice",
+    "parent": "逻辑关系",
+    "name": "比较与取舍"
+  },
+  {
+    "id": "limit",
+    "parent": "逻辑关系",
+    "name": "限定与追加"
+  },
+  {
+    "id": "degree",
+    "parent": "逻辑关系",
+    "name": "程度与否定呼应"
+  },
+  {
+    "id": "honorific",
+    "parent": "主体与视角",
+    "name": "尊敬语与自谦语"
+  },
+  {
+    "id": "benefactive",
+    "parent": "主体与视角",
+    "name": "授受视角"
+  },
+  {
+    "id": "voice",
+    "parent": "主体与视角",
+    "name": "被动与使役方向"
+  },
+  {
+    "id": "time",
+    "parent": "时间与说话人立场",
+    "name": "时间关系与先后"
+  },
+  {
+    "id": "aspect",
+    "parent": "时间与说话人立场",
+    "name": "时制与持续状态"
+  },
+  {
+    "id": "judgment",
+    "parent": "时间与说话人立场",
+    "name": "判断与评价"
+  },
+  {
+    "id": "modality",
+    "parent": "时间与说话人立场",
+    "name": "可能性与情境制约"
+  },
+  {
+    "id": "emotion",
+    "parent": "时间与说话人立场",
+    "name": "感叹、责备与反语"
+  },
+  {
+    "id": "comparison",
+    "parent": "时间与说话人立场",
+    "name": "比况与特征描述"
+  },
+  {
+    "id": "nominal",
+    "parent": "句子结构",
+    "name": "引用与名词化"
+  },
+  {
+    "id": "modifier",
+    "parent": "句子结构",
+    "name": "修饰关系与中心词"
+  },
+  {
+    "id": "fixed",
+    "parent": "句子结构",
+    "name": "固定句型连接"
+  },
+  {
+    "id": "reference",
+    "parent": "篇章与阅读",
+    "name": "指代与回指"
+  },
+  {
+    "id": "connection",
+    "parent": "篇章与阅读",
+    "name": "句间衔接与话语流程"
+  },
+  {
+    "id": "explanation",
+    "parent": "篇章与阅读",
+    "name": "说明语气与文体"
+  },
+  {
+    "id": "main-idea",
+    "parent": "篇章与阅读",
+    "name": "主旨与作者立场"
+  },
+  {
+    "id": "reason-reading",
+    "parent": "篇章与阅读",
+    "name": "原因定位与推断"
+  },
+  {
+    "id": "meaning-reading",
+    "parent": "篇章与阅读",
+    "name": "语句含义解释"
+  },
+  {
+    "id": "compare-reading",
+    "parent": "篇章与阅读",
+    "name": "多方观点比较"
+  },
+  {
+    "id": "information",
+    "parent": "篇章与阅读",
+    "name": "信息筛选与条件匹配"
+  },
+  {
+    "id": "listening-action",
+    "parent": "听力能力",
+    "name": "行动与任务要求"
+  },
+  {
+    "id": "listening-detail",
+    "parent": "听力能力",
+    "name": "关键信息提取"
+  },
+  {
+    "id": "listening-main",
+    "parent": "听力能力",
+    "name": "主旨与说话人意图"
+  },
+  {
+    "id": "listening-response",
+    "parent": "听力能力",
+    "name": "语用与即时应答"
+  },
+  {
+    "id": "listening-integrated",
+    "parent": "听力能力",
+    "name": "综合信息与决策"
+  }
+]

@@ -1,0 +1,677 @@
+{
+  "version": "1.0",
+  "agreedDate": "2026-09-20",
+  "subject": "语法",
+  "textbook": "新完全マスター文法 日本語能力試験N1",
+  "textbookSource": "https://www.3anet.co.jp/np/books/3600/",
+  "periods": [
+    "2025.12",
+    "2025.07",
+    "2024.12",
+    "2024.07",
+    "2023.12",
+    "2023.07",
+    "2022.12",
+    "2022.07",
+    "2021.12",
+    "2021.07"
+  ],
+  "textbookCategoryCount": 35,
+  "supplementCategoryCount": 6,
+  "excludedTextbookSection": "第1部Ⅳ：语法形式整理，仅辅助查阅，不作为分类",
+  "rules": [
+    "只标注2021.07—2025.12最近10期，其他期次不生成正式标签",
+    "一题可以多标签，标签只来自本题所属問題5、6或7",
+    "第一个标签为主标签，其余为辅助标签；具体句型单独记录",
+    "教材标签为章节能力映射，不自动宣称具体句型是该章精确条目",
+    "基础语法6类为商定补充，不冒充教材原目录",
+    "篇章题结合共享全文；排序题考查整个句子结构，不只看星号答案",
+    "疑似转录或答案问题单独备注，保留原题和原答案"
+  ],
+  "tags": [
+    {
+      "id": "grammar.q5.c01",
+      "code": "c01",
+      "problemNumber": 5,
+      "problemName": "句子语法",
+      "name": "时间关系",
+      "path": [
+        "句子语法",
+        "时间关系"
+      ],
+      "origin": "textbook",
+      "textbookPart": 1,
+      "textbookChapter": 1,
+      "locator": "第1部—第1课",
+      "sourceUrl": "https://www.3anet.co.jp/np/books/3600/"
+    },
+    {
+      "id": "grammar.q5.c02",
+      "code": "c02",
+      "problemNumber": 5,
+      "problemName": "句子语法",
+      "name": "范围的起点与界限",
+      "path": [
+        "句子语法",
+        "范围的起点与界限"
+      ],
+      "origin": "textbook",
+      "textbookPart": 1,
+      "textbookChapter": 2,
+      "locator": "第1部—第2课",
+      "sourceUrl": "https://www.3anet.co.jp/np/books/3600/"
+    },
+    {
+      "id": "grammar.q5.c03",
+      "code": "c03",
+      "problemNumber": 5,
+      "problemName": "句子语法",
+      "name": "限定、非限定与追加",
+      "path": [
+        "句子语法",
+        "限定、非限定与追加"
+      ],
+      "origin": "textbook",
+      "textbookPart": 1,
+      "textbookChapter": 3,
+      "locator": "第1部—第3课",
+      "sourceUrl": "https://www.3anet.co.jp/np/books/3600/"
+    },
+    {
+      "id": "grammar.q5.c04",
+      "code": "c04",
+      "problemNumber": 5,
+      "problemName": "句子语法",
+      "name": "举例",
+      "path": [
+        "句子语法",
+        "举例"
+      ],
+      "origin": "textbook",
+      "textbookPart": 1,
+      "textbookChapter": 4,
+      "locator": "第1部—第4课",
+      "sourceUrl": "https://www.3anet.co.jp/np/books/3600/"
+    },
+    {
+      "id": "grammar.q5.c05",
+      "code": "c05",
+      "problemNumber": 5,
+      "problemName": "句子语法",
+      "name": "关联与无关",
+      "path": [
+        "句子语法",
+        "关联与无关"
+      ],
+      "origin": "textbook",
+      "textbookPart": 1,
+      "textbookChapter": 5,
+      "locator": "第1部—第5课",
+      "sourceUrl": "https://www.3anet.co.jp/np/books/3600/"
+    },
+    {
+      "id": "grammar.q5.c06",
+      "code": "c06",
+      "problemNumber": 5,
+      "problemName": "句子语法",
+      "name": "状态",
+      "path": [
+        "句子语法",
+        "状态"
+      ],
+      "origin": "textbook",
+      "textbookPart": 1,
+      "textbookChapter": 6,
+      "locator": "第1部—第6课",
+      "sourceUrl": "https://www.3anet.co.jp/np/books/3600/"
+    },
+    {
+      "id": "grammar.q5.c07",
+      "code": "c07",
+      "problemNumber": 5,
+      "problemName": "句子语法",
+      "name": "伴随行为",
+      "path": [
+        "句子语法",
+        "伴随行为"
+      ],
+      "origin": "textbook",
+      "textbookPart": 1,
+      "textbookChapter": 7,
+      "locator": "第1部—第7课",
+      "sourceUrl": "https://www.3anet.co.jp/np/books/3600/"
+    },
+    {
+      "id": "grammar.q5.c08",
+      "code": "c08",
+      "problemNumber": 5,
+      "problemName": "句子语法",
+      "name": "逆接",
+      "path": [
+        "句子语法",
+        "逆接"
+      ],
+      "origin": "textbook",
+      "textbookPart": 1,
+      "textbookChapter": 8,
+      "locator": "第1部—第8课",
+      "sourceUrl": "https://www.3anet.co.jp/np/books/3600/"
+    },
+    {
+      "id": "grammar.q5.c09",
+      "code": "c09",
+      "problemNumber": 5,
+      "problemName": "句子语法",
+      "name": "条件",
+      "path": [
+        "句子语法",
+        "条件"
+      ],
+      "origin": "textbook",
+      "textbookPart": 1,
+      "textbookChapter": 9,
+      "locator": "第1部—第9课",
+      "sourceUrl": "https://www.3anet.co.jp/np/books/3600/"
+    },
+    {
+      "id": "grammar.q5.c10",
+      "code": "c10",
+      "problemNumber": 5,
+      "problemName": "句子语法",
+      "name": "逆接条件",
+      "path": [
+        "句子语法",
+        "逆接条件"
+      ],
+      "origin": "textbook",
+      "textbookPart": 1,
+      "textbookChapter": 10,
+      "locator": "第1部—第10课",
+      "sourceUrl": "https://www.3anet.co.jp/np/books/3600/"
+    },
+    {
+      "id": "grammar.q5.c11",
+      "code": "c11",
+      "problemNumber": 5,
+      "problemName": "句子语法",
+      "name": "目的与手段",
+      "path": [
+        "句子语法",
+        "目的与手段"
+      ],
+      "origin": "textbook",
+      "textbookPart": 1,
+      "textbookChapter": 11,
+      "locator": "第1部—第11课",
+      "sourceUrl": "https://www.3anet.co.jp/np/books/3600/"
+    },
+    {
+      "id": "grammar.q5.c12",
+      "code": "c12",
+      "problemNumber": 5,
+      "problemName": "句子语法",
+      "name": "原因与理由",
+      "path": [
+        "句子语法",
+        "原因与理由"
+      ],
+      "origin": "textbook",
+      "textbookPart": 1,
+      "textbookChapter": 12,
+      "locator": "第1部—第12课",
+      "sourceUrl": "https://www.3anet.co.jp/np/books/3600/"
+    },
+    {
+      "id": "grammar.q5.c13",
+      "code": "c13",
+      "problemNumber": 5,
+      "problemName": "句子语法",
+      "name": "可能、不可能与禁止",
+      "path": [
+        "句子语法",
+        "可能、不可能与禁止"
+      ],
+      "origin": "textbook",
+      "textbookPart": 1,
+      "textbookChapter": 13,
+      "locator": "第1部—第13课",
+      "sourceUrl": "https://www.3anet.co.jp/np/books/3600/"
+    },
+    {
+      "id": "grammar.q5.c14",
+      "code": "c14",
+      "problemNumber": 5,
+      "problemName": "句子语法",
+      "name": "话题与评价标准",
+      "path": [
+        "句子语法",
+        "话题与评价标准"
+      ],
+      "origin": "textbook",
+      "textbookPart": 1,
+      "textbookChapter": 14,
+      "locator": "第1部—第14课",
+      "sourceUrl": "https://www.3anet.co.jp/np/books/3600/"
+    },
+    {
+      "id": "grammar.q5.c15",
+      "code": "c15",
+      "problemNumber": 5,
+      "problemName": "句子语法",
+      "name": "比较与对照",
+      "path": [
+        "句子语法",
+        "比较与对照"
+      ],
+      "origin": "textbook",
+      "textbookPart": 1,
+      "textbookChapter": 15,
+      "locator": "第1部—第15课",
+      "sourceUrl": "https://www.3anet.co.jp/np/books/3600/"
+    },
+    {
+      "id": "grammar.q5.c16",
+      "code": "c16",
+      "problemNumber": 5,
+      "problemName": "句子语法",
+      "name": "结局与最终状态",
+      "path": [
+        "句子语法",
+        "结局与最终状态"
+      ],
+      "origin": "textbook",
+      "textbookPart": 1,
+      "textbookChapter": 16,
+      "locator": "第1部—第16课",
+      "sourceUrl": "https://www.3anet.co.jp/np/books/3600/"
+    },
+    {
+      "id": "grammar.q5.c17",
+      "code": "c17",
+      "problemNumber": 5,
+      "problemName": "句子语法",
+      "name": "强调",
+      "path": [
+        "句子语法",
+        "强调"
+      ],
+      "origin": "textbook",
+      "textbookPart": 1,
+      "textbookChapter": 17,
+      "locator": "第1部—第17课",
+      "sourceUrl": "https://www.3anet.co.jp/np/books/3600/"
+    },
+    {
+      "id": "grammar.q5.c18",
+      "code": "c18",
+      "problemNumber": 5,
+      "problemName": "句子语法",
+      "name": "主张与断定",
+      "path": [
+        "句子语法",
+        "主张与断定"
+      ],
+      "origin": "textbook",
+      "textbookPart": 1,
+      "textbookChapter": 18,
+      "locator": "第1部—第18课",
+      "sourceUrl": "https://www.3anet.co.jp/np/books/3600/"
+    },
+    {
+      "id": "grammar.q5.c19",
+      "code": "c19",
+      "problemNumber": 5,
+      "problemName": "句子语法",
+      "name": "评价与感想",
+      "path": [
+        "句子语法",
+        "评价与感想"
+      ],
+      "origin": "textbook",
+      "textbookPart": 1,
+      "textbookChapter": 19,
+      "locator": "第1部—第19课",
+      "sourceUrl": "https://www.3anet.co.jp/np/books/3600/"
+    },
+    {
+      "id": "grammar.q5.c20",
+      "code": "c20",
+      "problemNumber": 5,
+      "problemName": "句子语法",
+      "name": "心情与不由自主的感受",
+      "path": [
+        "句子语法",
+        "心情与不由自主的感受"
+      ],
+      "origin": "textbook",
+      "textbookPart": 1,
+      "textbookChapter": 20,
+      "locator": "第1部—第20课",
+      "sourceUrl": "https://www.3anet.co.jp/np/books/3600/"
+    },
+    {
+      "id": "grammar.q5.b01",
+      "code": "b01",
+      "problemNumber": 5,
+      "problemName": "句子语法",
+      "name": "助词与固定搭配",
+      "path": [
+        "句子语法",
+        "基础语法（真题补充）",
+        "助词与固定搭配"
+      ],
+      "origin": "agreedSupplement",
+      "locator": null
+    },
+    {
+      "id": "grammar.q5.b02",
+      "code": "b02",
+      "problemNumber": 5,
+      "problemName": "句子语法",
+      "name": "词性、活用与接续",
+      "path": [
+        "句子语法",
+        "基础语法（真题补充）",
+        "词性、活用与接续"
+      ],
+      "origin": "agreedSupplement",
+      "locator": null
+    },
+    {
+      "id": "grammar.q5.b03",
+      "code": "b03",
+      "problemNumber": 5,
+      "problemName": "句子语法",
+      "name": "敬语与授受",
+      "path": [
+        "句子语法",
+        "基础语法（真题补充）",
+        "敬语与授受"
+      ],
+      "origin": "agreedSupplement",
+      "locator": null
+    },
+    {
+      "id": "grammar.q5.b04",
+      "code": "b04",
+      "problemNumber": 5,
+      "problemName": "句子语法",
+      "name": "自他动词、被动与使役",
+      "path": [
+        "句子语法",
+        "基础语法（真题补充）",
+        "自他动词、被动与使役"
+      ],
+      "origin": "agreedSupplement",
+      "locator": null
+    },
+    {
+      "id": "grammar.q5.b05",
+      "code": "b05",
+      "problemNumber": 5,
+      "problemName": "句子语法",
+      "name": "时制与体",
+      "path": [
+        "句子语法",
+        "基础语法（真题补充）",
+        "时制与体"
+      ],
+      "origin": "agreedSupplement",
+      "locator": null
+    },
+    {
+      "id": "grammar.q5.b06",
+      "code": "b06",
+      "problemNumber": 5,
+      "problemName": "句子语法",
+      "name": "推测、意志、说明等表达",
+      "path": [
+        "句子语法",
+        "基础语法（真题补充）",
+        "推测、意志、说明等表达"
+      ],
+      "origin": "agreedSupplement",
+      "locator": null
+    },
+    {
+      "id": "grammar.q6.c01",
+      "code": "c01",
+      "problemNumber": 6,
+      "problemName": "句子排序",
+      "name": "句子组装——固定形式",
+      "path": [
+        "句子排序",
+        "句子组装——固定形式"
+      ],
+      "origin": "textbook",
+      "textbookPart": 2,
+      "textbookChapter": 1,
+      "locator": "第2部—第1课",
+      "sourceUrl": "https://www.3anet.co.jp/np/books/3600/"
+    },
+    {
+      "id": "grammar.q6.c02",
+      "code": "c02",
+      "problemNumber": 6,
+      "problemName": "句子排序",
+      "name": "句子组装——修饰名词的形式",
+      "path": [
+        "句子排序",
+        "句子组装——修饰名词的形式"
+      ],
+      "origin": "textbook",
+      "textbookPart": 2,
+      "textbookChapter": 2,
+      "locator": "第2部—第2课",
+      "sourceUrl": "https://www.3anet.co.jp/np/books/3600/"
+    },
+    {
+      "id": "grammar.q6.c03",
+      "code": "c03",
+      "problemNumber": 6,
+      "problemName": "句子排序",
+      "name": "句子组装——注意接续",
+      "path": [
+        "句子排序",
+        "句子组装——注意接续"
+      ],
+      "origin": "textbook",
+      "textbookPart": 2,
+      "textbookChapter": 3,
+      "locator": "第2部—第3课",
+      "sourceUrl": "https://www.3anet.co.jp/np/books/3600/"
+    },
+    {
+      "id": "grammar.q7.c01",
+      "code": "c01",
+      "problemNumber": 7,
+      "problemName": "篇章语法",
+      "name": "时制",
+      "path": [
+        "篇章语法",
+        "时制"
+      ],
+      "origin": "textbook",
+      "textbookPart": 3,
+      "textbookChapter": 1,
+      "locator": "第3部—第1课",
+      "sourceUrl": "https://www.3anet.co.jp/np/books/3600/"
+    },
+    {
+      "id": "grammar.q7.c02",
+      "code": "c02",
+      "problemNumber": 7,
+      "problemName": "篇章语法",
+      "name": "表示条件的句子",
+      "path": [
+        "篇章语法",
+        "表示条件的句子"
+      ],
+      "origin": "textbook",
+      "textbookPart": 3,
+      "textbookChapter": 2,
+      "locator": "第3部—第2课",
+      "sourceUrl": "https://www.3anet.co.jp/np/books/3600/"
+    },
+    {
+      "id": "grammar.q7.c03",
+      "code": "c03",
+      "problemNumber": 7,
+      "problemName": "篇章语法",
+      "name": "保持视点——动词用法与自他动词",
+      "path": [
+        "篇章语法",
+        "保持视点——动词用法与自他动词"
+      ],
+      "origin": "textbook",
+      "textbookPart": 3,
+      "textbookChapter": 3,
+      "locator": "第3部—第3课",
+      "sourceUrl": "https://www.3anet.co.jp/np/books/3600/"
+    },
+    {
+      "id": "grammar.q7.c04",
+      "code": "c04",
+      "problemNumber": 7,
+      "problemName": "篇章语法",
+      "name": "保持视点——「～てくる／～ていく」",
+      "path": [
+        "篇章语法",
+        "保持视点——「～てくる／～ていく」"
+      ],
+      "origin": "textbook",
+      "textbookPart": 3,
+      "textbookChapter": 4,
+      "locator": "第3部—第4课",
+      "sourceUrl": "https://www.3anet.co.jp/np/books/3600/"
+    },
+    {
+      "id": "grammar.q7.c05",
+      "code": "c05",
+      "problemNumber": 7,
+      "problemName": "篇章语法",
+      "name": "保持视点——被动、使役与使役被动",
+      "path": [
+        "篇章语法",
+        "保持视点——被动、使役与使役被动"
+      ],
+      "origin": "textbook",
+      "textbookPart": 3,
+      "textbookChapter": 5,
+      "locator": "第3部—第5课",
+      "sourceUrl": "https://www.3anet.co.jp/np/books/3600/"
+    },
+    {
+      "id": "grammar.q7.c06",
+      "code": "c06",
+      "problemNumber": 7,
+      "problemName": "篇章语法",
+      "name": "保持视点——「～てあげる／～てもらう／～てくれる」",
+      "path": [
+        "篇章语法",
+        "保持视点——「～てあげる／～てもらう／～てくれる」"
+      ],
+      "origin": "textbook",
+      "textbookPart": 3,
+      "textbookChapter": 6,
+      "locator": "第3部—第6课",
+      "sourceUrl": "https://www.3anet.co.jp/np/books/3600/"
+    },
+    {
+      "id": "grammar.q7.c07",
+      "code": "c07",
+      "problemNumber": 7,
+      "problemName": "篇章语法",
+      "name": "指示表达「こ・そ・あ」",
+      "path": [
+        "篇章语法",
+        "指示表达「こ・そ・あ」"
+      ],
+      "origin": "textbook",
+      "textbookPart": 3,
+      "textbookChapter": 7,
+      "locator": "第3部—第7课",
+      "sourceUrl": "https://www.3anet.co.jp/np/books/3600/"
+    },
+    {
+      "id": "grammar.q7.c08",
+      "code": "c08",
+      "problemNumber": 7,
+      "problemName": "篇章语法",
+      "name": "「は／が」的区别",
+      "path": [
+        "篇章语法",
+        "「は／が」的区别"
+      ],
+      "origin": "textbook",
+      "textbookPart": 3,
+      "textbookChapter": 8,
+      "locator": "第3部—第8课",
+      "sourceUrl": "https://www.3anet.co.jp/np/books/3600/"
+    },
+    {
+      "id": "grammar.q7.c09",
+      "code": "c09",
+      "problemNumber": 7,
+      "problemName": "篇章语法",
+      "name": "接续表达",
+      "path": [
+        "篇章语法",
+        "接续表达"
+      ],
+      "origin": "textbook",
+      "textbookPart": 3,
+      "textbookChapter": 9,
+      "locator": "第3部—第9课",
+      "sourceUrl": "https://www.3anet.co.jp/np/books/3600/"
+    },
+    {
+      "id": "grammar.q7.c10",
+      "code": "c10",
+      "problemNumber": 7,
+      "problemName": "篇章语法",
+      "name": "省略、重复与换言",
+      "path": [
+        "篇章语法",
+        "省略、重复与换言"
+      ],
+      "origin": "textbook",
+      "textbookPart": 3,
+      "textbookChapter": 10,
+      "locator": "第3部—第10课",
+      "sourceUrl": "https://www.3anet.co.jp/np/books/3600/"
+    },
+    {
+      "id": "grammar.q7.c11",
+      "code": "c11",
+      "problemNumber": 7,
+      "problemName": "篇章语法",
+      "name": "文体一致性",
+      "path": [
+        "篇章语法",
+        "文体一致性"
+      ],
+      "origin": "textbook",
+      "textbookPart": 3,
+      "textbookChapter": 11,
+      "locator": "第3部—第11课",
+      "sourceUrl": "https://www.3anet.co.jp/np/books/3600/"
+    },
+    {
+      "id": "grammar.q7.c12",
+      "code": "c12",
+      "problemNumber": 7,
+      "problemName": "篇章语法",
+      "name": "话语流程",
+      "path": [
+        "篇章语法",
+        "话语流程"
+      ],
+      "origin": "textbook",
+      "textbookPart": 3,
+      "textbookChapter": 12,
+      "locator": "第3部—第12课",
+      "sourceUrl": "https://www.3anet.co.jp/np/books/3600/"
+    }
+  ]
+}

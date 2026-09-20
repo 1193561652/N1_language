@@ -1,0 +1,21 @@
+{
+  "sourceSha256": "b3982d3045b36e02ddf9841f5da7ae81f6acdd65074abdfe9ce3c617d6b0189f",
+  "periods": 31,
+  "questions": 3182,
+  "reviewed": 20,
+  "withTags": 2140,
+  "withoutTags": 1042,
+  "withTarget": 1229,
+  "tagAssignments": {
+    "已核对": 39,
+    "题型映射": 1699,
+    "候选": 431
+  },
+  "categories": {
+    "文字": 186,
+    "词汇": 589,
+    "语法": 609,
+    "阅读": 752,
+    "听力": 1046
+  }
+}

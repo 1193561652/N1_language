@@ -1,0 +1,2267 @@
+{
+  "taxonomyVersion": "1.0",
+  "periods": [
+    "2025.12",
+    "2025.07",
+    "2024.12",
+    "2024.07",
+    "2023.12",
+    "2023.07",
+    "2022.12",
+    "2022.07",
+    "2021.12",
+    "2021.07"
+  ],
+  "sourceSha256": "b3982d3045b36e02ddf9841f5da7ae81f6acdd65074abdfe9ce3c617d6b0189f",
+  "questions": {
+    "markdown-2025.12-language-26": {
+      "problemNumber": 5,
+      "construction": "とても～ない",
+      "primaryTag": "grammar.q5.b01",
+      "tags": [
+        "grammar.q5.b01",
+        "grammar.q5.c13"
+      ],
+      "evidence": "とても与终结否定呼应，强调一天内不可能完成；不是临近发生。",
+      "notes": [],
+      "sourceQuestionSha256": "8ce98ad224028bcba8274417f0c10d6cc25dd505ba47b9a2cc59132641afd8cd"
+    },
+    "markdown-2025.12-language-27": {
+      "problemNumber": 5,
+      "construction": "～なくしては",
+      "primaryTag": "grammar.q5.c09",
+      "tags": [
+        "grammar.q5.c09"
+      ],
+      "evidence": "居民合作是实现项目的必要条件；没有合作便不能实现。",
+      "notes": [],
+      "sourceQuestionSha256": "1ac253b7dc2e44defb743386dc43374f072cc44a47c647414a8697ca0a6602df"
+    },
+    "markdown-2025.12-language-28": {
+      "problemNumber": 5,
+      "construction": "～くらいなら～ほうがいい",
+      "primaryTag": "grammar.q5.c09",
+      "tags": [
+        "grammar.q5.c09",
+        "grammar.q5.c15"
+      ],
+      "evidence": "宁愿花时间坐车也不坐飞机；条件框架表达取舍。",
+      "notes": [],
+      "sourceQuestionSha256": "a588ff58b0dda44bb3497da3ca2b27d9a994d05e033cf0b6e7be7e9e8b6402e6"
+    },
+    "markdown-2025.12-language-29": {
+      "problemNumber": 5,
+      "construction": "Nを～とするには",
+      "primaryTag": "grammar.q5.b01",
+      "tags": [
+        "grammar.q5.b01",
+        "grammar.q5.c09"
+      ],
+      "evidence": "を标认定对象，とする表示认定；には引出作此判断所需条件。",
+      "notes": [],
+      "sourceQuestionSha256": "6661a87aea8d96ee03981a9d3292d788d99b630c3c782e95d9151856e1f1b1d5"
+    },
+    "markdown-2025.12-language-30": {
+      "problemNumber": 5,
+      "construction": "悩まされながらも",
+      "primaryTag": "grammar.q5.b04",
+      "tags": [
+        "grammar.q5.b04",
+        "grammar.q5.c08"
+      ],
+      "evidence": "选手是受伤病影响的一方；被动方向与逆接须同时成立。",
+      "notes": [],
+      "sourceQuestionSha256": "a77a22b6b7d7ae4c342acedb54c276e7003f1a7b51b57bcb9d3b49567b8d82b6"
+    },
+    "markdown-2025.12-language-31": {
+      "problemNumber": 5,
+      "construction": "～に越したことはない",
+      "primaryTag": "grammar.q5.c19",
+      "tags": [
+        "grammar.q5.c19"
+      ],
+      "evidence": "提前准备最好，表达评价建议；不是一般引用。",
+      "notes": [],
+      "sourceQuestionSha256": "ffadebc8c9511f3c8d80d6b5c9d9f93a990b28f01f1863e66708056626fcd5af"
+    },
+    "markdown-2025.12-language-32": {
+      "problemNumber": 5,
+      "construction": "～ていたのに／反事实条件",
+      "primaryTag": "grammar.q5.b05",
+      "tags": [
+        "grammar.q5.b05",
+        "grammar.q5.c09"
+      ],
+      "evidence": "若不堵车，现在本应已在玩；判断假设结果的持续状态。",
+      "notes": [],
+      "sourceQuestionSha256": "3ecf78d2b155fdabc14bd77668417de7df79f818ba08b08137c99614043ad623"
+    },
+    "markdown-2025.12-language-33": {
+      "problemNumber": 5,
+      "construction": "～てくれたものだ",
+      "primaryTag": "grammar.q5.b03",
+      "tags": [
+        "grammar.q5.b03",
+        "grammar.q5.b06"
+      ],
+      "evidence": "授受表达用于责备的反语；ものだ体现感叹，不是未来风险。",
+      "notes": [],
+      "sourceQuestionSha256": "bd9661cb08e5ba5d4fce0e6bcd6077f5ef4d626ca8f19d3d47da04ddb804f4c2"
+    },
+    "markdown-2025.12-language-34": {
+      "problemNumber": 5,
+      "construction": "～みたいなところがある",
+      "primaryTag": "grammar.q5.b06",
+      "tags": [
+        "grammar.q5.b06",
+        "grammar.q5.b02"
+      ],
+      "evidence": "用比况和侧面描述说明工作性质；须辨别みたいな的名词修饰接续。",
+      "notes": [],
+      "sourceQuestionSha256": "de0de8a3df65251bcb1ade16b256aaa3cb64f871c903afe71fa96858c3a4b18c"
+    },
+    "markdown-2025.12-language-35": {
+      "problemNumber": 5,
+      "construction": "～てばかりもいられない",
+      "primaryTag": "grammar.q5.c13",
+      "tags": [
+        "grammar.q5.c13"
+      ],
+      "evidence": "缺水风险使人不能只顾高兴，属于情境制约。",
+      "notes": [],
+      "sourceQuestionSha256": "5ae1afbd10e2379f4978e2ad1ddd40d46c15fff2d868ac22f16c473ade450cf3"
+    },
+    "markdown-2025.12-language-36": {
+      "problemNumber": 6,
+      "construction": "NもNならNもNだ",
+      "primaryTag": "grammar.q6.c01",
+      "tags": [
+        "grammar.q6.c01",
+        "grammar.q6.c03"
+      ],
+      "evidence": "も・なら把两个人都纳入负面评价；须与题干两端连接。",
+      "notes": [],
+      "sourceQuestionSha256": "bb0ae517fa04e2ec75c463adba1679aacd7e46f4a7e71ff234d3bcae3cdaa28d"
+    },
+    "markdown-2025.12-language-37": {
+      "problemNumber": 6,
+      "construction": "どんなに～ても／VのがNだ",
+      "primaryTag": "grammar.q6.c03",
+      "tags": [
+        "grammar.q6.c03",
+        "grammar.q6.c01"
+      ],
+      "evidence": "起きないよう作目的，どんなに～ても让步，のが把发生之事名词化。",
+      "notes": [],
+      "sourceQuestionSha256": "2678e0a3a568e115b590296f2895ecf870a1a04ba8d822e080b418370ca1a876"
+    },
+    "markdown-2025.12-language-38": {
+      "problemNumber": 6,
+      "construction": "～演技は／～彼ならでは",
+      "primaryTag": "grammar.q6.c02",
+      "tags": [
+        "grammar.q6.c02",
+        "grammar.q6.c01"
+      ],
+      "evidence": "見せた修饰演技，長年会社勤めをしてきた修饰彼；ならでは固定表达。",
+      "notes": [
+        "原库给出的完整排序2→3→1→4与题干衔接不顺；本次依据可辨认的修饰结构及ならでは标注，不重新确认或修改答案。"
+      ],
+      "sourceQuestionSha256": "1f0b85258c02b4bac20ecd73ef03438b2080a29a3986e03dc8a372f9246babbe"
+    },
+    "markdown-2025.12-language-39": {
+      "problemNumber": 6,
+      "construction": "～ことが～のか／Vるなり",
+      "primaryTag": "grammar.q6.c03",
+      "tags": [
+        "grammar.q6.c03",
+        "grammar.q6.c01"
+      ],
+      "evidence": "入賞したこと名词化，のか推测原因；帰ってくるなり连接立即发生。",
+      "notes": [],
+      "sourceQuestionSha256": "bb032346a83a63ac2782153f793494527fbebab30012948b480716ffae586f78"
+    },
+    "markdown-2025.12-language-40": {
+      "problemNumber": 6,
+      "construction": "～たうえでの決断ならば",
+      "primaryTag": "grammar.q6.c02",
+      "tags": [
+        "grammar.q6.c02",
+        "grammar.q6.c03"
+      ],
+      "evidence": "うえでの修饰決断，ならば连接条件，そうは回指判断。",
+      "notes": [],
+      "sourceQuestionSha256": "6eebbd93c77a58f68ace2b23fae47d90d17c587e360869e3af7502cad82d0186"
+    },
+    "markdown-2025.12-language-41": {
+      "problemNumber": 7,
+      "construction": "～からでもあります",
+      "primaryTag": "grammar.q7.c12",
+      "tags": [
+        "grammar.q7.c12",
+        "grammar.q7.c11"
+      ],
+      "evidence": "前文介绍嗅闻确认，后文解释近视；补充原因并延续说明文语气。",
+      "notes": [],
+      "sourceQuestionSha256": "cd8e74b9f480e5ba29133eaeca3531546eba53a4269f6d14e5907a0f5386443c"
+    },
+    "markdown-2025.12-language-42": {
+      "problemNumber": 7,
+      "construction": "～示すのです",
+      "primaryTag": "grammar.q7.c01",
+      "tags": [
+        "grammar.q7.c01",
+        "grammar.q7.c12"
+      ],
+      "evidence": "文章讲一般习性，采用非过去常态说明；不是回忆、样态或反复抱怨。",
+      "notes": [],
+      "sourceQuestionSha256": "ec04c385650eb219980077bfb2737a967c1330972a1c914d15b860d056dd6b2f"
+    },
+    "markdown-2025.12-language-43": {
+      "problemNumber": 7,
+      "construction": "～利用すれば",
+      "primaryTag": "grammar.q7.c02",
+      "tags": [
+        "grammar.q7.c02"
+      ],
+      "evidence": "后文建议依此习性接近猫，前项是实现亲近的条件。",
+      "notes": [],
+      "sourceQuestionSha256": "a8cac706599b4ac9ea89d0e839feba88013176e8c6c4a526bc2f8fa4732d62e7"
+    },
+    "markdown-2025.12-language-44": {
+      "problemNumber": 7,
+      "construction": "そこで",
+      "primaryTag": "grammar.q7.c09",
+      "tags": [
+        "grammar.q7.c09"
+      ],
+      "evidence": "承接猫不知道来者身份的问题，提出伸手指让猫闻的应对办法。",
+      "notes": [],
+      "sourceQuestionSha256": "1ec3cdeabb70afcfbb746797db92b92eee25cff2a1b10e8e345968b7812c89dd"
+    },
+    "markdown-2025.07-language-26": {
+      "problemNumber": 5,
+      "construction": "Vてまで",
+      "primaryTag": "grammar.q5.b01",
+      "tags": [
+        "grammar.q5.b01",
+        "grammar.q5.c17"
+      ],
+      "evidence": "まで连接行为，强调甚至忍受喜欢的事也要节约这一程度。",
+      "notes": [],
+      "sourceQuestionSha256": "b3dfd097029c7babff3145f6878a2ae4795334c95b13e606ef3cc270f9a93d54"
+    },
+    "markdown-2025.07-language-27": {
+      "problemNumber": 5,
+      "construction": "～にあっても",
+      "primaryTag": "grammar.q5.c08",
+      "tags": [
+        "grammar.q5.c08",
+        "grammar.q5.b01"
+      ],
+      "evidence": "即使处于研究进步的当今仍有未知；も带让步，にあって连接处境。",
+      "notes": [],
+      "sourceQuestionSha256": "da729544beb793566753eaeb32b8048b9d7919dcbb4b6f6aee48f087e811cd8e"
+    },
+    "markdown-2025.07-language-28": {
+      "problemNumber": 5,
+      "construction": "～だろうが～だろうが",
+      "primaryTag": "grammar.q5.c10",
+      "tags": [
+        "grammar.q5.c10",
+        "grammar.q5.c04"
+      ],
+      "evidence": "列举前辈、上司等不同身份，身份不影响指出问题的行为。",
+      "notes": [],
+      "sourceQuestionSha256": "5d95f2e8c03f88f447271b9c389be41496249f67496104dc8c95a0cef23dc7dc"
+    },
+    "markdown-2025.07-language-29": {
+      "problemNumber": 5,
+      "construction": "～というときに限って",
+      "primaryTag": "grammar.q5.b02",
+      "tags": [
+        "grammar.q5.b02",
+        "grammar.q5.c09"
+      ],
+      "evidence": "引用内容修饰とき，表示偏偏在关键时刻发生意外。",
+      "notes": [],
+      "sourceQuestionSha256": "b24b92be4bf94879a0eb6669f628a0f5ade42a55cebf4bf68053696ddaa9d659"
+    },
+    "markdown-2025.07-language-30": {
+      "problemNumber": 5,
+      "construction": "Nを題材としながらも",
+      "primaryTag": "grammar.q5.b01",
+      "tags": [
+        "grammar.q5.b01",
+        "grammar.q5.c08"
+      ],
+      "evidence": "を～とする的对象认定搭配，ながらも连接题材与实际描绘内容的反差。",
+      "notes": [],
+      "sourceQuestionSha256": "aa7537facad6af181855b0e270ce55eab32605ba447e351e6599515a3a0c1a94"
+    },
+    "markdown-2025.07-language-31": {
+      "problemNumber": 5,
+      "construction": "～ほどではないものの",
+      "primaryTag": "grammar.q5.c08",
+      "tags": [
+        "grammar.q5.c08",
+        "grammar.q5.c13"
+      ],
+      "evidence": "症状未到需要就诊的程度，但仍疼痛；区分否定程度与义务。",
+      "notes": [],
+      "sourceQuestionSha256": "8cd49acc30b3749195d19b72d144cf8eb4e9c720a3307ec823e2980837bdc97e"
+    },
+    "markdown-2025.07-language-32": {
+      "problemNumber": 5,
+      "construction": "～ようとはしなかった",
+      "primaryTag": "grammar.q5.b06",
+      "tags": [
+        "grammar.q5.b06"
+      ],
+      "evidence": "不愿尝试穿不喜欢颜色的衣服，考查意志而非能力不足。",
+      "notes": [],
+      "sourceQuestionSha256": "41dac00e3be2ca5e904a2b127697db767038b5775b576c1626130924e2294b2d"
+    },
+    "markdown-2025.07-language-33": {
+      "problemNumber": 5,
+      "construction": "～てまいります",
+      "primaryTag": "grammar.q5.b03",
+      "tags": [
+        "grammar.q5.b03",
+        "grammar.q5.b05"
+      ],
+      "evidence": "公司自述将持续推进，使用ていく的谦逊表达，兼顾时间方向。",
+      "notes": [],
+      "sourceQuestionSha256": "8210c07cec4d39ff1cd0745be751d4255648d464485d435b145f5afe4d06479e"
+    },
+    "markdown-2025.07-language-34": {
+      "problemNumber": 5,
+      "construction": "～なっていたかもしれない",
+      "primaryTag": "grammar.q5.c09",
+      "tags": [
+        "grammar.q5.c09",
+        "grammar.q5.b05",
+        "grammar.q5.b06"
+      ],
+      "evidence": "若当初接受邀请，现在也许已当上部长；反事实、时态与推测组合。",
+      "notes": [],
+      "sourceQuestionSha256": "074283631dea6647dd4e263bb156a1edd695051c10d472aab06a1e72a00544b9"
+    },
+    "markdown-2025.07-language-35": {
+      "problemNumber": 5,
+      "construction": "～ずに済むわけがない",
+      "primaryTag": "grammar.q5.b06",
+      "tags": [
+        "grammar.q5.b06",
+        "grammar.q5.c18"
+      ],
+      "evidence": "不可能无需承担责任；否定免除责任的可能性并作强断定。",
+      "notes": [],
+      "sourceQuestionSha256": "4547251c8a1a9880596ef507ed076f8934dedd78e5801a21b54f6407b4a9026b"
+    },
+    "markdown-2025.07-language-36": {
+      "problemNumber": 6,
+      "construction": "V连用形＋でもしない限り",
+      "primaryTag": "grammar.q6.c01",
+      "tags": [
+        "grammar.q6.c01",
+        "grammar.q6.c03"
+      ],
+      "evidence": "当たりでもしない限り构成假设性例外条件，连接宝くじに。",
+      "notes": [],
+      "sourceQuestionSha256": "3afb5737d77935b7226b31358dbc90870f69100426b9b06dbfb04377ddb487e4"
+    },
+    "markdown-2025.07-language-37": {
+      "problemNumber": 6,
+      "construction": "～存在であるコンビニ／～店舗",
+      "primaryTag": "grammar.q6.c02",
+      "tags": [
+        "grammar.q6.c02",
+        "grammar.q6.c03"
+      ],
+      "evidence": "存在である修饰コンビニ，定休日を設ける修饰店舗；中间转折及原因。",
+      "notes": [],
+      "sourceQuestionSha256": "7d552dd36a0e8fa724c2035f169c52d4d6b92a98dd958290aa5cc080ba996785"
+    },
+    "markdown-2025.07-language-38": {
+      "problemNumber": 6,
+      "construction": "いくら～からといって／一向に～ない",
+      "primaryTag": "grammar.q6.c01",
+      "tags": [
+        "grammar.q6.c01",
+        "grammar.q6.c03"
+      ],
+      "evidence": "让步固定形式与末尾否定呼应；每天观看通常应厌倦的预想。",
+      "notes": [],
+      "sourceQuestionSha256": "dc8caa4eb7b3fd54ff235be40f09a60ac8f2ed9866817b6a76174a82ab94234c"
+    },
+    "markdown-2025.07-language-39": {
+      "problemNumber": 6,
+      "construction": "～といった症状／病気のサイン",
+      "primaryTag": "grammar.q6.c02",
+      "tags": [
+        "grammar.q6.c02",
+        "grammar.q6.c03"
+      ],
+      "evidence": "といった把列举症状名词化修饰，病気のサインである再接可能性。",
+      "notes": [],
+      "sourceQuestionSha256": "dafa1de451d011d29fe209e79c8b64ba6d2b0074b5b66cd687acbae9e958d819"
+    },
+    "markdown-2025.07-language-40": {
+      "problemNumber": 6,
+      "construction": "～資源が失われつつある現状について",
+      "primaryTag": "grammar.q6.c02",
+      "tags": [
+        "grammar.q6.c02",
+        "grammar.q6.c03"
+      ],
+      "evidence": "完整小句修饰現状；講演を聞いて连接主句，と引きかえに嵌入交换关系。",
+      "notes": [],
+      "sourceQuestionSha256": "5f5ca2e56f663214ec39a018bd34cb3a0112570ce6388bc1c6270e330296581c"
+    },
+    "markdown-2025.07-language-41": {
+      "problemNumber": 7,
+      "construction": "それだけが～ではありません",
+      "primaryTag": "grammar.q7.c12",
+      "tags": [
+        "grammar.q7.c12"
+      ],
+      "evidence": "先承认面试技巧有用，再限制其不能涵盖人与人交往的全部。",
+      "notes": [],
+      "sourceQuestionSha256": "2a08ceaadeb6d7f7ffc3319651da23e42664716d3da80524b7a6f2d63568e59c"
+    },
+    "markdown-2025.07-language-42": {
+      "problemNumber": 7,
+      "construction": "～失敗するものなのです",
+      "primaryTag": "grammar.q7.c12",
+      "tags": [
+        "grammar.q7.c12",
+        "grammar.q7.c11"
+      ],
+      "evidence": "上文连续说明误解难免，据此总结普遍现象；不是劝人主动失败。",
+      "notes": [],
+      "sourceQuestionSha256": "197163a6e4bb612343314423a5a9aabe0d5cca75aa1409775690beb4bff2db82"
+    },
+    "markdown-2025.07-language-43": {
+      "problemNumber": 7,
+      "construction": "誤解を解くためには",
+      "primaryTag": "grammar.q7.c02",
+      "tags": [
+        "grammar.q7.c02",
+        "grammar.q7.c12"
+      ],
+      "evidence": "长谈是消除误解所需步骤；承接修正偏差而不是已消除误解之后。",
+      "notes": [],
+      "sourceQuestionSha256": "2d333128c942b0df5a19454a61d21f5f3ce3c9bedd4c960b1b468b5242c738eb"
+    },
+    "markdown-2025.07-language-44": {
+      "problemNumber": 7,
+      "construction": "逃避でしょう",
+      "primaryTag": "grammar.q7.c12",
+      "tags": [
+        "grammar.q7.c12",
+        "grammar.q7.c11"
+      ],
+      "evidence": "作者评价逃避麻烦交流的做法，不是推测读者想法或报告他人倾向。",
+      "notes": [],
+      "sourceQuestionSha256": "d5bc2a8a9820fd00e18063646f9662f0c9d53ad25bd5f66c4d48ff728af89298"
+    },
+    "jlpt4you-2024.12-grammar-5-1": {
+      "problemNumber": 5,
+      "construction": "Vるだけ無駄",
+      "primaryTag": "grammar.q5.b01",
+      "tags": [
+        "grammar.q5.b01",
+        "grammar.q5.c19"
+      ],
+      "evidence": "买也白买，だけ与無駄构成徒劳评价，区别单纯限定。",
+      "notes": [],
+      "sourceQuestionSha256": "625ba2ec5d12d44c089d69d93abac59b1eadf7b562c4f4df2fc17064d7f357a4"
+    },
+    "jlpt4you-2024.12-grammar-5-2": {
+      "problemNumber": 5,
+      "construction": "～を受けて",
+      "primaryTag": "grammar.q5.c12",
+      "tags": [
+        "grammar.q5.c12",
+        "grammar.q5.b01"
+      ],
+      "evidence": "健康意识提高成为产业增长的背景原因，考复合助词选择。",
+      "notes": [],
+      "sourceQuestionSha256": "3b482c9b44c29ede67c40aaefce29c8c92bcecae31080873602450cb7df8dfb1"
+    },
+    "jlpt4you-2024.12-grammar-5-3": {
+      "problemNumber": 5,
+      "construction": "Vるなり",
+      "primaryTag": "grammar.q5.c01",
+      "tags": [
+        "grammar.q5.c01",
+        "grammar.q5.b02"
+      ],
+      "evidence": "刚回到家就睡；接辞书形而非た形，区分次第等形式。",
+      "notes": [],
+      "sourceQuestionSha256": "1dd87b8f2536355c64a20b4aaecf64a0e8801b2803ffddf5b0e9a1ff047a09ba"
+    },
+    "jlpt4you-2024.12-grammar-5-4": {
+      "problemNumber": 5,
+      "construction": "～恐れがある以上",
+      "primaryTag": "grammar.q5.c12",
+      "tags": [
+        "grammar.q5.c12",
+        "grammar.q5.b06"
+      ],
+      "evidence": "既然存在未经许可访问的风险，就有必要采取措施；风险推测与理由。",
+      "notes": [
+        "原题「第三者が不正にアクセスされる」的助词／语态疑有转录问题；本次标注空格所考风险和理由，不校改。"
+      ],
+      "sourceQuestionSha256": "45e270cef7cc81a90dbfc58b26c097d394d02fb500aecea1b8828bb8e81be245"
+    },
+    "jlpt4you-2024.12-grammar-5-5": {
+      "problemNumber": 5,
+      "construction": "VきれないほどのN",
+      "primaryTag": "grammar.q5.c13",
+      "tags": [
+        "grammar.q5.c13",
+        "grammar.q5.b02"
+      ],
+      "evidence": "一天看不完；可能否定与ほどの修饰名词相结合。",
+      "notes": [],
+      "sourceQuestionSha256": "065ecf43ede8dfbb821cf2e9c34a3f3cd51fd92bce910207338fc89e8a35d1e9"
+    },
+    "jlpt4you-2024.12-grammar-5-6": {
+      "problemNumber": 5,
+      "construction": "～たいところだが",
+      "primaryTag": "grammar.q5.c08",
+      "tags": [
+        "grammar.q5.c08",
+        "grammar.q5.b06"
+      ],
+      "evidence": "本想节省开支却决定旅行；愿望与实际行为的逆接。",
+      "notes": [],
+      "sourceQuestionSha256": "e60e4c289b16fe1bab3c81ca728faae8c97ae1a5cd53e44cf5a1f813d866455c"
+    },
+    "jlpt4you-2024.12-grammar-5-7": {
+      "problemNumber": 5,
+      "construction": "～てみせた",
+      "primaryTag": "grammar.q5.b06",
+      "tags": [
+        "grammar.q5.b06"
+      ],
+      "evidence": "实际展示成功解题；区别惊讶引用、假设和行为限定。",
+      "notes": [],
+      "sourceQuestionSha256": "93471c2581e7ed99bccbc8bdb36d807cf73293da087fc50b5f1e6251c02a286b"
+    },
+    "jlpt4you-2024.12-grammar-5-8": {
+      "problemNumber": 5,
+      "construction": "～という（传闻）",
+      "primaryTag": "grammar.q5.b06",
+      "tags": [
+        "grammar.q5.b06"
+      ],
+      "evidence": "専門家の話では提示消息来源，句末报告传闻。",
+      "notes": [],
+      "sourceQuestionSha256": "58a5fb710e69cfbf4b1cdc77fba16291171154521347155202fc549f1d2e8eb4"
+    },
+    "jlpt4you-2024.12-grammar-5-9": {
+      "problemNumber": 5,
+      "construction": "～ことがあってはならない",
+      "primaryTag": "grammar.q5.c13",
+      "tags": [
+        "grammar.q5.c13",
+        "grammar.q5.b02"
+      ],
+      "evidence": "不允许剥夺教育机会；存在句使用が，不用である。",
+      "notes": [],
+      "sourceQuestionSha256": "efac642f0dc560c1bcd9a369c57f52854223ab64a9d593fee434e36699cd737c"
+    },
+    "jlpt4you-2024.12-grammar-5-10": {
+      "problemNumber": 5,
+      "construction": "私なんかでいいんですか",
+      "primaryTag": "grammar.q5.b01",
+      "tags": [
+        "grammar.q5.b01",
+        "grammar.q5.b06"
+      ],
+      "evidence": "自谦举例的なんか＋资格条件で；向老师请求确认。",
+      "notes": [],
+      "sourceQuestionSha256": "17f3081cc47e6036992cd798ddb53a72d071929e45c27e24dff8a85caf7ff319"
+    },
+    "jlpt4you-2024.12-grammar-6-1": {
+      "problemNumber": 6,
+      "construction": "V连用形＋こそしなかったが",
+      "primaryTag": "grammar.q6.c01",
+      "tags": [
+        "grammar.q6.c01",
+        "grammar.q6.c03"
+      ],
+      "evidence": "積もりこそしなかったが承认未积雪再转折；午前中修饰ずっと降る。",
+      "notes": [],
+      "sourceQuestionSha256": "30de62d6de19e6e3b08edd91765d82b106a18a17401b0cce4b386e5b6fd36d78"
+    },
+    "jlpt4you-2024.12-grammar-6-2": {
+      "problemNumber": 6,
+      "construction": "～がゆえに／～男の日常を描いた",
+      "primaryTag": "grammar.q6.c02",
+      "tags": [
+        "grammar.q6.c02",
+        "grammar.q6.c03"
+      ],
+      "evidence": "过分认真为原因，トラブルが絶えない修饰男，描いた修饰作品。",
+      "notes": [],
+      "sourceQuestionSha256": "9022587fb4134bd2e9827ab6375eea63c6792c143c4d46ebf4173872ba13799c"
+    },
+    "jlpt4you-2024.12-grammar-6-3": {
+      "problemNumber": 6,
+      "construction": "ビジネス書に抵抗がある人にも",
+      "primaryTag": "grammar.q6.c02",
+      "tags": [
+        "grammar.q6.c02",
+        "grammar.q6.c03"
+      ],
+      "evidence": "助词に与抵抗がある形成搭配，关系从句修饰人；前段为一般印象。",
+      "notes": [
+        "「思われるがち」疑为转录异常；关系从句与助词接续仍可辨，保留原文。"
+      ],
+      "sourceQuestionSha256": "9d1f543fafb88284e3034a087678d82eb982b13ad5592d358817c491ae8e2185"
+    },
+    "jlpt4you-2024.12-grammar-6-4": {
+      "problemNumber": 6,
+      "construction": "～と思ったら今度は",
+      "primaryTag": "grammar.q6.c01",
+      "tags": [
+        "grammar.q6.c01",
+        "grammar.q6.c03"
+      ],
+      "evidence": "终于到达后又遇停车拥堵，先后句块按实际顺序衔接。",
+      "notes": [],
+      "sourceQuestionSha256": "da5f523cd47f126eb3a153832f3e01b9cf2bab922fe3f4798016738a15499bd2"
+    },
+    "jlpt4you-2024.12-grammar-6-5": {
+      "problemNumber": 6,
+      "construction": "～ないことには／売れるも売れないもない",
+      "primaryTag": "grammar.q6.c01",
+      "tags": [
+        "grammar.q6.c01",
+        "grammar.q6.c03"
+      ],
+      "evidence": "让步承认商品优良，再用必要条件限定讨论销售的前提。",
+      "notes": [],
+      "sourceQuestionSha256": "00019b1604f20395c36ae8b2a83ae85f6db8b23a5776d0373e74f8f277b8c9ef"
+    },
+    "jlpt4you-2024.12-grammar-7-1": {
+      "problemNumber": 7,
+      "construction": "～気を使わせられはしない",
+      "primaryTag": "grammar.q7.c05",
+      "tags": [
+        "grammar.q7.c05",
+        "grammar.q7.c03"
+      ],
+      "evidence": "作者不能让已疲惫的编辑操心；使役及其可能否定维持动作主体方向。",
+      "notes": [],
+      "sourceQuestionSha256": "cfa57fe4a5441c2a5b0a442c7561a0d7a30e62b6eb38abc13d04143139cf90f0"
+    },
+    "jlpt4you-2024.12-grammar-7-2": {
+      "problemNumber": 7,
+      "construction": "それにもかかわらず",
+      "primaryTag": "grammar.q7.c09",
+      "tags": [
+        "grammar.q7.c09"
+      ],
+      "evidence": "虽可单独订购耳环却仍失落，连接可补救与实际情绪的逆接。",
+      "notes": [],
+      "sourceQuestionSha256": "27fd18c0304c0eba980865ccb2e36a234efb8b5b0f987ff075544904c1c502ae"
+    },
+    "jlpt4you-2024.12-grammar-7-3": {
+      "problemNumber": 7,
+      "construction": "～承知していれば",
+      "primaryTag": "grammar.q7.c02",
+      "tags": [
+        "grammar.q7.c02",
+        "grammar.q7.c01"
+      ],
+      "evidence": "假设早知自己粗心便不会失落，与现实自以为不会再丢形成反事实。",
+      "notes": [],
+      "sourceQuestionSha256": "31b11f4265f94fb73349651056dbac47a7fd5382f18c75766bbacd1072efa1a1"
+    },
+    "jlpt4you-2024.12-grammar-7-4": {
+      "problemNumber": 7,
+      "construction": "ピアスだって",
+      "primaryTag": "grammar.q7.c12",
+      "tags": [
+        "grammar.q7.c12",
+        "grammar.q7.c10"
+      ],
+      "evidence": "举耳环为前文一般判断的例子，把失败规律落实到自身经历。",
+      "notes": [],
+      "sourceQuestionSha256": "4d44bbcd0f2f8cf3123add5599f967f5ebe5d8e647056f3ca0eb61529bd698c4"
+    },
+    "jlpt4you-2024.07-grammar-5-1": {
+      "problemNumber": 5,
+      "construction": "V连用形＋はする",
+      "primaryTag": "grammar.q5.b01",
+      "tags": [
+        "grammar.q5.b01"
+      ],
+      "evidence": "承认可用但未必需要，は标对比；不能只据词义分强调。",
+      "notes": [],
+      "sourceQuestionSha256": "de9a434b153d0f4ac752c1e45f80d450c9bd796ede19710964d432e1e88045df"
+    },
+    "jlpt4you-2024.07-grammar-5-2": {
+      "problemNumber": 5,
+      "construction": "～にして",
+      "primaryTag": "grammar.q5.c17",
+      "tags": [
+        "grammar.q5.c17"
+      ],
+      "evidence": "强调年仅27岁就任市长。",
+      "notes": [],
+      "sourceQuestionSha256": "116138e463f0fcff0aa0f0c3d41133de0cb06a4d9728ef372b42d53d4f89b6e0"
+    },
+    "jlpt4you-2024.07-grammar-5-3": {
+      "problemNumber": 5,
+      "construction": "お越しになる際は",
+      "primaryTag": "grammar.q5.b03",
+      "tags": [
+        "grammar.q5.b03",
+        "grammar.q5.c01"
+      ],
+      "evidence": "对来访者使用尊敬语；際は表示来访时，不是以来。",
+      "notes": [],
+      "sourceQuestionSha256": "1ae146d188966ec88c62094706cc74a55ee67df674a9a4f105ae95f3def54222"
+    },
+    "jlpt4you-2024.07-grammar-5-4": {
+      "problemNumber": 5,
+      "construction": "～かどうかはともかく",
+      "primaryTag": "grammar.q5.c05",
+      "tags": [
+        "grammar.q5.c05"
+      ],
+      "evidence": "暂不讨论是否真的成为消防员，把喜悦与实现与否分开。",
+      "notes": [],
+      "sourceQuestionSha256": "7309d54dba6ce99decf2525d1c8b7b4b3a9e9005e67ff19ba19f5da89b84ad8f"
+    },
+    "jlpt4you-2024.07-grammar-5-5": {
+      "problemNumber": 5,
+      "construction": "あたかも～かのごとく",
+      "primaryTag": "grammar.q5.b06",
+      "tags": [
+        "grammar.q5.b06",
+        "grammar.q5.c06"
+      ],
+      "evidence": "把非事实报道得仿佛事实，考比况表达。",
+      "notes": [],
+      "sourceQuestionSha256": "ac415c5035a055277b9ed0d33bdab170f06e19601e0840d8690b42e8c1109cd9"
+    },
+    "jlpt4you-2024.07-grammar-5-6": {
+      "problemNumber": 5,
+      "construction": "～始末だ",
+      "primaryTag": "grammar.q5.c16",
+      "tags": [
+        "grammar.q5.c16"
+      ],
+      "evidence": "列举糟糕遭遇，最后落到淋湿这一不良结局。",
+      "notes": [],
+      "sourceQuestionSha256": "1b74c143f0d21d45bf14d732ab635581c9af06f0e223eaa76395effa9b2888af"
+    },
+    "jlpt4you-2024.07-grammar-5-7": {
+      "problemNumber": 5,
+      "construction": "～だけのことだ",
+      "primaryTag": "grammar.q5.c18",
+      "tags": [
+        "grammar.q5.c18"
+      ],
+      "evidence": "断定仅仅是实力不足，没有额外原因。",
+      "notes": [],
+      "sourceQuestionSha256": "e102974d97dd89ca44d25c693397992aafc614cbc323f37e6a8eac287ea05ed2"
+    },
+    "jlpt4you-2024.07-grammar-5-8": {
+      "problemNumber": 5,
+      "construction": "～悩まされることはない",
+      "primaryTag": "grammar.q5.b04",
+      "tags": [
+        "grammar.q5.b04",
+        "grammar.q5.b06"
+      ],
+      "evidence": "修好后不再受暑热困扰；承受影响的被动与未来否定。",
+      "notes": [],
+      "sourceQuestionSha256": "0a6fe97e50f0f8ec7ce9c48ff3e948bb0ce1cd16683957b83e63008bc86e6f50"
+    },
+    "jlpt4you-2024.07-grammar-5-9": {
+      "problemNumber": 5,
+      "construction": "～強まる見込みです",
+      "primaryTag": "grammar.q5.b04",
+      "tags": [
+        "grammar.q5.b04",
+        "grammar.q5.b06",
+        "grammar.q5.b05"
+      ],
+      "evidence": "风雨自行增强使用自动态；明天的预期不是当前进行。",
+      "notes": [],
+      "sourceQuestionSha256": "16057c666fb737bab8e21492b758d3729755006b8605c2bdbd52548a4d2502c9"
+    },
+    "jlpt4you-2024.07-grammar-5-10": {
+      "problemNumber": 5,
+      "construction": "～たがるものです",
+      "primaryTag": "grammar.q5.b06",
+      "tags": [
+        "grammar.q5.b06",
+        "grammar.q5.b02"
+      ],
+      "evidence": "描述第三人称儿童的一般欲求倾向；たがる与常理说明ものだ。",
+      "notes": [],
+      "sourceQuestionSha256": "e35b645f0d6c1162919bd373cc20cec98a233bc4a94a6f1af9d467c12ec29d43"
+    },
+    "jlpt4you-2024.07-grammar-6-1": {
+      "problemNumber": 6,
+      "construction": "～んだから／子供がそうなるのも",
+      "primaryTag": "grammar.q6.c03",
+      "tags": [
+        "grammar.q6.c03",
+        "grammar.q6.c02"
+      ],
+      "evidence": "人前表演为紧张原因；子供が是名词化小句内部主语。",
+      "notes": [
+        "原题含「引けなくって」「勢いの前」等疑似转录异常；据可辨句法标注，原文保留。"
+      ],
+      "sourceQuestionSha256": "9e2a9fcf38db5620207af825113e13161ca53be3759a8077cc1477e8551d1230"
+    },
+    "jlpt4you-2024.07-grammar-6-2": {
+      "problemNumber": 6,
+      "construction": "産卵を控えた雌に限っての行動",
+      "primaryTag": "grammar.q6.c02",
+      "tags": [
+        "grammar.q6.c02",
+        "grammar.q6.c03"
+      ],
+      "evidence": "修饰雌，再以に限っての修饰行動；なのだとか连接传闻。",
+      "notes": [],
+      "sourceQuestionSha256": "f0c2e55a4158cb4a0ec07a598dbe12c8d449ef67d5c1194c0592d2d750272d20"
+    },
+    "jlpt4you-2024.07-grammar-6-3": {
+      "problemNumber": 6,
+      "construction": "～うえに／～ことを踏まえ",
+      "primaryTag": "grammar.q6.c03",
+      "tags": [
+        "grammar.q6.c03",
+        "grammar.q6.c02"
+      ],
+      "evidence": "叠加处理时间及评价因素，将前文以こと名词化，接踏まえ。",
+      "notes": [
+        "原选项「評判も良くなった」与改换问卷形式的语境可能不符，疑漏否定；只标结构，不修订原文。"
+      ],
+      "sourceQuestionSha256": "9347c41bb8c16d6af0f5e70ac02f4e56592f91b9a87e62879f20c495fd62c36d"
+    },
+    "jlpt4you-2024.07-grammar-6-4": {
+      "problemNumber": 6,
+      "construction": "～だけでこんなにも～なんて思っていなかった",
+      "primaryTag": "grammar.q6.c03",
+      "tags": [
+        "grammar.q6.c03",
+        "grammar.q6.c01"
+      ],
+      "evidence": "条件程度与惊讶引用配合，なんて作为思う的内容。",
+      "notes": [
+        "原选项「睡眠の質があるなんて」疑有漏字，保留原文并按引用接续标注。"
+      ],
+      "sourceQuestionSha256": "61ac7e815885760bcc6a6a5a1526c5c6e855cf6d783e7a79ef61b4cd424a852a"
+    },
+    "jlpt4you-2024.07-grammar-6-5": {
+      "problemNumber": 6,
+      "construction": "～取り入れるメリットは理解しつつも",
+      "primaryTag": "grammar.q6.c02",
+      "tags": [
+        "grammar.q6.c02",
+        "grammar.q6.c03"
+      ],
+      "evidence": "关系从句修饰メリット，つつも转折到未能引进的原因。",
+      "notes": [],
+      "sourceQuestionSha256": "b855ef05494d4e1b35b6a6b3127eb2bb2eaab1bc4e9ab930074fe4fa35c9f06c"
+    },
+    "jlpt4you-2024.07-grammar-7-1": {
+      "problemNumber": 7,
+      "construction": "会って話すことで",
+      "primaryTag": "grammar.q7.c12",
+      "tags": [
+        "grammar.q7.c12"
+      ],
+      "evidence": "前后讨论见面交谈引起彼此变化；由手段引出效果而非假定恶果。",
+      "notes": [],
+      "sourceQuestionSha256": "191bdc01a37344387582b4082ee5fcf320574d8cfe03cd4d2ae93cc438bd2683"
+    },
+    "jlpt4you-2024.07-grammar-7-2": {
+      "problemNumber": 7,
+      "construction": "会ってこそ",
+      "primaryTag": "grammar.q7.c02",
+      "tags": [
+        "grammar.q7.c02",
+        "grammar.q7.c12"
+      ],
+      "evidence": "前段否定远程交流足以换位，强调真正见面才构成深度共感的条件。",
+      "notes": [],
+      "sourceQuestionSha256": "ae3259ee3167a75379056403027f560a9f6db5aa37956b8268e16b6b440281d2"
+    },
+    "jlpt4you-2024.07-grammar-7-3": {
+      "problemNumber": 7,
+      "construction": "思い出してください",
+      "primaryTag": "grammar.q7.c12",
+      "tags": [
+        "grammar.q7.c12"
+      ],
+      "evidence": "下一句直接问读者是否心跳紧张，因此此处先请求读者回想。",
+      "notes": [],
+      "sourceQuestionSha256": "0960aa48c3554d5249d162b1dc11e375c574ff75f93f5a68527a32b3bd5a74ff"
+    },
+    "jlpt4you-2024.07-grammar-7-4": {
+      "problemNumber": 7,
+      "construction": "～というわけです",
+      "primaryTag": "grammar.q7.c12",
+      "tags": [
+        "grammar.q7.c12",
+        "grammar.q7.c10"
+      ],
+      "evidence": "对此前正负感情都会活化大脑的论述作归纳说明。",
+      "notes": [],
+      "sourceQuestionSha256": "1c482f27a7dd5e215260a67d8bb0afffce0f81c3ef2928324dfb4181e007a709"
+    },
+    "jlpt4you-2023.12-grammar-5-1": {
+      "problemNumber": 5,
+      "construction": "～を機に",
+      "primaryTag": "grammar.q5.c01",
+      "tags": [
+        "grammar.q5.c01",
+        "grammar.q5.b01"
+      ],
+      "evidence": "搬家成为换冰箱的契机，区别以某项为首持续展开。",
+      "notes": [],
+      "sourceQuestionSha256": "5b287ad977998c080c51a59bb3b5ae489a0d4f0afac0de9da2da9d6507317f87"
+    },
+    "jlpt4you-2023.12-grammar-5-2": {
+      "problemNumber": 5,
+      "construction": "～あっての",
+      "primaryTag": "grammar.q5.c17",
+      "tags": [
+        "grammar.q5.c17"
+      ],
+      "evidence": "公司以员工存在为成立基础，强调不可缺少的依存关系。",
+      "notes": [],
+      "sourceQuestionSha256": "1a65fce0fbf7d2c1b624956634b21883d45b93dd616b78847c60a6128d136e49"
+    },
+    "jlpt4you-2023.12-grammar-5-3": {
+      "problemNumber": 5,
+      "construction": "Vては",
+      "primaryTag": "grammar.q5.b05",
+      "tags": [
+        "grammar.q5.b05",
+        "grammar.q5.b01"
+      ],
+      "evidence": "每次重读都得到鼓励；ては描述反复，而非目的。",
+      "notes": [],
+      "sourceQuestionSha256": "16e09e2101e5211274e97e6d05d7ad7726bfe81f4069098f933886b344381e7f"
+    },
+    "jlpt4you-2023.12-grammar-5-4": {
+      "problemNumber": 5,
+      "construction": "～てばかりいたせいか",
+      "primaryTag": "grammar.q5.c12",
+      "tags": [
+        "grammar.q5.c12",
+        "grammar.q5.b05"
+      ],
+      "evidence": "连休一直睡觉可能造成身体倦怠；持续偏重行为与原因推测。",
+      "notes": [],
+      "sourceQuestionSha256": "c11cdc4f88cc1378d7ee4c301a0d9cf8ac67ea4365c1b575921673d4212223f3"
+    },
+    "jlpt4you-2023.12-grammar-5-5": {
+      "problemNumber": 5,
+      "construction": "私個人といたしましては",
+      "primaryTag": "grammar.q5.b03",
+      "tags": [
+        "grammar.q5.b03",
+        "grammar.q5.c14"
+      ],
+      "evidence": "自谦地提出自己的立场，不用抬高对方的におかれましては。",
+      "notes": [],
+      "sourceQuestionSha256": "3a585733542884fe9f5a9c9cf00e0dd9b326dd0a0318b0a4e0403fcedb0105b5"
+    },
+    "jlpt4you-2023.12-grammar-5-6": {
+      "problemNumber": 5,
+      "construction": "Vたはいいが",
+      "primaryTag": "grammar.q5.c08",
+      "tags": [
+        "grammar.q5.c08"
+      ],
+      "evidence": "买了虽好却不会用，承认前项后转向不良结果。",
+      "notes": [],
+      "sourceQuestionSha256": "368ea58ea6d423b8e54d0fc850958e266b91782cbb8db56a46695ab29874fbe2"
+    },
+    "jlpt4you-2023.12-grammar-5-7": {
+      "problemNumber": 5,
+      "construction": "不快な思いをした",
+      "primaryTag": "grammar.q5.b02",
+      "tags": [
+        "grammar.q5.b02",
+        "grammar.q5.c19"
+      ],
+      "evidence": "大変修饰完整过去叙述；其他选项的程度或感叹结构不能直接成立。",
+      "notes": [],
+      "sourceQuestionSha256": "45ef2faea4b511c9e38865f62fda4176059eebaa0c8d8159a371194955a389f3"
+    },
+    "jlpt4you-2023.12-grammar-5-8": {
+      "problemNumber": 5,
+      "construction": "見えました",
+      "primaryTag": "grammar.q5.b03",
+      "tags": [
+        "grammar.q5.b03"
+      ],
+      "evidence": "对来访者的到来用尊敬表达，不能用自己的自谦形式。",
+      "notes": [],
+      "sourceQuestionSha256": "d7db001dbf734bf1f633fefed0848b82876fd130121f004377745ada50883fd7"
+    },
+    "jlpt4you-2023.12-grammar-5-9": {
+      "problemNumber": 5,
+      "construction": "～ようとしている",
+      "primaryTag": "grammar.q5.b05",
+      "tags": [
+        "grammar.q5.b05"
+      ],
+      "evidence": "一年即将结束，考临近阶段而不是主动努力改变。",
+      "notes": [],
+      "sourceQuestionSha256": "14885cd7287c60ecdced0831d860424501765072a4ffe3d3afea6e23c5ae1892"
+    },
+    "jlpt4you-2023.12-grammar-5-10": {
+      "problemNumber": 5,
+      "construction": "～ないほうがいいに決まっている",
+      "primaryTag": "grammar.q5.c18",
+      "tags": [
+        "grammar.q5.c18",
+        "grammar.q5.b06"
+      ],
+      "evidence": "断定不犯错当然更好；复杂否定下保持评价方向。",
+      "notes": [],
+      "sourceQuestionSha256": "3b78f615ea16a50c9c6ae77da911ca35805f0f523801135a4749b02ee2e22513"
+    },
+    "jlpt4you-2023.12-grammar-6-1": {
+      "problemNumber": 6,
+      "construction": "～できないとの問い合わせ／調査したところ",
+      "primaryTag": "grammar.q6.c02",
+      "tags": [
+        "grammar.q6.c02",
+        "grammar.q6.c03"
+      ],
+      "evidence": "との引用修饰問い合わせ，之后接收到询问、调查、发现的顺序。",
+      "notes": [],
+      "sourceQuestionSha256": "bc760f685e74632334b9ab14d119784009f720789016473cc24f50f853d86a52"
+    },
+    "jlpt4you-2023.12-grammar-6-2": {
+      "problemNumber": 6,
+      "construction": "さすが～だけあって",
+      "primaryTag": "grammar.q6.c01",
+      "tags": [
+        "grammar.q6.c01",
+        "grammar.q6.c02"
+      ],
+      "evidence": "料理が上手な修饰森さん，森さんが勧める连接だけあって。",
+      "notes": [],
+      "sourceQuestionSha256": "13a2d2d0a96a09d23733ef96b7b5dfe545ba47c549586a560bbf86c32982f8a4"
+    },
+    "jlpt4you-2023.12-grammar-6-3": {
+      "problemNumber": 6,
+      "construction": "～何だったのかも思い出せないほど",
+      "primaryTag": "grammar.q6.c03",
+      "tags": [
+        "grammar.q6.c03"
+      ],
+      "evidence": "嵌入疑问作为思い出す对象，ほど连接后面的久しく。",
+      "notes": [],
+      "sourceQuestionSha256": "41d368e4613149dcdc752c876c8ba4fbaf78d287fc23dc17e5c14dbd66487b27"
+    },
+    "jlpt4you-2023.12-grammar-6-4": {
+      "problemNumber": 6,
+      "construction": "知る限りでは／～分析している論文",
+      "primaryTag": "grammar.q6.c02",
+      "tags": [
+        "grammar.q6.c02",
+        "grammar.q6.c01"
+      ],
+      "evidence": "限定知识范围；修饰论文学术方法的小句必须整体连接。",
+      "notes": [],
+      "sourceQuestionSha256": "9e5308118fa0f0092593c02c4a9cea486d6ced54b8797f38369b2d8bdfb12e83"
+    },
+    "jlpt4you-2023.12-grammar-6-5": {
+      "problemNumber": 6,
+      "construction": "レシピに沿って／～だけで／～と評判",
+      "primaryTag": "grammar.q6.c03",
+      "tags": [
+        "grammar.q6.c03",
+        "grammar.q6.c01"
+      ],
+      "evidence": "按食谱操作即可完成料理，引用完整效果评价后接評判。",
+      "notes": [],
+      "sourceQuestionSha256": "9f278e3fe65beab0724414bb0535107f69b618c3750cdf6873ec3a6fc1469205"
+    },
+    "jlpt4you-2023.12-grammar-7-1": {
+      "problemNumber": 7,
+      "construction": "面白いものを選ばなければならない",
+      "primaryTag": "grammar.q7.c12",
+      "tags": [
+        "grammar.q7.c12"
+      ],
+      "evidence": "承接素材有趣无趣的区分，说明作者选材原则，接下段自我解释。",
+      "notes": [],
+      "sourceQuestionSha256": "21c60ca4b04506b36e0aa172e31d4dd59c60ae39562de148827bed2282ab68de"
+    },
+    "jlpt4you-2023.12-grammar-7-2": {
+      "problemNumber": 7,
+      "construction": "～ということだ",
+      "primaryTag": "grammar.q7.c10",
+      "tags": [
+        "grammar.q7.c10",
+        "grammar.q7.c12"
+      ],
+      "evidence": "对自分にとって面白い作同义解释，用ということだ概括定义。",
+      "notes": [],
+      "sourceQuestionSha256": "a8227e6eb4186796d611cedffcfa750ca60da0fb718f5029418c44777ab95def"
+    },
+    "jlpt4you-2023.12-grammar-7-3": {
+      "problemNumber": 7,
+      "construction": "小説でもそうだ",
+      "primaryTag": "grammar.q7.c07",
+      "tags": [
+        "grammar.q7.c07",
+        "grammar.q7.c10"
+      ],
+      "evidence": "扩大到小说这一体裁，前文没有具体小说可供その或そういった指代。",
+      "notes": [],
+      "sourceQuestionSha256": "0e762de4660fca4eb696a9ec3c4807e4997610c02a922b453c9a91bf3179e1c3"
+    },
+    "jlpt4you-2023.12-grammar-7-4": {
+      "problemNumber": 7,
+      "construction": "～アプローチかもしれない",
+      "primaryTag": "grammar.q7.c12",
+      "tags": [
+        "grammar.q7.c12",
+        "grammar.q7.c11"
+      ],
+      "evidence": "作者试探性扩展到人生方法，维持自我思考语气而非传闻或公论。",
+      "notes": [],
+      "sourceQuestionSha256": "6e606e5e72150bd1108d82bf3d9fd642416c9d1455d0cdf2cb084ead9af096ab"
+    },
+    "jlpt4you-2023.07-grammar-5-1": {
+      "problemNumber": 5,
+      "construction": "誇りに思う",
+      "primaryTag": "grammar.q5.b01",
+      "tags": [
+        "grammar.q5.b01"
+      ],
+      "evidence": "誇り作为评价内容用に，与思う构成搭配。",
+      "notes": [],
+      "sourceQuestionSha256": "b942facaf2d1ec1aefa42fee4f9bc221ce2bbc63b3f44833ee8d0cd2f79fb321"
+    },
+    "jlpt4you-2023.07-grammar-5-2": {
+      "problemNumber": 5,
+      "construction": "～からしか～ない",
+      "primaryTag": "grammar.q5.c03",
+      "tags": [
+        "grammar.q5.c03",
+        "grammar.q5.b01"
+      ],
+      "evidence": "から指出学习来源，しか与否定呼应限定来源。",
+      "notes": [],
+      "sourceQuestionSha256": "7fe4760e6af6ce90d3291b985cfeaa54d4747c0ec2749ce896badb21dcc22c87"
+    },
+    "jlpt4you-2023.07-grammar-5-3": {
+      "problemNumber": 5,
+      "construction": "な形容词词干＋そのもの",
+      "primaryTag": "grammar.q5.b02",
+      "tags": [
+        "grammar.q5.b02",
+        "grammar.q5.c17"
+      ],
+      "evidence": "真剣そのもの表示非常认真；词干直接连接，不能加な等。",
+      "notes": [],
+      "sourceQuestionSha256": "5300caea6ff9d5e53f42e47c514edee87b88383128f0711edbc642be3170a337"
+    },
+    "jlpt4you-2023.07-grammar-5-4": {
+      "problemNumber": 5,
+      "construction": "～するうちに",
+      "primaryTag": "grammar.q5.c01",
+      "tags": [
+        "grammar.q5.c01"
+      ],
+      "evidence": "在共同工作过程中逐渐发现真实性格。",
+      "notes": [],
+      "sourceQuestionSha256": "79f6e4f21b73468c64bfa0cd62c085f957c2b52032d146637eb75c7d1266bb70"
+    },
+    "jlpt4you-2023.07-grammar-5-5": {
+      "problemNumber": 5,
+      "construction": "～できずにいたところ",
+      "primaryTag": "grammar.q5.c01",
+      "tags": [
+        "grammar.q5.c01",
+        "grammar.q5.b05"
+      ],
+      "evidence": "无法打包的状态持续时，朋友告知服务；不是人为使不能。",
+      "notes": [],
+      "sourceQuestionSha256": "42f25bbbd5a1f3e522979cd5ddf5031905d1c6bd71ee13c1f31c1cbb192e78f2"
+    },
+    "jlpt4you-2023.07-grammar-5-6": {
+      "problemNumber": 5,
+      "construction": "～んじゃないかというぐらい",
+      "primaryTag": "grammar.q5.b06",
+      "tags": [
+        "grammar.q5.b06",
+        "grammar.q5.b02"
+      ],
+      "evidence": "引用可能下雪的判断来表示寒冷程度，保持引用与程度接续。",
+      "notes": [],
+      "sourceQuestionSha256": "0d36ed13069c6252e25a57d483b0b88abf7790c0bf58f874d8404209af360095"
+    },
+    "jlpt4you-2023.07-grammar-5-7": {
+      "problemNumber": 5,
+      "construction": "～なくもない",
+      "primaryTag": "grammar.q5.c13",
+      "tags": [
+        "grammar.q5.c13",
+        "grammar.q5.b06"
+      ],
+      "evidence": "双重否定表示并非走不了，是保留条件的弱肯定。",
+      "notes": [],
+      "sourceQuestionSha256": "2a6fa710540f0aa293b3180c290cc25d959a8682e6c7ddc71cc920e1233ac575"
+    },
+    "jlpt4you-2023.07-grammar-5-8": {
+      "problemNumber": 5,
+      "construction": "方がおいでくださいました",
+      "primaryTag": "grammar.q5.b03",
+      "tags": [
+        "grammar.q5.b03",
+        "grammar.q5.b01"
+      ],
+      "evidence": "来宾是が标记的动作主体，用尊敬授受；いただく要求不同视角。",
+      "notes": [],
+      "sourceQuestionSha256": "e22d345276e25bb096ad627c18fd2fcb1a7913ff591020d41f6a2d37ab446942"
+    },
+    "jlpt4you-2023.07-grammar-5-9": {
+      "problemNumber": 5,
+      "construction": "～したつもりになれる",
+      "primaryTag": "grammar.q5.b06",
+      "tags": [
+        "grammar.q5.b06",
+        "grammar.q5.b05"
+      ],
+      "evidence": "能获得仿佛已经旅行过的感受，区别未来计划。",
+      "notes": [],
+      "sourceQuestionSha256": "ae221568f8e05a3b0d76be84662e0ecb56e631d5143f9f8b8b7b28f85eaf28a5"
+    },
+    "jlpt4you-2023.07-grammar-5-10": {
+      "problemNumber": 5,
+      "construction": "～読めるんだもん",
+      "primaryTag": "grammar.q5.c12",
+      "tags": [
+        "grammar.q5.c12",
+        "grammar.q5.b06"
+      ],
+      "evidence": "以能够免费阅读解释图书馆好的理由；不是反问否定。",
+      "notes": [],
+      "sourceQuestionSha256": "4fa408bb98402fef9badbff778fc1cca3790501233250e230c4e81793955b87c"
+    },
+    "jlpt4you-2023.07-grammar-6-1": {
+      "problemNumber": 6,
+      "construction": "～反面／あまりに大きすぎるジェスチャー",
+      "primaryTag": "grammar.q6.c03",
+      "tags": [
+        "grammar.q6.c03",
+        "grammar.q6.c02"
+      ],
+      "evidence": "对照有效与负面影响，あまりに修饰大きすぎる，形成名词修饰块。",
+      "notes": [],
+      "sourceQuestionSha256": "40a74851e3435e05c5827570f1d1e3a28dc0a34e72200b8f138d08f4e4115b89"
+    },
+    "jlpt4you-2023.07-grammar-6-2": {
+      "problemNumber": 6,
+      "construction": "アクセスが可能な環境／いながらにして",
+      "primaryTag": "grammar.q6.c02",
+      "tags": [
+        "grammar.q6.c02",
+        "grammar.q6.c01"
+      ],
+      "evidence": "可能な修饰環境；条件后在家即可购买，句末修饰時代。",
+      "notes": [],
+      "sourceQuestionSha256": "b862db705096f132cc38dba8e45ad4602578d20c781c59829ad3d9ee6b89e3ea"
+    },
+    "jlpt4you-2023.07-grammar-6-3": {
+      "problemNumber": 6,
+      "construction": "経験を積んだ昆虫学者／迷うほど判別が難しい",
+      "primaryTag": "grammar.q6.c02",
+      "tags": [
+        "grammar.q6.c02",
+        "grammar.q6.c03"
+      ],
+      "evidence": "两层名词修饰及程度连接，不能只看星号片段。",
+      "notes": [],
+      "sourceQuestionSha256": "d497f078cb903128ff3bf7c5b2745f57b0181de3d8f3514ab53f72e57fda0be4"
+    },
+    "jlpt4you-2023.07-grammar-6-4": {
+      "problemNumber": 6,
+      "construction": "～といえばうそになるが／～という気持ち",
+      "primaryTag": "grammar.q6.c02",
+      "tags": [
+        "grammar.q6.c02",
+        "grammar.q6.c03"
+      ],
+      "evidence": "引用否定没有不安的说法，再将积极感受修饰気持ち。",
+      "notes": [],
+      "sourceQuestionSha256": "eb2b6fe08bc27593971525c08179163fb9f3f7be3acdb69ac18baa0abbd15e80"
+    },
+    "jlpt4you-2023.07-grammar-6-5": {
+      "problemNumber": 6,
+      "construction": "今でこそ～が／30年前までは",
+      "primaryTag": "grammar.q6.c01",
+      "tags": [
+        "grammar.q6.c01",
+        "grammar.q6.c03"
+      ],
+      "evidence": "现在与过去的对比，今でこそ与が构成固定呼应。",
+      "notes": [],
+      "sourceQuestionSha256": "1efbbf37828c82d6ce8ed83861233813a5f6295a742bd7bb757347df1dcf3b49"
+    },
+    "jlpt4you-2023.07-grammar-7-1": {
+      "problemNumber": 7,
+      "construction": "自作评价与自谦否定",
+      "primaryTag": "grammar.q7.c12",
+      "tags": [
+        "grammar.q7.c12",
+        "grammar.q7.c11"
+      ],
+      "evidence": "前文否认自恋，后文比作父母偏爱孩子，应按全文立场判断；原库答案与语境疑似冲突，保留核查备注。",
+      "notes": [
+        "原库答案为1「小説であってもだ」，但前后自谦语境及接续值得对照原卷复核。标签标注所需能力，不把该答案作为已确认正确的例句。"
+      ],
+      "sourceQuestionSha256": "44fa0fd16c5b570f7717ebb089e43e9dec3a4f351826015e4b0723d3e98e0ffd"
+    },
+    "jlpt4you-2023.07-grammar-7-2": {
+      "problemNumber": 7,
+      "construction": "褒めたり叱ったりする",
+      "primaryTag": "grammar.q7.c12",
+      "tags": [
+        "grammar.q7.c12",
+        "grammar.q7.c11"
+      ],
+      "evidence": "自述阅读旧作时的反应；与感心したり、あきれ果てたり并列，不是建议。",
+      "notes": [],
+      "sourceQuestionSha256": "d6ece8ddf0ff0e9849123582d1527595200ffc2b6b812ccb1eb077a66afab1ec"
+    },
+    "jlpt4you-2023.07-grammar-7-3": {
+      "problemNumber": 7,
+      "construction": "否定できなくなる",
+      "primaryTag": "grammar.q7.c12",
+      "tags": [
+        "grammar.q7.c12"
+      ],
+      "evidence": "后文珍惜当年的自己并认为改写需要勇气，据此解释为何无法改写。",
+      "notes": [],
+      "sourceQuestionSha256": "108d99f6e07b5d4a06ecb03fd4845eccaf4dbebc30967f55afd35b301a587f3e"
+    },
+    "jlpt4you-2023.07-grammar-7-4": {
+      "problemNumber": 7,
+      "construction": "一生の仕事とは",
+      "primaryTag": "grammar.q7.c10",
+      "tags": [
+        "grammar.q7.c10",
+        "grammar.q7.c12"
+      ],
+      "evidence": "将前段过去现在未来的自我关系归纳为一生工作的定义。",
+      "notes": [],
+      "sourceQuestionSha256": "fda901431f2e26565ddb1ff65890bc12d7a83b42f97ca798e02590ed4170e0d6"
+    },
+    "sbry-n1-2022.12-文法-5-26": {
+      "problemNumber": 5,
+      "construction": "～をも",
+      "primaryTag": "grammar.q5.b01",
+      "tags": [
+        "grammar.q5.b01",
+        "grammar.q5.c17"
+      ],
+      "evidence": "を保留満足させる的宾语，も追加甚至的强调。",
+      "notes": [],
+      "sourceQuestionSha256": "5221ec5c436ac457a5fd7ba5e41009abf019767b13486b18ba0d3b47181d64e5"
+    },
+    "sbry-n1-2022.12-文法-5-27": {
+      "problemNumber": 5,
+      "construction": "いつか～たことがある",
+      "primaryTag": "grammar.q5.b05",
+      "tags": [
+        "grammar.q5.b05"
+      ],
+      "evidence": "曾经来过但记不清具体时间；副词必须符合过去经历。",
+      "notes": [],
+      "sourceQuestionSha256": "9571427a877da0bd3478baa8290e422fbcdb7ed9ee57ade14c1e62fc0445409c"
+    },
+    "sbry-n1-2022.12-文法-5-28": {
+      "problemNumber": 5,
+      "construction": "～をもって",
+      "primaryTag": "grammar.q5.c02",
+      "tags": [
+        "grammar.q5.c02"
+      ],
+      "evidence": "指定停止营业的终止日期。",
+      "notes": [],
+      "sourceQuestionSha256": "129164fb28030c7a7b8a5616d5ce89795bebdf00633672005f3f527348410fb4"
+    },
+    "sbry-n1-2022.12-文法-5-29": {
+      "problemNumber": 5,
+      "construction": "誘われるまま",
+      "primaryTag": "grammar.q5.c06",
+      "tags": [
+        "grammar.q5.c06",
+        "grammar.q5.b04"
+      ],
+      "evidence": "顺着朋友邀请加入；被邀请者的视角和任其自然的状态。",
+      "notes": [],
+      "sourceQuestionSha256": "bbcf6f32929ed32755baf830cfadb52199cbe37769d236231db3753d001c90db"
+    },
+    "sbry-n1-2022.12-文法-5-30": {
+      "problemNumber": 5,
+      "construction": "～場合を除いて",
+      "primaryTag": "grammar.q5.c03",
+      "tags": [
+        "grammar.q5.c03",
+        "grammar.q5.b02"
+      ],
+      "evidence": "除存在缺陷这一情况外不接受退换；情况名词与排除结构。",
+      "notes": [],
+      "sourceQuestionSha256": "2b7d4e8235ae78f8a7f2ec131e7e776a81e01947d935b0217dd7c18033be24a4"
+    },
+    "sbry-n1-2022.12-文法-5-31": {
+      "problemNumber": 5,
+      "construction": "～とは存じますが",
+      "primaryTag": "grammar.q5.b03",
+      "tags": [
+        "grammar.q5.b03"
+      ],
+      "evidence": "自己认为对方忙，用思う的谦逊表达。",
+      "notes": [],
+      "sourceQuestionSha256": "2f8792e602b7f44fcb058753e616e1981a998cb4790e3766bebd56648c9ed199"
+    },
+    "sbry-n1-2022.12-文法-5-32": {
+      "problemNumber": 5,
+      "construction": "～てからというもの",
+      "primaryTag": "grammar.q5.c01",
+      "tags": [
+        "grammar.q5.c01"
+      ],
+      "evidence": "成为社会人以来发生显著且持续的变化。",
+      "notes": [],
+      "sourceQuestionSha256": "b1e2229f279af948c0954f1e23a24dbd99295b537027c99df07d75341595bdcd"
+    },
+    "sbry-n1-2022.12-文法-5-33": {
+      "problemNumber": 5,
+      "construction": "～っぱなしだった",
+      "primaryTag": "grammar.q5.c16",
+      "tags": [
+        "grammar.q5.c16",
+        "grammar.q5.b05"
+      ],
+      "evidence": "钥匙放在口袋后一直未取出，结果状态残留。",
+      "notes": [],
+      "sourceQuestionSha256": "9a568a73ef6b3e6d20932c10a47fb3902a106104518dcfe7f981085b8032a2fb"
+    },
+    "sbry-n1-2022.12-文法-5-34": {
+      "problemNumber": 5,
+      "construction": "～なんてもんじゃない",
+      "primaryTag": "grammar.q5.c17",
+      "tags": [
+        "grammar.q5.c17",
+        "grammar.q5.b06"
+      ],
+      "evidence": "用否定普通说法强调宽广程度远超一般认知。",
+      "notes": [],
+      "sourceQuestionSha256": "d19eadd4b611e1331776e13b89e4d6544aecd8083acbd018d424801fc5806580"
+    },
+    "sbry-n1-2022.12-文法-5-35": {
+      "problemNumber": 5,
+      "construction": "～たかったものだ",
+      "primaryTag": "grammar.q5.b05",
+      "tags": [
+        "grammar.q5.b05",
+        "grammar.q5.b06"
+      ],
+      "evidence": "回忆小时候反复怀有的愿望，区别希望别人行动。",
+      "notes": [
+        "原库选项为「乗りたかったものだ」，据此记录过去愿望回忆；是否原卷为其他形式需原卷核对，不改动。"
+      ],
+      "sourceQuestionSha256": "c037610462582a20843adea7fdf46aa85d4b29d79a8c3885a0fc3c07517624e4"
+    },
+    "sbry-n1-2022.12-文法-6-36": {
+      "problemNumber": 6,
+      "construction": "～日もあれば～日もあり",
+      "primaryTag": "grammar.q6.c01",
+      "tags": [
+        "grammar.q6.c01",
+        "grammar.q6.c02"
+      ],
+      "evidence": "并列两种天气；かのような与ひんやりとした分别修饰日。",
+      "notes": [],
+      "sourceQuestionSha256": "7b31c5b351e3820b5b81d95086b55de4b0e0606ebba1166e9275b9ce3b0c2301"
+    },
+    "sbry-n1-2022.12-文法-6-37": {
+      "problemNumber": 6,
+      "construction": "～ものとは思えないほどのデザイン",
+      "primaryTag": "grammar.q6.c02",
+      "tags": [
+        "grammar.q6.c02",
+        "grammar.q6.c03"
+      ],
+      "evidence": "100年前に建てられた修饰もの；程度整体再修饰デザイン。",
+      "notes": [],
+      "sourceQuestionSha256": "2a205d5e16ff4a018f3caab76483bfc4384b18cf823d0257f218aa60566da2c9"
+    },
+    "sbry-n1-2022.12-文法-6-38": {
+      "problemNumber": 6,
+      "construction": "～こともあって／～という自覚",
+      "primaryTag": "grammar.q6.c02",
+      "tags": [
+        "grammar.q6.c02",
+        "grammar.q6.c03"
+      ],
+      "evidence": "症状相似作为原因，花粉症だ引用修饰自覚。",
+      "notes": [],
+      "sourceQuestionSha256": "dd7871eb0bf3ddeb5ddbbb76d9f358c9d6f5cbd171770a926ee2a8e54ac2639d"
+    },
+    "sbry-n1-2022.12-文法-6-39": {
+      "problemNumber": 6,
+      "construction": "誰に何と言われようとも／これだと思える道",
+      "primaryTag": "grammar.q6.c02",
+      "tags": [
+        "grammar.q6.c02",
+        "grammar.q6.c03"
+      ],
+      "evidence": "前段无条件让步；引用判断修饰道，再接信じて進む。",
+      "notes": [],
+      "sourceQuestionSha256": "8e120bfc0bcdb6071dac20a5b723da1096141cce86d53f867a678ef5d6dd3333"
+    },
+    "sbry-n1-2022.12-文法-6-40": {
+      "problemNumber": 6,
+      "construction": "～か否かにかかっている",
+      "primaryTag": "grammar.q6.c01",
+      "tags": [
+        "grammar.q6.c01",
+        "grammar.q6.c02"
+      ],
+      "evidence": "事情をよく知る修饰人材；能否确保人材成为成败所系。",
+      "notes": [],
+      "sourceQuestionSha256": "6eb5f37fd61a676a0a856610681afca0ccb1cb31934ef29e5be30dbc17974de0"
+    },
+    "sbry-n1-2022.12-文法-7-41": {
+      "problemNumber": 7,
+      "construction": "たしかに～でも",
+      "primaryTag": "grammar.q7.c09",
+      "tags": [
+        "grammar.q7.c09"
+      ],
+      "evidence": "先承认修饰语刺激食欲，后用でも转向差别内容含混。",
+      "notes": [],
+      "sourceQuestionSha256": "4773ad3eddedd66a96551bb9f5f1754458e1586c739df8a78945c21bd0fb414a"
+    },
+    "sbry-n1-2022.12-文法-7-42": {
+      "problemNumber": 7,
+      "construction": "そのためだ",
+      "primaryTag": "grammar.q7.c07",
+      "tags": [
+        "grammar.q7.c07",
+        "grammar.q7.c09"
+      ],
+      "evidence": "その指前述利用表面新鲜感刺激消费的倾向，以此解释换包装改名。",
+      "notes": [],
+      "sourceQuestionSha256": "7ec5432c9abe6a81e8209b809aa5e1c26febe78fa74a07cb7b44735878c1d552"
+    },
+    "sbry-n1-2022.12-文法-7-43": {
+      "problemNumber": 7,
+      "construction": "言語感覚すら",
+      "primaryTag": "grammar.q7.c12",
+      "tags": [
+        "grammar.q7.c12"
+      ],
+      "evidence": "影响从商品消费推进到连语言感觉也改变，强调论述范围的扩展。",
+      "notes": [],
+      "sourceQuestionSha256": "17018f4d3f936e0660d039d972e790e83c8e4fcb8cd22a8cedb4904d751769d4"
+    },
+    "sbry-n1-2022.12-文法-7-44": {
+      "problemNumber": 7,
+      "construction": "使者のようでもある",
+      "primaryTag": "grammar.q7.c12",
+      "tags": [
+        "grammar.q7.c12",
+        "grammar.q7.c11"
+      ],
+      "evidence": "以未来使者比喻菜单修饰语，总结作者对消费社会的思考，不是传闻。",
+      "notes": [],
+      "sourceQuestionSha256": "5f284fd0d26930e26d8d91ab8a5a1a10c146f29266fb70b12ffc42f153874f85"
+    },
+    "sbry-n1-2022.07-文法-5-26": {
+      "problemNumber": 5,
+      "construction": "いっさい～ない",
+      "primaryTag": "grammar.q5.b01",
+      "tags": [
+        "grammar.q5.b01",
+        "grammar.q5.c17"
+      ],
+      "evidence": "いっさい与否定呼应，强调完全不用金属。",
+      "notes": [],
+      "sourceQuestionSha256": "8ccb78f8c70984f8a805d2a725a02ae0a9eb0bfde7f7cc87d18f30b14e589e0b"
+    },
+    "sbry-n1-2022.07-文法-5-27": {
+      "problemNumber": 5,
+      "construction": "～と相まって",
+      "primaryTag": "grammar.q5.c05",
+      "tags": [
+        "grammar.q5.c05",
+        "grammar.q5.c12"
+      ],
+      "evidence": "红叶与蓝天相互作用产生美感，体现关联及共同原因。",
+      "notes": [],
+      "sourceQuestionSha256": "9062db5089ad181b1e446beeb4b3c515b6097128eedf4037eba956b135f899b9"
+    },
+    "sbry-n1-2022.07-文法-5-28": {
+      "problemNumber": 5,
+      "construction": "～につけ",
+      "primaryTag": "grammar.q5.c01",
+      "tags": [
+        "grammar.q5.c01",
+        "grammar.q5.b06"
+      ],
+      "evidence": "每次看到家乡大海便产生同样愿望。",
+      "notes": [],
+      "sourceQuestionSha256": "f75685b4175e1c7761c0d64aacb3f8d8f3273e11b27b685c0d8f398618bc2479"
+    },
+    "sbry-n1-2022.07-文法-5-29": {
+      "problemNumber": 5,
+      "construction": "～そうにないぐらい",
+      "primaryTag": "grammar.q5.c13",
+      "tags": [
+        "grammar.q5.c13",
+        "grammar.q5.b02"
+      ],
+      "evidence": "表示累到似乎站不起来的程度，不是禁止起立。",
+      "notes": [],
+      "sourceQuestionSha256": "2e48ff527b4cef1d7e1400380ad4d55665f1db7a3e8b31d232ef782130ab6d6a"
+    },
+    "sbry-n1-2022.07-文法-5-30": {
+      "problemNumber": 5,
+      "construction": "～ばいいかというと、そうではない",
+      "primaryTag": "grammar.q5.b06",
+      "tags": [
+        "grammar.q5.b06",
+        "grammar.q5.c18"
+      ],
+      "evidence": "引出足够条件判断后加以否定，不是许可或改述。",
+      "notes": [],
+      "sourceQuestionSha256": "7b433b9b4aa1ce6ee85ce0206a4f239924c43bf64b42a2169ec5d2b3e3cb632b"
+    },
+    "sbry-n1-2022.07-文法-5-31": {
+      "problemNumber": 5,
+      "construction": "～しきれなくなったことから",
+      "primaryTag": "grammar.q5.c12",
+      "tags": [
+        "grammar.q5.c12",
+        "grammar.q5.c13"
+      ],
+      "evidence": "原有教室无法充分应对是新建校舍的原因，不是既然就应当。",
+      "notes": [],
+      "sourceQuestionSha256": "3be5ab47ce875b26e793e67b66f085c1733680c414843b92c62c803dfdeddb74"
+    },
+    "sbry-n1-2022.07-文法-5-32": {
+      "problemNumber": 5,
+      "construction": "～見込みだ",
+      "primaryTag": "grammar.q5.b06",
+      "tags": [
+        "grammar.q5.b06"
+      ],
+      "evidence": "基于来客增长推测将超过千万，区别进行中和单向变化。",
+      "notes": [],
+      "sourceQuestionSha256": "d596b6849dcb225c912381a76bd1c019309ba04be163c4ac246936a1faf1a72e"
+    },
+    "sbry-n1-2022.07-文法-5-33": {
+      "problemNumber": 5,
+      "construction": "～てはいられない",
+      "primaryTag": "grammar.q5.c13",
+      "tags": [
+        "grammar.q5.c13"
+      ],
+      "evidence": "有必须完成的报告，情境不允许继续悠闲。",
+      "notes": [],
+      "sourceQuestionSha256": "e10e743efa4f603c4130f0b5a96f101143dfd798e147d02701a9e434634380ab"
+    },
+    "sbry-n1-2022.07-文法-5-34": {
+      "problemNumber": 5,
+      "construction": "～書くんだっけ",
+      "primaryTag": "grammar.q5.b06",
+      "tags": [
+        "grammar.q5.b06",
+        "grammar.q5.b02"
+      ],
+      "evidence": "询问回想汉字写法，不问能力；っけ请求回忆确认。",
+      "notes": [],
+      "sourceQuestionSha256": "a9568beaf600c053719a5a3b3872cf2b64c684750a84475c4bb05159defe66d4"
+    },
+    "sbry-n1-2022.07-文法-5-35": {
+      "problemNumber": 5,
+      "construction": "～泣かせるつもりはなかった",
+      "primaryTag": "grammar.q5.b04",
+      "tags": [
+        "grammar.q5.b04",
+        "grammar.q5.b06"
+      ],
+      "evidence": "自己没有让妻子哭的意图，区分使役与自己的哭泣。",
+      "notes": [],
+      "sourceQuestionSha256": "35c2111dc9e05cfd684d7f7b1fa25b2d88994d3937aa1b93ad7e2362ea335bd8"
+    },
+    "sbry-n1-2022.07-文法-6-36": {
+      "problemNumber": 6,
+      "construction": "応援してくれるファンがいる限り",
+      "primaryTag": "grammar.q6.c02",
+      "tags": [
+        "grammar.q6.c02",
+        "grammar.q6.c01"
+      ],
+      "evidence": "授受动作修饰ファン；いる限り表示持续条件。",
+      "notes": [],
+      "sourceQuestionSha256": "2efc9e42cc0fa15a8b8525c1c3a3ad0b26bc8cdfb5dcd78fc8ca391ccce1b040"
+    },
+    "sbry-n1-2022.07-文法-6-37": {
+      "problemNumber": 6,
+      "construction": "市民を対象に／運動に関する意識調査",
+      "primaryTag": "grammar.q6.c02",
+      "tags": [
+        "grammar.q6.c02",
+        "grammar.q6.c03"
+      ],
+      "evidence": "对象与调查内容分层；行ったところ引出发现。",
+      "notes": [],
+      "sourceQuestionSha256": "7e30f0a12a0ce644c50e481445d2c715395648f22932e65c41c80c137192799e"
+    },
+    "sbry-n1-2022.07-文法-6-38": {
+      "problemNumber": 6,
+      "construction": "～のは～ばこそだったのだと",
+      "primaryTag": "grammar.q6.c01",
+      "tags": [
+        "grammar.q6.c01",
+        "grammar.q6.c03"
+      ],
+      "evidence": "原因强调框架嵌入引用；親になった修饰题干中的今。",
+      "notes": [],
+      "sourceQuestionSha256": "1a40979de727e1020804b5e51e6113c2c4e58eacae686524ddf317ae493f60d0"
+    },
+    "sbry-n1-2022.07-文法-6-39": {
+      "problemNumber": 6,
+      "construction": "～発売されたレインコート／～もさることながら",
+      "primaryTag": "grammar.q6.c02",
+      "tags": [
+        "grammar.q6.c02",
+        "grammar.q6.c01"
+      ],
+      "evidence": "关系从句修饰商品，随后连接功能与外观评价。",
+      "notes": [],
+      "sourceQuestionSha256": "9c883dc1b1c05e6da93ab11e6f3dd62ddae13cba82f0f1f62e2269d42bb1f10d"
+    },
+    "sbry-n1-2022.07-文法-6-40": {
+      "problemNumber": 6,
+      "construction": "～てもらおうと／～始めたコンテスト",
+      "primaryTag": "grammar.q6.c02",
+      "tags": [
+        "grammar.q6.c02",
+        "grammar.q6.c03"
+      ],
+      "evidence": "授受意志引用表示目的，企业开始举办的小句修饰コンテスト。",
+      "notes": [],
+      "sourceQuestionSha256": "3dc361b414b13f5ec3ba0022ccb813409ccfd0349d7871e8b0c424ecd5d72c3b"
+    },
+    "sbry-n1-2022.07-文法-7-41": {
+      "problemNumber": 7,
+      "construction": "そうした保育園",
+      "primaryTag": "grammar.q7.c07",
+      "tags": [
+        "grammar.q7.c07"
+      ],
+      "evidence": "指前一句只接收零至二岁儿童的那类保育园。",
+      "notes": [],
+      "sourceQuestionSha256": "10bbdc143ff26e325a10f962d433b4cca8b740f031c8f1d942434f0979fada88"
+    },
+    "sbry-n1-2022.07-文法-7-42": {
+      "problemNumber": 7,
+      "construction": "ただ",
+      "primaryTag": "grammar.q7.c09",
+      "tags": [
+        "grammar.q7.c09"
+      ],
+      "evidence": "先说明不评好坏，再补充不同地位影响行为意识这一限制说明。",
+      "notes": [],
+      "sourceQuestionSha256": "857f0403770e5832a1aab341b94a6b73d7df4f821f1876a222baa7d7bbe2a7c4"
+    },
+    "sbry-n1-2022.07-文法-7-43": {
+      "problemNumber": 7,
+      "construction": "入学したとたん",
+      "primaryTag": "grammar.q7.c01",
+      "tags": [
+        "grammar.q7.c01",
+        "grammar.q7.c12"
+      ],
+      "evidence": "叙述入学后身份立即反转，符合前后真实时间线，非假定或责备。",
+      "notes": [],
+      "sourceQuestionSha256": "1444027b750b2389b4e4579c1808ea9e551e385915d0031643bff73822c0f1b1"
+    },
+    "sbry-n1-2022.07-文法-7-44": {
+      "problemNumber": 7,
+      "construction": "たくましく思えます",
+      "primaryTag": "grammar.q7.c12",
+      "tags": [
+        "grammar.q7.c12",
+        "grammar.q7.c11"
+      ],
+      "evidence": "作者观察不满表情后作自己的积极评价，连接末段对期待的解释。",
+      "notes": [],
+      "sourceQuestionSha256": "fa37c4b13847c6983b90c38d9e97095b36a0c0523113c20a303b1a87844e77c2"
+    },
+    "sbry-n1-2021.12-文法-5-26": {
+      "problemNumber": 5,
+      "construction": "～はどうであれ",
+      "primaryTag": "grammar.q5.c10",
+      "tags": [
+        "grammar.q5.c10"
+      ],
+      "evidence": "排除方法差异的影响，无论方法如何都要解决。",
+      "notes": [],
+      "sourceQuestionSha256": "885ff3cd0103526ec64be0dc5ed25a8de4336036f455ac5e3cc098958b03aef6"
+    },
+    "sbry-n1-2021.12-文法-5-27": {
+      "problemNumber": 5,
+      "construction": "なんら～ない",
+      "primaryTag": "grammar.q5.b01",
+      "tags": [
+        "grammar.q5.b01",
+        "grammar.q5.c17"
+      ],
+      "evidence": "なんら与否定呼应，强调毫无质量问题。",
+      "notes": [],
+      "sourceQuestionSha256": "01f7e97d50b455ab257c4124fe38a46ae2b5ffedfd3cec08515dc602862e3c3f"
+    },
+    "sbry-n1-2021.12-文法-5-28": {
+      "problemNumber": 5,
+      "construction": "～ものを",
+      "primaryTag": "grammar.q5.c08",
+      "tags": [
+        "grammar.q5.c08"
+      ],
+      "evidence": "对本可治疗却放任的结果表示遗憾责备。",
+      "notes": [],
+      "sourceQuestionSha256": "e6e2e783a9c907f25f3d47f9c8d1a5f9a57b0d285bfdbea8dfbf2835dd57b3bf"
+    },
+    "sbry-n1-2021.12-文法-5-29": {
+      "problemNumber": 5,
+      "construction": "～かと思いきや",
+      "primaryTag": "grammar.q5.c08",
+      "tags": [
+        "grammar.q5.c08",
+        "grammar.q5.b05"
+      ],
+      "evidence": "预想将被迫等待，却立即入座；预想与实际逆转。",
+      "notes": [],
+      "sourceQuestionSha256": "50478d23194d1b3b299efc1e75b3196e0ea05fcdc7dfe152da5654ee5511e77d"
+    },
+    "sbry-n1-2021.12-文法-5-30": {
+      "problemNumber": 5,
+      "construction": "～ておいて／～といて",
+      "primaryTag": "grammar.q5.b05",
+      "tags": [
+        "grammar.q5.b05",
+        "grammar.q5.c08"
+      ],
+      "evidence": "已主动说过却忘记，先行行为与逆预期责备；口语缩约。",
+      "notes": [],
+      "sourceQuestionSha256": "52ae154c3ae33a7d4f8d552c2506ca573caa0a8a10c42bc9fb5cba9f77194081"
+    },
+    "sbry-n1-2021.12-文法-5-31": {
+      "problemNumber": 5,
+      "construction": "先生においでいただくからには",
+      "primaryTag": "grammar.q5.b03",
+      "tags": [
+        "grammar.q5.b03",
+        "grammar.q5.c09"
+      ],
+      "evidence": "自方蒙受老师来访，用に和いただく；既然来就要招待。",
+      "notes": [],
+      "sourceQuestionSha256": "fef2edf328a49c78c8d2a9e2a744465e4eda02a09d1ab96349e1f5ce969cd74d"
+    },
+    "sbry-n1-2021.12-文法-5-32": {
+      "problemNumber": 5,
+      "construction": "～どころではない",
+      "primaryTag": "grammar.q5.c13",
+      "tags": [
+        "grammar.q5.c13"
+      ],
+      "evidence": "忙得无暇旅行，属于状况不允许而非范围限定。",
+      "notes": [],
+      "sourceQuestionSha256": "e4c86e4562fcc0526be1ccc666e27f24267baa764d9195f7800bdc8f815d068c"
+    },
+    "sbry-n1-2021.12-文法-5-33": {
+      "problemNumber": 5,
+      "construction": "～にもほどがある",
+      "primaryTag": "grammar.q5.c19",
+      "tags": [
+        "grammar.q5.c19"
+      ],
+      "evidence": "家人认为喜爱猫的程度过头，负面评价。",
+      "notes": [],
+      "sourceQuestionSha256": "e4a0946fd2f694dccb8ac0b3d32c22309004888e280f00f48f6ff5d46b337bb6"
+    },
+    "sbry-n1-2021.12-文法-5-34": {
+      "problemNumber": 5,
+      "construction": "どんなに～てもしきれない",
+      "primaryTag": "grammar.q5.c20",
+      "tags": [
+        "grammar.q5.c20",
+        "grammar.q5.c17"
+      ],
+      "evidence": "怎样感谢也不足以表达，突出深切感情及程度。",
+      "notes": [],
+      "sourceQuestionSha256": "91a13d8eb7de8f471ec4ab5fa9a4c9ed88328ccfbaf1113151c66275b99cdf60"
+    },
+    "sbry-n1-2021.12-文法-5-35": {
+      "problemNumber": 5,
+      "construction": "～ようになるぐらいだ",
+      "primaryTag": "grammar.q5.c02",
+      "tags": [
+        "grammar.q5.c02",
+        "grammar.q5.b05"
+      ],
+      "evidence": "せいぜい限定半年可达到的上限，ようになる表示能力变化。",
+      "notes": [],
+      "sourceQuestionSha256": "41588abbe3933800692c826f659e24a4a1aed96d4be03120079c90ac6c1f6f52"
+    },
+    "sbry-n1-2021.12-文法-6-36": {
+      "problemNumber": 6,
+      "construction": "Vるなり",
+      "primaryTag": "grammar.q6.c01",
+      "tags": [
+        "grammar.q6.c01",
+        "grammar.q6.c03"
+      ],
+      "evidence": "歌手登場后欢呼立即响起，区分前后动作主体。",
+      "notes": [],
+      "sourceQuestionSha256": "be1c04409f8afea85aa63800e96894710220dd5c272f3bd879d7a527a2038f4a"
+    },
+    "sbry-n1-2021.12-文法-6-37": {
+      "problemNumber": 6,
+      "construction": "～主人公を／その確かな表現力で／見事なまでに",
+      "primaryTag": "grammar.q6.c02",
+      "tags": [
+        "grammar.q6.c02",
+        "grammar.q6.c03"
+      ],
+      "evidence": "宾语、手段及程度各成块，末尾までに必须接な形。",
+      "notes": [],
+      "sourceQuestionSha256": "a87004184181a2c3651527d5f4ad02d3237ef8a64ebfbdc71327f51424959019"
+    },
+    "sbry-n1-2021.12-文法-6-38": {
+      "problemNumber": 6,
+      "construction": "～んだったら／～ぐらいで／～ないで／～たらいい",
+      "primaryTag": "grammar.q6.c03",
+      "tags": [
+        "grammar.q6.c03",
+        "grammar.q6.c01"
+      ],
+      "evidence": "条件成立后提出建议，拒绝一次不是放弃理由，连接否定伴随。",
+      "notes": [],
+      "sourceQuestionSha256": "79b827d35aac8ab8b75c45fd27d6de25af9427fb482dfd35ac287fe10b6e851e"
+    },
+    "sbry-n1-2021.12-文法-6-39": {
+      "problemNumber": 6,
+      "construction": "～のに／～となると／～てしまうのが",
+      "primaryTag": "grammar.q6.c03",
+      "tags": [
+        "grammar.q6.c03"
+      ],
+      "evidence": "他人与自己的评价对照，末尾小句名词化以のが接人間。",
+      "notes": [],
+      "sourceQuestionSha256": "27a68ec7d21edcc0ecae1f32cea6bfc84e9e015b5c5d6ce8199ba3fce03a879d"
+    },
+    "sbry-n1-2021.12-文法-6-40": {
+      "problemNumber": 6,
+      "construction": "～している中で／このまま～ていては",
+      "primaryTag": "grammar.q6.c02",
+      "tags": [
+        "grammar.q6.c02",
+        "grammar.q6.c03"
+      ],
+      "evidence": "短缺持续这一背景修饰中；このまま引出继续依赖人手的条件。",
+      "notes": [],
+      "sourceQuestionSha256": "400b79b6f740a5b9e944e4540b70dc5db4986d6b66d6a065b6bc4fd40738ccf9"
+    },
+    "sbry-n1-2021.12-文法-7-41": {
+      "problemNumber": 7,
+      "construction": "～驚くほどだ",
+      "primaryTag": "grammar.q7.c12",
+      "tags": [
+        "grammar.q7.c12"
+      ],
+      "evidence": "上文长串物品描写突出惊讶程度，既非推测别人的感受也非义务。",
+      "notes": [],
+      "sourceQuestionSha256": "c02c4202cdfa7b2bb25c89ec51380a2f6d5d5f0e79f57b495121cd27198dc78d"
+    },
+    "sbry-n1-2021.12-文法-7-42": {
+      "problemNumber": 7,
+      "construction": "片付けなくても",
+      "primaryTag": "grammar.q7.c02",
+      "tags": [
+        "grammar.q7.c02"
+      ],
+      "evidence": "作者尝试论证即便不当天收拾也不会死，为后文偷懒实验作铺垫。",
+      "notes": [],
+      "sourceQuestionSha256": "aea87b13c2566bf047636c51c46a85d94ffd11a647e860f1962f2ae5216fe64c"
+    },
+    "sbry-n1-2021.12-文法-7-43": {
+      "problemNumber": 7,
+      "construction": "必要なプロセスなのだと",
+      "primaryTag": "grammar.q7.c10",
+      "tags": [
+        "grammar.q7.c10",
+        "grammar.q7.c12"
+      ],
+      "evidence": "接续前句悟った，把觉悟内容以のだと引用补出，不作逆接。",
+      "notes": [],
+      "sourceQuestionSha256": "8f520c851d44447e4a24a4e12ae739e15043dfacb079b3916cd8f1bc87515c78"
+    },
+    "sbry-n1-2021.12-文法-7-44": {
+      "problemNumber": 7,
+      "construction": "戻すことにしていこう",
+      "primaryTag": "grammar.q7.c04",
+      "tags": [
+        "grammar.q7.c04",
+        "grammar.q7.c12",
+        "grammar.q7.c01"
+      ],
+      "evidence": "经偷懒后的反省，决定今后持续收拾；ていく的未来方向而非过去庆幸。",
+      "notes": [],
+      "sourceQuestionSha256": "cb3d1bc9a2f12cb8446c9b248613d080e8495dfab1423a63bb0840d8c68f2606"
+    },
+    "sbry-n1-2021.07-文法-5-26": {
+      "problemNumber": 5,
+      "construction": "～ならまだしも",
+      "primaryTag": "grammar.q5.c09",
+      "tags": [
+        "grammar.q5.c09",
+        "grammar.q5.c15"
+      ],
+      "evidence": "专业摄影师或许可接受，普通人不行；条件例外和对照。",
+      "notes": [],
+      "sourceQuestionSha256": "121bb8218901124cb3f13c934db4a8fa23897e4d8f0a5694ebb03172fdf8437d"
+    },
+    "sbry-n1-2021.07-文法-5-27": {
+      "problemNumber": 5,
+      "construction": "な形容词词干＋極まりない",
+      "primaryTag": "grammar.q5.b02",
+      "tags": [
+        "grammar.q5.b02",
+        "grammar.q5.c19"
+      ],
+      "evidence": "危険直接连接極まりない，程度评价与接续同时考查。",
+      "notes": [],
+      "sourceQuestionSha256": "e131e4747fdb5dd428c8da6ff26fb81776ed2e7ccedb8bbaedb366bc0d45884b"
+    },
+    "sbry-n1-2021.07-文法-5-28": {
+      "problemNumber": 5,
+      "construction": "～を皮切りに",
+      "primaryTag": "grammar.q5.c02",
+      "tags": [
+        "grammar.q5.c02"
+      ],
+      "evidence": "以东京活动为开端，随后巡回各地。",
+      "notes": [],
+      "sourceQuestionSha256": "54553cd8590c7778fa602ef03c655717303b7efe99bbbda1fac46de03a30d68b"
+    },
+    "sbry-n1-2021.07-文法-5-29": {
+      "problemNumber": 5,
+      "construction": "～だろうと～だろうと",
+      "primaryTag": "grammar.q5.c04",
+      "tags": [
+        "grammar.q5.c04",
+        "grammar.q5.c10"
+      ],
+      "evidence": "列举雨雪，天气不改变骑车通勤的行为。",
+      "notes": [],
+      "sourceQuestionSha256": "3b1ee4aa351bc83ea97c84ebf4da5ae236d72bfe3d2bf26e339e79c424f95fbd"
+    },
+    "sbry-n1-2021.07-文法-5-30": {
+      "problemNumber": 5,
+      "construction": "～てしまったばかりに",
+      "primaryTag": "grammar.q5.c12",
+      "tags": [
+        "grammar.q5.c12",
+        "grammar.q5.b05"
+      ],
+      "evidence": "不小心说多余的话造成坏结果，完成懊悔与原因组合。",
+      "notes": [],
+      "sourceQuestionSha256": "6fd9b41f834b57d386892e11069120e5e0de3999a1c130be5cab0e9199d647bd"
+    },
+    "sbry-n1-2021.07-文法-5-31": {
+      "problemNumber": 5,
+      "construction": "～ようとするあまり",
+      "primaryTag": "grammar.q5.c12",
+      "tags": [
+        "grammar.q5.c12"
+      ],
+      "evidence": "因过度想清除污垢而用力过猛，表示原因。",
+      "notes": [],
+      "sourceQuestionSha256": "6774ca0554f2158aba130f69959b5ba09b6797dfce33d583022fc61cc2e9bffd"
+    },
+    "sbry-n1-2021.07-文法-5-32": {
+      "problemNumber": 5,
+      "construction": "～やってやれないことはない",
+      "primaryTag": "grammar.q5.c13",
+      "tags": [
+        "grammar.q5.c13",
+        "grammar.q5.b06"
+      ],
+      "evidence": "双重否定，承认困难但并非不能完成。",
+      "notes": [],
+      "sourceQuestionSha256": "ce6556eb88f555c0267bfc679dbeba7f19dabc031db4b57f41c48f9ee0255df9"
+    },
+    "sbry-n1-2021.07-文法-5-33": {
+      "problemNumber": 5,
+      "construction": "～ということになりかねない",
+      "primaryTag": "grammar.q5.b06",
+      "tags": [
+        "grammar.q5.b06",
+        "grammar.q5.c16"
+      ],
+      "evidence": "不慎选择工作可能造成后悔结局，かねない表不希望的可能。",
+      "notes": [],
+      "sourceQuestionSha256": "40be3c460df1256b4df95002990a88afa7581b0df756b88c478c9a31b834a355"
+    },
+    "sbry-n1-2021.07-文法-5-34": {
+      "problemNumber": 5,
+      "construction": "～にすぎない",
+      "primaryTag": "grammar.q5.c03",
+      "tags": [
+        "grammar.q5.c03"
+      ],
+      "evidence": "贬低为仅仅是削减人事费的借口。",
+      "notes": [],
+      "sourceQuestionSha256": "1cc2113854b9e489304be12ad4d5d2b0674dabe4f3b9f9e733c7e71e732e128e"
+    },
+    "sbry-n1-2021.07-文法-5-35": {
+      "problemNumber": 5,
+      "construction": "～した次第です",
+      "primaryTag": "grammar.q5.c12",
+      "tags": [
+        "grammar.q5.c12",
+        "grammar.q5.b03"
+      ],
+      "evidence": "正式说明联系来由，兼顾自己行动的礼貌表达。",
+      "notes": [],
+      "sourceQuestionSha256": "48f994d03ce9e41ab43e483d60d86b30f85dc8533f608855aef7dde101ad699d"
+    },
+    "sbry-n1-2021.07-文法-6-36": {
+      "problemNumber": 6,
+      "construction": "～てもらうまでもない",
+      "primaryTag": "grammar.q6.c01",
+      "tags": [
+        "grammar.q6.c01",
+        "grammar.q6.c03"
+      ],
+      "evidence": "授受结构与不必做的固定句型衔接。",
+      "notes": [],
+      "sourceQuestionSha256": "8001ccd777e10388c27298fe4376972bdc9ee26b7c5aa48d745b4fec22c53bf5"
+    },
+    "sbry-n1-2021.07-文法-6-37": {
+      "problemNumber": 6,
+      "construction": "冗談だってことくらい～だろうに",
+      "primaryTag": "grammar.q6.c03",
+      "tags": [
+        "grammar.q6.c03"
+      ],
+      "evidence": "だって是だ＋口语引用って，接名词化こと，再接逆接のに的缩约。",
+      "notes": [],
+      "sourceQuestionSha256": "7d73529969c51186869eb054e0fec341b48ce6c39007ffe36930f6af2e6a00ab"
+    },
+    "sbry-n1-2021.07-文法-6-38": {
+      "problemNumber": 6,
+      "construction": "～のみならず／取り組む姿勢そのものも",
+      "primaryTag": "grammar.q6.c02",
+      "tags": [
+        "grammar.q6.c02",
+        "grammar.q6.c01"
+      ],
+      "evidence": "递进列举，关系从句修饰姿勢；ことが多い先接前段成绩。",
+      "notes": [],
+      "sourceQuestionSha256": "92bfa1db6b1e4df9a6053538ca10a7d95599b4d504c6471769823c5eb5051ef9"
+    },
+    "sbry-n1-2021.07-文法-6-39": {
+      "problemNumber": 6,
+      "construction": "あと一歩というところで優勝を逃した選手たち",
+      "primaryTag": "grammar.q6.c02",
+      "tags": [
+        "grammar.q6.c02",
+        "grammar.q6.c03"
+      ],
+      "evidence": "整个经历小句修饰選手たち，再接戻っても。",
+      "notes": [],
+      "sourceQuestionSha256": "596c6e83bc406f2f3c6d2ec258dea8725a98bcc33c58b896617d284fe1983fc5"
+    },
+    "sbry-n1-2021.07-文法-6-40": {
+      "problemNumber": 6,
+      "construction": "考えているのは／求めていることは何であって",
+      "primaryTag": "grammar.q6.c03",
+      "tags": [
+        "grammar.q6.c03"
+      ],
+      "evidence": "两层主题与嵌入疑问；それ回指顾客需求，不能误作独立句。",
+      "notes": [],
+      "sourceQuestionSha256": "2c273d369db02713e3b1661e2fe190a5b382ed2d2e941da1cbca934196eb962f"
+    },
+    "sbry-n1-2021.07-文法-7-41": {
+      "problemNumber": 7,
+      "construction": "思ったのである",
+      "primaryTag": "grammar.q7.c01",
+      "tags": [
+        "grammar.q7.c01",
+        "grammar.q7.c11"
+      ],
+      "evidence": "回忆三十年前自己的愿望，过去时和书面说明体相符，非传闻。",
+      "notes": [],
+      "sourceQuestionSha256": "d45fb7ea306fd0f7d7303708c8d6d721c710e324d7c7b87965fa0a32b372e2fc"
+    },
+    "sbry-n1-2021.07-文法-7-42": {
+      "problemNumber": 7,
+      "construction": "この箱のなかみなら",
+      "primaryTag": "grammar.q7.c02",
+      "tags": [
+        "grammar.q7.c02",
+        "grammar.q7.c12"
+      ],
+      "evidence": "把话题限定为眼前这只箱子；与此前想象的玫瑰箱对照。",
+      "notes": [],
+      "sourceQuestionSha256": "ff4ebb87ee6daa4f5b5208f54a34d3bff85c56891b9fc685b2ba91cf50aa40b9"
+    },
+    "sbry-n1-2021.07-文法-7-43": {
+      "problemNumber": 7,
+      "construction": "とはいえ",
+      "primaryTag": "grammar.q7.c09",
+      "tags": [
+        "grammar.q7.c09"
+      ],
+      "evidence": "虽都觉得葱好吃，但笼统评价不能令细分品质的公公满意。",
+      "notes": [],
+      "sourceQuestionSha256": "b682a3e6f5eada9b5bdac91e2faa181a6e0b5829d1d8c4a93ad653dc1f16905d"
+    },
+    "sbry-n1-2021.07-文法-7-44": {
+      "problemNumber": 7,
+      "construction": "こうして",
+      "primaryTag": "grammar.q7.c07",
+      "tags": [
+        "grammar.q7.c07"
+      ],
+      "evidence": "指眼前再次寄来长葱这一行为，用近指回扣本文收到箱子的情境。",
+      "notes": [],
+      "sourceQuestionSha256": "22a88381d7c96d161071fbbfc7fde0332bc0cd96725d94c36766d31083e45415"
+    }
+  }
+}

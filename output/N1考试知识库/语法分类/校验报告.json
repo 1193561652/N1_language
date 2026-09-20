@@ -1,0 +1,40 @@
+{
+  "status": "pass",
+  "periods": [
+    "2025.12",
+    "2025.07",
+    "2024.12",
+    "2024.07",
+    "2023.12",
+    "2023.07",
+    "2022.12",
+    "2022.07",
+    "2021.12",
+    "2021.07"
+  ],
+  "taggedQuestions": 190,
+  "untaggedQuestions": 0,
+  "outOfScopePeriods": 0,
+  "outOfScopeTags": 0,
+  "duplicateIds": 0,
+  "problemCounts": {
+    "5": 100,
+    "6": 50,
+    "7": 40
+  },
+  "multiTagQuestions": 140,
+  "questionsWithNotes": 8,
+  "textbookCategories": 35,
+  "supplementCategories": 6,
+  "checks": [
+    "最近10期全量ID对应",
+    "排除更早期次",
+    "每题有标签且标签不跨问题",
+    "跨问题和超期次反例被拒绝",
+    "原题和答案一致",
+    "全部篇章题关联全文",
+    "具体结构及依据非空",
+    "疑点保留",
+    "文件链接与锚点有效"
+  ]
+}

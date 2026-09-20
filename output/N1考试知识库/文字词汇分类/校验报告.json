@@ -1,0 +1,25 @@
+{
+  "status": "pass",
+  "sourceQuestions": 775,
+  "taggedQuestions": 775,
+  "untaggedQuestions": 0,
+  "duplicateIds": 0,
+  "outOfScopeTags": 0,
+  "multiTagQuestions": 260,
+  "questionsWithNotes": 10,
+  "problemCounts": {
+    "1": 186,
+    "2": 217,
+    "3": 186,
+    "4": 186
+  },
+  "checks": [
+    "全量ID一一对应",
+    "每题至少一个标签",
+    "标签仅来自所属问题",
+    "原题与答案保持一致",
+    "原形和替换对象边界回归",
+    "分类版本一致",
+    "文档链接与锚点有效"
+  ]
+}

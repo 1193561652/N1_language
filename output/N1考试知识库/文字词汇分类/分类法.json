@@ -1,0 +1,448 @@
+{
+  "version": "1.0",
+  "agreedDate": "2026-09-20",
+  "subject": "文字・词汇",
+  "scope": "問題1—4；题库底层文字与词汇合并，不含语法、阅读、听力",
+  "rules": [
+    "一题可多标签",
+    "标签problemNumber必须等于原题groupNumber",
+    "按原形归档并保留题面形式",
+    "問題2按正确选词；問題3按题干被替换词；問題4按四个句子的用法差别",
+    "主标签是本题主要归档入口；辅助标签仍不得跨问题"
+  ],
+  "tags": [
+    {
+      "id": "language.q1.verb",
+      "problemNumber": 1,
+      "problemName": "读音",
+      "code": "V",
+      "path": [
+        "读音",
+        "动词读音"
+      ]
+    },
+    {
+      "id": "language.q1.noun.onyomi",
+      "problemNumber": 1,
+      "problemName": "读音",
+      "code": "N",
+      "path": [
+        "读音",
+        "名词与汉字熟语读音",
+        "二字熟语，通常是音读"
+      ]
+    },
+    {
+      "id": "language.q1.noun.kunyomi",
+      "problemNumber": 1,
+      "problemName": "读音",
+      "code": "K",
+      "path": [
+        "读音",
+        "名词与汉字熟语读音",
+        "训读名词"
+      ]
+    },
+    {
+      "id": "language.q1.noun.other",
+      "problemNumber": 1,
+      "problemName": "读音",
+      "code": "O",
+      "path": [
+        "读音",
+        "名词与汉字熟语读音",
+        "其他，如单字词、三字及以上熟语"
+      ]
+    },
+    {
+      "id": "language.q1.adjective.i",
+      "problemNumber": 1,
+      "problemName": "读音",
+      "code": "I",
+      "path": [
+        "读音",
+        "形容词读音",
+        "い形容词"
+      ]
+    },
+    {
+      "id": "language.q1.adjective.yaka",
+      "problemNumber": 1,
+      "problemName": "读音",
+      "code": "Y",
+      "path": [
+        "读音",
+        "形容词读音",
+        "～やか结尾的な形容词"
+      ]
+    },
+    {
+      "id": "language.q1.adjective.raka",
+      "problemNumber": 1,
+      "problemName": "读音",
+      "code": "R",
+      "path": [
+        "读音",
+        "形容词读音",
+        "～らか结尾的な形容词"
+      ]
+    },
+    {
+      "id": "language.q1.adjective.other",
+      "problemNumber": 1,
+      "problemName": "读音",
+      "code": "A",
+      "path": [
+        "读音",
+        "形容词读音",
+        "其他な形容词"
+      ]
+    },
+    {
+      "id": "language.q2.adjective.shii",
+      "problemNumber": 2,
+      "problemName": "词汇意思",
+      "code": "S",
+      "path": [
+        "词汇意思",
+        "～しい结尾的形容词"
+      ]
+    },
+    {
+      "id": "language.q2.adjective.other",
+      "problemNumber": 2,
+      "problemName": "词汇意思",
+      "code": "J",
+      "path": [
+        "词汇意思",
+        "其他形容词、な形容词"
+      ]
+    },
+    {
+      "id": "language.q2.verb.compound",
+      "problemNumber": 2,
+      "problemName": "词汇意思",
+      "code": "C",
+      "path": [
+        "词汇意思",
+        "复合动词"
+      ]
+    },
+    {
+      "id": "language.q2.verb.simple",
+      "problemNumber": 2,
+      "problemName": "词汇意思",
+      "code": "V",
+      "path": [
+        "词汇意思",
+        "一般动词"
+      ]
+    },
+    {
+      "id": "language.q2.kanji",
+      "problemNumber": 2,
+      "problemName": "词汇意思",
+      "code": "H",
+      "path": [
+        "词汇意思",
+        "汉字熟语，以近义二字词辨析为主"
+      ]
+    },
+    {
+      "id": "language.q2.katakana",
+      "problemNumber": 2,
+      "problemName": "词汇意思",
+      "code": "K",
+      "path": [
+        "词汇意思",
+        "片假名词汇"
+      ]
+    },
+    {
+      "id": "language.q2.mimetic.repeat",
+      "problemNumber": 2,
+      "problemName": "词汇意思",
+      "code": "M",
+      "path": [
+        "词汇意思",
+        "拟声・拟态词",
+        "ABAB重复型"
+      ]
+    },
+    {
+      "id": "language.q2.mimetic.ri.sokuon",
+      "problemNumber": 2,
+      "problemName": "词汇意思",
+      "code": "T",
+      "path": [
+        "词汇意思",
+        "拟声・拟态词",
+        "～り型",
+        "促音型"
+      ]
+    },
+    {
+      "id": "language.q2.mimetic.ri.nasal",
+      "problemNumber": 2,
+      "problemName": "词汇意思",
+      "code": "N",
+      "path": [
+        "词汇意思",
+        "拟声・拟态词",
+        "～り型",
+        "拨音型"
+      ]
+    },
+    {
+      "id": "language.q2.mimetic.ri.other",
+      "problemNumber": 2,
+      "problemName": "词汇意思",
+      "code": "R",
+      "path": [
+        "词汇意思",
+        "拟声・拟态词",
+        "～り型",
+        "其他"
+      ]
+    },
+    {
+      "id": "language.q2.mimetic.other",
+      "problemNumber": 2,
+      "problemName": "词汇意思",
+      "code": "E",
+      "path": [
+        "词汇意思",
+        "拟声・拟态词",
+        "其他形式"
+      ]
+    },
+    {
+      "id": "language.q2.adverb",
+      "problemNumber": 2,
+      "problemName": "词汇意思",
+      "code": "D",
+      "path": [
+        "词汇意思",
+        "一般副词"
+      ]
+    },
+    {
+      "id": "language.q2.other",
+      "problemNumber": 2,
+      "problemName": "词汇意思",
+      "code": "O",
+      "path": [
+        "词汇意思",
+        "其他名词、惯用表达及构词成分"
+      ]
+    },
+    {
+      "id": "language.q3.adjective.shii",
+      "problemNumber": 3,
+      "problemName": "近义词替换",
+      "code": "S",
+      "path": [
+        "近义词替换",
+        "～しい结尾的形容词"
+      ]
+    },
+    {
+      "id": "language.q3.adjective.other",
+      "problemNumber": 3,
+      "problemName": "近义词替换",
+      "code": "J",
+      "path": [
+        "近义词替换",
+        "其他形容词、な形容词"
+      ]
+    },
+    {
+      "id": "language.q3.verb.compound",
+      "problemNumber": 3,
+      "problemName": "近义词替换",
+      "code": "C",
+      "path": [
+        "近义词替换",
+        "复合动词"
+      ]
+    },
+    {
+      "id": "language.q3.verb.simple",
+      "problemNumber": 3,
+      "problemName": "近义词替换",
+      "code": "V",
+      "path": [
+        "近义词替换",
+        "一般动词"
+      ]
+    },
+    {
+      "id": "language.q3.kanji",
+      "problemNumber": 3,
+      "problemName": "近义词替换",
+      "code": "H",
+      "path": [
+        "近义词替换",
+        "汉字熟语"
+      ]
+    },
+    {
+      "id": "language.q3.katakana",
+      "problemNumber": 3,
+      "problemName": "近义词替换",
+      "code": "K",
+      "path": [
+        "近义词替换",
+        "片假名词汇"
+      ]
+    },
+    {
+      "id": "language.q3.mimetic.repeat",
+      "problemNumber": 3,
+      "problemName": "近义词替换",
+      "code": "M",
+      "path": [
+        "近义词替换",
+        "拟声・拟态词",
+        "ABAB重复型"
+      ]
+    },
+    {
+      "id": "language.q3.mimetic.ri.sokuon",
+      "problemNumber": 3,
+      "problemName": "近义词替换",
+      "code": "T",
+      "path": [
+        "近义词替换",
+        "拟声・拟态词",
+        "～り型",
+        "促音型"
+      ]
+    },
+    {
+      "id": "language.q3.mimetic.ri.nasal",
+      "problemNumber": 3,
+      "problemName": "近义词替换",
+      "code": "N",
+      "path": [
+        "近义词替换",
+        "拟声・拟态词",
+        "～り型",
+        "拨音型"
+      ]
+    },
+    {
+      "id": "language.q3.mimetic.ri.other",
+      "problemNumber": 3,
+      "problemName": "近义词替换",
+      "code": "R",
+      "path": [
+        "近义词替换",
+        "拟声・拟态词",
+        "～り型",
+        "其他"
+      ]
+    },
+    {
+      "id": "language.q3.mimetic.other",
+      "problemNumber": 3,
+      "problemName": "近义词替换",
+      "code": "E",
+      "path": [
+        "近义词替换",
+        "拟声・拟态词",
+        "其他形式"
+      ]
+    },
+    {
+      "id": "language.q3.adverb",
+      "problemNumber": 3,
+      "problemName": "近义词替换",
+      "code": "D",
+      "path": [
+        "近义词替换",
+        "一般副词"
+      ]
+    },
+    {
+      "id": "language.q3.other",
+      "problemNumber": 3,
+      "problemName": "近义词替换",
+      "code": "O",
+      "path": [
+        "近义词替换",
+        "其他名词及惯用表达"
+      ]
+    },
+    {
+      "id": "language.q4.sense",
+      "problemNumber": 4,
+      "problemName": "在句子中词汇用法",
+      "code": "S",
+      "path": [
+        "在句子中词汇用法",
+        "核心词义与语境"
+      ]
+    },
+    {
+      "id": "language.q4.object",
+      "problemNumber": 4,
+      "problemName": "在句子中词汇用法",
+      "code": "O",
+      "path": [
+        "在句子中词汇用法",
+        "适用对象与使用范围"
+      ]
+    },
+    {
+      "id": "language.q4.collocation",
+      "problemNumber": 4,
+      "problemName": "在句子中词汇用法",
+      "code": "C",
+      "path": [
+        "在句子中词汇用法",
+        "固定搭配与惯用表达"
+      ]
+    },
+    {
+      "id": "language.q4.boundary",
+      "problemNumber": 4,
+      "problemName": "在句子中词汇用法",
+      "code": "B",
+      "path": [
+        "在句子中词汇用法",
+        "近义词的用法边界"
+      ]
+    },
+    {
+      "id": "language.q4.evaluation",
+      "problemNumber": 4,
+      "problemName": "在句子中词汇用法",
+      "code": "E",
+      "path": [
+        "在句子中词汇用法",
+        "褒贬色彩与感情色彩"
+      ]
+    },
+    {
+      "id": "language.q4.register",
+      "problemNumber": 4,
+      "problemName": "在句子中词汇用法",
+      "code": "R",
+      "path": [
+        "在句子中词汇用法",
+        "语体与使用场合"
+      ]
+    },
+    {
+      "id": "language.q4.grammar",
+      "problemNumber": 4,
+      "problemName": "在句子中词汇用法",
+      "code": "G",
+      "path": [
+        "在句子中词汇用法",
+        "词性与语法接续，作为辅助考点"
+      ]
+    }
+  ]
+}
