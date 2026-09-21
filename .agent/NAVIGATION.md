@@ -5,6 +5,9 @@
 | 想做的事 | 首选位置 | 说明 |
 | --- | --- | --- |
 | 直接进行离线答题 | `index.html` | 双击打开；不要单独移出根目录 |
+| 进行专项练习 | 首页或顶部导航“专项练习” | 文字・词汇/语法 → 問題及名称 → 考点；默认随机10题 |
+| 维护专项练习题池 | `offline-exam-tool/build_practice_data.py` | 读取已审核标签映射并关联原题，新增标注后重建即可 |
+| 修改统一答题界面 | `offline-exam-tool/app.js`、`styles.css`、`index.template.html` | 普通与专项共用答题、提交和回放流程 |
 | 重建统一离线 HTML | `offline-exam-tool\build_offline_exam.py` | 合并三类来源并生成根目录入口 |
 | 校验统一题库 | `offline-exam-tool\verify_offline_exam.py` | 检查期次、题量、答案、ID 和媒体文件 |
 | 生成近十期逐题解析 | `offline-exam-tool\build_explanations.py` | 质量检查本地解析并以生成解析补齐 |
@@ -51,7 +54,7 @@
 - `scrape_sbry.py`：题库抓取。
 - `verify_scrape.py`：抓取完整性验证。
 - `data`：结构化题目、图片和音频。
-- `offline-exam`：早期离线页面的前端代码；统一入口会复用其中的应用逻辑和样式。
+- `offline-exam`：早期离线页面的前端代码，作为历史版本保留；当前统一入口使用 `offline-exam-tool` 内的应用逻辑和样式。
 - `.sbry_auth.dpapi`：敏感认证材料，不应读取或传播。
 
 ### `output`

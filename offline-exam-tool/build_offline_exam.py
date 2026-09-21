@@ -6,6 +6,7 @@ from __future__ import annotations
 import html
 import json
 import re
+from build_practice_data import build_practice_data
 from pathlib import Path
 from typing import Any
 
@@ -17,8 +18,8 @@ JLPT4YOU_ROOT = ROOT / "JLPT4YOU"
 OUTPUT = TOOL_DIR / "data.js"
 INDEX_TEMPLATE = TOOL_DIR / "index.template.html"
 INDEX_OUTPUT = ROOT / "index.html"
-APP_SOURCE = SHAOBING_ROOT / "offline-exam" / "app.js"
-STYLE_SOURCE = SHAOBING_ROOT / "offline-exam" / "styles.css"
+APP_SOURCE = TOOL_DIR / "app.js"
+STYLE_SOURCE = TOOL_DIR / "styles.css"
 EXPLANATIONS_DIR = TOOL_DIR / "explanations"
 CATEGORIES = ["文字", "词汇", "语法", "阅读", "听力"]
 JLPT4YOU_YEARS = ["2023.07", "2023.12", "2024.07", "2024.12"]
@@ -503,13 +504,17 @@ def build() -> dict[str, Any]:
 
 
 if __name__ == "__main__":
-    payload = json.dumps(build(), ensure_ascii=False, separators=(",", ":"))
+    data = build()
+    payload = json.dumps(data, ensure_ascii=False, separators=(",", ":"))
+    practice_payload = json.dumps(build_practice_data(data, ROOT), ensure_ascii=False, separators=(",", ":"))
+    (TOOL_DIR / "practice-data.js").write_text(f"window.PRACTICE_DATA={practice_payload};\n", encoding="utf-8")
     OUTPUT.write_text(f"window.EXAM_DATA={payload};\n", encoding="utf-8")
     template = INDEX_TEMPLATE.read_text(encoding="utf-8")
     direct_html = (
         template.replace("__STYLE__", STYLE_SOURCE.read_text(encoding="utf-8"))
         .replace("__DATA__", payload.replace("</", "<\\/"))
-        .replace("__APP__", APP_SOURCE.read_text(encoding="utf-8"))
+        .replace("__PRACTICE_DATA__", practice_payload.replace("</", "<\\/"))
+        .replace("__APP__", (TOOL_DIR / "special-practice.js").read_text(encoding="utf-8") + "\n" + APP_SOURCE.read_text(encoding="utf-8"))
     )
     INDEX_OUTPUT.write_text(direct_html, encoding="utf-8")
     print(f"saved {OUTPUT} ({OUTPUT.stat().st_size:,} bytes)")

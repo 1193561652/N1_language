@@ -23,6 +23,11 @@ python .\offline-exam-tool\build_offline_exam.py
 
 - `offline-exam-tool\data.js`
 - 根目录 `index.html`
+- `offline-exam-tool\practice-data.js`：从正式标签映射生成的专项练习元数据。
+
+页面源码现在位于 `offline-exam-tool/app.js`、`styles.css` 与 `index.template.html`；`special-practice.js` 负责题池筛选、无放回抽样和考点统计。烧饼目录下的早期页面源码作为原始版本保留，统一入口不再从那里读取应用代码与样式。
+
+专项练习元数据独立于 `data.js`，因此重建网页不会使已审核的原题数据指纹失效。`build_practice_data.py` 按 ID 关联所有已标记题目，不硬编码期次或题数；新增标注更新知识库映射后重建即可生效。篇章语法题会关联本期共享全文。
 
 ## 校验
 
@@ -98,6 +103,19 @@ python .\offline-exam-tool\start_offline_exam.py
 - 双击模式与 localhost 模式记录不共享；首次切换时从双击页面导出，再在 localhost 页面导入，导入记录会同步写入项目。
 
 ## 修改后的最低验收
+
+专项练习回归检查：
+
+```powershell
+node .\offline-exam-tool\tests\test_special_practice.js
+python -m unittest discover -s .\offline-exam-tool\tests -p "test_*.py"
+python .\tools\build_language_taxonomy.py --check
+python .\tools\build_grammar_taxonomy.py --check
+```
+
+专项记录使用 `mode: special`，保存筛选条件、指定题数、随机生成的题目 ID 顺序与逐题原期次/科目。存储仍走同一历史接口，回放按原 ID 关联当前解析。首页考点统计按作答次数汇总普通和专项记录；重复作答重复计数，多标签题分别计入对应标签，未提交草稿不计入统计。提前看答案单独显示次数。
+
+浏览器验收还应覆盖：三级“全部”与联动筛选、空题池和非法题数、题池不足、混合科目排序题、共享文章、刷新保留随机顺序、提交与历史回放，以及普通答题继续正常工作。
 
 1. 运行构建脚本。
 2. 运行校验脚本并确认 `pass`。

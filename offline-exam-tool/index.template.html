@@ -17,6 +17,7 @@ __STYLE__
     </div>
     <nav class="tabs" aria-label="主导航">
       <button class="tab active" data-view="practice">开始答题</button>
+      <button class="tab" data-view="special">专项练习</button>
       <button class="tab" data-view="history">答题历史 <span id="history-count" class="count">0</span></button>
       <button class="tab" data-view="ai-config">AI 配置</button>
     </nav>
@@ -39,6 +40,11 @@ __STYLE__
           <button id="start-button" class="primary-button">开始答题</button>
         </div>
         <section id="home-insights" class="home-insights" aria-live="polite"></section>
+        <section class="setup-card special-entry">
+          <div><p class="section-kicker">按考点突破</p><h2>专项练习</h2><p>从已标记的历年真题中随机组题，集中练习文字・词汇和语法。</p></div>
+          <button class="primary-button" data-go-special>进入专项练习 →</button>
+        </section>
+        <section id="tag-insights" class="home-insights" aria-label="考点正确率"></section>
       </div>
 
       <section id="exam-panel" class="exam-panel" hidden>
@@ -58,6 +64,24 @@ __STYLE__
           </div>
         </div>
       </section>
+    </section>
+
+    <section id="special-view" class="view" hidden>
+      <div class="setup-card">
+        <p class="section-kicker">专项练习</p><h2>围绕一个考点，跨期练习</h2>
+        <p class="muted">“－”表示全部。仅从已有标签的真题中抽取，每批不重复，保留原题与解析。</p>
+        <div class="selectors special-selectors">
+          <label>1. 科目<select id="special-subject"></select></label>
+          <label>2. 问题<select id="special-problem"></select></label>
+          <label>3. 考点<select id="special-tag"></select></label>
+        </div>
+        <div class="special-actions">
+          <label>生成题数<input id="special-count" type="number" min="1" step="1" value="10" inputmode="numeric" aria-describedby="special-summary"></label>
+          <button id="special-start" class="primary-button">随机生成并开始</button>
+        </div>
+        <p id="special-summary" class="muted" aria-live="polite"></p>
+        <p id="special-error" class="special-error" role="alert"></p>
+      </div>
     </section>
 
     <section id="history-view" class="view" hidden>
@@ -106,6 +130,7 @@ __STYLE__
   <footer><span id="storage-status">正在检测记录存储方式……</span> · 答题记录仅存本地；使用 AI 时当前题目上下文会发送至 Gemini</footer>
   <script>
 window.EXAM_DATA=__DATA__;
+window.PRACTICE_DATA=__PRACTICE_DATA__;
   </script>
   <script>
 __APP__
