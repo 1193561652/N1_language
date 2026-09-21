@@ -23,7 +23,7 @@
 | 查找 OCR/Markdown 结果 | `output` | 各阶段转换与修复产物 |
 | 查看真题总索引 | `08 Past Papers\Past Paper Index.md` | 真题覆盖和处理状态 |
 | 查看文字词汇分类及逐题标签 | `output/N1考试知识库/文字词汇分类/README.md` | 正式商定分类；775题全覆盖，标签不得跨問題1—4 |
-| 查看语法分类及逐题标签 | `output/N1考试知识库/语法分类/README.md` | 商定分类；最近10期190题，标签不得跨問題5—7 |
+| 查看语法分类及逐题标签 | `output/N1考试知识库/语法分类/README.md` | 商定分类；全部31期609题，标签不得跨問題5—7 |
 | 维护文字词汇标签 | `tools/language_tag_annotations.py`、`tools/build_language_taxonomy.py` | 显式逐题标注；生成后用 `--check` 校验范围、覆盖及源题一致性 |
 | 维护 PDF 转换流程 | `gemini_pdf_to_markdown.py`、`tools` | 转换主脚本和辅助工具 |
 

@@ -20,7 +20,11 @@ class PracticeIntegrationTest(unittest.TestCase):
     def test_catalog_matches_reviewed_source(self):
         catalog = build_practice_data(self.data, TOOL.parent)
         self.assertEqual(set(catalog['subjects']), {'文字・词汇', '语法'})
-        self.assertTrue(catalog['questions'])
+        grammar = {q['id'] for exam in self.data['exams'].values() for q in exam['语法']}
+        tagged = {qid for qid, meta in catalog['questions'].items() if meta['subject'] == '语法'}
+        self.assertEqual(tagged, grammar)
+        self.assertEqual(len(tagged), 609)
+        self.assertEqual(len(catalog['questions']), 1384)
         for q in catalog['questions'].values():
             if q['problemNumber'] == 7:
                 self.assertGreater(len(q['sharedPassage']), 100)

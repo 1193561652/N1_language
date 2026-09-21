@@ -50,12 +50,21 @@ for (const tid of tagIds) {
   assert.equal(row.percentage, 50); assert.equal(row.practiced, 1); assert.equal(row.revealed, 1);
 }
 assert(practice.stats([]).every((row) => row.percentage === null));
-// A newly annotated source question is admitted without changing selection code.
-const newId = [...practice.byId.keys()].find((id) => !catalog.questions[id] && practice.byId.get(id).category === '语法' && practice.byId.get(id).question.groupNumber === 5);
-assert(newId);
-const added = JSON.parse(JSON.stringify(catalog));
-added.questions[newId] = { subject: '语法', problemNumber: 5, tags: ['grammar.q5.c01'] };
-const expanded = SpecialPractice.create(data, added);
-assert.equal(expanded.pool.length, practice.pool.length + 1);
-assert(expanded.eligible({ tag: 'grammar.q5.c01' }).includes(newId));
-console.log(`PASS: ${practice.pool.length} tagged questions, ${practice.tags.length} tags; cascading filters, unique sampling, count validation, article context, mixed history statistics, future annotations`);
+// All grammar periods are now eligible, including old five-blank articles.
+const grammarIds = Object.values(data.exams).flatMap(exam => exam['语法']).map(q => q.id);
+assert.deepEqual(new Set(practice.eligible({ subject: '语法' })), new Set(grammarIds));
+assert.equal(grammarIds.length, 609);
+assert.equal(practice.pool.length, 1384);
+assert.equal(practice.eligible({ subject: '语法', problem: '7' }).length, 144);
+const oldest = grammarIds.find(id => practice.byId.get(id).year === '2010.07' && practice.byId.get(id).question.groupNumber === 7);
+assert(practice.question(oldest).passage.length > 100);
+// Metadata additions remain data-driven: remove one annotation, then restore it.
+const reduced = JSON.parse(JSON.stringify(catalog));
+delete reduced.questions[oldest];
+const partial = SpecialPractice.create(data, reduced);
+assert.equal(partial.pool.length, practice.pool.length - 1);
+reduced.questions[oldest] = catalog.questions[oldest];
+assert(SpecialPractice.create(data, reduced).eligible({ subject: '语法' }).includes(oldest));
+const oldStats = practice.stats([{ year: '2010.07', details: [{ id: oldest, results: [true] }] }]);
+for (const tid of catalog.questions[oldest].tags) assert.equal(oldStats.find(row => row.id === tid).correct, 1);
+console.log(`PASS: ${practice.pool.length} tagged questions, ${practice.tags.length} tags; all grammar periods, cascading filters, unique sampling, count validation, full articles, mixed history statistics`);

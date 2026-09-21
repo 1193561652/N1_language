@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build the agreed grammar taxonomy and only its latest-ten-period annotations.
+"""Build the agreed grammar taxonomy and all available period annotations.
 
 python3 tools/build_grammar_taxonomy.py [--check]
 The source bundle must match the reviewed version. Original questions, answers,
@@ -18,7 +18,7 @@ ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / 'output/N1考试知识库/语法分类'
 SOURCE = ROOT / 'offline-exam-tool/data.js'
 SOURCE_SHA = 'b3982d3045b36e02ddf9841f5da7ae81f6acdd65074abdfe9ce3c617d6b0189f'
-YEARS = ['2025.12','2025.07','2024.12','2024.07','2023.12','2023.07','2022.12','2022.07','2021.12','2021.07']
+YEARS = ['2025.12', '2025.07', '2024.12', '2024.07', '2023.12', '2023.07', '2022.12', '2022.07', '2021.12', '2021.07', '2020.12', '2019.12', '2019.07', '2018.12', '2018.07', '2017.12', '2017.07', '2016.12', '2016.07', '2015.12', '2015.07', '2014.12', '2014.07', '2013.12', '2013.07', '2012.12', '2012.07', '2011.12', '2011.07', '2010.12', '2010.07']
 GROUPS = {5:'句子语法',6:'句子排序',7:'篇章语法'}
 BOOK_URL = 'https://www.3anet.co.jp/np/books/3600/'
 BOOK_CHAPTERS = {
@@ -51,11 +51,11 @@ def taxonomy():
                              'path':[GROUPS[5],'基础语法（真题补充）',name],
                              'origin':'agreedSupplement','locator':None})
     assert len(tags)==41
-    return {'version':'1.0','agreedDate':'2026-09-20','subject':'语法',
+    return {'version':'1.1','agreedDate':'2026-09-20','subject':'语法',
             'textbook':'新完全マスター文法 日本語能力試験N1','textbookSource':BOOK_URL,
             'periods':YEARS,'textbookCategoryCount':35,'supplementCategoryCount':6,
             'excludedTextbookSection':'第1部Ⅳ：语法形式整理，仅辅助查阅，不作为分类',
-            'rules':['只标注2021.07—2025.12最近10期，其他期次不生成正式标签',
+            'rules':['覆盖题库2010.07—2025.12全部31期语法题，新增期次仍须逐题审核',
                      '一题可以多标签，标签只来自本题所属問題5、6或7',
                      '第一个标签为主标签，其余为辅助标签；具体句型单独记录',
                      '教材标签为章节能力映射，不自动宣称具体句型是该章精确条目',
@@ -67,6 +67,7 @@ def parse(text):
     result={}
     year=None
     for line in text.strip().splitlines():
+        if not line.strip(): continue
         if re.fullmatch(r'\d{4}\.\d{2}',line):
             year=line
             assert year not in result
@@ -90,7 +91,7 @@ def collect(data,tax):
         assert len(article)>100,(year,'Missing article')
         for group in GROUPS:
             qs=source_questions(data,year,group)
-            assert len(qs)==len(specs[group][year])=={5:10,6:5,7:4}[group]
+            assert len(qs)==len(specs[group][year]), (year, group, len(qs), len(specs[group][year]))
             for ordinal,(q,spec) in enumerate(zip(qs,specs[group][year]),1):
                 selected=[f'grammar.q{group}.{code}' for code in spec['codes']]
                 row={'id':q['id'],'year':year,'subject':'语法','problemNumber':group,'problemName':GROUPS[group],
@@ -109,7 +110,7 @@ def collect(data,tax):
 
 def check_scope(row,tags):
     if row['year'] not in YEARS:
-        raise ValueError('Period outside latest-ten scope')
+        raise ValueError('Period outside reviewed scope')
     if not row['tags'] or any(t not in tags or tags[t]['problemNumber']!=row['problemNumber'] for t in row['tags']):
         raise ValueError('Invalid or cross-problem tag')
 
@@ -117,7 +118,7 @@ def validate(data,tax,rows):
     tags={t['id']:t for t in tax['tags']}
     assert len(tags)==41
     expected={q['id']:q for year in YEARS for q in data['exams'][year]['语法']}
-    assert len(rows)==len(expected)==len({r['id'] for r in rows})==190
+    assert len(rows)==len(expected)==len({r['id'] for r in rows})==609
     assert {r['id'] for r in rows}==set(expected)
     assert set(NOTES)<=set(expected)
     for r in rows:
@@ -133,7 +134,7 @@ def validate(data,tax,rows):
             first=source_questions(data,r['year'],7)[0]
             text=first.get('passage') or first['question']
             assert r['sharedPassage']=={'sourceQuestionId':first['id'],'text':text,'sha256':digest(text)}
-    for invalid in ({**rows[0],'tags':['grammar.q7.c01']},{**rows[0],'year':'2020.12'}):
+    for invalid in ({**rows[0],'tags':['grammar.q7.c01']},{**rows[0],'year':'2009.12'}):
         try:check_scope(invalid,tags)
         except ValueError:pass
         else:raise AssertionError('Scope guard accepted invalid annotation')
@@ -148,7 +149,7 @@ def validate(data,tax,rows):
             'multiTagQuestions':sum(len(r['tags'])>1 for r in rows),
             'questionsWithNotes':sum(bool(r['notes']) for r in rows),
             'textbookCategories':35,'supplementCategories':6,
-            'checks':['最近10期全量ID对应','排除更早期次','每题有标签且标签不跨问题','跨问题和超期次反例被拒绝',
+            'checks':['全部31期609题ID对应','覆盖所有已收录语法题','每题有标签且标签不跨问题','跨问题和超期次反例被拒绝',
                       '原题和答案一致','全部篇章题关联全文','具体结构及依据非空','疑点保留','文件链接与锚点有效']}
 
 def esc(text):
@@ -160,7 +161,7 @@ def question_link(row,prefix=''):
     return f'[{row["year"]} 問題{row["problemNumber"]}-{row["questionOrdinalInProblem"]}]({prefix}期次/{row["year"]}.md#{anchor(row)})'
 
 def overlay(rows):
-    return {'taxonomyVersion':'1.0','periods':YEARS,'sourceSha256':SOURCE_SHA,
+    return {'taxonomyVersion':'1.1','periods':YEARS,'sourceSha256':SOURCE_SHA,
             'questions':{r['id']:{k:r[k] for k in ('problemNumber','construction','primaryTag','tags','evidence','notes','sourceQuestionSha256')} for r in rows}}
 
 def render(tax,rows,report):
@@ -171,7 +172,7 @@ def render(tax,rows,report):
     (OUT/'题目标签.jsonl').write_text(''.join(json.dumps(r,ensure_ascii=False)+'\n' for r in rows),encoding='utf-8')
     (OUT/'标签映射.json').write_text(json.dumps(overlay(rows),ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     tags={t['id']:t for t in tax['tags']}
-    lines=['# 语法考点分类法','', '版本1.0；商定日期：2026-09-20。','',
+    lines=['# 语法考点分类法','', '版本1.1；商定日期：2026-09-20；2026-09-21扩展到全部期次。','',
            f'教材：[《新完全マスター文法 日本語能力試験N1》出版社目录]({BOOK_URL})。类别名称为分类用中文译名。','',
            '**35个教材章节类别＋6个真题补充类别，共41类。** 不将第1部Ⅳ“语法形式整理”设为分类。','',
            '## 标注规则','', *['- '+r for r in tax['rules']],'',
@@ -212,7 +213,7 @@ def render(tax,rows,report):
         description=tag['locator'] if tag['origin']=='textbook' else '真题补充，不是教材原目录'
         (OUT/'标签'/f'{tag["id"]}.md').write_text('\n'.join([f'# {" / ".join(tag["path"])}','', '[返回目录](../README.md)','',
                    f'{description}；共{len(items)}题，均属于問題{tag["problemNumber"]}。','',*table(items,'../')])+'\n',encoding='utf-8')
-    lines=['# 语法分类知识库','', '**最近10期（2021.07—2025.12）190道语法题已标注。** 只使用本题所属问题的标签，每题可多选。','',
+    lines=['# 语法分类知识库','', '**全部31期（2010.07—2025.12）609道语法题已标注。** 只使用本题所属问题的标签，每题可多选。','',
            '- [商定分类法](分类法.md) · [机器可读分类法](分类法.json)',
            '- [全量逐题标签与原题](题目标签.jsonl) · [按ID关联标签](标签映射.json)',
            '- [校验报告](校验报告.json) · [源题疑点备注](核查备注.md)','',
@@ -223,8 +224,8 @@ def render(tax,rows,report):
     lines += [f'| 問題{t["problemNumber"]} | [{t["name"]}](标签/{t["id"]}.md) | {t["locator"] or "真题补充"} | {counts[t["id"]]} |' for t in tax['tags']]
     lines += ['', '多标签题会出现在多个索引中，类别题数不可直接相加。','', '## 按期次查看','', *[f'- [{year}](期次/{year}.md)' for year in YEARS],'',
               '## 维护','', '显式逐题标注位于 `tools/grammar_tag_annotations.py`。运行 `python3 tools/build_grammar_taxonomy.py` 生成，追加 `--check` 只读校验。',
-              '源题库指纹固定；更新题库后需要复核标注和期次范围，不会悄悄为新增或更早期次套用标签。每条标签保存分类依据，篇章题带全文。',
-              '此处为本地知识库标签附件，尚未改变网页显示；原始答案与个人作答记录不变。','']
+              '源题库指纹固定；更新题库后需要复核标注和期次范围，不会悄悄为新增期次套用标签。每条标签保存分类依据，篇章题带全文。',
+              '此分类与标签已接入离线题库的能力训练及考点总结；原始答案与个人作答记录不变。','']
     (OUT/'README.md').write_text('\n'.join(lines),encoding='utf-8')
     lines=['# 源题疑点备注','', '[返回目录](README.md)','', '这些题仍已按可辨认的考点标注；未以本次分类工作替代原卷校勘，未修改原答案。','']
     lines += [f'- {question_link(r)}：{note}' for r in rows for note in r['notes']]
@@ -247,7 +248,7 @@ def main():
     raw=SOURCE.read_text(encoding='utf-8')
     assert hashlib.sha256(raw.encode()).hexdigest()==SOURCE_SHA,'Source changed: re-review first'
     data=json.loads(raw.split('=',1)[1].rstrip(';\n'))
-    assert sorted(data['years'],reverse=True)[:10]==YEARS
+    assert sorted(data['years'],reverse=True)==YEARS
     tax=taxonomy()
     rows=collect(data,tax)
     report=validate(data,tax,rows)
