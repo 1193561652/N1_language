@@ -16,15 +16,13 @@ from language_tag_annotations import READING, MEANING, PARAPHRASE, USAGE
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / 'output/N1考试知识库/文字词汇分类'
 SOURCE = ROOT / 'offline-exam-tool/data.js'
-VERSION = '1.0'
+VERSION = '1.1'
 # These annotations were reviewed against this exact bundle, not future changes.
 REVIEWED_SOURCE_SHA256 = 'b3982d3045b36e02ddf9841f5da7ae81f6acdd65074abdfe9ce3c617d6b0189f'
 GROUPS = {1:'读音', 2:'词汇意思', 3:'近义词替换', 4:'在句子中词汇用法'}
 READ_CODES = {
  'V': ('verb', '动词读音'),
- 'N': ('noun.onyomi', '名词与汉字熟语读音 / 二字熟语，通常是音读'),
- 'K': ('noun.kunyomi', '名词与汉字熟语读音 / 训读名词'),
- 'O': ('noun.other', '名词与汉字熟语读音 / 其他，如单字词、三字及以上熟语'),
+ 'N': ('noun', '名词与汉字熟语读音'),
  'I': ('adjective.i', '形容词读音 / い形容词'),
  'Y': ('adjective.yaka', '形容词读音 / ～やか结尾的な形容词'),
  'R': ('adjective.raka', '形容词读音 / ～らか结尾的な形容词'),
@@ -132,7 +130,6 @@ def build_rows(data, tags):
                 if year=='2024.12' and group==4:
                     notes.append('本期用法题源文本可见漏字、重复或接续转录异常；依据可辨识的考查对象标注，未校勘原文。')
                 primary=selected[0]['id']
-                if group==1 and 'K' in codes:primary=tag_map[group,'K']['id']
                 row={'id':q['id'],'year':year,'subject':'文字・词汇','sourceCategory':'文字' if group==1 else '词汇',
                      'problemNumber':group,'problemName':GROUPS[group],'questionNumber':q['number'],
                      'questionOrdinalInProblem':ordinal,'surface':surface,'lemma':lemma,
@@ -164,7 +161,7 @@ def validate(rows,data,tags):
         assert r['surface']==target(expected[r['id']],r['problemNumber'])
     # Behavioral regressions: noun/verb context, scope, and lexical boundary.
     assert actual['sbry-n1-2017.12-文字・語彙-1-6']['lemma']=='巡る'
-    assert actual['markdown-2025.12-language-1']['tags']==['language.q1.noun.onyomi','language.q1.adjective.other']
+    assert actual['markdown-2025.12-language-1']['tags']==['language.q1.noun','language.q1.adjective.other']
     assert actual['sbry-n1-2015.07-文字・語彙-3-17']['tags']==['language.q3.kanji'] # 助言→アドバイス
     assert actual['markdown-2025.12-language-15']['tags']==['language.q3.adjective.other'] # ひそかに→こっそり
     assert actual['sbry-n1-2017.12-文字・語彙-2-13']['tags']==['language.q2.adjective.other'] # まちまち is not tagged by spelling alone
@@ -204,12 +201,12 @@ def render(data,tags,rows,report):
                        '問題2按正确选词；問題3按题干被替换词；問題4按四个句子的用法差别',
                        '主标签是本题主要归档入口；辅助标签仍不得跨问题'], 'tags':tags}
     (OUT/'分类法.json').write_text(json.dumps(taxonomy,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
-    lines=['# 文字・词汇考点分类法', '', '版本：1.0；商定日期：2026-09-20。', '',
+    lines=['# 文字・词汇考点分类法', '', f'版本：{VERSION}；商定日期：2026-09-20；2026-09-22合并名词读音子类。', '',
            '适用范围：31期离线真题的文字・词汇（問題1—4）。本目录是此前跨科目草稿在文字・词汇范围内的正式替代。', '',
            '## 标签规则', '', *['- '+x for x in taxonomy['rules']], '',
            '## 分类边界', '',
-           '- 汉字熟语按词汇书写及构词组织，不限定名词或纯音读；如「頑丈」可同时标二字熟语和其他な形容词。',
-           '- 读音中的其他名词与熟语包括混合读法，如「指図、相場、跡地、手際、本筋」。',
+           '- 汉字熟语按词汇书写及构词组织，不限定名词或纯音读；如「頑丈」可同时标名词与汉字熟语读音和其他な形容词。',
+           '- 名词与汉字熟语读音统一为一个考点，不再区分音读、训读或词长；也包含混合读法，如「指図、相場、跡地、手際、本筋」。',
            '- 「～やか／～らか」指な形容词词干；い形容词活用还原到原形。',
            '- 「～しい」按原形词尾判定；「すさまじい」放其他形容词，不因意思相近强并入。',
            '- 复合动词与一般动词分开；动词派生但在本题作名词的「見返り、手分け、意気込み」按名词归档。',

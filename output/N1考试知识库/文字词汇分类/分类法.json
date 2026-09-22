@@ -1,5 +1,5 @@
 {
-  "version": "1.0",
+  "version": "1.1",
   "agreedDate": "2026-09-20",
   "subject": "文字・词汇",
   "scope": "問題1—4；题库底层文字与词汇合并，不含语法、阅读、听力",
@@ -22,36 +22,13 @@
       ]
     },
     {
-      "id": "language.q1.noun.onyomi",
+      "id": "language.q1.noun",
       "problemNumber": 1,
       "problemName": "读音",
       "code": "N",
       "path": [
         "读音",
-        "名词与汉字熟语读音",
-        "二字熟语，通常是音读"
-      ]
-    },
-    {
-      "id": "language.q1.noun.kunyomi",
-      "problemNumber": 1,
-      "problemName": "读音",
-      "code": "K",
-      "path": [
-        "读音",
-        "名词与汉字熟语读音",
-        "训读名词"
-      ]
-    },
-    {
-      "id": "language.q1.noun.other",
-      "problemNumber": 1,
-      "problemName": "读音",
-      "code": "O",
-      "path": [
-        "读音",
-        "名词与汉字熟语读音",
-        "其他，如单字词、三字及以上熟语"
+        "名词与汉字熟语读音"
       ]
     },
     {

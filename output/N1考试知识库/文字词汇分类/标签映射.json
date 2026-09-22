@@ -1,16 +1,16 @@
 {
-  "taxonomyVersion": "1.0",
+  "taxonomyVersion": "1.1",
   "sourceSha256": "b3982d3045b36e02ddf9841f5da7ae81f6acdd65074abdfe9ce3c617d6b0189f",
   "questions": {
     "markdown-2025.12-language-1": {
       "problemNumber": 1,
       "lemma": "頑丈",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi",
+        "language.q1.noun",
         "language.q1.adjective.other"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「頑丈」归档为「頑丈」；名词与汉字熟语读音 / 二字熟语，通常是音读；形容词读音 / 其他な形容词。",
+      "evidence": "按题干强调词的读音及句中形式归类：「頑丈」归档为「頑丈」；名词与汉字熟语读音；形容词读音 / 其他な形容词。",
       "notes": [],
       "sourceQuestionSha256": "4fd18d36790f158d662c5b590e6f8f7ded456966b43bffb05e6a45a6912398f5"
     },
@@ -28,22 +28,22 @@
     "markdown-2025.12-language-3": {
       "problemNumber": 1,
       "lemma": "行政",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「行政」归档为「行政」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「行政」归档为「行政」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "9cc367c60dbffcc47971ea966c3bc9400e28afe7c7e2f63ab5b81831e8afdeb6"
     },
     "markdown-2025.12-language-4": {
       "problemNumber": 1,
       "lemma": "卓越",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「卓越」归档为「卓越」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「卓越」归档为「卓越」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "663bccc1553204c0dfc6b991f4f89bf3bfc2fdc48bc1c38974ab3680d2386eaf"
     },
@@ -63,11 +63,11 @@
     "markdown-2025.12-language-6": {
       "problemNumber": 1,
       "lemma": "管轄",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「管轄」归档为「管轄」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「管轄」归档为「管轄」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "e285a735cedf142fa6bd900e7233f0326b15e9bf958fe3bad5ea1e90cd2cd3df"
     },
@@ -294,11 +294,11 @@
     "markdown-2025.07-language-1": {
       "problemNumber": 1,
       "lemma": "余暇",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「余暇」归档为「余暇」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「余暇」归档为「余暇」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "11903fe45ec93df893f0573fc174cf1152c38a1a9f84bc0adffb905757ef2ece"
     },
@@ -316,23 +316,23 @@
     "markdown-2025.07-language-3": {
       "problemNumber": 1,
       "lemma": "検閲",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「検閲」归档为「検閲」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「検閲」归档为「検閲」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "f655d1397373384304ecc966019623ae736a59166e8939ee403edabbc75362b5"
     },
     "markdown-2025.07-language-4": {
       "problemNumber": 1,
       "lemma": "崇高",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi",
+        "language.q1.noun",
         "language.q1.adjective.other"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「崇高」归档为「崇高」；名词与汉字熟语读音 / 二字熟语，通常是音读；形容词读音 / 其他な形容词。",
+      "evidence": "按题干强调词的读音及句中形式归类：「崇高」归档为「崇高」；名词与汉字熟语读音；形容词读音 / 其他な形容词。",
       "notes": [],
       "sourceQuestionSha256": "9bf04063615603eab6aa5c817e4979e6ab3739035c9be181d1633c2a0d6e6b46"
     },
@@ -350,11 +350,11 @@
     "markdown-2025.07-language-6": {
       "problemNumber": 1,
       "lemma": "胸中",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「胸中」归档为「胸中」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「胸中」归档为「胸中」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "cc142abfb1a4349a68e696bdea3b47018d9a92a3aff865c6303724c47c295d06"
     },
@@ -579,33 +579,33 @@
     "jlpt4you-2024.12-vocabulary-1-1": {
       "problemNumber": 1,
       "lemma": "絶叫",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「絶叫」归档为「絶叫」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「絶叫」归档为「絶叫」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "c0584fe9d5e1a1e0cf672ed42d4ff207385d2592928d9974b3e5d605a0ef9b64"
     },
     "jlpt4you-2024.12-vocabulary-1-2": {
       "problemNumber": 1,
       "lemma": "背後",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「背後」归档为「背後」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「背後」归档为「背後」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "77b4cbf4a5d0b3cc268037ffa1ab9150f214a37b8b899304c6be3f08832862a5"
     },
     "jlpt4you-2024.12-vocabulary-1-3": {
       "problemNumber": 1,
       "lemma": "抱負",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「抱負」归档为「抱負」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「抱負」归档为「抱負」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "d039acabf4e121547ccb925a8758e97cffe58499627d00587b749e986d031b8f"
     },
@@ -623,23 +623,23 @@
     "jlpt4you-2024.12-vocabulary-1-5": {
       "problemNumber": 1,
       "lemma": "筋道",
-      "primaryTag": "language.q1.noun.kunyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.kunyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「筋道」归档为「筋道」；名词与汉字熟语读音 / 训读名词。",
+      "evidence": "按题干强调词的读音及句中形式归类：「筋道」归档为「筋道」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "21d60e5a18903da75a2274b72db74c651a1b498f9d1cb95aa442a2c99831a0bb"
     },
     "jlpt4you-2024.12-vocabulary-1-6": {
       "problemNumber": 1,
       "lemma": "奔放",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi",
+        "language.q1.noun",
         "language.q1.adjective.other"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「奔放」归档为「奔放」；名词与汉字熟语读音 / 二字熟语，通常是音读；形容词读音 / 其他な形容词。",
+      "evidence": "按题干强调词的读音及句中形式归类：「奔放」归档为「奔放」；名词与汉字熟语读音；形容词读音 / 其他な形容词。",
       "notes": [],
       "sourceQuestionSha256": "b30423f06051f4beb12ad3e0f3b32a82b0758e4dbb0fe47ac6d25553c7309448"
     },
@@ -875,11 +875,11 @@
     "jlpt4you-2024.07-vocabulary-1-1": {
       "problemNumber": 1,
       "lemma": "腐敗",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「腐敗」归档为「腐敗」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「腐敗」归档为「腐敗」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "c139ccbff7292b3ceffdcb8a6805d0667d238612373d4b6863bbf54a91a393f9"
     },
@@ -897,22 +897,22 @@
     "jlpt4you-2024.07-vocabulary-1-3": {
       "problemNumber": 1,
       "lemma": "粘膜",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「粘膜」归档为「粘膜」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「粘膜」归档为「粘膜」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "347350e6b6d8152c69349de5617a3e1c2153aa09df0d89b17090f78da38f12d8"
     },
     "jlpt4you-2024.07-vocabulary-1-4": {
       "problemNumber": 1,
       "lemma": "寿命",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「寿命」归档为「寿命」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「寿命」归档为「寿命」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "46c76770ceb963a6eace953a3e9a39b744565879ffe92bdaca483345bd67aed9"
     },
@@ -930,11 +930,11 @@
     "jlpt4you-2024.07-vocabulary-1-6": {
       "problemNumber": 1,
       "lemma": "誓約書",
-      "primaryTag": "language.q1.noun.other",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.other"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「誓約書」归档为「誓約書」；名词与汉字熟语读音 / 其他，如单字词、三字及以上熟语。",
+      "evidence": "按题干强调词的读音及句中形式归类：「誓約書」归档为「誓約書」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "339e23328a56250ab21111bd7210d7281106ba0d9bb8e9c12b8b059a56d884ad"
     },
@@ -1158,44 +1158,44 @@
     "jlpt4you-2023.12-vocabulary-1-1": {
       "problemNumber": 1,
       "lemma": "軌跡",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「軌跡」归档为「軌跡」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「軌跡」归档为「軌跡」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "85ade4c1ce9bb19570397a67405e7fa3bd8415a53698c27b48e536aa61b5858d"
     },
     "jlpt4you-2023.12-vocabulary-1-2": {
       "problemNumber": 1,
       "lemma": "偏り",
-      "primaryTag": "language.q1.noun.kunyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.kunyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「偏り」归档为「偏り」；名词与汉字熟语读音 / 训读名词。",
+      "evidence": "按题干强调词的读音及句中形式归类：「偏り」归档为「偏り」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "bcfa06e8cce4604723accf4cf01ef731db05b89dc5f205af70325d9abb975c7f"
     },
     "jlpt4you-2023.12-vocabulary-1-3": {
       "problemNumber": 1,
       "lemma": "矛盾",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「矛盾」归档为「矛盾」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「矛盾」归档为「矛盾」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "b03ab0e3c79e53ab6a33a45572583aa18be9842d476d0ed1b14f210fc7ce6208"
     },
     "jlpt4you-2023.12-vocabulary-1-4": {
       "problemNumber": 1,
       "lemma": "誇張",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「誇張」归档为「誇張」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「誇張」归档为「誇張」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "45608a13a0e8445859221233096eacb43ec4a2163fc92e707a61cd5a00905ef6"
     },
@@ -1213,12 +1213,12 @@
     "jlpt4you-2023.12-vocabulary-1-6": {
       "problemNumber": 1,
       "lemma": "軽率",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi",
+        "language.q1.noun",
         "language.q1.adjective.other"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「軽率」归档为「軽率」；名词与汉字熟语读音 / 二字熟语，通常是音读；形容词读音 / 其他な形容词。",
+      "evidence": "按题干强调词的读音及句中形式归类：「軽率」归档为「軽率」；名词与汉字熟语读音；形容词读音 / 其他な形容词。",
       "notes": [],
       "sourceQuestionSha256": "8ac89b57da6cdecb737689aa006a67d1fc66348825b39a835e7b2b4c5e533e67"
     },
@@ -1442,11 +1442,11 @@
     "jlpt4you-2023.07-vocabulary-1-1": {
       "problemNumber": 1,
       "lemma": "騒然",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「騒然」归档为「騒然」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「騒然」归档为「騒然」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "df4c8d744661db9db08bf07c4e600d33d531eae1f74278735cb363685aa2555b"
     },
@@ -1464,22 +1464,22 @@
     "jlpt4you-2023.07-vocabulary-1-3": {
       "problemNumber": 1,
       "lemma": "秩序",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「秩序」归档为「秩序」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「秩序」归档为「秩序」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "bdd88d796127781915c1ce93cb047520548995bf2b687eaa1f0d6e61db3f4f6c"
     },
     "jlpt4you-2023.07-vocabulary-1-4": {
       "problemNumber": 1,
       "lemma": "潜伏",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「潜伏」归档为「潜伏」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「潜伏」归档为「潜伏」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "6d948edf792ae67c3f2c2e0cb1abe72d04d7de47bc4262b2ae24614cc4f38964"
     },
@@ -1497,11 +1497,11 @@
     "jlpt4you-2023.07-vocabulary-1-6": {
       "problemNumber": 1,
       "lemma": "振興",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「振興」归档为「振興」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「振興」归档为「振興」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "fe81b37c96038efc15e0a65f84c44b7c87e7652627343870e5b3ca9e18122ed0"
     },
@@ -1723,22 +1723,22 @@
     "sbry-n1-2022.12-文字・語彙-1-1": {
       "problemNumber": 1,
       "lemma": "監督",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「監督」归档为「監督」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「監督」归档为「監督」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "15c06f105005968fed7556ecaeaa3f4e9495d1e92c95e9eb40145a179fe6db96"
     },
     "sbry-n1-2022.12-文字・語彙-1-2": {
       "problemNumber": 1,
       "lemma": "派生",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「派生」归档为「派生」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「派生」归档为「派生」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "8cdabd406508943cfe57b9be17aa6c788bf04f16c9b435557c6d7b55bd757113"
     },
@@ -1756,11 +1756,11 @@
     "sbry-n1-2022.12-文字・語彙-1-4": {
       "problemNumber": 1,
       "lemma": "恩恵",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「恩恵」归档为「恩恵」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「恩恵」归档为「恩恵」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "b6cbd93011a4988c80a17a5fa923b781579d5cb2d2969a540a291daaffa41e30"
     },
@@ -1778,12 +1778,12 @@
     "sbry-n1-2022.12-文字・語彙-1-6": {
       "problemNumber": 1,
       "lemma": "如実",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi",
+        "language.q1.noun",
         "language.q1.adjective.other"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「如実に」归档为「如実」；名词与汉字熟语读音 / 二字熟语，通常是音读；形容词读音 / 其他な形容词。",
+      "evidence": "按题干强调词的读音及句中形式归类：「如実に」归档为「如実」；名词与汉字熟语读音；形容词读音 / 其他な形容词。",
       "notes": [],
       "sourceQuestionSha256": "93897b05801ef0e7699da04b1d7def06077f6772a0c6617b887e5fbfe0cab179"
     },
@@ -2008,23 +2008,23 @@
     "sbry-n1-2022.07-文字・語彙-1-1": {
       "problemNumber": 1,
       "lemma": "勇敢",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi",
+        "language.q1.noun",
         "language.q1.adjective.other"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「勇敢」归档为「勇敢」；名词与汉字熟语读音 / 二字熟语，通常是音读；形容词读音 / 其他な形容词。",
+      "evidence": "按题干强调词的读音及句中形式归类：「勇敢」归档为「勇敢」；名词与汉字熟语读音；形容词读音 / 其他な形容词。",
       "notes": [],
       "sourceQuestionSha256": "c02abc9e3d19f8bd8742b0182894942f157d821576b93a83b867d8c34fc47f38"
     },
     "sbry-n1-2022.07-文字・語彙-1-2": {
       "problemNumber": 1,
       "lemma": "忠告",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「忠告」归档为「忠告」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「忠告」归档为「忠告」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "959b89a1f9bc12553259095b404bad7f2283f936a1396ee57a63e2f49fc9b595"
     },
@@ -2042,22 +2042,22 @@
     "sbry-n1-2022.07-文字・語彙-1-4": {
       "problemNumber": 1,
       "lemma": "施錠",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「施錠」归档为「施錠」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「施錠」归档为「施錠」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "abd46d23b1059d6e06b3390ce8cfa80c8155f41e9fe7756fa3d7caf0da215e60"
     },
     "sbry-n1-2022.07-文字・語彙-1-5": {
       "problemNumber": 1,
       "lemma": "沈下",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「沈下」归档为「沈下」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「沈下」归档为「沈下」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "23da02f13d47e19fa6bcb4df795658b40e95d0035d678e3e6f3b5be541533ec9"
     },
@@ -2293,11 +2293,11 @@
     "sbry-n1-2021.12-文字・語彙-1-1": {
       "problemNumber": 1,
       "lemma": "錯覚",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「錯覚」归档为「錯覚」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「錯覚」归档为「錯覚」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "be395128b7f4ae78ab0118e098182b91932f89763c643d5b1712c14481555eb7"
     },
@@ -2315,11 +2315,11 @@
     "sbry-n1-2021.12-文字・語彙-1-3": {
       "problemNumber": 1,
       "lemma": "枯渇",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「枯渇」归档为「枯渇」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「枯渇」归档为「枯渇」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "6a6ff3cd96537add4d5cf66d46d655f6925c7c120560df090ed8e0ea6f1bd872"
     },
@@ -2337,23 +2337,23 @@
     "sbry-n1-2021.12-文字・語彙-1-5": {
       "problemNumber": 1,
       "lemma": "克明",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi",
+        "language.q1.noun",
         "language.q1.adjective.other"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「克明」归档为「克明」；名词与汉字熟语读音 / 二字熟语，通常是音读；形容词读音 / 其他な形容词。",
+      "evidence": "按题干强调词的读音及句中形式归类：「克明」归档为「克明」；名词与汉字熟语读音；形容词读音 / 其他な形容词。",
       "notes": [],
       "sourceQuestionSha256": "c81d118608fb021f83389d37acc3c2bccffaace0603e2dcdb38f3db2ea44e24f"
     },
     "sbry-n1-2021.12-文字・語彙-1-6": {
       "problemNumber": 1,
       "lemma": "緊迫",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「緊迫」归档为「緊迫」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「緊迫」归档为「緊迫」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "f1e2aaa26b4f9fd8d15c4697051890202c3b65276ecacfc1407b278bd8caaf8f"
     },
@@ -2576,34 +2576,34 @@
     "sbry-n1-2021.07-文字・語彙-1-1": {
       "problemNumber": 1,
       "lemma": "遺憾",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi",
+        "language.q1.noun",
         "language.q1.adjective.other"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「遺憾」归档为「遺憾」；名词与汉字熟语读音 / 二字熟语，通常是音读；形容词读音 / 其他な形容词。",
+      "evidence": "按题干强调词的读音及句中形式归类：「遺憾」归档为「遺憾」；名词与汉字熟语读音；形容词读音 / 其他な形容词。",
       "notes": [],
       "sourceQuestionSha256": "7e3292fa92c7ddb25214dc7230011eca9cac5653ab6165c862f539aae657bb8f"
     },
     "sbry-n1-2021.07-文字・語彙-1-2": {
       "problemNumber": 1,
       "lemma": "閉鎖",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「閉鎖」归档为「閉鎖」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「閉鎖」归档为「閉鎖」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "78456340b63d64c30e793e7859ecbe55239f96ec361a4650807d62ab526fc347"
     },
     "sbry-n1-2021.07-文字・語彙-1-3": {
       "problemNumber": 1,
       "lemma": "心遣い",
-      "primaryTag": "language.q1.noun.kunyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.kunyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「心遣い」归档为「心遣い」；名词与汉字熟语读音 / 训读名词。",
+      "evidence": "按题干强调词的读音及句中形式归类：「心遣い」归档为「心遣い」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "e7270c001033cbf9d890dcd55fadfaf34d2aa15c414a0063b7e31310ea3ef707"
     },
@@ -2621,22 +2621,22 @@
     "sbry-n1-2021.07-文字・語彙-1-5": {
       "problemNumber": 1,
       "lemma": "貧富",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「貧富」归档为「貧富」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「貧富」归档为「貧富」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "cc446e83e070fe0978fa127f60eee793e5d71b5af02e3878668da2461007e066"
     },
     "sbry-n1-2021.07-文字・語彙-1-6": {
       "problemNumber": 1,
       "lemma": "治癒",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「治癒」归档为「治癒」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「治癒」归档为「治癒」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "9a7f70a10a940b3d4d6feef7ad18e5e53633c2e0abedb509b355adc3f8d16bf4"
     },
@@ -2862,11 +2862,11 @@
     "sbry-n1-2020.12-文字・語彙-1-1": {
       "problemNumber": 1,
       "lemma": "干渉",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「干渉」归档为「干渉」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「干渉」归档为「干渉」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "06662dbd4dc8b06d9008082fa62b676c96540e896795aa8d3c235b6e797976a7"
     },
@@ -2884,12 +2884,12 @@
     "sbry-n1-2020.12-文字・語彙-1-3": {
       "problemNumber": 1,
       "lemma": "巧妙",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi",
+        "language.q1.noun",
         "language.q1.adjective.other"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「巧妙」归档为「巧妙」；名词与汉字熟语读音 / 二字熟语，通常是音读；形容词读音 / 其他な形容词。",
+      "evidence": "按题干强调词的读音及句中形式归类：「巧妙」归档为「巧妙」；名词与汉字熟语读音；形容词读音 / 其他な形容词。",
       "notes": [],
       "sourceQuestionSha256": "457de596311db4cbd3b1131370de6b17fa191ac24ba2334ff3c5f0a5a9992533"
     },
@@ -2907,22 +2907,22 @@
     "sbry-n1-2020.12-文字・語彙-1-5": {
       "problemNumber": 1,
       "lemma": "措置",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「措置」归档为「措置」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「措置」归档为「措置」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "cbc07dcc8fde08b25782dc1a732f2146fd0adf0bdbbc0e602bbb0c569173268d"
     },
     "sbry-n1-2020.12-文字・語彙-1-6": {
       "problemNumber": 1,
       "lemma": "振興",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「振興」归档为「振興」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「振興」归档为「振興」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "b3342eb6422b7facd582869bf9c2e476364bc66108cd8c60ccb6a98ba6dbcace"
     },
@@ -3147,11 +3147,11 @@
     "sbry-n1-2019.12-文字・語彙-1-1": {
       "problemNumber": 1,
       "lemma": "披露",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「披露」归档为「披露」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「披露」归档为「披露」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "e37bec8fb55a21d850b2fa6ea131b92abc4ddf8f39714ef1d2e398bdaa8169e4"
     },
@@ -3169,33 +3169,33 @@
     "sbry-n1-2019.12-文字・語彙-1-3": {
       "problemNumber": 1,
       "lemma": "執着",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「執着」归档为「執着」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「執着」归档为「執着」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "60575b3b0c45ddb21024f9cfa7a7cbb00780f98fde27bf6a30b11254c874b7b4"
     },
     "sbry-n1-2019.12-文字・語彙-1-4": {
       "problemNumber": 1,
       "lemma": "債務",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「債務」归档为「債務」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「債務」归档为「債務」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "b599a114ab9c1a035395b5b5cab9c4e7266778db512ce84f19b65606199ff037"
     },
     "sbry-n1-2019.12-文字・語彙-1-5": {
       "problemNumber": 1,
       "lemma": "貢献",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「貢献」归档为「貢献」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「貢献」归档为「貢献」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "c72b5e70fe34de67263122539fdedceef129a617a613e5fb174c229cc44f4b77"
     },
@@ -3432,23 +3432,23 @@
     "sbry-n1-2019.07-文字・語彙-1-1": {
       "problemNumber": 1,
       "lemma": "猛烈",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi",
+        "language.q1.noun",
         "language.q1.adjective.other"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「猛烈」归档为「猛烈」；名词与汉字熟语读音 / 二字熟语，通常是音读；形容词读音 / 其他な形容词。",
+      "evidence": "按题干强调词的读音及句中形式归类：「猛烈」归档为「猛烈」；名词与汉字熟语读音；形容词读音 / 其他な形容词。",
       "notes": [],
       "sourceQuestionSha256": "f0358548136e0bcdaf1d1a861cfbf366c589145d75853bd20093df756d3c9da1"
     },
     "sbry-n1-2019.07-文字・語彙-1-2": {
       "problemNumber": 1,
       "lemma": "克服",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「克服」归档为「克服」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「克服」归档为「克服」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "1ef1144c66f9863978c44140f81b88d79a529f792e3dbe35b9760aecbcaa978a"
     },
@@ -3466,22 +3466,22 @@
     "sbry-n1-2019.07-文字・語彙-1-4": {
       "problemNumber": 1,
       "lemma": "繁殖",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「繁殖」归档为「繁殖」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「繁殖」归档为「繁殖」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "67f40afc5225cb3a9499d35abacfdfa9a0237096c2cab7f40295e74bb677ad74"
     },
     "sbry-n1-2019.07-文字・語彙-1-5": {
       "problemNumber": 1,
       "lemma": "履歴",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「履歴」归档为「履歴」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「履歴」归档为「履歴」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "78f0e98ca235f0fd9ec10ed912ca82efb1a2b1db49726c17509392e4d03eb803"
     },
@@ -3719,23 +3719,23 @@
     "sbry-n1-2018.12-文字・語彙-1-1": {
       "problemNumber": 1,
       "lemma": "豪快",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi",
+        "language.q1.noun",
         "language.q1.adjective.other"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「豪快」归档为「豪快」；名词与汉字熟语读音 / 二字熟语，通常是音读；形容词读音 / 其他な形容词。",
+      "evidence": "按题干强调词的读音及句中形式归类：「豪快」归档为「豪快」；名词与汉字熟语读音；形容词读音 / 其他な形容词。",
       "notes": [],
       "sourceQuestionSha256": "a04b31a1ebe4b0ca133a12e8bda285eda9f7e21df6c214283ed57db781da6aa8"
     },
     "sbry-n1-2018.12-文字・語彙-1-2": {
       "problemNumber": 1,
       "lemma": "忍耐",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「忍耐」归档为「忍耐」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「忍耐」归档为「忍耐」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "e539e4432e3f40cf6fef4e76b4226e17174f3814be458d059018f78df4ff6e00"
     },
@@ -3753,12 +3753,12 @@
     "sbry-n1-2018.12-文字・語彙-1-4": {
       "problemNumber": 1,
       "lemma": "膨大",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi",
+        "language.q1.noun",
         "language.q1.adjective.other"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「膨大」归档为「膨大」；名词与汉字熟语读音 / 二字熟语，通常是音读；形容词读音 / 其他な形容词。",
+      "evidence": "按题干强调词的读音及句中形式归类：「膨大」归档为「膨大」；名词与汉字熟语读音；形容词读音 / 其他な形容词。",
       "notes": [],
       "sourceQuestionSha256": "01ad8564c16a807861b6d1febccfece902b07c5831144584a5ff567e90a343ff"
     },
@@ -3776,11 +3776,11 @@
     "sbry-n1-2018.12-文字・語彙-1-6": {
       "problemNumber": 1,
       "lemma": "驚嘆",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「驚嘆」归档为「驚嘆」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「驚嘆」归档为「驚嘆」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "11587c3aca48c3d6781d4d7c5d7c833da22fd882238d48e3d0b9706feae66561"
     },
@@ -4005,44 +4005,44 @@
     "sbry-n1-2018.07-文字・語彙-1-1": {
       "problemNumber": 1,
       "lemma": "回顧",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「回顧」归档为「回顧」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「回顧」归档为「回顧」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "85be435db6cb76c3999990ed7aeb6f2ffb2b9fc7d6b10f4f2e7399847a141951"
     },
     "sbry-n1-2018.07-文字・語彙-1-2": {
       "problemNumber": 1,
       "lemma": "偽り",
-      "primaryTag": "language.q1.noun.kunyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.kunyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「偽り」归档为「偽り」；名词与汉字熟语读音 / 训读名词。",
+      "evidence": "按题干强调词的读音及句中形式归类：「偽り」归档为「偽り」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "0b048326b52e9db11950764a111d85a012c42a9bccb52ee2509d86aad4caab0f"
     },
     "sbry-n1-2018.07-文字・語彙-1-3": {
       "problemNumber": 1,
       "lemma": "嫌悪感",
-      "primaryTag": "language.q1.noun.other",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.other"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「嫌悪感」归档为「嫌悪感」；名词与汉字熟语读音 / 其他，如单字词、三字及以上熟语。",
+      "evidence": "按题干强调词的读音及句中形式归类：「嫌悪感」归档为「嫌悪感」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "6ffc2e866b913ab0dfc9689d9c3392566d95da862c36dabe1e3b4f6037783573"
     },
     "sbry-n1-2018.07-文字・語彙-1-4": {
       "problemNumber": 1,
       "lemma": "自粛",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「自粛」归档为「自粛」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「自粛」归档为「自粛」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "ef0c79332e7eafb2599d73f71960278fc47e0bdd3d07c132189b3fa497d7366f"
     },
@@ -4060,11 +4060,11 @@
     "sbry-n1-2018.07-文字・語彙-1-6": {
       "problemNumber": 1,
       "lemma": "丘陵",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「丘陵」归档为「丘陵」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「丘陵」归档为「丘陵」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "c0ebfd833f2c00ddc803f0be919b9eb241f017a4c6981a6e0cc33c55f9b1a9a7"
     },
@@ -4289,22 +4289,22 @@
     "sbry-n1-2017.12-文字・語彙-1-1": {
       "problemNumber": 1,
       "lemma": "開拓",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「開拓」归档为「開拓」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「開拓」归档为「開拓」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "31e55b049f5abad2e4854bba604898881aa9c06af4b11925450a2e358a930c36"
     },
     "sbry-n1-2017.12-文字・語彙-1-2": {
       "problemNumber": 1,
       "lemma": "復興",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「復興」归档为「復興」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「復興」归档为「復興」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "cb75ac990813ec9d94495cdd90454d69fe4bf563ee90f7ea0eaee8dc11b7bafd"
     },
@@ -4322,22 +4322,22 @@
     "sbry-n1-2017.12-文字・語彙-1-4": {
       "problemNumber": 1,
       "lemma": "了承",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「了承」归档为「了承」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「了承」归档为「了承」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "c02830b6718d9beb014bcc9d96135b1db8e0398a19290ccf1233257721dc85bc"
     },
     "sbry-n1-2017.12-文字・語彙-1-5": {
       "problemNumber": 1,
       "lemma": "指図",
-      "primaryTag": "language.q1.noun.other",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.other"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「指図」归档为「指図」；名词与汉字熟语读音 / 其他，如单字词、三字及以上熟语。",
+      "evidence": "按题干强调词的读音及句中形式归类：「指図」归档为「指図」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "e030b15f4d4ae2856c2be1521d15ee8ffe60dc3cce8734dc237252daf6cb1f58"
     },
@@ -4583,11 +4583,11 @@
     "sbry-n1-2017.07-文字・語彙-1-2": {
       "problemNumber": 1,
       "lemma": "殺菌",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「殺菌」归档为「殺菌」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「殺菌」归档为「殺菌」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "85a5ea2035f555afdcb1abe026e6f5b1a17137943e2ca5f6acf836308bafd600"
     },
@@ -4605,11 +4605,11 @@
     "sbry-n1-2017.07-文字・語彙-1-4": {
       "problemNumber": 1,
       "lemma": "傾斜",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「傾斜」归档为「傾斜」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「傾斜」归档为「傾斜」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "60769b8193dad7cbfd876ac9349fc692050b5ec09e017ff9abac3d1a170de51f"
     },
@@ -4627,11 +4627,11 @@
     "sbry-n1-2017.07-文字・語彙-1-6": {
       "problemNumber": 1,
       "lemma": "暴露",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「暴露」归档为「暴露」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「暴露」归档为「暴露」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "8617d1fe8402d17f3825b52ae88e15c0c0a9b72c02498b19cba172b43eb048d8"
     },
@@ -4855,11 +4855,11 @@
     "sbry-n1-2016.12-文字・語彙-1-1": {
       "problemNumber": 1,
       "lemma": "人脈",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「人脈」归档为「人脈」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「人脈」归档为「人脈」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "12c94150329d44bd79bafd182dd89bc3d4fb4d11ad6b8212890b955d8e5334a5"
     },
@@ -4877,24 +4877,24 @@
     "sbry-n1-2016.12-文字・語彙-1-3": {
       "problemNumber": 1,
       "lemma": "顕著",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi",
+        "language.q1.noun",
         "language.q1.adjective.other"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「顕著」归档为「顕著」；名词与汉字熟语读音 / 二字熟语，通常是音读；形容词读音 / 其他な形容词。",
+      "evidence": "按题干强调词的读音及句中形式归类：「顕著」归档为「顕著」；名词与汉字熟语读音；形容词读音 / 其他な形容词。",
       "notes": [],
       "sourceQuestionSha256": "830422b9c783fbc715dc3c2c639cdb006ff84f681edd89faa9382618719c41fa"
     },
     "sbry-n1-2016.12-文字・語彙-1-4": {
       "problemNumber": 1,
       "lemma": "多岐",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi",
+        "language.q1.noun",
         "language.q1.adjective.other"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「多岐」归档为「多岐」；名词与汉字熟语读音 / 二字熟语，通常是音读；形容词读音 / 其他な形容词。",
+      "evidence": "按题干强调词的读音及句中形式归类：「多岐」归档为「多岐」；名词与汉字熟语读音；形容词读音 / 其他な形容词。",
       "notes": [],
       "sourceQuestionSha256": "0f21954c93cbd6893d653e2f6a018672f464148aacb30c80126fbc080d67d98b"
     },
@@ -4912,11 +4912,11 @@
     "sbry-n1-2016.12-文字・語彙-1-6": {
       "problemNumber": 1,
       "lemma": "相場",
-      "primaryTag": "language.q1.noun.other",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.other"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「相場」归档为「相場」；名词与汉字熟语读音 / 其他，如单字词、三字及以上熟语。",
+      "evidence": "按题干强调词的读音及句中形式归类：「相場」归档为「相場」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "310e6d94c7f539ecce858ca901d50db2f96cdf9458a7b360f39f85248f3a36c3"
     },
@@ -5139,11 +5139,11 @@
     "sbry-n1-2016.07-文字・語彙-1-1": {
       "problemNumber": 1,
       "lemma": "樹木",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「樹木」归档为「樹木」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「樹木」归档为「樹木」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "54c3ef020d7259b0fb38d4b8b87d266f083af6be2f551cb32decb6e379926c10"
     },
@@ -5161,11 +5161,11 @@
     "sbry-n1-2016.07-文字・語彙-1-3": {
       "problemNumber": 1,
       "lemma": "陳列",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「陳列」归档为「陳列」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「陳列」归档为「陳列」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "c3cc81327ae08c1e712921d8ed7ed84ed5b771b2c339a9e3bfe130a08c7712c4"
     },
@@ -5183,11 +5183,11 @@
     "sbry-n1-2016.07-文字・語彙-1-5": {
       "problemNumber": 1,
       "lemma": "鑑定",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「鑑定」归档为「鑑定」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「鑑定」归档为「鑑定」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "a31734f092d46b07dae78de1aa22ab8a769d1f035c05b532b447f8a087e8c4bd"
     },
@@ -5422,11 +5422,11 @@
     "sbry-n1-2015.12-文字・語彙-1-1": {
       "problemNumber": 1,
       "lemma": "興奮",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「興奮」归档为「興奮」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「興奮」归档为「興奮」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "201f7579a1b6ae9a029a3490efa57c01aa124248a21b89626fc84d19442fe73e"
     },
@@ -5444,11 +5444,11 @@
     "sbry-n1-2015.12-文字・語彙-1-3": {
       "problemNumber": 1,
       "lemma": "変遷",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「変遷」归档为「変遷」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「変遷」归档为「変遷」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "d8b3bb01c4352adcf75284a4a336f5180645650680718a25cc26ca74838fb426"
     },
@@ -5466,11 +5466,11 @@
     "sbry-n1-2015.12-文字・語彙-1-5": {
       "problemNumber": 1,
       "lemma": "随時",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「随時」归档为「随時」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「随時」归档为「随時」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "fc57a684bdf840af270f9bffa9e5486dfa9b87c4803a5e2bd1b51880df07b70e"
     },
@@ -5704,11 +5704,11 @@
     "sbry-n1-2015.07-文字・語彙-1-1": {
       "problemNumber": 1,
       "lemma": "添付",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「添付」归档为「添付」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「添付」归档为「添付」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "762becb097c282ad2c3dfc58e0ba7aaea7058066fe89b6fb899a131a7cd3acab"
     },
@@ -5726,22 +5726,22 @@
     "sbry-n1-2015.07-文字・語彙-1-3": {
       "problemNumber": 1,
       "lemma": "破損",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「破損」归档为「破損」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「破損」归档为「破損」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "10f95c3d47e79be6b3a49021935ac9dd593f2be08becbdcf6f67a50d28569238"
     },
     "sbry-n1-2015.07-文字・語彙-1-4": {
       "problemNumber": 1,
       "lemma": "承諾",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「承諾」归档为「承諾」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「承諾」归档为「承諾」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "4e25f7e757bc359e7afe2691967d29f33a04e21d8fbeeead5a3556c52ed60bb7"
     },
@@ -5759,12 +5759,12 @@
     "sbry-n1-2015.07-文字・語彙-1-6": {
       "problemNumber": 1,
       "lemma": "画一的",
-      "primaryTag": "language.q1.noun.other",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.other",
+        "language.q1.noun",
         "language.q1.adjective.other"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「画一的」归档为「画一的」；名词与汉字熟语读音 / 其他，如单字词、三字及以上熟语；形容词读音 / 其他な形容词。",
+      "evidence": "按题干强调词的读音及句中形式归类：「画一的」归档为「画一的」；名词与汉字熟语读音；形容词读音 / 其他な形容词。",
       "notes": [],
       "sourceQuestionSha256": "3b3f9fd137f103aaf2c2c331a96857d1fe5fe42f7d82867fbda28a1f8707e89d"
     },
@@ -5987,11 +5987,11 @@
     "sbry-n1-2014.12-文字・語彙-1-1": {
       "problemNumber": 1,
       "lemma": "概略",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「概略」归档为「概略」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「概略」归档为「概略」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "eb865e3e6c46845b4e8cb0c4a5ce89a6ad71c4c308b5adfea50d1d7c780dd498"
     },
@@ -6009,11 +6009,11 @@
     "sbry-n1-2014.12-文字・語彙-1-3": {
       "problemNumber": 1,
       "lemma": "督促",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「督促」归档为「督促」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「督促」归档为「督促」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "caffc5c01675f9eaca3941e8e46b99a988af314e3016d081c07ba2cbb85c3e9c"
     },
@@ -6031,12 +6031,12 @@
     "sbry-n1-2014.12-文字・語彙-1-5": {
       "problemNumber": 1,
       "lemma": "厳正",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi",
+        "language.q1.noun",
         "language.q1.adjective.other"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「厳正」归档为「厳正」；名词与汉字熟语读音 / 二字熟语，通常是音读；形容词读音 / 其他な形容词。",
+      "evidence": "按题干强调词的读音及句中形式归类：「厳正」归档为「厳正」；名词与汉字熟语读音；形容词读音 / 其他な形容词。",
       "notes": [],
       "sourceQuestionSha256": "38084305cb3a7bdb7ed6bbc1618a0ea3016a905698b07429fd7aec7ffd2b0941"
     },
@@ -6272,33 +6272,33 @@
     "sbry-n1-2014.07-文字・語彙-1-1": {
       "problemNumber": 1,
       "lemma": "躍進",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「躍進」归档为「躍進」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「躍進」归档为「躍進」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "c443b40b44cb688c1c34c9cbeeb5fbef23a9528af17ca053dde42f78fccd285e"
     },
     "sbry-n1-2014.07-文字・語彙-1-2": {
       "problemNumber": 1,
       "lemma": "遂行",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「遂行」归档为「遂行」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「遂行」归档为「遂行」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "2c25214a697fe7c47a1f65a2d836cc07785c5088dcb5deb16a6b6ef11ea6ab7c"
     },
     "sbry-n1-2014.07-文字・語彙-1-3": {
       "problemNumber": 1,
       "lemma": "凝縮",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「凝縮」归档为「凝縮」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「凝縮」归档为「凝縮」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "80c7d52f8e3a34754c8be87da8ab9443ab0668454d235fe3bf665fab1a6475ce"
     },
@@ -6316,11 +6316,11 @@
     "sbry-n1-2014.07-文字・語彙-1-5": {
       "problemNumber": 1,
       "lemma": "中枢",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「中枢」归档为「中枢」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「中枢」归档为「中枢」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "adae83b2253964dc710d2cacadc95bcb5a48f2459fa4bae15326965acde5bca6"
     },
@@ -6559,44 +6559,44 @@
     "sbry-n1-2013.12-文字・語彙-1-1": {
       "problemNumber": 1,
       "lemma": "把握",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「把握」归档为「把握」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「把握」归档为「把握」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "efd85a6f41cbb541a6f79443eb41cab1d79f2bf796cf69b44806fc5d77929ab6"
     },
     "sbry-n1-2013.12-文字・語彙-1-2": {
       "problemNumber": 1,
       "lemma": "憤り",
-      "primaryTag": "language.q1.noun.kunyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.kunyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「憤り」归档为「憤り」；名词与汉字熟语读音 / 训读名词。",
+      "evidence": "按题干强调词的读音及句中形式归类：「憤り」归档为「憤り」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "356d8f8809659d613d3ba8a07afe47fc7d0f55d4ee3fdfe1d55565f8271676f3"
     },
     "sbry-n1-2013.12-文字・語彙-1-3": {
       "problemNumber": 1,
       "lemma": "趣旨",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「趣旨」归档为「趣旨」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「趣旨」归档为「趣旨」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "c5208a829b834cc37e04d3bc3b0022d18251cc0ab78197e8d295a35110ab6671"
     },
     "sbry-n1-2013.12-文字・語彙-1-4": {
       "problemNumber": 1,
       "lemma": "日夜",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「日夜」归档为「日夜」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「日夜」归档为「日夜」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "909adb5886487d8b8daac62647228cad5f9070fd7593abdcc0470d00809010fc"
     },
@@ -6614,11 +6614,11 @@
     "sbry-n1-2013.12-文字・語彙-1-6": {
       "problemNumber": 1,
       "lemma": "貧富",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「貧富」归档为「貧富」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「貧富」归档为「貧富」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "0b93fdc1e216bb18a26e84a65f50f84689c4d03df58501c97432a7f063e02bb3"
     },
@@ -6851,56 +6851,56 @@
     "sbry-n1-2013.07-文字・語彙-1-2": {
       "problemNumber": 1,
       "lemma": "巧妙",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi",
+        "language.q1.noun",
         "language.q1.adjective.other"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「巧妙」归档为「巧妙」；名词与汉字熟语读音 / 二字熟语，通常是音读；形容词读音 / 其他な形容词。",
+      "evidence": "按题干强调词的读音及句中形式归类：「巧妙」归档为「巧妙」；名词与汉字熟语读音；形容词读音 / 其他な形容词。",
       "notes": [],
       "sourceQuestionSha256": "bd2028a1607cfa78a8958acfe874c4156808beb0044244e514b85cd7a5d4ed84"
     },
     "sbry-n1-2013.07-文字・語彙-1-3": {
       "problemNumber": 1,
       "lemma": "憩い",
-      "primaryTag": "language.q1.noun.kunyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.kunyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「憩い」归档为「憩い」；名词与汉字熟语读音 / 训读名词。",
+      "evidence": "按题干强调词的读音及句中形式归类：「憩い」归档为「憩い」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "716bd16f4e7424ac8438aa27e9c8be1f31fa8aecad4d58ae8ad3888769f82aec"
     },
     "sbry-n1-2013.07-文字・語彙-1-4": {
       "problemNumber": 1,
       "lemma": "需要",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「需要」归档为「需要」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「需要」归档为「需要」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "029e11c2bb7cd8125d751a2ec525e540110a3cf62e7fcc88be4799a580043deb"
     },
     "sbry-n1-2013.07-文字・語彙-1-5": {
       "problemNumber": 1,
       "lemma": "緩和",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「緩和」归档为「緩和」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「緩和」归档为「緩和」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "4d416d749b5b8e21d2c8093f742f909ef0f1481f1ab0923d2388f6530a4ebee6"
     },
     "sbry-n1-2013.07-文字・語彙-1-6": {
       "problemNumber": 1,
       "lemma": "跡地",
-      "primaryTag": "language.q1.noun.other",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.other"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「跡地」归档为「跡地」；名词与汉字熟语读音 / 其他，如单字词、三字及以上熟语。",
+      "evidence": "按题干强调词的读音及句中形式归类：「跡地」归档为「跡地」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "85d97a7cd62dbec0ef1b1af279b196897ec1a7c7a239bdfd0decbbe9c95427e1"
     },
@@ -7123,35 +7123,34 @@
     "sbry-n1-2012.12-文字・語彙-1-1": {
       "problemNumber": 1,
       "lemma": "枠",
-      "primaryTag": "language.q1.noun.kunyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.kunyomi",
-        "language.q1.noun.other"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「枠」归档为「枠」；名词与汉字熟语读音 / 训读名词；名词与汉字熟语读音 / 其他，如单字词、三字及以上熟语。",
+      "evidence": "按题干强调词的读音及句中形式归类：「枠」归档为「枠」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "9d2b7ba4c011b63df10ed5b234c6e624614f5791f0638748444a4e5710d562a3"
     },
     "sbry-n1-2012.12-文字・語彙-1-2": {
       "problemNumber": 1,
       "lemma": "網羅",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「網羅」归档为「網羅」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「網羅」归档为「網羅」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "c03232b81bfb0e368bf03719930f5f5cd906ad8da93a1158f67a9255223bdd0e"
     },
     "sbry-n1-2012.12-文字・語彙-1-3": {
       "problemNumber": 1,
       "lemma": "名誉",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi",
+        "language.q1.noun",
         "language.q1.adjective.other"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「名誉」归档为「名誉」；名词与汉字熟语读音 / 二字熟语，通常是音读；形容词读音 / 其他な形容词。",
+      "evidence": "按题干强调词的读音及句中形式归类：「名誉」归档为「名誉」；名词与汉字熟语读音；形容词读音 / 其他な形容词。",
       "notes": [],
       "sourceQuestionSha256": "8e6eb1011623ef255a9a4b0c38fdb5c9578dab1ebc6285b4208af529f8f8fff8"
     },
@@ -7169,22 +7168,22 @@
     "sbry-n1-2012.12-文字・語彙-1-5": {
       "problemNumber": 1,
       "lemma": "由緒",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「由緒」归档为「由緒」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「由緒」归档为「由緒」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "ccbe63d446c4522c5ae4a401f36a523266fabac1113cd535aef0bf4cf4aad730"
     },
     "sbry-n1-2012.12-文字・語彙-1-6": {
       "problemNumber": 1,
       "lemma": "手際",
-      "primaryTag": "language.q1.noun.other",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.other"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「手際」归档为「手際」；名词与汉字熟语读音 / 其他，如单字词、三字及以上熟语。",
+      "evidence": "按题干强调词的读音及句中形式归类：「手際」归档为「手際」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "144c2c0f36ae94c5e75eca06d0531f539535059a0593f882268ba9de111cb310"
     },
@@ -7409,11 +7408,11 @@
     "sbry-n1-2012.07-文字・語彙-1-1": {
       "problemNumber": 1,
       "lemma": "群衆",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「群衆」归档为「群衆」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「群衆」归档为「群衆」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "476c53167a28b96e809b98ad50de83f2c0cc002cee64e6237e42efd60a603810"
     },
@@ -7431,12 +7430,12 @@
     "sbry-n1-2012.07-文字・語彙-1-3": {
       "problemNumber": 1,
       "lemma": "克明",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi",
+        "language.q1.noun",
         "language.q1.adjective.other"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「克明」归档为「克明」；名词与汉字熟语读音 / 二字熟语，通常是音读；形容词读音 / 其他な形容词。",
+      "evidence": "按题干强调词的读音及句中形式归类：「克明」归档为「克明」；名词与汉字熟语读音；形容词读音 / 其他な形容词。",
       "notes": [],
       "sourceQuestionSha256": "622e1d184f5277ad6f9c172ae1f9eb396c038e01c074050456cb489064d45104"
     },
@@ -7454,22 +7453,22 @@
     "sbry-n1-2012.07-文字・語彙-1-5": {
       "problemNumber": 1,
       "lemma": "踏襲",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「踏襲」归档为「踏襲」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「踏襲」归档为「踏襲」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "51085db41aeae9186f5197cdd67ae53a551f5634d7148b6239e07e91e3e38413"
     },
     "sbry-n1-2012.07-文字・語彙-1-6": {
       "problemNumber": 1,
       "lemma": "改革",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「改革」归档为「改革」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「改革」归档为「改革」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "f068aa272cfc543ba90bea0fdce2dd2470e5be49f6a0d57853cf409a0acc3185"
     },
@@ -7705,55 +7704,55 @@
     "sbry-n1-2011.12-文字・語彙-1-2": {
       "problemNumber": 1,
       "lemma": "漠然",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「漠然」归档为「漠然」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「漠然」归档为「漠然」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "f9158444982b1bd58b6a87fbba609bb67aec42746c1118dc41e21a3b6c81fe9a"
     },
     "sbry-n1-2011.12-文字・語彙-1-3": {
       "problemNumber": 1,
       "lemma": "閲覧",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「閲覧」归档为「閲覧」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「閲覧」归档为「閲覧」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "617e7af79668b269ea061d2543854702e9356d3dc2beafccce78af6aeee35ce2"
     },
     "sbry-n1-2011.12-文字・語彙-1-4": {
       "problemNumber": 1,
       "lemma": "釈明",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「釈明」归档为「釈明」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「釈明」归档为「釈明」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "bea550b96e989146a00bfe81745fa9d6545ac4635bfd6bfe828ce7ef239a3bc1"
     },
     "sbry-n1-2011.12-文字・語彙-1-5": {
       "problemNumber": 1,
       "lemma": "合併",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「合併」归档为「合併」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「合併」归档为「合併」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "900a4091149b8134848dd3ec0d641a94ca962e5ce9e66fe10fb349f8fc95ba7c"
     },
     "sbry-n1-2011.12-文字・語彙-1-6": {
       "problemNumber": 1,
       "lemma": "兆し",
-      "primaryTag": "language.q1.noun.kunyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.kunyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「兆し」归档为「兆し」；名词与汉字熟语读音 / 训读名词。",
+      "evidence": "按题干强调词的读音及句中形式归类：「兆し」归档为「兆し」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "eadaca6f7eef0535637f9d7ef6837abd9a7f4481ab731c4dacea60d6d4e47894"
     },
@@ -7977,11 +7976,11 @@
     "sbry-n1-2011.07-文字・語彙-1-1": {
       "problemNumber": 1,
       "lemma": "利益",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「利益」归档为「利益」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「利益」归档为「利益」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "e5a71f7f030ba18fb7c4ab9bf5117a7996628244dc15b7d056a2dc49ec9f2756"
     },
@@ -7999,11 +7998,11 @@
     "sbry-n1-2011.07-文字・語彙-1-3": {
       "problemNumber": 1,
       "lemma": "考慮",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「考慮」归档为「考慮」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「考慮」归档为「考慮」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "2a693eec5d2561384f57253d4d00376d30c6e54cb23847ea19a5f19b8114a92e"
     },
@@ -8021,23 +8020,23 @@
     "sbry-n1-2011.07-文字・語彙-1-5": {
       "problemNumber": 1,
       "lemma": "根拠",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「根拠」归档为「根拠」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「根拠」归档为「根拠」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "02663a4cd22a2911b755f4860e05506cdcb4b24163529bdfd94a61b0b521c6ca"
     },
     "sbry-n1-2011.07-文字・語彙-1-6": {
       "problemNumber": 1,
       "lemma": "肝心",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi",
+        "language.q1.noun",
         "language.q1.adjective.other"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「肝心」归档为「肝心」；名词与汉字熟语读音 / 二字熟语，通常是音读；形容词读音 / 其他な形容词。",
+      "evidence": "按题干强调词的读音及句中形式归类：「肝心」归档为「肝心」；名词与汉字熟语读音；形容词读音 / 其他な形容词。",
       "notes": [],
       "sourceQuestionSha256": "41997a304dd332fe2dede95b64988af065c7dc34178745e298dc7b076dd57e84"
     },
@@ -8264,33 +8263,33 @@
     "sbry-n1-2010.12-文字・語彙-1-1": {
       "problemNumber": 1,
       "lemma": "本筋",
-      "primaryTag": "language.q1.noun.other",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.other"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「本筋」归档为「本筋」；名词与汉字熟语读音 / 其他，如单字词、三字及以上熟语。",
+      "evidence": "按题干强调词的读音及句中形式归类：「本筋」归档为「本筋」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "71745fcd3e64e2f036d64db00097b7ed80a4c7e982669a9dd30f5d6361f08bda"
     },
     "sbry-n1-2010.12-文字・語彙-1-2": {
       "problemNumber": 1,
       "lemma": "伴奏",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「伴奏」归档为「伴奏」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「伴奏」归档为「伴奏」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "27e80ace75b2028a41929ff311d2b82c794467e240dfc60d060e0a7c850be37d"
     },
     "sbry-n1-2010.12-文字・語彙-1-3": {
       "problemNumber": 1,
       "lemma": "推理",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「推理」归档为「推理」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「推理」归档为「推理」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "d25a27e2ac10f0c8c23f417c5859d9ff39b93355c98b69bbbdf85e665a9d91a2"
     },
@@ -8549,22 +8548,22 @@
     "sbry-n1-2010.07-文字・語彙-1-1": {
       "problemNumber": 1,
       "lemma": "繁盛",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「繁盛」归档为「繁盛」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「繁盛」归档为「繁盛」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "de561e3381a4ed930893c1df20e4da0d2505409d3f3e8d9854ff4da21b2095c7"
     },
     "sbry-n1-2010.07-文字・語彙-1-2": {
       "problemNumber": 1,
       "lemma": "契約",
-      "primaryTag": "language.q1.noun.onyomi",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.onyomi"
+        "language.q1.noun"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「契約」归档为「契約」；名词与汉字熟语读音 / 二字熟语，通常是音读。",
+      "evidence": "按题干强调词的读音及句中形式归类：「契約」归档为「契約」；名词与汉字熟语读音。",
       "notes": [],
       "sourceQuestionSha256": "325db6e2d97b7423dcd0123c835e2bb32bb14cfa6496ba87f8c7df14b5761f1c"
     },
@@ -8582,12 +8581,12 @@
     "sbry-n1-2010.07-文字・語彙-1-4": {
       "problemNumber": 1,
       "lemma": "手薄",
-      "primaryTag": "language.q1.noun.other",
+      "primaryTag": "language.q1.noun",
       "tags": [
-        "language.q1.noun.other",
+        "language.q1.noun",
         "language.q1.adjective.other"
       ],
-      "evidence": "按题干强调词的读音及句中形式归类：「手薄」归档为「手薄」；名词与汉字熟语读音 / 其他，如单字词、三字及以上熟语；形容词读音 / 其他な形容词。",
+      "evidence": "按题干强调词的读音及句中形式归类：「手薄」归档为「手薄」；名词与汉字熟语读音；形容词读音 / 其他な形容词。",
       "notes": [],
       "sourceQuestionSha256": "6a2989394badb7a66e61d9832bda3090a4d7429087c9d41c7a26f7908caa9822"
     },
