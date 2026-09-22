@@ -1,0 +1,645 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1789305257811-4epg46",
+    "submittedAt": "2026-09-13T13:14:17.811Z",
+    "timezoneOffsetMinutes": -480,
+    "year": "2021.12",
+    "category": "文字・词汇",
+    "questionCount": 25,
+    "total": 25,
+    "answered": 25,
+    "correct": 20,
+    "percentage": 80,
+    "durationSeconds": 700,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "id": "sbry-n1-2021.12-文字・語彙-1-1",
+        "number": 1,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この絵は目の【錯覚】を利用した作品です。",
+        "options": [
+          "しゃかく",
+          "しゃっかく",
+          "さかく",
+          "さっかく"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.12-文字・語彙-1-2",
+        "number": 2,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【尊い】命を大切に守ろう。",
+        "options": [
+          "あやうい",
+          "おさない",
+          "とうとい",
+          "はかない"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.12-文字・語彙-1-3",
+        "number": 3,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "このまま使い続けていたら、天然資源はいずれ【枯渇】してしまうだろう。",
+        "options": [
+          "こかつ",
+          "こけい",
+          "かかつ",
+          "かけい"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.12-文字・語彙-1-4",
+        "number": 4,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "その手紙は、私の心を【慰めて】くれた。",
+        "options": [
+          "なだめて",
+          "なぐさめて",
+          "あらためて",
+          "とどめて"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.12-文字・語彙-1-5",
+        "number": 5,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この文書には、当時の生活の様子が【克明】に記憶されている。",
+        "options": [
+          "きょくめい",
+          "きょうめい",
+          "こくめい",
+          "こうめい"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.12-文字・語彙-1-6",
+        "number": 6,
+        "selected": [
+          2
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "試合会場には【緊迫】した雰囲気が漂っていた。",
+        "options": [
+          "きんぱく",
+          "ぎんぱく",
+          "きんばく",
+          "ぎんばく"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.12-文字・語彙-2-7",
+        "number": 7,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "会社を()させるためには、経営の改善が不可欠である。",
+        "options": [
+          "存続",
+          "存亡",
+          "依存",
+          "現存"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.12-文字・語彙-2-8",
+        "number": 8,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "空港建設に関する調査では、賛成()が多数を占めた。",
+        "options": [
+          "系",
+          "帯",
+          "圏",
+          "派"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.12-文字・語彙-2-9",
+        "number": 9,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この地方には、昔からお祝いのとき餅を食べる()がある。",
+        "options": [
+          "風土",
+          "風習",
+          "風物",
+          "風情"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.12-文字・語彙-2-10",
+        "number": 10,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "友人が困っているのに何もできず、とても()。",
+        "options": [
+          "堅苦しかった",
+          "あじけなかった",
+          "厚かましかった",
+          "もどかしかった"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.12-文字・語彙-2-11",
+        "number": 11,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "彼はこの機械の開発者なので、仕組みを()しているはずだ。",
+        "options": [
+          "熟成",
+          "熟知",
+          "探索",
+          "探知"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.12-文字・語彙-2-12",
+        "number": 12,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "妹はピアノを習い始めると()上達して、コンクールで優勝できるまでになった。",
+        "options": [
+          "ぐずぐず",
+          "だらだら",
+          "めきめき",
+          "うろうろ"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.12-文字・語彙-2-13",
+        "number": 13,
+        "selected": [
+          4
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "交渉がまとまりそうだったのに、余計なことを言ったせいで話が()しまった。",
+        "options": [
+          "もたれて",
+          "おぼれて",
+          "こじれて",
+          "しびれて"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.12-文字・語彙-3-14",
+        "number": 14,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "新しい事業を始めるときには、【リスク】を伴う。",
+        "options": [
+          "利益",
+          "変化",
+          "危険",
+          "反論"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.12-文字・語彙-3-15",
+        "number": 15,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "その教師は生徒が出したアイディアを【絶賛した】。",
+        "options": [
+          "非常に素晴らしいとほめた",
+          "あまりにおかしいと笑った",
+          "認めるのは難しいと言った",
+          "問題だと厳しくしかった"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.12-文字・語彙-3-16",
+        "number": 16,
+        "selected": [
+          2
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "彼は今ごろ、【くつろいで】いるだろう。",
+        "options": [
+          "すっきりして",
+          "がっかりして",
+          "ゆっくりして",
+          "びっくりして"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.12-文字・語彙-3-17",
+        "number": 17,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "その件は【うやむや】にされた。",
+        "options": [
+          "明らか",
+          "あいまい",
+          "秘密",
+          "中止"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.12-文字・語彙-3-18",
+        "number": 18,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "池田さんが今度、【出馬】するらしい。",
+        "options": [
+          "映画に出る",
+          "番組に出る",
+          "大会に出る",
+          "選挙に出る"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.12-文字・語彙-3-19",
+        "number": 19,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "駅前に巨大スーパーができたら【お手上げ】だ。",
+        "options": [
+          "大歓迎",
+          "どうしようもない",
+          "ぜひ働きたい",
+          "驚きだ"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.12-文字・語彙-4-20",
+        "number": 20,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "均等",
+        "options": [
+          "今回の討論会では出席者全員が【均等】な意見で、反論する人は一人もいなかった。",
+          "生徒がみんな同じ制服を着ていると、全員【均等】に見えてすぐに区別がつかない。",
+          "仕事をそれぞれ【均等】に割り振って、作業量に差が出ないようにした。",
+          "カーテンが璧と【均等】な色だったせいか、全体的にシンプルな印象の部屋だった。"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.12-文字・語彙-4-21",
+        "number": 21,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "リタイア",
+        "options": [
+          "マラソン大会では、途中でけがしてしまったので【リタイア】した。",
+          "健康への影響を考えて、たばこは【リタイア】しようと考えている。",
+          "昼食の時間になったので、読書はいったん【リタイア】することにした。",
+          "症状が悪化した場合、薬の使用はすぐに【リタイア】してください。"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.12-文字・語彙-4-22",
+        "number": 22,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "押収",
+        "options": [
+          "ていねいな調査のおかげで、解決への方策を【押収】できた。",
+          "個の書類のお名前の横に、印鑑を【押収】してください。",
+          "申込書を書いた方【押収】しまうので窓口までお待ちください。",
+          "警察は、昨夜の捜査で犯人のものと見られる凶器を【押収】した"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.12-文字・語彙-4-23",
+        "number": 23,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "望ましい",
+        "options": [
+          "明日は、長い間ずっと【望ましかった】友人との再会の日だ。",
+          "【望ましい】ことに、私もやっと部長になれた。",
+          "天候不順が原因で、今年は野菜が【望ましく】成長しない。",
+          "この仕事は学歴が問わないが、経験があることが【望ましい】。"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.12-文字・語彙-4-24",
+        "number": 24,
+        "selected": [
+          1
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "本場",
+        "options": [
+          "美しい景色は、テレビで見るより【本場】で見た方が迫力がある。",
+          "ジャズの【本場】で音楽の勉強をしたいと思っていた。",
+          "人の手で育てられた野生の動物を【本場】に返す運動が進められている。",
+          "事件の記事を書くときは、必ず【本場】に行って取材するようにしている。"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.12-文字・語彙-4-25",
+        "number": 25,
+        "selected": [
+          4
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "秘める",
+        "options": [
+          "あの人はクールに見えるが、実は情熱を内に【秘めて】いる。",
+          "来月転職することは会社のみんなにはまだ【秘めて】いる。",
+          "彼が授業中に変な顔をしたので、笑いを【秘める】のが大変だった。",
+          "チームで仕事をする上では、多少の不満は【秘める】必要もある。"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,645 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1789304520800-r2ymut",
+    "submittedAt": "2026-09-13T13:02:00.800Z",
+    "timezoneOffsetMinutes": -480,
+    "year": "2022.07",
+    "category": "文字・词汇",
+    "questionCount": 25,
+    "total": 25,
+    "answered": 25,
+    "correct": 24,
+    "percentage": 96,
+    "durationSeconds": 342,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "id": "sbry-n1-2022.07-文字・語彙-1-1",
+        "number": 1,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【勇敢】に戦う主人公に子どもたちは夢中だ。",
+        "options": [
+          "ゆうかん",
+          "ゆうがん",
+          "ゆうけん",
+          "ゆうげん"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.07-文字・語彙-1-2",
+        "number": 2,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "その件について、【忠告】すべきかどうか考えている。",
+        "options": [
+          "しんこく",
+          "じゅうこく",
+          "ちゅうこく",
+          "じんこく"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.07-文字・語彙-1-3",
+        "number": 3,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "チームの多くの選手が監督を【慕って】いるようだ。",
+        "options": [
+          "いたわって",
+          "うやまって",
+          "したって",
+          "かばって"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.07-文字・語彙-1-4",
+        "number": 4,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "建物の入口は、夜間は【施錠】されている。",
+        "options": [
+          "せいてい",
+          "せてい",
+          "せいじょう",
+          "せじょう"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.07-文字・語彙-1-5",
+        "number": 5,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "対策の結果、地盤の【沈下】は食い止められている。",
+        "options": [
+          "ちんげ",
+          "ちんか",
+          "しんか",
+          "しんげ"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.07-文字・語彙-1-6",
+        "number": 6,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "激しい雪に【阻まれて】前に進めない。",
+        "options": [
+          "かこまれて",
+          "からまれて",
+          "こばまれて",
+          "はばまれて"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.07-文字・語彙-2-7",
+        "number": 7,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "子どもたちは()なリズムに合わせ、手をたたいたり、踊ったりした。",
+        "options": [
+          "手軽",
+          "軽率",
+          "気軽",
+          "軽快"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.07-文字・語彙-2-8",
+        "number": 8,
+        "selected": [
+          1
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "予習、授業、復習という()を繰り返すことで、知識の定着を図る",
+        "options": [
+          "ピッチ",
+          "サイクル",
+          "シフト",
+          "ペース"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.07-文字・語彙-2-9",
+        "number": 9,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "当事者間では紛争が解決できず、第三者が()に入った。",
+        "options": [
+          "代行",
+          "仲裁",
+          "干涉",
+          "媒介"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.07-文字・語彙-2-10",
+        "number": 10,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "そのいたずらは息子の()に違いない。",
+        "options": [
+          "しわざ",
+          "そぶり",
+          "腕前",
+          "扱い"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.07-文字・語彙-2-11",
+        "number": 11,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "完成間際のマンションに欠陥があることが()して、工事が中止された。",
+        "options": [
+          "発覚",
+          "派生",
+          "波及",
+          "露出"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.07-文字・語彙-2-12",
+        "number": 12,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この温泉には肌にいい成分が含まれているので、入浴後は肌が()になります。",
+        "options": [
+          "ざらざら",
+          "ねばねば",
+          "すべすべ",
+          "ごつごつ"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.07-文字・語彙-2-13",
+        "number": 13,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "議論が()、話し合いは平行線をたどった。",
+        "options": [
+          "掛け合わなくて",
+          "張り合わなくて",
+          "かみ合わなく",
+          "釣り合わなくて"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.07-文字・語彙-3-14",
+        "number": 14,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "友人に【触発されて】、事業を始めた。",
+        "options": [
+          "誘われて",
+          "提案されて",
+          "助けられて",
+          "刺激されて"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.07-文字・語彙-3-15",
+        "number": 15,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "彼の言動にはほとんどの人が【閉口して】いる。",
+        "options": [
+          "慣れて",
+          "困って",
+          "がっかりして",
+          "ほっとして"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.07-文字・語彙-3-16",
+        "number": 16,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "彼は仕事を辞めてから、【気ままな】生活をしているようだ。",
+        "options": [
+          "質素な",
+          "退屈な",
+          "ぜいたくな",
+          "自由な"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.07-文字・語彙-3-17",
+        "number": 17,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "6時発の飛行機には、【若干】空席があります。",
+        "options": [
+          "まだ",
+          "かなり",
+          "いくつか",
+          "おそらく"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.07-文字・語彙-3-18",
+        "number": 18,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "これは【手分け】したほうがいい。",
+        "options": [
+          "分割",
+          "分别",
+          "分担",
+          "分類"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.07-文字・語彙-3-19",
+        "number": 19,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "林さんが、残った仕事を【てきぱき】と処理してくれた。",
+        "options": [
+          "早く正確に",
+          "時間をかけて丁寧に",
+          "張り切る",
+          "嫌がる"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.07-文字・語彙-4-20",
+        "number": 20,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "結末",
+        "options": [
+          "急な用事ができたため、パーティーの【結末】までいられなかった。",
+          "物語の【結末】を知りたくて、分厚い本をひと晩で読んでしまった。",
+          "後から来た人は、この列の【結末】に並んでください。",
+          "細い枝の【結末】にかわいらしい白い花が咲いている。"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.07-文字・語彙-4-21",
+        "number": 21,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "そそる",
+        "options": [
+          "この先は急なカーブなので、注意を【そそる】標識が必要だ。",
+          "先日の苻由氏の発言は、国民の対立を【そそる】ものだと批判を浴びた。",
+          "料理の味も香りも彩りも食欲を【そそる】要素だ。",
+          "救命センターの医師は常に緊張を【そそられている】。"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.07-文字・語彙-4-22",
+        "number": 22,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "遮断",
+        "options": [
+          "この部屋なら、外部の音を【遮断】してピアノの演奏が録音できる。",
+          "機の点検のため、工場の稼働を一時的に【遮断】している。",
+          "ダイエットを始めて以来、大好きな甘い物を【遮断】している。",
+          "彼女から突然交際を【遮断】すると言われて驚いた。"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.07-文字・語彙-4-23",
+        "number": 23,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "要請",
+        "options": [
+          "この機械は、最新の物で性能はいいが、電力の【要請】が大きいのが難点だ。",
+          "被災地からの【要請】で、国から医療チームが派遣されることになった。",
+          "今回の仕事は特別な資格の【要請】はないので、どなたでも応募できます。",
+          "高級ワインを何本も飲んで、レストランから高額な【要請】があった。"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.07-文字・語彙-4-24",
+        "number": 24,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "ぎこちない",
+        "options": [
+          "憧れの歌手に会った時、緊張して動作が【ぎこちなく】なってしまった。",
+          "この道は路面の状態が悪くて【ぎこちない】ので、運転しにくい。",
+          "今年は天候が悪く、稲や野菜の生育が【ぎこちない】そうだ。",
+          "風邪でのどの調子がよくないのか、声が【ぎこちなく】て聞き取りにくい。"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.07-文字・語彙-4-25",
+        "number": 25,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "断じて",
+        "options": [
+          "彼は一生懸命思い出そうとしているが、そのときのことを【断じて】覚えていないようだ。",
+          "その扉はとても重くて、どんなに押しても【断じて】開かなかった。",
+          "若いころは体が丈夫で【断じて】風邪をひくこともなかったが、最近すっかり弱くなった。",
+          "他人を差別したりいじめたりすることは、【断じて】許されない。"
+        ]
+      }
+    ]
+  }
+}

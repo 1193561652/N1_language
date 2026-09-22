@@ -1,0 +1,657 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1788184251810-kgh6ha",
+    "submittedAt": "2026-08-31T13:50:51.810Z",
+    "timezoneOffsetMinutes": -480,
+    "year": "2024.07",
+    "category": "文字・词汇",
+    "questionCount": 25,
+    "total": 25,
+    "answered": 25,
+    "correct": 25,
+    "percentage": 100,
+    "durationSeconds": 310,
+    "reasonCount": 2,
+    "optionReasonCount": 8,
+    "details": [
+      {
+        "id": "jlpt4you-2024.07-vocabulary-1-1",
+        "number": 1,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "食品の⟦u⟧腐敗⟦/u⟧を防止する",
+        "options": [
+          "ふはい",
+          "ふばい",
+          "ふうはい",
+          "ふうばい"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.07-vocabulary-1-2",
+        "number": 2,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {
+          "main:2": "脆",
+          "main:1": "涩",
+          "main:4": "缓"
+        },
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "こちらの方が⟦u⟧粗い⟦/u⟧ようだ。",
+        "options": [
+          "にぶい",
+          "もろい",
+          "あらい",
+          "ゆるい"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.07-vocabulary-1-3",
+        "number": 3,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "これは胃の⟦u⟧粘膜⟦/u⟧を保護する薬です。",
+        "options": [
+          "せんまく",
+          "ねんまく",
+          "ねんばく",
+          "せんばく"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.07-vocabulary-1-4",
+        "number": 4,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "医学の進歩によって、人々の⟦u⟧寿命⟦/u⟧が延びた。",
+        "options": [
+          "じゅうみょう",
+          "じゅみょう",
+          "じゅめい",
+          "じゅうめい"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.07-vocabulary-1-5",
+        "number": 5,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {
+          "main:3": "慰"
+        },
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "手紙の内容は私を⟦u⟧戒める⟦/u⟧ものだった。",
+        "options": [
+          "とがめる",
+          "せめる",
+          "なぐさめる",
+          "いましめる"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.07-vocabulary-1-6",
+        "number": 6,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "⟦u⟧誓約書⟦/u⟧に署名する時、少し緊張した。",
+        "options": [
+          "けいやくしょ",
+          "せつやくしょ",
+          "せいやくしょ",
+          "けつやくしょ"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.07-vocabulary-2-1",
+        "number": 7,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "今回の遺跡の発見はこれまでの説を（ ）から覆すものになりそうだ。",
+        "options": [
+          "拠点",
+          "根底",
+          "原本",
+          "元祖"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.07-vocabulary-2-2",
+        "number": 8,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "1年で一番忙しい時期なので、休日を（ ）して働いています。",
+        "options": [
+          "寄付",
+          "還元",
+          "進呈",
+          "返上"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.07-vocabulary-2-3",
+        "number": 9,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {
+          "main:3": "递给"
+        },
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "外部からの問い合わせの電話は、用件を確認して担当者に（ ）ください。",
+        "options": [
+          "繰り越して",
+          "差し替えて",
+          "引き渡して",
+          "取り次いで"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.07-vocabulary-2-4",
+        "number": 10,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "新しい生活への期待と不安が（ ）し、気持ちが落ち着かない。",
+        "options": [
+          "交錯",
+          "混合",
+          "連動",
+          "反発"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.07-vocabulary-2-5",
+        "number": 11,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "トンネル工事が始まって 1. 年になるが、地盤の弱い箇所があり、工事は（ ）している。",
+        "options": [
+          "難航",
+          "低迷",
+          "衰退",
+          "脱落"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.07-vocabulary-2-6",
+        "number": 12,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {
+          "main:1": "逐渐",
+          "main:4": "黏糊糊",
+          "main:2": "黏糊糊"
+        },
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "会場は、人々の話し声で（ ）と騒がしく、アナウンスがよく聞こえなかった。",
+        "options": [
+          "じわじわ",
+          "どろどろ",
+          "がやがや",
+          "べたべた"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.07-vocabulary-2-7",
+        "number": 13,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "登山に誘われたが、あまり経験がないので、みんなの（ ）になると思い、断った。",
+        "options": [
+          "骨折り",
+          "足手まとい",
+          "裏目",
+          "および腰"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.07-vocabulary-3-1",
+        "number": 14,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "これは A 社に⟦u⟧委託する⟦/u⟧ことにした。",
+        "options": [
+          "戻す",
+          "送る",
+          "任せる",
+          "譲る"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.07-vocabulary-3-2",
+        "number": 15,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "その話を聞いて、⟦u⟧すがすがしい⟦/u⟧気分になった。",
+        "options": [
+          "ゆううつな",
+          "爽やかな",
+          "楽しい",
+          "懐かしい"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.07-vocabulary-3-3",
+        "number": 16,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "リフォームの費用を⟦u⟧工面⟦/u⟧する必要がある。",
+        "options": [
+          "減らす",
+          "計算する",
+          "用意する",
+          "支払う"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.07-vocabulary-3-4",
+        "number": 17,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "それは仕事の道具なんだから、⟦u⟧ぞんざいな⟦/u⟧扱いをされては困るよ。",
+        "options": [
+          "雑な",
+          "変な",
+          "危険な",
+          "強引な"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.07-vocabulary-3-5",
+        "number": 18,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "男の子は父親の話を⟦u⟧うなだれて⟦/u⟧聞いていた。",
+        "options": [
+          "ふざけた態度で",
+          "目を閉じて",
+          "まじめな表情で",
+          "下を向いて"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.07-vocabulary-3-6",
+        "number": 19,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "悪天候による工事の遅れは、担当者にとって大きな⟦u⟧打撃⟦/u⟧だった。",
+        "options": [
+          "アクシデント",
+          "タブー",
+          "プレッシャー",
+          "ダメージ"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.07-vocabulary-4-1",
+        "number": 20,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "風潮",
+        "options": [
+          "本田さんはいつも⟦u⟧風潮の⟦/u⟧ファッションに身を包んでいる。",
+          "何事も経済的な効率で判断するのが今の社会の⟦u⟧風潮だ⟦/u⟧。",
+          "地形の関係でこの辺りは夏に雨が降りやすい⟦u⟧風潮がある⟦/u⟧。",
+          "京都の町を歩いて古都の⟦u⟧風潮を⟦/u⟧楽しんだ。"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.07-vocabulary-4-2",
+        "number": 21,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "带来",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "もたらす",
+        "options": [
+          "科学技術の急速な進歩は我々の生活に大きな変化をもたらした。",
+          "この珍しいお菓子は宮下さんが海外からもたらしたお土産です。",
+          "弟は体力を⟦u⟧もたらすために⟦/u⟧毎朝公園をジョギングしている。",
+          "の計画は市が許可を⟦u⟧もたらすまで⟦/u⟧実行されない見通しだ。"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.07-vocabulary-4-3",
+        "number": 22,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "撤回",
+        "options": [
+          "雪が激しくなってきたので途中で登山を⟦u⟧撤回して⟦/u⟧山小屋に戻った。",
+          "旅行の前日に風邪をひいてしまいホテルの予約を⟦u⟧撤回した⟦/u⟧。",
+          "水野氏は今朝の記者会見でした発言を午後すぐに⟦u⟧撤回した⟦/u⟧。",
+          "彼は医師になるという進路を⟦u⟧撤回し⟦/u⟧音楽家を目指すことにしたそうだ。"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.07-vocabulary-4-4",
+        "number": 23,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "補填",
+        "options": [
+          "書類をよく読んで空欄に必要事項を⟦u⟧補填してください⟦/u⟧。",
+          "暑い中で運動して汗をかいたときは水分を⟦u⟧補填することが⟦/u⟧大切だ。",
+          "新規事業で生じた赤字は別の事業の収益で⟦u⟧補填することにした⟦/u⟧。",
+          "風邪で休んでいる間みんなが協力して私の仕事を⟦u⟧補填してくれた⟦/u⟧。"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.07-vocabulary-4-5",
+        "number": 24,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "const",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "コンスタント",
+        "options": [
+          "この商品は発売以来毎月50個程度⟦u⟧コンスタントに⟦/u⟧売れている。",
+          "この映画を見るのは3度目だが何度見ても⟦u⟧コンスタントに⟦/u⟧感動する。",
+          "この公園の電灯は防犯のためかひと晩中⟦u⟧コンスタントについている⟦/u⟧。",
+          "石川先生は 70 歳を過ぎたそうだが⟦u⟧コンスタントに⟦/u⟧若々しい。"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.07-vocabulary-4-6",
+        "number": 25,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "ずばり",
+        "options": [
+          "木村さんの一言を聞いてあのときの出来事が⟦u⟧ずばりと⟦/u⟧脳裏によみがえってきた。",
+          "息子はずっと続けていた野球を⟦u⟧ずばりとやめ⟦/u⟧勉強に専念した。",
+          "森さんはきちょうめんな人で机の上の本はいつも⟦u⟧ずばりとそろえて⟦/u⟧置かれている。",
+          "友人に自分の欠点を⟦u⟧ずばりと⟦/u⟧指摘されてしばらく落ち込んだ。"
+        ]
+      }
+    ]
+  }
+}

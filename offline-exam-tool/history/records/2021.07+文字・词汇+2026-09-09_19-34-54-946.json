@@ -1,0 +1,645 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1788953694946-nts8cc",
+    "submittedAt": "2026-09-09T11:34:54.946Z",
+    "timezoneOffsetMinutes": -480,
+    "year": "2021.07",
+    "category": "文字・词汇",
+    "questionCount": 25,
+    "total": 25,
+    "answered": 25,
+    "correct": 22,
+    "percentage": 88,
+    "durationSeconds": 382,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "id": "sbry-n1-2021.07-文字・語彙-1-1",
+        "number": 1,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "今回の件については、大変【遺憾】に思っております。",
+        "options": [
+          "いがい",
+          "いかん",
+          "いかく",
+          "いかり"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.07-文字・語彙-1-2",
+        "number": 2,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この門は常時【閉鎖】されている。",
+        "options": [
+          "へいそく",
+          "へいさく",
+          "へいそ",
+          "へいさ"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.07-文字・語彙-1-3",
+        "number": 3,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "どんな時にも、周りへの【心遣い】を忘れてはいけない。",
+        "options": [
+          "こころづかい",
+          "こころあつかい",
+          "こころうかがい",
+          "こころよい"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.07-文字・語彙-1-4",
+        "number": 4,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "彼は顔を真っ赤にして【憤った】。",
+        "options": [
+          "どなった",
+          "ののしった",
+          "いきどおった",
+          "うなった"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.07-文字・語彙-1-5",
+        "number": 5,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【貧富】の差が大きくなっているようだ。",
+        "options": [
+          "びんぷ",
+          "ひんぷう",
+          "ひんぷ",
+          "びんぶう"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.07-文字・語彙-1-6",
+        "number": 6,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【治癒】するには1か月程度かかる。",
+        "options": [
+          "ちゆ",
+          "ちよ",
+          "じゆ",
+          "じよ"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.07-文字・語彙-2-7",
+        "number": 7,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "上司は私の提案を()した。",
+        "options": [
+          "脱却",
+          "駆除",
+          "却下",
+          "除去"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.07-文字・語彙-2-8",
+        "number": 8,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この子は好奇心が()で、分からないことは何でも知りたがる。",
+        "options": [
+          "全盛",
+          "旺盛",
+          "盛況",
+          "盛大"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.07-文字・語彙-2-9",
+        "number": 9,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "このテーブルは、脚の部分に美しい彫刻が()いる。",
+        "options": [
+          "設けられて",
+          "装われて",
+          "据えられて",
+          "施されて"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.07-文字・語彙-2-10",
+        "number": 10,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "原油価格が高騰し、その()が世界中に広がっている。",
+        "options": [
+          "転移",
+          "投影",
+          "感染",
+          "余波"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.07-文字・語彙-2-11",
+        "number": 11,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "()の利益ばかり考えないで、もっと長期的に物事を捉えなければならない。",
+        "options": [
+          "目先",
+          "手中",
+          "足場",
+          "背後"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.07-文字・語彙-2-12",
+        "number": 12,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "小さなけんかがもとで、友達との関係が()している。",
+        "options": [
+          "しょんぼり",
+          "ぎくしゃく",
+          "ぼんやり",
+          "うろちょろ"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.07-文字・語彙-2-13",
+        "number": 13,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "社長は、会社の将来を()人材の育成に力を入れている。",
+        "options": [
+          "になう",
+          "いたわる",
+          "やしなう",
+          "かかげる"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.07-文字・語彙-3-14",
+        "number": 14,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "祖父は【寡黙な】人だったそうだ。",
+        "options": [
+          "口数が少ない",
+          "知識に乏しい",
+          "意見が少ない",
+          "話題に乏しい"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.07-文字・語彙-3-15",
+        "number": 15,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "異なる意見が次々と出されて、会議は【紛糾した】。",
+        "options": [
+          "盛り上がった",
+          "長引いた",
+          "中断した",
+          "混乱した"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.07-文字・語彙-3-16",
+        "number": 16,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この様子だと、新薬の発売はかなり【ずれ込みそうだ】。",
+        "options": [
+          "早くなりそうだ",
+          "多くなりそうだ",
+          "遅くなりそうだ",
+          "少なくなりそうだ"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.07-文字・語彙-3-17",
+        "number": 17,
+        "selected": [
+          1
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "中止の理由は、【ろくに】説明されなかった。",
+        "options": [
+          "全く",
+          "大して",
+          "なかなか",
+          "事前に"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.07-文字・語彙-3-18",
+        "number": 18,
+        "selected": [
+          1
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "今回の開発計画は、これまでのものとは【スケ一ル】が違う。",
+        "options": [
+          "方針",
+          "規模",
+          "目的",
+          "意義"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.07-文字・語彙-3-19",
+        "number": 19,
+        "selected": [
+          2
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この町のりんご産業の発展は、大野氏の【寄与】によるところが大きい。",
+        "options": [
+          "貢献",
+          "援助",
+          "工夫",
+          "活躍"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.07-文字・語彙-4-20",
+        "number": 20,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "絶滅",
+        "options": [
+          "これは相手のチ一ムを倒すゲ一ムで、敵が【絶滅】したら、勝ちだよ。",
+          "恐竜は環境の変化に対応できず、【絶滅】したと言われている。",
+          "暖かくなってきて、庭に積もった雪もすっかり消えて【絶滅】した。",
+          "昔は豊作を祈る祭りがこの村で行われていたが、今は【絶滅】した。"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.07-文字・語彙-4-21",
+        "number": 21,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "素早い",
+        "options": [
+          "警察の【素早い】対応によって、逃走した犯人はその日のうちに逮捕された。",
+          "窓を開けていたら強い風が吹いて、机の上の紙が【素早く】飛んでしまった。",
+          "鈴木教授は話し方が【素早い】ので、講義の内容が聞き取れないことがある。",
+          "森氏の小説は人気があって、新しい作品が発売されると【素早く】売り切れてしまう。"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.07-文字・語彙-4-22",
+        "number": 22,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "露骨",
+        "options": [
+          "【露骨】なデザインの服を着ていると、とても目立つ。",
+          "税金の使い道は【露骨】で無駄がないようにする必要がある。",
+          "彼に仕事を頼んだら、【露骨】に嫌な顔をされた。",
+          "彼が間違っていることは、誰の目にも【露骨】だった。"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.07-文字・語彙-4-23",
+        "number": 23,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "交付",
+        "options": [
+          "高校生を対象に、海外に留学する機会の【交付】が始まるらしい。",
+          "畑が非常に広いので、この辺りでは空から農薬の【交付】が行われる。",
+          "このお土産の菓子は量が多いから、職場での【交付】にぴったりだ。",
+          "証明書の【交付】が必要な人は、こちらで手続きしてください。"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.07-文字・語彙-4-24",
+        "number": 24,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "かたくな",
+        "options": [
+          "学生のときからの友人とは、今でも【かたくな】友情で結ばれている。",
+          "荷物が落ちないように、ひもで【かたくな】に縛ってください。",
+          "彼は家族の忠告も聞かず、【かたくな】に自分の考えを押し通した。",
+          "兄は体が【かたくな】だから、風邪もほとんどひかない。"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.07-文字・語彙-4-25",
+        "number": 25,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "なつく",
+        "options": [
+          "【なついて】いる土地を離れるのはつらい。",
+          "何年もやってきた仕事だから、やり方には【なついて】いる。",
+          "あの部長は仕事のできる社員に【なついて】いる。",
+          "うちの犬は私の友人にとても【なついて】いる。"
+        ]
+      }
+    ]
+  }
+}

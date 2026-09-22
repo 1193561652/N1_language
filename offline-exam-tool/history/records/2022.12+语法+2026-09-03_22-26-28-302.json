@@ -1,0 +1,520 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1788445588302-2w8xs9",
+    "submittedAt": "2026-09-03T14:26:28.302Z",
+    "timezoneOffsetMinutes": -480,
+    "year": "2022.12",
+    "category": "语法",
+    "questionCount": 19,
+    "total": 19,
+    "answered": 19,
+    "correct": 16,
+    "percentage": 84,
+    "durationSeconds": 1376,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "id": "sbry-n1-2022.12-文法-5-26",
+        "number": 26,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "このレストランのシェフはまだ20代だが、著名な料理評論家()満足させる腕の持ち主であると、テレビや雑誌で評判になっている。",
+        "options": [
+          "をも",
+          "とを",
+          "にまで",
+          "までが"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.12-文法-5-27",
+        "number": 27,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "はっきりと覚えていないがこの町には()来たことがある。",
+        "options": [
+          "また",
+          "ついに",
+          "いつか",
+          "まもなく"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.12-文法-5-28",
+        "number": 28,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(ホームページで)\n体育館は老朽化のため、本年3月15日()閉館しました。長年のご利用、ありがとうございました。",
+        "options": [
+          "につき",
+          "に至るまで",
+          "をもって",
+          "を皮切りに"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.12-文法-5-29",
+        "number": 29,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "高校に入学して、特に入りたいクラブもなかったので、友人に()、テニス部に入った。",
+        "options": [
+          "誘われるまま",
+          "誘われようが",
+          "誘われた上に",
+          "誘われない限り"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.12-文法-5-30",
+        "number": 30,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(ホームページで)\n当店では、商品に欠陥がある()、返品及び交換はお受けできませんので、あらかじめご了承ください。",
+        "options": [
+          "点に加えて",
+          "点を除いて",
+          "場合に加えて",
+          "場合を除いて"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.12-文法-5-31",
+        "number": 31,
+        "selected": [
+          1
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(取引先へのメールで)\n来週の打ち合わせの資料をお送りします。お忙しいとは()が、ご確認いただければ幸いです。",
+        "options": [
+          "いたします",
+          "存じます",
+          "いらっしゃいます",
+          "申し上げます"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.12-文法-5-32",
+        "number": 32,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "学生時代はずっとサッカーをしていたのだが、社会人に()、運動する機会がすっかり減ってしまった。",
+        "options": [
+          "なってからであっても",
+          "なったばかりなのか",
+          "なってからというもの",
+          "なったばかりだとして"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.12-文法-5-33",
+        "number": 33,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "自転車の鍵が見当たらないと思ったら、昨日はいていたズボンのポケットに()。",
+        "options": [
+          "入れたつもり",
+          "入れっぱなしだった",
+          "入れっこなかった",
+          "入れるべきではなかった"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.12-文法-5-34",
+        "number": 34,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "A「ねえねえ、北市にできた動物園、いったんでしょう?あそこ、相当広いらしいね」\nB「()、1日じゃ全部回れなかったよ」",
+        "options": [
+          "広くないはずなんだよ",
+          "広いなんてことはないよ",
+          "広くないわけじゃないんだよ",
+          "広いなんてもんじゃないよ"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.12-文法-5-35",
+        "number": 35,
+        "selected": [
+          2
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "私は昔からバイクが大好きだ。小さい頃は、よく父のバイクの後ろに()。",
+        "options": [
+          "乗りたかったものだ",
+          "乗りたかったところだ",
+          "乗って欲しかったものだ",
+          "乗って欲しかったところだ"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.12-文法-6-36",
+        "number": 36,
+        "selected": [
+          1
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          4,
+          1,
+          3,
+          2
+        ],
+        "starPosition": 2,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "秋の初めのこの時期は、真夏の戻った--+★+--+--、気温の差が大きくて体調を崩しやすいので、注意が必要だ。",
+        "options": [
+          "日もあり",
+          "日もあれば",
+          "ひんやりとした",
+          "かのような"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.12-文法-6-37",
+        "number": 37,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          2,
+          3,
+          4,
+          1
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "歴史的価値が高いとされる旧白本小学校の校舎を初めて見たが、とても--+--+★+--驚いた。",
+        "options": [
+          "100年前に",
+          "現代的なデザインに",
+          "建てられたものとは",
+          "思えないほどの"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.12-文法-6-38",
+        "number": 38,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          3,
+          4,
+          2,
+          1
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "くしゃみや鼻水といった症状が現れる花粉症は、風邪と--+--+★+--ケースもあるそうだ。",
+        "options": [
+          "自覚がない",
+          "自分は花粉症だという",
+          "症状が似ている",
+          "こともあって"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.12-文法-6-39",
+        "number": 39,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          3,
+          2,
+          1,
+          4
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "高校卒業後の進路について両親に反対されたが、誰に何と--+--+★+--思う。",
+        "options": [
+          "思える道を",
+          "信じて進みたいと",
+          "言われようとも",
+          "自分がこれだと"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.12-文法-6-40",
+        "number": 40,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          4,
+          1,
+          3,
+          2
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "企業の海外進出が成功するかどうかは、--+--+★+--といってもいいだろう。",
+        "options": [
+          "優秀な人材を確保できる",
+          "にかかっている",
+          "か否か",
+          "その国の事情をよく知る"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.12-文法-7-41",
+        "number": 41,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "",
+        "options": [
+          "むしろ",
+          "かえって",
+          "たしかに",
+          "ようやく"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.12-文法-7-42",
+        "number": 42,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "",
+        "options": [
+          "それ以来だ",
+          "それだけだ",
+          "そのままだ",
+          "そのためだ"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.12-文法-7-43",
+        "number": 43,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "",
+        "options": [
+          "が",
+          "すら",
+          "なら",
+          "でもって"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.12-文法-7-44",
+        "number": 44,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "",
+        "options": [
+          "使者のようでもある",
+          "使者とのことである",
+          "使者だとは言えない",
+          "使者にもなり得まい"
+        ]
+      }
+    ]
+  }
+}

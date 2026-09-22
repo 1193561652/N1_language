@@ -1,0 +1,645 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1788612909383-2i4nb9",
+    "submittedAt": "2026-09-05T12:55:09.383Z",
+    "timezoneOffsetMinutes": -480,
+    "year": "2022.12",
+    "category": "文字・词汇",
+    "questionCount": 25,
+    "total": 25,
+    "answered": 25,
+    "correct": 22,
+    "percentage": 88,
+    "durationSeconds": 332,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "id": "sbry-n1-2022.12-文字・語彙-1-1",
+        "number": 1,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "チームの新しい【監督】が決まった。",
+        "options": [
+          "かんどく",
+          "がんどく",
+          "かんとく",
+          "がんとく"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.12-文字・語彙-1-2",
+        "number": 2,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "これは、外国語から【派生】した言葉です。",
+        "options": [
+          "はしょう",
+          "はせい",
+          "はっしょう",
+          "はっせい"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.12-文字・語彙-1-3",
+        "number": 3,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "文字が【透けて】いる。",
+        "options": [
+          "ぼけて",
+          "かけて",
+          "ぬけて",
+          "すけて"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.12-文字・語彙-1-4",
+        "number": 4,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この村は湖の【恩恵】を受けている。",
+        "options": [
+          "おんけい",
+          "おんえい",
+          "いんけい",
+          "いんえい"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.12-文字・語彙-1-5",
+        "number": 5,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "厳しい練習に【臨む】選手たちの姿を目にした。",
+        "options": [
+          "いどむ",
+          "はげむ",
+          "なやむ",
+          "のぞむ"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.12-文字・語彙-1-6",
+        "number": 6,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "調査データは、地球の温暖化を【如実に】示した。",
+        "options": [
+          "じょじつに",
+          "じょうじつに",
+          "にょじつに",
+          "にょうじつに"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.12-文字・語彙-2-7",
+        "number": 7,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "被害者について報道するときは、仮名を用いてプライバシーを()している。",
+        "options": [
+          "保護",
+          "防御",
+          "警備",
+          "支援"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.12-文字・語彙-2-8",
+        "number": 8,
+        "selected": [
+          4
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この模型は、実際にあった建物を20分の1の大きさで()再現した物だ。",
+        "options": [
+          "従順に",
+          "厳正に",
+          "忠実に",
+          "均等に"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.12-文字・語彙-2-9",
+        "number": 9,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "川の水が澄んでいてきれいだったので、両手で()、顔を洗った。",
+        "options": [
+          "めくって",
+          "すくって",
+          "はさんで",
+          "つまんで"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.12-文字・語彙-2-10",
+        "number": 10,
+        "selected": [
+          3
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "一生懸命働いて、ついに()のマイホームを手に入れた。",
+        "options": [
+          "志望",
+          "本意",
+          "欲求",
+          "念願"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.12-文字・語彙-2-11",
+        "number": 11,
+        "selected": [
+          4
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "きれいな写真を撮るためには、まずカメラの()を合わせることが大切です。",
+        "options": [
+          "ポーズ",
+          "カーソル",
+          "ピント",
+          "テンポ"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.12-文字・語彙-2-12",
+        "number": 12,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "全国大会は初出場だったが、厳しい試合を勝ち抜いて何とか上位に()。",
+        "options": [
+          "乗り込んだ",
+          "食い込んだ",
+          "駆け込んだ",
+          "追い込んだ"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.12-文字・語彙-2-13",
+        "number": 13,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "道案内をしてくれたので、()地元の人かと思ったら、実は観光客だった。",
+        "options": [
+          "てっきり",
+          "きっぱり",
+          "しっかり",
+          "はっきり"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.12-文字・語彙-3-14",
+        "number": 14,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "必要な資金を【調達した】。",
+        "options": [
+          "払った",
+          "預かった",
+          "返却した",
+          "用意した"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.12-文字・語彙-3-15",
+        "number": 15,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "山田さんは【温和】な性格だ。",
+        "options": [
+          "さわやか",
+          "おだやか",
+          "こまやか",
+          "かろやか"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.12-文字・語彙-3-16",
+        "number": 16,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "おすすめの【スポット】を教えてください。",
+        "options": [
+          "場所",
+          "商品",
+          "方法",
+          "時期"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.12-文字・語彙-3-17",
+        "number": 17,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "各国のチームの実力は【拮抗】している。",
+        "options": [
+          "差がある",
+          "差がない",
+          "高くなっている",
+          "低くなっている"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.12-文字・語彙-3-18",
+        "number": 18,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "住民からの【風当たり】が相当なものだった。",
+        "options": [
+          "要求",
+          "信頼",
+          "期待",
+          "批判"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.12-文字・語彙-3-19",
+        "number": 19,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "カメラは子供たちの【あどけない】表情を捉えていた。",
+        "options": [
+          "不安そうな",
+          "真剣な",
+          "無邪気な",
+          "羨ましそうな"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.12-文字・語彙-4-20",
+        "number": 20,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "出荷",
+        "options": [
+          "有名俳優の【出荷】によって、公演のチケットはすぐに完売した。",
+          "海外の需要が高まり、アメリカに新店舗の【出荷】が決定した。",
+          "好評により注文が殺到していて、商品の【出荷】が遅れている。",
+          "今回の展覧会では、絵画の【出荷】が大半を占めた。"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.12-文字・語彙-4-21",
+        "number": 21,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "譲る",
+        "options": [
+          "私は早朝起きて、新聞を各家庭に【譲る】仕事をしている。",
+          "学校の倉庫の鍵を職員室に【譲る】のをすっかり忘れていた。",
+          "新しいテレビを買ったので、古いテレビを友人に【譲った】。",
+          "今朝、自宅近くの公園で拾った財布を交番に【譲った】。"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.12-文字・語彙-4-22",
+        "number": 22,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "底力",
+        "options": [
+          "毎日体を運動しているので、腕の【底力】なら誰にも負けない。",
+          "彼は目立たない存在だが、大事な場面での【底力】はすごい。",
+          "石原さんは、動物の言葉が分かる特別な【底力】を持っている。",
+          "留学して、英語を話す【底力】を伸ばしたいと思っている。"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.12-文字・語彙-4-23",
+        "number": 23,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "絶大",
+        "options": [
+          "【絶大】な開発によって、町の風景がすっかり変わった。",
+          "世界を旅して【絶大】な山の姿を写真に収めた。",
+          "これまで誰も釣ったことがないような【絶大】な魚を釣りたい。",
+          "あの歌手は若い人たちに【絶大】な人気がある。"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.12-文字・語彙-4-24",
+        "number": 24,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "手痛い",
+        "options": [
+          "仕事で【手痛い】ミスをして、周りに迷惑をかけた。",
+          "来週までは、【手痛い】運動をなるべく避けてください。",
+          "秋が終わって、とうとう【手痛い】冬がやってきた。",
+          "口川さんはほかの人より【手痛い】スピードで作業した。"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.12-文字・語彙-4-25",
+        "number": 25,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "誘致",
+        "options": [
+          "駐車場で、係員が車を何台も【誘致】している。",
+          "議会は町の経済を活性化させるために、工場を【誘致】することを決めた。",
+          "人材が不足しているため、今年は100人以上の新入社員を【誘致】した。",
+          "あの学校は新しい教授法を【誘致】したことで、人々の関心を集めている。"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,645 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1788612561389-gmry0u",
+    "submittedAt": "2026-09-05T12:49:21.389Z",
+    "timezoneOffsetMinutes": -480,
+    "year": "2023.07",
+    "category": "文字・词汇",
+    "questionCount": 25,
+    "total": 25,
+    "answered": 25,
+    "correct": 24,
+    "percentage": 96,
+    "durationSeconds": 167,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "id": "jlpt4you-2023.07-vocabulary-1-1",
+        "number": 1,
+        "selected": [
+          2
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "思わぬ出来事に、周りが⟦u⟧騒然⟦/u⟧としていた。",
+        "options": [
+          "ぼぜん",
+          "そぜん",
+          "ぼうぜん",
+          "そうぜん"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.07-vocabulary-1-2",
+        "number": 2,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "西村さんはいたずらした子供を優しく⟦u⟧諭した⟦/u⟧。",
+        "options": [
+          "さとした",
+          "あやした",
+          "ただした",
+          "いやした"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.07-vocabulary-1-3",
+        "number": 3,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "社会生活を送る上で、⟦u⟧秩序⟦/u⟧を守ることは重要だ。",
+        "options": [
+          "ちつじょう",
+          "じつじょ",
+          "ちつじょ",
+          "しつじょう"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.07-vocabulary-1-4",
+        "number": 4,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "このあたりに犯人が⟦u⟧潜伏⟦/u⟧しているという情報が入った。",
+        "options": [
+          "せんふく",
+          "ぜんぷく",
+          "ぜんふく",
+          "せんぷく"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.07-vocabulary-1-5",
+        "number": 5,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "アナウンサーの⟦u⟧朗らか⟦/u⟧な声が響いた。",
+        "options": [
+          "きよらか",
+          "ほがらか",
+          "やわらか",
+          "なめらか"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.07-vocabulary-1-6",
+        "number": 6,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "新しい市長は地域文化の⟦u⟧振興⟦/u⟧に力を入れている。",
+        "options": [
+          "しんきょう",
+          "じんこう",
+          "しんこう",
+          "じんきょう"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.07-vocabulary-2-1",
+        "number": 7,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "今は両親と暮らしているが卒業して就職したら、家を出て（ ）したいと思っている。",
+        "options": [
+          "自制",
+          "自立",
+          "自重",
+          "自任"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.07-vocabulary-2-2",
+        "number": 8,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この企業は、売り上げの一部を町に寄付することで町の人々に利益を（ ）している。",
+        "options": [
+          "返上",
+          "還元",
+          "配給",
+          "譲渡"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.07-vocabulary-2-3",
+        "number": 9,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "今日は朝から空が（ ）と曇っていて、今にも雨が降り出しそうだ。",
+        "options": [
+          "びっしょり",
+          "どっさり",
+          "どんより",
+          "ぐったり"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.07-vocabulary-2-4",
+        "number": 10,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この生産管理のシステムは、維持費の高さが（ ）になってなかなか普及しない。",
+        "options": [
+          "ノイズ",
+          "ロック",
+          "タブー",
+          "ネック"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.07-vocabulary-2-5",
+        "number": 11,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "大きな声で歌うと、ストレスの（ ）になって気分がすっきりする。",
+        "options": [
+          "発散",
+          "発射",
+          "流出",
+          "排出"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.07-vocabulary-2-6",
+        "number": 12,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この二つの漢字はよく似ていて（ ）ので、読み間違えることがある。",
+        "options": [
+          "まぎらわしい",
+          "もっともらしい",
+          "ずうずうしい",
+          "なれなれしい"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.07-vocabulary-2-7",
+        "number": 13,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この店は細かいところまで掃除が（ ）いて、清潔だ。",
+        "options": [
+          "行き詰って",
+          "行き交って",
+          "行き着いて",
+          "行き届いて"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.07-vocabulary-3-1",
+        "number": 14,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この条約は締結されると、農業に影響が出ることが⟦u⟧懸念⟦/u⟧される。",
+        "options": [
+          "期待",
+          "心配",
+          "予想",
+          "重視"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.07-vocabulary-3-2",
+        "number": 15,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "久しぶりに会った友人は何だか⟦u⟧やつれて⟦/u⟧いるようだった。",
+        "options": [
+          "遠慮して",
+          "張り切って",
+          "やせ衰えて",
+          "感動して"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.07-vocabulary-3-3",
+        "number": 16,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "彼が⟦u⟧奮闘して⟦/u⟧いる姿を見て、力を貸そうと思った。",
+        "options": [
+          "じっと我慢して",
+          "必死に頑張って",
+          "激しく怒って",
+          "焦って取り組んで"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.07-vocabulary-3-4",
+        "number": 17,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "あれは⟦u⟧不慮⟦/u⟧の事故だったとしか言いようがない。",
+        "options": [
+          "しかたない",
+          "ありえない",
+          "思いがけない",
+          "情けない"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.07-vocabulary-3-5",
+        "number": 18,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "倉庫の品物を⟦u⟧根こそぎ⟦/u⟧持っていかれた。",
+        "options": [
+          "すべて",
+          "だいぶ",
+          "一度に",
+          "次々に"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.07-vocabulary-3-6",
+        "number": 19,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "若いころ私は、商品開発の仕事に⟦u⟧没頭⟦/u⟧していた。",
+        "options": [
+          "飽きて",
+          "憧れて",
+          "不満を持って",
+          "熱中して"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.07-vocabulary-4-1",
+        "number": 20,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "兆し",
+        "options": [
+          "来月は 100 万台バイクを生産する⟦u⟧兆しです⟦/u⟧。",
+          "消費税が上がり、売り上げの⟦u⟧兆しが⟦/u⟧不透明だ。",
+          "多くの人の⟦u⟧兆しと⟦/u⟧違って、A チームが優勝した。",
+          "今年になっても景気がよくなる⟦u⟧兆しが⟦/u⟧見られない。"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.07-vocabulary-4-2",
+        "number": 21,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "収容",
+        "options": [
+          "大きなカバンに旅行の荷物を全部⟦u⟧収容した⟦/u⟧。",
+          "このコンサートホールは５００人の観客を⟦u⟧収容することができる⟦/u⟧。",
+          "この辞書には 8 万語が⟦u⟧収容されている⟦/u⟧。",
+          "ビタミンを多く⟦u⟧収容する⟦/u⟧食品をたくさん食べるようにしている。"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.07-vocabulary-4-3",
+        "number": 22,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "さえる",
+        "options": [
+          "友人は時間にさえていて、遅刻したことは一度もない。",
+          "父は感情がさえて顔に出るので、分かりやすい。",
+          "コーヒーを飲んだら、目がさえてしまって、眠れない。",
+          "彼の目標はさえていて、一度も変わることはなかった。"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.07-vocabulary-4-4",
+        "number": 23,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "痛烈",
+        "options": [
+          "その映画は評論家から⟦u⟧痛烈な⟦/u⟧批判を受けた。",
+          "彼らは⟦u⟧痛烈な⟦/u⟧戦いを勝ち抜いて優勝した。",
+          "⟦u⟧痛烈な⟦/u⟧環境でも育つ作物を研究している。",
+          "台風のせいで、⟦u⟧痛烈な⟦/u⟧勢いの風が吹いている。"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.07-vocabulary-4-5",
+        "number": 24,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "完結",
+        "options": [
+          "申し込み期間が⟦u⟧完結する⟦/u⟧前に、急いで書類を出しに行った。",
+          "駅前に建設中だったマンションが⟦u⟧完結し⟦/u⟧、入居が始まった。",
+          "3年間続いた連載小説が、いよいよ次回で⟦u⟧完結する⟦/u⟧。",
+          "充電が⟦u⟧完結するまで⟦/u⟧、2時間程度かかります。"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.07-vocabulary-4-6",
+        "number": 25,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "もろい",
+        "options": [
+          "ここは古い住宅で、壁がもろくなっているため、立ち入り禁止だ。",
+          "以前は力がもろかったので、毎日トレーニングして、筋肉をつけた。",
+          "彼はまだ若く、仕事の経験も⟦u⟧もろいが⟦/u⟧、やる気にあふれている。",
+          "この野菜はあまり火を通しすぎると、栄養がもろくなってしまう。"
+        ]
+      }
+    ]
+  }
+}

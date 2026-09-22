@@ -1,0 +1,520 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1788872767020-6lqrci",
+    "submittedAt": "2026-09-08T13:06:07.020Z",
+    "timezoneOffsetMinutes": -480,
+    "year": "2021.12",
+    "category": "语法",
+    "questionCount": 19,
+    "total": 19,
+    "answered": 19,
+    "correct": 12,
+    "percentage": 63,
+    "durationSeconds": 1343,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "id": "sbry-n1-2021.12-文法-5-26",
+        "number": 26,
+        "selected": [
+          1
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "政治評論家の山田氏は「方法()、現状を打開する必要がある」と説く。",
+        "options": [
+          "としても",
+          "だけでなく",
+          "はどうであれ",
+          "にかわって"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.12-文法-5-27",
+        "number": 27,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "A社は、製品の成分表示に誤りがあったことについて謝罪したが、品質には()問題はないと強調した。",
+        "options": [
+          "かりに",
+          "なんら",
+          "なかなか",
+          "あまりにも"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.12-文法-5-28",
+        "number": 28,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "あの時すぐに治療しておけばよかった()、ほうっておくからあっかしてしまったんだ。",
+        "options": [
+          "ばかりに",
+          "ことを",
+          "ために",
+          "ものを"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.12-文法-5-29",
+        "number": 29,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "昨日行ったそば屋は、たくさん人が並んでいたので()、意外にもすぐに席に案内された。",
+        "options": [
+          "待たされたかと思えば",
+          "待たされることと思い",
+          "待たされるかと思いきや",
+          "待たされたことと思うが"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.12-文法-5-30",
+        "number": 30,
+        "selected": [
+          4
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "妹「来月の私の誕生日、財布を買ってくれるんだよね?」\n兄「え?そんなこと言ったっけ？」\n妹「言ったよ。自分から()忘れるなんて信じられない。」",
+        "options": [
+          "言えたけど",
+          "言っといて",
+          "言ったせいで",
+          "言ったとすると"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.12-文法-5-31",
+        "number": 31,
+        "selected": [
+          1
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "先生に()、地元の名物料理をお出ししたいと思います。",
+        "options": [
+          "おいでくださるにしては",
+          "おいでいただくにしては",
+          "おいでくださるからには",
+          "おいでいただくからには"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.12-文法-5-32",
+        "number": 32,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "仕事が忙しくて、今年は旅行()。",
+        "options": [
+          "に過ぎない",
+          "どころではない",
+          "にほかならない",
+          "といっても過言ではない"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.12-文法-5-33",
+        "number": 33,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "中村「山田さんは本当に猫が好きなんだね。今日のバッグも猫の絵柄だし」山田「うん。でも、あんまり持ち物が猫柄ばかりなんで、家族から『猫好き()だろう』って言われたりする」",
+        "options": [
+          "のかぎりではない",
+          "のことにかぎる",
+          "にもほどがある",
+          "にあるほどでもない"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.12-文法-5-34",
+        "number": 34,
+        "selected": [
+          4
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "私の夢を応援してくれた人たちに心から感謝している。特に、いつも支えてくれた両親にはどんなに()。",
+        "options": [
+          "感謝してもしきれない",
+          "感謝しようにもできない",
+          "感謝しすぎることはない",
+          "感謝したくてたまらない"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.12-文法-5-35",
+        "number": 35,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "バイオリンは、半年レッスンを受けても、曲が弾けるレベルにまで上達するのは難しく、せいぜい正しい持ち方ができる()そうだ。",
+        "options": [
+          "ようになるぐらいだ",
+          "ようになるほどだ",
+          "ようにはならないだけだ",
+          "ようにはならないはずだ"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.12-文法-6-36",
+        "number": 36,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          4,
+          2,
+          1,
+          3
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "ステージに＿＿＿＿ ＿＿＿＿ ★ ＿＿＿＿上がった。",
+        "options": [
+          "なり",
+          "登場する",
+          "歓声が",
+          "歌手が"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.12-文法-6-37",
+        "number": 37,
+        "selected": [
+          3
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          2,
+          1,
+          3,
+          4
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "彼はこの映画で、純粋で不器用な＿＿＿＿ ＿＿＿＿ ★ ＿＿＿＿までに演じきった。",
+        "options": [
+          "その確かな",
+          "主人公を",
+          "見事な",
+          "表現力で"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.12-文法-6-38",
+        "number": 38,
+        "selected": [
+          3
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          1,
+          4,
+          3,
+          2
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "あの人のことが好きで＿＿＿＿ ＿＿＿＿ ★ ＿＿＿＿いいと思う。",
+        "options": [
+          "忘れられないんだったら",
+          "何度でも気持ちを伝えたら",
+          "一度断られたぐらいで",
+          "あきらめたりしないで"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.12-文法-6-39",
+        "number": 39,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          4,
+          1,
+          2,
+          3
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "他人のことは＿＿＿＿ ＿＿＿＿ ★ ＿＿＿＿人間というものだ。",
+        "options": [
+          "自分のこととなると",
+          "そう簡単にはいかず",
+          "感情的になってしまうのが",
+          "冷静に見られるのに"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.12-文法-6-40",
+        "number": 40,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          4,
+          3,
+          1,
+          2
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "介護の現場における＿＿＿＿ ＿＿＿＿ ★ ＿＿＿＿そのうち必ず限界が来る。介護ロボットの普及が期待される。",
+        "options": [
+          "このまま",
+          "人の手のみに頼っていては",
+          "人手不足が深刻化している",
+          "中で"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.12-文法-7-41",
+        "number": 41,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "",
+        "options": [
+          "驚くほどだ",
+          "驚くようだ",
+          "驚くべきだ",
+          "驚くはずだ"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.12-文法-7-42",
+        "number": 42,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "",
+        "options": [
+          "片付けても",
+          "片付ける限り",
+          "片付けなくても",
+          "片付けない限り"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.12-文法-7-43",
+        "number": 43,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "",
+        "options": [
+          "プロセスだとか",
+          "プロセスなのに",
+          "プロセスだったが",
+          "プロセスなのだと"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.12-文法-7-44",
+        "number": 44,
+        "selected": [
+          3
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "",
+        "options": [
+          "戻したかった",
+          "戻すことにしていこう",
+          "戻せてよかった",
+          "戻すようにしてほしい"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1788185884453-ez8n1e",
+    "submittedAt": "2026-08-31T14:18:04.453Z",
+    "timezoneOffsetMinutes": -480,
+    "year": "2024.07",
+    "category": "语法",
+    "questionCount": 19,
+    "total": 19,
+    "answered": 19,
+    "correct": 11,
+    "percentage": 58,
+    "durationSeconds": 1521,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "id": "jlpt4you-2024.07-grammar-5-1",
+        "number": 26,
+        "selected": [
+          4
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "机の引き出しを整理していたら、以前使っていた電卓が出てきた。まだ使え（ ）するが、使う機会がなさそうなので処分しようと思う。",
+        "options": [
+          "すら",
+          "さえ",
+          "は",
+          "も"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.07-grammar-5-2",
+        "number": 27,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "彼はわずか 27 歳（ ）市長となった。",
+        "options": [
+          "にしては",
+          "にあたって",
+          "に際して",
+          "に先立って"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.07-grammar-5-3",
+        "number": 28,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "（ホームページで） 当センターの相談窓口に（ ）、事前にご連絡をお願いいたします。",
+        "options": [
+          "伺って以来",
+          "伺う際は",
+          "お越しになって以来",
+          "お越しになる際は"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.07-grammar-5-4",
+        "number": 29,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "6歳の息子は、将来私と同じ消防士になりたいと言っている。実際に（ ）、そんなことを言ってくれたことがうれしい。",
+        "options": [
+          "なるかどうかに限らず",
+          "なるかどうかはともかく",
+          "ならざるを得ないとしても",
+          "ならざるを得ないばかりか"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.07-grammar-5-5",
+        "number": 30,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "A 大臣は、週刊誌の報道について、「事実ではないにもかかわらず、あたかも事実である（ ）報道されたことは遺憾である」と述べた。",
+        "options": [
+          "までもなく",
+          "がゆえに",
+          "からには",
+          "かのごとく"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.07-grammar-5-6",
+        "number": 31,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "今日はさんざんな一日だった。自転車はパンクするし、財布はなくすし、しまいには大雨に降られてずぶぬれになる（ ）。",
+        "options": [
+          "始末だった",
+          "最中だった",
+          "思いだった",
+          "限りだった"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.07-grammar-5-7",
+        "number": 32,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "森選手の予選敗退は、けがが原因だと言われているが、本人は 「けがは関係ない。単に実力が足りなかった（ ）」とコメントしている。",
+        "options": [
+          "だけある",
+          "ものがある",
+          "だけのことだ",
+          "ようなものだ"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.07-grammar-5-8",
+        "number": 33,
+        "selected": [
+          1
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "エアコンが故障してしまい、この1週間暑くて大変だったが、今日ようやく修理してもらえた。これでもう暑さに（ ）。",
+        "options": [
+          "悩まされかねない",
+          "悩ませかねない",
+          "悩まされることはない",
+          "悩ませることはない"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.07-grammar-5-9",
+        "number": 34,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "（天気予報で） 「明日は低気圧の発達に伴い、西日本を中心に風雨が（ ）。」",
+        "options": [
+          "強めつつあります",
+          "強める見込みです",
+          "強まりつつあります",
+          "強まる見込みです"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.07-grammar-5-10",
+        "number": 35,
+        "selected": [
+          2
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "（育児の本で） 歳前後の子供は、「なぜ?」 「どうして?」と何でも（ ）。周囲の大人はめんどうくさがらずに、そういった質問に向き合ってあげましょう。",
+        "options": [
+          "知りたがるものです",
+          "知りたそうなもので",
+          "知りたがることです",
+          "知りそうなことです"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.07-grammar-6-1",
+        "number": 36,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          3,
+          2,
+          4,
+          1
+        ],
+        "starPosition": 2,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "息子が通っているピアノ教室の発表会で、緊張して引けなくってしまった子がいた。大人だって ___ _★_ ___ ___無理はないだろう。",
+        "options": [
+          "そうなるのも",
+          "緊張するんだから",
+          "勢いの前で何かをするのは",
+          "子供が"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.07-grammar-6-2",
+        "number": 37,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          1,
+          4,
+          3,
+          2
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "（テレビ番組のナレーションで） 蚊と言えば、動物の血を吸うイメージがありますが、実は血を吸うのは雌だけだそうです。しかも、___ ___ _★_ ___ 専門家に詳しく聞いてみよう。",
+        "options": [
+          "雌に限っての",
+          "とか",
+          "行動なのだ",
+          "産卵を控えた"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.07-grammar-6-3",
+        "number": 38,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          1,
+          4,
+          2,
+          3
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "昨年度までは社内研修後のアンケートを記述式で行っていたが、まとめるのに時間がかかる___ ___ _★_ ___、今年度は選択式で行うことにした。",
+        "options": [
+          "うえに",
+          "評判も良くなった",
+          "ことを踏まえ",
+          "受講者からの"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.07-grammar-6-4",
+        "number": 39,
+        "selected": [
+          3
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          2,
+          1,
+          3,
+          4
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "枕を変えたら、今までより良く眠れるようになった。自分に合った ___ ___ _★_ ___ 驚いた。",
+        "options": [
+          "睡眠の質があるなんて",
+          "枕に換えるだけで",
+          "思っていなかったから",
+          "こんなにも"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.07-grammar-6-5",
+        "number": 40,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          2,
+          1,
+          4,
+          3
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "人工知能をはじめとする ___ ___ _★_ ___ 企業が多い。",
+        "options": [
+          "メリットは理解しつつも",
+          "導入に至っていない",
+          "先端技術を取り入れる",
+          "扱える人材の確保やコスト面での難しさから"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.07-grammar-7-1",
+        "number": 41,
+        "selected": [
+          2
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【41】",
+        "options": [
+          "話したとしても",
+          "話そうものなら",
+          "話すことで",
+          "話さないかぎり"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.07-grammar-7-2",
+        "number": 42,
+        "selected": [
+          3
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【42】",
+        "options": [
+          "会うよりも",
+          "会ってこそ",
+          "会うまでに",
+          "会っただけでも"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.07-grammar-7-3",
+        "number": 43,
+        "selected": [
+          1
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【43】",
+        "options": [
+          "思い出したくてたまらないのです",
+          "思い出すのではないでしょうか",
+          "思い出すしかありません",
+          "思い出してください"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.07-grammar-7-4",
+        "number": 44,
+        "selected": [
+          3
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【44】",
+        "options": [
+          "というわけです",
+          "という点です",
+          "とします",
+          "としています"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,645 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1788611749993-yss10y",
+    "submittedAt": "2026-09-05T12:35:49.993Z",
+    "timezoneOffsetMinutes": -480,
+    "year": "2024.12",
+    "category": "文字・词汇",
+    "questionCount": 25,
+    "total": 25,
+    "answered": 25,
+    "correct": 24,
+    "percentage": 96,
+    "durationSeconds": 205,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "id": "jlpt4you-2024.12-vocabulary-1-1",
+        "number": 1,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "佐藤選手がゴールを決めたとき、観客は⟦u⟧絶叫⟦/u⟧した。",
+        "options": [
+          "せっきょう",
+          "ぜっきょう",
+          "ぜっきゅう",
+          "せっきゅう"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.12-vocabulary-1-2",
+        "number": 2,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "⟦u⟧背後⟦/u⟧から物音が聞こえた。",
+        "options": [
+          "はいご",
+          "はいこう",
+          "せいご",
+          "せいこう"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.12-vocabulary-1-3",
+        "number": 3,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "将来の⟦u⟧抱負⟦/u⟧を述べる。",
+        "options": [
+          "ほうふ",
+          "ほうぶ",
+          "ほふ",
+          "ほぶ"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.12-vocabulary-1-4",
+        "number": 4,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "人を⟦u⟧侮って⟦/u⟧はいけない。",
+        "options": [
+          "からかって",
+          "ののしって",
+          "あなどって",
+          "うらぎって"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.12-vocabulary-1-5",
+        "number": 5,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "相手がわかるように、⟦u⟧筋道⟦/u⟧を立てて説明した。",
+        "options": [
+          "きんどう",
+          "すじどう",
+          "きんみち",
+          "すじみち"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.12-vocabulary-1-6",
+        "number": 6,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "その小説の主人公は、⟦u⟧奔放⟦/u⟧な性格をしている。",
+        "options": [
+          "はんぽう",
+          "ぽんぽう",
+          "ほんぽう",
+          "ばんぽう"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.12-vocabulary-2-1",
+        "number": 7,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "その生物は、厳しい環境に（ ）できる能力を持っている。",
+        "options": [
+          "適応",
+          "合致",
+          "転換",
+          "推移"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.12-vocabulary-2-2",
+        "number": 8,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "店の売り上げを五年で二倍にするという目標を（ ）、みんなで努力している。",
+        "options": [
+          "企てて",
+          "興して",
+          "築いて",
+          "掲げて"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.12-vocabulary-2-3",
+        "number": 9,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "新しい市長は前市長の政策を（ ）し、駅前の開発を進めると述べた。",
+        "options": [
+          "相続",
+          "獲得",
+          "踏襲",
+          "伝承"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.12-vocabulary-2-4",
+        "number": 10,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "台風で電車の到着が大幅に遅れたため、駅でしばらく（ ）された。",
+        "options": [
+          "息抜き",
+          "棚上げ",
+          "待ち伏せ",
+          "足止め"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.12-vocabulary-2-5",
+        "number": 11,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "今日は試合で一日中走り続けたので、疲れて（ ）になった。",
+        "options": [
+          "めちゃめちゃ",
+          "へとへと",
+          "どろどろ",
+          "ぐちゃぐちゃ"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.12-vocabulary-2-6",
+        "number": 12,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "工場の誘致について、市長が丁寧に説明し、住民の不安の（ ）に努めた。",
+        "options": [
+          "払拭",
+          "喪失",
+          "破棄",
+          "排斥"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.12-vocabulary-2-7",
+        "number": 13,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "階段でつまずいて転びそうになったので、（ ）隣にいた友人の腕をつかんだ。",
+        "options": [
+          "じきに",
+          "いまに",
+          "とっさに",
+          "とっくに"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.12-vocabulary-3-1",
+        "number": 14,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "社長は小林部長の⟦u⟧手腕⟦/u⟧を高く評価しているようだ。",
+        "options": [
+          "経験",
+          "能力",
+          "考え",
+          "人柄"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.12-vocabulary-3-2",
+        "number": 15,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "時間を⟦u⟧ロスして⟦/u⟧しまった。",
+        "options": [
+          "間違えて",
+          "無駄にして",
+          "かいて",
+          "延長して"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.12-vocabulary-3-3",
+        "number": 16,
+        "selected": [
+          2
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "確認が⟦u⟧おろそかに⟦/u⟧なっていた。",
+        "options": [
+          "めんどうくさ",
+          "困難に",
+          "遅く",
+          "いいかげん"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.12-vocabulary-3-4",
+        "number": 17,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "私たちのチームの⟦u⟧目下⟦/u⟧の目標は、市の大会で優勝することだ。",
+        "options": [
+          "最大",
+          "将来",
+          "今",
+          "最低限"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.12-vocabulary-3-5",
+        "number": 18,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "経費を考慮したうえで、古いアパートの改修工事を⟦u⟧請け負う⟦/u⟧ことにした。",
+        "options": [
+          "引き受ける",
+          "申し込む",
+          "断る",
+          "諦める"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.12-vocabulary-3-6",
+        "number": 19,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "先生に本を⟦u⟧進呈しました⟦/u⟧。",
+        "options": [
+          "差し上げました",
+          "いただきました",
+          "お貸ししました",
+          "お借りしました"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.12-vocabulary-4-1",
+        "number": 20,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "加工",
+        "options": [
+          "食事や運動などを生活習慣に⟦u⟧加工するような⟦/u⟧医師からアドバイスを受けた。",
+          "このお店では、余った木材を⟦u⟧加工した⟦/u⟧商品を販売している。",
+          "両親は古い民家をう安く購入して⟦u⟧加工して⟦/u⟧、民宿に加工した。",
+          "就職規則の一部を⟦u⟧加工することにした⟦/u⟧。"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.12-vocabulary-4-2",
+        "number": 21,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "養う",
+        "options": [
+          "息子が近くの公園で虫を捕まえてきたので、家で⟦u⟧養うことにした⟦/u⟧。",
+          "部屋のベテランで植物を⟦u⟧養うためにお⟦/u⟧店で鉢と土を買った。",
+          "売り上げを伸ばし、自分の会社を⟦u⟧養ってきた⟦/u⟧。",
+          "さんは会社を経営しながら3人の子どもを⟦u⟧養っている⟦/u⟧。"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.12-vocabulary-4-3",
+        "number": 22,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "資質",
+        "options": [
+          "携帯電話のカメラの⟦u⟧資質は⟦/u⟧日に日に向上している。",
+          "この動物は、見た目は可愛いらしいが、⟦u⟧資質は⟦/u⟧荒いので注意が必要だ。",
+          "会社で製品の⟦u⟧資質を⟦/u⟧管理する仕事をしている。",
+          "森さんは身体能力が高く、陸上選手としての⟦u⟧資質に⟦/u⟧恵まれている。"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.12-vocabulary-4-4",
+        "number": 23,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "正当",
+        "options": [
+          "説明書を見て⟦u⟧正当な⟦/u⟧組み立てたのに、部品が一つ余った。",
+          "「まる」はニックネームで、私の⟦u⟧正当な⟦/u⟧名前は「丸山」です。",
+          "その画家は、若いころには⟦u⟧正当な⟦/u⟧評価を受けていなかった。",
+          "トンネルの建設工事は大きな遅れもなく、⟦u⟧正当に⟦/u⟧進んでいる。"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.12-vocabulary-4-5",
+        "number": 24,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "ありきたり",
+        "options": [
+          "あの町はにコンビニが⟦u⟧ありきたりで⟦/u⟧、とても便利だ。",
+          "その小説のストーリーは⟦u⟧ありきたりで⟦/u⟧、 つまらなかった。",
+          "困っている人がいたら助けるのは、⟦u⟧ありきたりのことだ⟦/u⟧。",
+          "⟦u⟧ありきたりの⟦/u⟧方は入場料1000円となっています。"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.12-vocabulary-4-6",
+        "number": 25,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "間柄",
+        "options": [
+          "木村さんとは中学からずっと同じクラスだが、それほど親しい⟦u⟧間柄ではない⟦/u⟧。",
+          "友好条約で両国の⟦u⟧間柄は⟦/u⟧今後進展する。",
+          "生態の変化、 近年の環境の破壊との⟦u⟧間柄が⟦/u⟧指摘される。",
+          "父と漁民、小さい頃から、海と⟦u⟧間柄の⟦/u⟧深い暮らしをしてきた。"
+        ]
+      }
+    ]
+  }
+}

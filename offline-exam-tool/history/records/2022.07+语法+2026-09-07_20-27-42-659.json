@@ -1,0 +1,520 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1788784062659-cao081",
+    "submittedAt": "2026-09-07T12:27:42.659Z",
+    "timezoneOffsetMinutes": -480,
+    "year": "2022.07",
+    "category": "语法",
+    "questionCount": 19,
+    "total": 19,
+    "answered": 19,
+    "correct": 16,
+    "percentage": 84,
+    "durationSeconds": 1265,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "id": "sbry-n1-2022.07-文法-5-26",
+        "number": 26,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "このお寺は、釘などの金属類は()使わず、木材だけで建てられているそうだ。",
+        "options": [
+          "あまりに",
+          "いっさい",
+          "できれば",
+          "どうしても"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.07-文法-5-27",
+        "number": 27,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "旅館の窓から見えた山々は紅葉で鮮やかに色づいており、澄んだ青空()、なんとも美しかった。",
+        "options": [
+          "を経て",
+          "を基に",
+          "と相まって",
+          "と引きかえに"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.07-文法-5-28",
+        "number": 28,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "ふるさとの美しい海を見る()、この美しい海がいつまでもこのままであってほしいと思う。",
+        "options": [
+          "につけ",
+          "にせよ",
+          "とはいえ",
+          "というのは"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.07-文法-5-29",
+        "number": 29,
+        "selected": [
+          2
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "マラソン大会から帰るとき、電車はすいていたが、一度座ったら()疲れていたので、ずっと立っていた。",
+        "options": [
+          "立ち上がってはいけないなんて",
+          "立ち上がれそうにないなんて",
+          "立ち上がってはいけないぐらい",
+          "立ち上がれそうにないぐらい"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.07-文法-5-30",
+        "number": 30,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "健康的な生活を送るためには睡眠時間を十分にとる必要があるが、ただ長く()、そうではない。時間だけでなく睡眠の質も重要だ。",
+        "options": [
+          "眠ればいいかというと",
+          "眠ればいいというより",
+          "眠ってもいいかというと",
+          "眠ってもいいというより"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.07-文法-5-31",
+        "number": 31,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "さくら小学校では、児童数が増加して、それまでの教室数では対応()、今年新しい校舎が建設された。",
+        "options": [
+          "しきれなくなったからには",
+          "しきれなくなったことから",
+          "するほかなくなったからには",
+          "するほかなくなったことから"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.07-文法-5-32",
+        "number": 32,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "ABC遊園地はオープンからまもなく1年を迎える。総来場者数は、先月末の時点で850万人に上り、一周年となる来月には1000万人を超える()という。",
+        "options": [
+          "限りだ",
+          "最中だ",
+          "見込みだ",
+          "一方だ"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.07-文法-5-33",
+        "number": 33,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "アルバイトを終えて帰ってきたが、のんびり()。明日提出するレポートを完成させなければならない。",
+        "options": [
+          "するしかない",
+          "してしかたがない",
+          "するまでもない",
+          "してはいられない"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.07-文法-5-34",
+        "number": 34,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "A「あれ、ぜいたくのぜいって、漢字でどう()?」\nB「え、私も思い出せない」",
+        "options": [
+          "書くんだよね",
+          "書くんだっけ",
+          "書けるんだよね",
+          "書けるんだっけ"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.07-文法-5-35",
+        "number": 35,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "私としては()のだが、妻は私の一言に感動したらしく、泣かれてしまった。",
+        "options": [
+          "泣くつもりはなかった",
+          "泣かせるつもりはなかった",
+          "泣きたくてたまらなかった",
+          "泣かせたくてたまらなかった"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.07-文法-6-36",
+        "number": 36,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          3,
+          2,
+          4,
+          1
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(インタビューで)\n私が30年間歌手を続けてこられたのは、ファンの方の支えがあったからです。＿＿＿＿ ＿＿＿＿ ★ ＿＿＿＿、歌い続けたいと思っています。",
+        "options": [
+          "限り",
+          "ファンの皆さんが",
+          "応援してくれる",
+          "いる"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.07-文法-6-37",
+        "number": 37,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          2,
+          4,
+          1,
+          3
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "S市が18歳以上の＿＿＿＿ ＿＿＿＿ ★ ＿＿＿＿運動不足を感じていることがわかった。",
+        "options": [
+          "意識調査を行ったところ、",
+          "市民を対象に",
+          "多くの人が",
+          "運動に関する"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.07-文法-6-38",
+        "number": 38,
+        "selected": [
+          4
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          2,
+          3,
+          4,
+          1
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "子供のころ、母はしつけに厳しくて、私はそれが嫌だった。しかし、母が＿＿＿＿ ＿＿＿＿ ★ ＿＿＿＿今ならわかる。",
+        "options": [
+          "親になった",
+          "私のことを",
+          "思えばこそだったのだと",
+          "厳しかったのは、"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.07-文法-6-39",
+        "number": 39,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          3,
+          1,
+          2,
+          4
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "去年＿＿＿＿ ＿＿＿＿ ★ ＿＿＿＿、若者の間で流行している。",
+        "options": [
+          "レインコートは",
+          "機能性もさることながら",
+          "M社から発売された",
+          "そのかわいらしいデザインが話題となり"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.07-文法-6-40",
+        "number": 40,
+        "selected": [
+          1
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          3,
+          2,
+          1,
+          4
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "「未来のものづくりコンテスト」は、＿＿＿＿ ＿＿＿＿ ★ ＿＿＿＿今年で20回目を迎える。",
+        "options": [
+          "子供たちに",
+          "コンテストで",
+          "ものづくりの面白さを感じてもらおうと",
+          "ABC社が創立50周年を機に始めた"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.07-文法-7-41",
+        "number": 41,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "",
+        "options": [
+          "保育園",
+          "ある保育園",
+          "そうした保育園",
+          "それ以外の保育園"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.07-文法-7-42",
+        "number": 42,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "",
+        "options": [
+          "なお",
+          "ただ",
+          "ゆえに",
+          "それなのに"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.07-文法-7-43",
+        "number": 43,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "",
+        "options": [
+          "入学したとたん",
+          "入学しておきながら",
+          "入学したとしても",
+          "入学してはじめて"
+        ]
+      },
+      {
+        "id": "sbry-n1-2022.07-文法-7-44",
+        "number": 44,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "",
+        "options": [
+          "たくましく思えます",
+          "たくましいとされています",
+          "たくましかったはずです",
+          "たくましくなったものです"
+        ]
+      }
+    ]
+  }
+}

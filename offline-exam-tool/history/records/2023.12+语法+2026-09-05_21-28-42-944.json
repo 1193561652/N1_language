@@ -1,0 +1,520 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1788614922944-7wbxyg",
+    "submittedAt": "2026-09-05T13:28:42.944Z",
+    "timezoneOffsetMinutes": -480,
+    "year": "2023.12",
+    "category": "语法",
+    "questionCount": 19,
+    "total": 19,
+    "answered": 19,
+    "correct": 13,
+    "percentage": 68,
+    "durationSeconds": 759,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "id": "jlpt4you-2023.12-grammar-5-1",
+        "number": 26,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "長く使っていた古い冷蔵庫を、引っ越し（ ）買い替えた。",
+        "options": [
+          "を機に",
+          "を皮切りに",
+          "に基づいて",
+          "にわたって"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.12-grammar-5-2",
+        "number": 27,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "経営者は、会社は社員（ ）ものであるということを忘れてはいけない。",
+        "options": [
+          "たる",
+          "における",
+          "あっての",
+          "ならではの"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.12-grammar-5-3",
+        "number": 28,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "私はこの漫画が大好きで、つらいときに（ ）元気をもらっている。",
+        "options": [
+          "読み返すべく",
+          "読み返すならば",
+          "読み返しては",
+          "読み返してこそ"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.12-grammar-5-4",
+        "number": 29,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "連休中どこにも出かけず、（ ）、今日は朝からどうも体がだるい。",
+        "options": [
+          "寝たことにしたせいか",
+          "寝てばかりいたせいか",
+          "寝たことにしたとすると",
+          "寝てばかりいたとすると"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.12-grammar-5-5",
+        "number": 30,
+        "selected": [
+          3
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "（会議で） 委員長「北駅周辺の再開発計画について、皆さんのご意見をお聞かせください。」 委員「私個人（ ）その必要性を感じておりますが、市民の皆さんは納得しにくいのではないかと思います。」",
+        "options": [
+          "によりますと",
+          "といいますと",
+          "におかれましては",
+          "といたしましては"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.12-grammar-5-6",
+        "number": 31,
+        "selected": [
+          1
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "せっかく新しく買うのならと高性能のパソコンを（ ）、全く使いこなせていない。",
+        "options": [
+          "買ったばかりでも",
+          "買ったはいいが",
+          "買ったかにかかわらず",
+          "買ったきりなのに"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.12-grammar-5-7",
+        "number": 32,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "先日、レストランに行ったとき、店員の失礼な態度に大変（ ）。",
+        "options": [
+          "不快な思いをした",
+          "不快極まりない",
+          "不快だったことか",
+          "不快にもほどがある"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.12-grammar-5-8",
+        "number": 33,
+        "selected": [
+          3
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "（会社で） 林: 「部長、ABC銀行の山下さんが（ ）。応接室でお待ちです。」 部長: 「わかりました。」",
+        "options": [
+          "参りました",
+          "見えました",
+          "うかがいました",
+          "お目にかかりました"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.12-grammar-5-9",
+        "number": 34,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "今日から12月だ。早いもので、今年ももうすぐ（ ）。",
+        "options": [
+          "終わろうとする",
+          "終わろうとしている",
+          "終わるようにする",
+          "終わるようにしている"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.12-grammar-5-10",
+        "number": 35,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "仕事において、ミスは（ ）。しかし、人間である以上、ミスは避けられないものだ。",
+        "options": [
+          "してはいけないわけがない",
+          "してはいけないはずだった",
+          "しないほうがいいとは限らない",
+          "しないほうがいいに決まっている"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.12-grammar-6-1",
+        "number": 36,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          2,
+          3,
+          4,
+          1
+        ],
+        "starPosition": 1,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "当社が先月発売したパソコンについて、印刷の_★_ ___ ___ ___ ことが判明しました。",
+        "options": [
+          "マニュアルに誤りがある",
+          "設定ができないとの",
+          "問い合わせが複数寄せられ",
+          "調査したところ"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.12-grammar-6-2",
+        "number": 37,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          4,
+          1,
+          3,
+          2
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "このフライパンは、さすが ___ ___ _★_ ___ とても使いやすい。",
+        "options": [
+          "森さんが",
+          "だけあって",
+          "勧める",
+          "料理が上手な"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.12-grammar-6-3",
+        "number": 38,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          2,
+          3,
+          1,
+          4
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "最後に見た映画が ___ ___ _★_ ___ 映画を見ていない。",
+        "options": [
+          "ほど",
+          "何だったのかも",
+          "思い出せない",
+          "久しく"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.12-grammar-6-4",
+        "number": 39,
+        "selected": [
+          2
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          1,
+          3,
+          2,
+          4
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "学生から提出された論文の中に面白いものがあった。私が ___ ___ _★_ ___ これまでにない。",
+        "options": [
+          "知る限りでは",
+          "論文は",
+          "分析している",
+          "このアプローチで"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.12-grammar-6-5",
+        "number": 40,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          3,
+          2,
+          4,
+          1
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "このレシピ本は、ふだん料理をしない人でも ___ ___ _★_ ___ 評判になっているそうだ。",
+        "options": [
+          "若い人の間で",
+          "調理するだけで",
+          "レシピに沿って",
+          "簡単に本格的な料理が作れると"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.12-grammar-7-1",
+        "number": 41,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【41】",
+        "options": [
+          "選べそうだ",
+          "選び得るか",
+          "選るべとよかった",
+          "選ばなければならない"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.12-grammar-7-2",
+        "number": 42,
+        "selected": [
+          2
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【42】",
+        "options": [
+          "というほどだ",
+          "というわけだ",
+          "ということだ",
+          "というときだ"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.12-grammar-7-3",
+        "number": 43,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【43】",
+        "options": [
+          "小説",
+          "ある小説",
+          "その小説",
+          "そういった小説"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.12-grammar-7-4",
+        "number": 44,
+        "selected": [
+          1
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【44】",
+        "options": [
+          "アプローチだとか",
+          "アプローチかもしれない",
+          "アプローチにある",
+          "アプローチとされているのだ"
+        ]
+      }
+    ]
+  }
+}

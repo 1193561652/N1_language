@@ -1,0 +1,520 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1788357421400-hf7055",
+    "submittedAt": "2026-09-02T13:57:01.400Z",
+    "timezoneOffsetMinutes": -480,
+    "year": "2023.07",
+    "category": "语法",
+    "questionCount": 19,
+    "total": 19,
+    "answered": 19,
+    "correct": 12,
+    "percentage": 63,
+    "durationSeconds": 3479,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "id": "jlpt4you-2023.07-grammar-5-1",
+        "number": 26,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "努力して夢を叶えた弟のことを兄として誇り（ ）思う。",
+        "options": [
+          "を",
+          "で",
+          "が",
+          "に"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.07-grammar-5-2",
+        "number": 27,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "失敗は誰でも避けたいものだが、失敗（ ）学べないこともある。",
+        "options": [
+          "にまで",
+          "まででも",
+          "からしか",
+          "だけから"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.07-grammar-5-3",
+        "number": 28,
+        "selected": [
+          3
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "合唱コンクールで歌っている子供たちの表情は、（ ）そのものだった。",
+        "options": [
+          "真剣",
+          "真剣で",
+          "真剣に",
+          "真剣な"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.07-grammar-5-4",
+        "number": 29,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "同僚の山下さんは、最初はおとなしい人だと思っていたが、一緒に仕事を（ ）実はよくしゃべる人だということがわかった。",
+        "options": [
+          "する間",
+          "する限り",
+          "するうちに",
+          "するとしたら"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.07-grammar-5-5",
+        "number": 30,
+        "selected": [
+          4
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "忙しくて引っ越しの荷造りが（ ）荷造りを全部やってくれるサービスがあると友人が教えてくれた。",
+        "options": [
+          "できずにいたなら",
+          "できずにいたところ",
+          "できないようにしたら",
+          "できないようにしたところ"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.07-grammar-5-6",
+        "number": 31,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "まだ 11 月の初めなのに、昨日は雪が（ ）寒かった。",
+        "options": [
+          "降ることがあるかのように",
+          "降るなんて思えないぐらい",
+          "降るとは思えないように",
+          "降るんじゃないかというぐらい"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.07-grammar-5-7",
+        "number": 32,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "いつも駅から大学までバスを使っているが、2キロほどなので、歩こうと思えば（ ）。",
+        "options": [
+          "歩くほかない",
+          "歩けなくもない",
+          "歩いてはいられない",
+          "歩けるわけがない"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.07-grammar-5-8",
+        "number": 33,
+        "selected": [
+          3
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "（ホームページで） 先日の第 3 回さくら市教育講演会には、たくさんの方が（ ）。",
+        "options": [
+          "おいでくださいました",
+          "お越しいただきました",
+          "ご参加いただきました",
+          "ご覧くださいました"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.07-grammar-5-9",
+        "number": 34,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この辺りの町並みは外国のような雰囲気で、ここを訪れるだけで海外を旅行（ ）。",
+        "options": [
+          "するつもりでいる",
+          "してくるつもりだ",
+          "したつもりになれる",
+          "するつもりになっていた"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.07-grammar-5-10",
+        "number": 35,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "（図書館で） 娘: 「図書館っていいね。だって、自分で買わなくてもこんなにたくさんの本が（ ）。」 母:「そうだね。」",
+        "options": [
+          "読めるんだもん",
+          "読めるもんか",
+          "読みたいんだもん",
+          "読みたいもんか"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.07-grammar-6-1",
+        "number": 36,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          2,
+          1,
+          4,
+          3
+        ],
+        "starPosition": 2,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "スピーチプレゼンテーションにおいて、ジェスチャーを使いながら話すのは___ _★_ ___ ___ 印象を悪くすることもあるので注意が必要だ。",
+        "options": [
+          "あまりに",
+          "効果的である反面",
+          "かえって",
+          "大きすぎるジェスチャーは"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.07-grammar-6-2",
+        "number": 37,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          4,
+          3,
+          1,
+          2
+        ],
+        "starPosition": 2,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "今や、書籍や衣料品だけでなく生鮮食品も、インターネット___ _★_ ___ ___ 時代である。",
+        "options": [
+          "自宅にいながらにして",
+          "手軽に購入できる",
+          "環境があれば",
+          "アクセスが可能な"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.07-grammar-6-3",
+        "number": 38,
+        "selected": [
+          1
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          3,
+          2,
+          1,
+          4
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "よく似た昆虫の判別は大変難しいという。中には、かなり ___ ___ _★_ ___ 場合もあるそうだ。",
+        "options": [
+          "判別が難しい",
+          "昆虫学者でさえも",
+          "経験を積んだ",
+          "迷うほど"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.07-grammar-6-4",
+        "number": 39,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          1,
+          3,
+          2,
+          4
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "今年の___ ___ _★_ ___ 気持ちのほうが大きかった。",
+        "options": [
+          "転職にあたり",
+          "うそになるが",
+          "少しも不安がなかったといえば",
+          "新たなことに挑戦できてうれしいという"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.07-grammar-6-5",
+        "number": 40,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          3,
+          1,
+          4,
+          2
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "北山市は ___ ___ _★_ ___ のどかなところだった。",
+        "options": [
+          "人口10万人を超える都市となったが",
+          "北山駅周辺以外にはほとんど何もない",
+          "今でこそ",
+          "30年前までは"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.07-grammar-7-1",
+        "number": 41,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【41】",
+        "options": [
+          "小説であってもだ",
+          "小説でもあるまい",
+          "小説なのであろうか",
+          "小説なのではないか"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.07-grammar-7-2",
+        "number": 42,
+        "selected": [
+          4
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【42】",
+        "options": [
+          "褒めたり叱ったりする",
+          "褒めたり叱ったりしたほうがいい",
+          "褒めたり叱ったりするようだ",
+          "褒めたり叱ったりしても仕方ない"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.07-grammar-7-3",
+        "number": 43,
+        "selected": [
+          1
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【43】",
+        "options": [
+          "否定せずにいられなくなる",
+          "否定しがちになる",
+          "否定できなくなる",
+          "否定するようになる"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.07-grammar-7-4",
+        "number": 44,
+        "selected": [
+          2
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【44】",
+        "options": [
+          "も含めて",
+          "でない限り",
+          "にしても",
+          "とは"
+        ]
+      }
+    ]
+  }
+}

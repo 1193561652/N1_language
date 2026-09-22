@@ -1,0 +1,645 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1788612387907-02rwx7",
+    "submittedAt": "2026-09-05T12:46:27.907Z",
+    "timezoneOffsetMinutes": -480,
+    "year": "2023.12",
+    "category": "文字・词汇",
+    "questionCount": 25,
+    "total": 25,
+    "answered": 25,
+    "correct": 25,
+    "percentage": 100,
+    "durationSeconds": 299,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "id": "jlpt4you-2023.12-vocabulary-1-1",
+        "number": 1,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "ある画家の人生の⟦u⟧軌跡⟦/u⟧を描いた映画を見た。",
+        "options": [
+          "きぜき",
+          "きせき",
+          "きゅうせき",
+          "きゅうぜき"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.12-vocabulary-1-2",
+        "number": 2,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "ここに書いてある情報には⟦u⟧偏り⟦/u⟧がある。",
+        "options": [
+          "へだたり",
+          "かたより",
+          "あやまり",
+          "こだわり"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.12-vocabulary-1-3",
+        "number": 3,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "村上氏の主張にはさまざまな⟦u⟧矛盾⟦/u⟧が含まれている",
+        "options": [
+          "むじゅん",
+          "むじゅう",
+          "みじゅん",
+          "みじゅう"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.12-vocabulary-1-4",
+        "number": 4,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "事実が⟦u⟧誇張⟦/u⟧されて伝わる",
+        "options": [
+          "こうちょう",
+          "ごちょう",
+          "こちょう",
+          "ごうちょう"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.12-vocabulary-1-5",
+        "number": 5,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この食堂で社員全員の昼食を⟦u⟧賄って⟦/u⟧いる。",
+        "options": [
+          "ふるまって",
+          "になって",
+          "あつかって",
+          "まかなって"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.12-vocabulary-1-6",
+        "number": 6,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "⟦u⟧軽率⟦/u⟧な行動が批判を招いた。",
+        "options": [
+          "けいそつ",
+          "けいりつ",
+          "かいそつ",
+          "かいりつ"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.12-vocabulary-2-1",
+        "number": 7,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "そのチームは、名門チームが多数出場する中で、初出場で優勝という（ ）を成し遂げた。",
+        "options": [
+          "好況",
+          "喜劇",
+          "快挙",
+          "繁栄"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.12-vocabulary-2-2",
+        "number": 8,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "リーダーの無責任な発言が、混乱をさらに（ ）することになった。",
+        "options": [
+          "助長",
+          "拡充",
+          "主導",
+          "催促"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.12-vocabulary-2-3",
+        "number": 9,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "誰かを助けてあげたからといって、その分の（ ）を求めてはいけない。",
+        "options": [
+          "仕返し",
+          "見返り",
+          "返却",
+          "返済"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.12-vocabulary-2-4",
+        "number": 10,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "学内から選ばれた学生たちによって、代表チームが（ ）された。",
+        "options": [
+          "集約",
+          "結合",
+          "結成",
+          "採集"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.12-vocabulary-2-5",
+        "number": 11,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "飛行機やホテルの予約、関係者との日程調整など、出張の（ ）はすべて秘書に任せている。",
+        "options": [
+          "手配",
+          "始末",
+          "実施",
+          "整備"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.12-vocabulary-2-6",
+        "number": 12,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "入院生活をして、健康の大切さを（ ）感じた。",
+        "options": [
+          "めきめき",
+          "せいぜい",
+          "はきはき",
+          "つくづく"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.12-vocabulary-2-7",
+        "number": 13,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "高木さんは入社当初は表情が硬かったが、だんだん緊張が（ ）きたらしく、笑顔を見せるようになった。",
+        "options": [
+          "かすれて",
+          "はがれて",
+          "くずれて",
+          "ほぐれて"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.12-vocabulary-3-1",
+        "number": 14,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "自分の⟦u⟧尺度⟦/u⟧を持ったほうがいい。",
+        "options": [
+          "理想",
+          "意思",
+          "基準",
+          "専門"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.12-vocabulary-3-2",
+        "number": 15,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "⟦u⟧わずらわしい⟦/u⟧仕事をやることになってしまった。",
+        "options": [
+          "退屈な",
+          "面倒な",
+          "危険な",
+          "余計な"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.12-vocabulary-3-3",
+        "number": 16,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "池田さんには会えたが、⟦u⟧肝心な⟦/u⟧話はできなかった。",
+        "options": [
+          "個人的な",
+          "具体的な",
+          "詳細な",
+          "重要な"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.12-vocabulary-3-4",
+        "number": 17,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "今週は仕事が⟦u⟧はかどりました⟦/u⟧。",
+        "options": [
+          "順調に進みました",
+          "大幅に遅れました",
+          "徐々に減りました",
+          "急激に増えました"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.12-vocabulary-3-5",
+        "number": 18,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "新人のときはずっと⟦u⟧辛抱⟦/u⟧していた",
+        "options": [
+          "苦労",
+          "我慢",
+          "失敗",
+          "心配"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.12-vocabulary-3-6",
+        "number": 19,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この地方の⟦u⟧しきたり⟦/u⟧について話を聞いた。",
+        "options": [
+          "名物",
+          "気候",
+          "慣習",
+          "歴史"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.12-vocabulary-4-1",
+        "number": 20,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "解約",
+        "options": [
+          "道路工事が終了したので、車両の通行止めを⟦u⟧解約した⟦/u⟧。",
+          "暗証番号を入力して、ドアのロックを⟦u⟧解約してください⟦/u⟧。",
+          "体調が悪いので、友達と食事に行く予定を⟦u⟧解約した⟦/u⟧。",
+          "家計の見直しをして、保険を⟦u⟧解約することにした⟦/u⟧。"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.12-vocabulary-4-2",
+        "number": 21,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "特産",
+        "options": [
+          "これはあの監督の数々の作品の中でも⟦u⟧特産の⟦/u⟧映画だと思う。",
+          "村の⟦u⟧特産の⟦/u⟧黄色いりんごを使った料理をごちそうになった。",
+          "彼はわが国の⟦u⟧特産の⟦/u⟧世界的なサッカー選手で、彼のことを知らない人はいない。",
+          "わが社⟦u⟧特産の⟦/u⟧技術を生かした新商品を開発する。"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.12-vocabulary-4-3",
+        "number": 22,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "問い詰める",
+        "options": [
+          "石川さんは数学ができるから、いつもみんなに数学の問題を問い詰められている。",
+          "進路について一人で問い詰めていたが、両親に相談することにした。",
+          "子どものころから星を見るのが大好きで、今も宇宙の謎を問い詰めている",
+          "友人たちから、どうして約束を破ったのかと問い詰められた。"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.12-vocabulary-4-4",
+        "number": 23,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "改修",
+        "options": [
+          "顔の大きさに合わせて、眼鏡を⟦u⟧改修してもらった⟦/u⟧。",
+          "問題の解決には、法律を⟦u⟧改修しなければならない⟦/u⟧。",
+          "台風によって壊れてしまった橋を⟦u⟧改修している⟦/u⟧。",
+          "この資料は古いので、データを⟦u⟧改修してください⟦/u⟧。"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.12-vocabulary-4-5",
+        "number": 24,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "手厚い",
+        "options": [
+          "大切なお客様がいらっしゃったので、手厚くもてなした。",
+          "交差点で起きた交通事故の状況を警察に手厚く説明した。",
+          "この商品は壊れやすいので、袋に包んで手厚く運んだ。",
+          "寝ている赤ちゃんを起こさないように、ドアを手厚く閉めた。"
+        ]
+      },
+      {
+        "id": "jlpt4you-2023.12-vocabulary-4-6",
+        "number": 25,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "デマ",
+        "options": [
+          "誰かが⟦u⟧デマを⟦/u⟧流して、私たちをだまそうとしている。",
+          "この絵画は⟦u⟧デマで⟦/u⟧、本物は市の美術館で見られます。",
+          "山本さんは年上だと思っていたが、私の⟦u⟧デマだった⟦/u⟧。",
+          "二人できちんと話し合って、お互いの⟦u⟧デマを⟦/u⟧解いた。"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1789394764951-zrpp7r",
+    "submittedAt": "2026-09-14T14:06:04.951Z",
+    "timezoneOffsetMinutes": -480,
+    "year": "2024.12",
+    "category": "语法",
+    "questionCount": 19,
+    "total": 19,
+    "answered": 19,
+    "correct": 15,
+    "percentage": 79,
+    "durationSeconds": 946,
+    "reasonCount": 5,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "id": "jlpt4you-2024.12-grammar-5-1",
+        "number": 26,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "宝くじ売り場があるよ、買ってみない? どうせ当たらないんだから、買う（ ）無駄だったよ。",
+        "options": [
+          "より",
+          "のみ",
+          "には",
+          "だけ"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.12-grammar-5-2",
+        "number": 27,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "近年の健康意識の高まり（ ）健康食品は急成長している。",
+        "options": [
+          "に次いで",
+          "にわたって",
+          "を受けて",
+          "をめぐって"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.12-grammar-5-3",
+        "number": 28,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "息子はサッカーの練習でよほど疲れていたのか、家に（ ）食事もとらず、寝てしまった。",
+        "options": [
+          "帰り次第",
+          "帰るなり",
+          "帰ったなり",
+          "帰るとなれば"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.12-grammar-5-4",
+        "number": 29,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "ウェブサイトごとに異なるパスワードを設定するのは面倒だが、第三者が不正にアクセスされる（ ）、やむを得ない。",
+        "options": [
+          "しかない以上",
+          "しかない反面",
+          "恐れがある以上",
+          "恐れがある反面"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.12-grammar-5-5",
+        "number": 30,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "昨日行った美術館は、一日では（ ）作品が展示されていた。",
+        "options": [
+          "見きれないほどの",
+          "見ずにはいられないほどの",
+          "見きれないといった",
+          "見ずにはいられないといった"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.12-grammar-5-6",
+        "number": 31,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "引っ越しを控えているので、なるべく余計な出費を（ ）、友人に誘われたスキー旅行に行くことにした。",
+        "options": [
+          "押さえたら抑えたで",
+          "抑えられるものなら",
+          "抑えるには抑えずに",
+          "押さえたいところだが"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.12-grammar-5-7",
+        "number": 32,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "1. とは、是对前面的引用，表示惊讶",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "驚いたことに、その小学生は、高校レベルの数学の問題をすらすらと（ ）。",
+        "options": [
+          "解けるとは",
+          "解けるものなら",
+          "解いたまでだ",
+          "解いてみせた"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.12-grammar-5-8",
+        "number": 33,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "専門家の話では、かつてこの地域一帯は海だった（ ）。",
+        "options": [
+          "という",
+          "といえる",
+          "といった",
+          "といわれる"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.12-grammar-5-9",
+        "number": 34,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "子どもは生まれてくる家庭環境を選べない。だからこそ、親の経済状況によって、子どもの教育機会が奪われること（ ）。",
+        "options": [
+          "があるわけではない",
+          "であるわけではない",
+          "があってはならない",
+          "であってはならない"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.12-grammar-5-10",
+        "number": 35,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "（大学で）先生 「青木さん、今度の報告誌のモデルを青木さんにお願いできたらと思うんだけど、どうかな」 青木 「やりたいです。でも、私（ ）」 先生 「もちろん」",
+        "options": [
+          "だったらいいんですか",
+          "なんかでいいんですか",
+          "だったらいいんでしょう",
+          "なんかでいいんでしょうか"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.12-grammar-6-1",
+        "number": 36,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "こそしない表示虽然没有到xxx的地步",
+        "optionReasons": {},
+        "order": [
+          2,
+          3,
+          1,
+          4
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "昨日はとても寒く、積もり ___ ___ _★_ ___ずっと雪が降っていた。",
+        "options": [
+          "が",
+          "こそ",
+          "しなかった",
+          "午前中"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.12-grammar-6-2",
+        "number": 37,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          1,
+          3,
+          2,
+          4
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この映画はあまりにも正直で ___ ___ _★_ ___、コメディー作品だ。",
+        "options": [
+          "真面目すぎる",
+          "周りの人々とのトラブルが絶えない",
+          "がゆえに",
+          "男の日常を描いた"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.12-grammar-6-3",
+        "number": 38,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          3,
+          1,
+          4,
+          2
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "___ ___ _★_ ___ 読みやすいように、最近は、ビジネス理論を漫画でわかりやすく解説したものが多い。",
+        "options": [
+          "堅苦しいものと思われるがちだが",
+          "抵抗がある人にも",
+          "一般的にビジネス書というと",
+          "ビジネス書に"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.12-grammar-6-4",
+        "number": 39,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          2,
+          4,
+          1,
+          3
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "渋滞の中を___ ___ _★_ ___ 遊園地に入る前から疲れてしまった。",
+        "options": [
+          "今度は",
+          "3時間運転して",
+          "駐車場が混雑していて",
+          "ようやくついたと思ったら"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.12-grammar-6-5",
+        "number": 40,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          4,
+          2,
+          3,
+          1
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "商品やサービスが ___ ___ _★_ ___ ない。",
+        "options": [
+          "売れるも売れないも",
+          "その存在が",
+          "知られないことには",
+          "どんなに良い物でも"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.12-grammar-7-1",
+        "number": 41,
+        "selected": [
+          1
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【41】",
+        "options": [
+          "気を使えはしない",
+          "気を使ってなどいない",
+          "気を使わせられはしない",
+          "気を使わせてなどいない"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.12-grammar-7-2",
+        "number": 42,
+        "selected": [
+          1
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "1. 因为那个原因\n2. 不只是那个原因\n3. 那个时候吗\n4. 和那个没关系",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【42】",
+        "options": [
+          "それによって",
+          "そればかりでなく",
+          "それどころか",
+          "それにもかかわらず"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.12-grammar-7-3",
+        "number": 43,
+        "selected": [
+          4
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "1. 如果知道\n2. 知道然后\n3. 知道吗？\n4. 可能应该知道",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【43】",
+        "options": [
+          "承知していれば",
+          "承知していて",
+          "承知していたのか",
+          "承知していたかのように"
+        ]
+      },
+      {
+        "id": "jlpt4you-2024.12-grammar-7-4",
+        "number": 44,
+        "selected": [
+          4
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "1. 如果\n2. \n3. 更加，甚至\n4. 虽说",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【44】",
+        "options": [
+          "なら",
+          "だって",
+          "でさえ",
+          "といっても"
+        ]
+      }
+    ]
+  }
+}

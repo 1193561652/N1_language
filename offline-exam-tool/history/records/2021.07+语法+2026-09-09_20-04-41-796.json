@@ -1,0 +1,520 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1788955481796-nytkiw",
+    "submittedAt": "2026-09-09T12:04:41.796Z",
+    "timezoneOffsetMinutes": -480,
+    "year": "2021.07",
+    "category": "语法",
+    "questionCount": 19,
+    "total": 19,
+    "answered": 19,
+    "correct": 14,
+    "percentage": 74,
+    "durationSeconds": 1755,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "id": "sbry-n1-2021.07-文法-5-26",
+        "number": 26,
+        "selected": [
+          3
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "このカメラは、プロの写真家()、普通の人間には使いこなせないだろう。",
+        "options": [
+          "はおろか",
+          "ならまだしも",
+          "どころではなく",
+          "に比べて"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.07-文法-5-27",
+        "number": 27,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "3,000Mを超える冬山に、十分な装備もなく単独で登るのは、()極まりない行為だ。",
+        "options": [
+          "危険",
+          "危険の",
+          "危険な",
+          "危険に"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.07-文法-5-28",
+        "number": 28,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "新作ゲ一ム機の発売イベントは、今週末に東京で()、全国を巡回していく予定だ。",
+        "options": [
+          "開催されるのを皮切りに",
+          "開催されるや否や",
+          "開催されたとたんに",
+          "開催されて以来"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.07-文法-5-29",
+        "number": 29,
+        "selected": [
+          1
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "彼は自転車がよほど好きらしい。()毎日楽しそうに自転車で通勤してくる。",
+        "options": [
+          "雨とも雪とも",
+          "雨でもなく雪でもなく",
+          "雨というか雪というか",
+          "雨だろうと雪だろうと"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.07-文法-5-30",
+        "number": 30,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "「口は災いのもと」というのは、余計なことをつい()、自らに災いが降りかかるという意味です。",
+        "options": [
+          "言ってみたばかり",
+          "言ってみたとおり",
+          "言ってしまったばかりに",
+          "言ってしまったとおりに"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.07-文法-5-31",
+        "number": 31,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "歯医者「歯を磨くときに、汚れを()、強い力で磨いてしまいがちですが、力を入れすぎると、歯を傷つけてしまいます。優しく磨きましょう。」",
+        "options": [
+          "落とそうとするあまり",
+          "落とそうとしたわりに",
+          "落とせばいいのであれば",
+          "落とせばいいかというと"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.07-文法-5-32",
+        "number": 32,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "河川の清掃活動の指揮を任された山田さんは、「大変な仕事ですが、()と思っています」と語った。",
+        "options": [
+          "やってやることがない",
+          "やってもやるべきではない",
+          "やってもやれるものでもない",
+          "やってやれないことはない"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.07-文法-5-33",
+        "number": 33,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "就職先は慎重に選ばないと「こんなはずではなかった」()。",
+        "options": [
+          "といったようにはしかねる",
+          "といったようにならない",
+          "ということになりかねない",
+          "ということにはありえない"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.07-文法-5-34",
+        "number": 34,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "X社は経営に行き詰まっている。今回の成果主義導入も、労働意欲向上のためとはいうが、結局は人件費削減を正当化するための口実()。",
+        "options": [
+          "になどせぬ",
+          "にすぎない",
+          "でかまわぬ",
+          "でもあるまい"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.07-文法-5-35",
+        "number": 35,
+        "selected": [
+          3
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(メ一ルで)\n初めてご連絡いたします。南市生涯学習課の中為と申します。当市では、来年度、生涯学習をテ一マにした講演会を企画しております。つきましては、林先生にぜひご講演をお願いしたく、()。",
+        "options": [
+          "ご連絡を承りました",
+          "ご連絡した次第です",
+          "ご連絡をくださいました",
+          "ご連絡したことです"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.07-文法-6-36",
+        "number": 36,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          3,
+          1,
+          4,
+          2
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "そんな簡単なこと、わざわざあなたに＿＿＿＿ ＿＿＿＿ ★ ＿＿＿＿。",
+        "options": [
+          "もらう",
+          "ない",
+          "説明して",
+          "までも"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.07-文法-6-37",
+        "number": 37,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          4,
+          2,
+          1,
+          3
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "ちょっと考えれば、さっきの話が冗談＿＿＿＿ ＿＿＿＿ ★ ＿＿＿＿単純な彼は簡単に信じてしまった。",
+        "options": [
+          "わかるだろう",
+          "だって",
+          "に",
+          "ことくらい"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.07-文法-6-38",
+        "number": 38,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          4,
+          2,
+          1,
+          3
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "彼はとても優秀で成績が学年の上位に入っている＿＿＿＿ ＿＿＿＿ ★ ＿＿＿＿真面目で好感が持てる。",
+        "options": [
+          "授業に取り組む",
+          "のみならず",
+          "姿勢そのものも",
+          "ことが多い"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.07-文法-6-39",
+        "number": 39,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          4,
+          1,
+          3,
+          2
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "全国高校バスケットボ一ル大会で、惜しくも＿＿＿＿ ＿＿＿＿ ★ ＿＿＿＿しばらくの間、ぼう然としていた。",
+        "options": [
+          "優勝を逃した",
+          "控え室に戻っても",
+          "選手たちは",
+          "あと一歩というところで"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.07-文法-6-40",
+        "number": 40,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          1,
+          4,
+          2,
+          3
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "私が接客するにあたって＿＿＿＿ ＿＿＿＿ ★ ＿＿＿＿自分は何をすべきかということだ。",
+        "options": [
+          "常に考えているのは",
+          "何であって",
+          "それに応えるために",
+          "お客様が求めていることは"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.07-文法-7-41",
+        "number": 41,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "41",
+        "options": [
+          "思うようだ",
+          "思うからだ",
+          "思ったそうだ",
+          "思ったのである"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.07-文法-7-42",
+        "number": 42,
+        "selected": [
+          1
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "42",
+        "options": [
+          "も",
+          "なら",
+          "さえ",
+          "だけ"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.07-文法-7-43",
+        "number": 43,
+        "selected": [
+          1
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "43",
+        "options": [
+          "確かに",
+          "むしろ",
+          "とはいえ",
+          "とすると"
+        ]
+      },
+      {
+        "id": "sbry-n1-2021.07-文法-7-44",
+        "number": 44,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "44",
+        "options": [
+          "こうして",
+          "そんなに",
+          "あのように",
+          "どれも"
+        ]
+      }
+    ]
+  }
+}
