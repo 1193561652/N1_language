@@ -1,0 +1,1488 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1790043464744-gto0kj",
+    "submittedAt": "2026-09-22T02:17:44.744Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "practice": {
+      "filters": {
+        "subject": "文字・词汇",
+        "problem": "1",
+        "tag": "language.q1.verb"
+      },
+      "requestedCount": 50,
+      "questionIds": [
+        "sbry-n1-2017.12-文字・語彙-1-6",
+        "sbry-n1-2022.12-文字・語彙-1-5",
+        "sbry-n1-2014.07-文字・語彙-1-6",
+        "sbry-n1-2015.12-文字・語彙-1-4",
+        "sbry-n1-2020.12-文字・語彙-1-4",
+        "sbry-n1-2010.12-文字・語彙-1-4",
+        "sbry-n1-2014.12-文字・語彙-1-4",
+        "markdown-2025.12-language-2",
+        "sbry-n1-2019.07-文字・語彙-1-3",
+        "sbry-n1-2017.07-文字・語彙-1-5",
+        "sbry-n1-2022.07-文字・語彙-1-3",
+        "sbry-n1-2016.07-文字・語彙-1-6",
+        "sbry-n1-2018.07-文字・語彙-1-5",
+        "sbry-n1-2021.07-文字・語彙-1-4",
+        "sbry-n1-2012.12-文字・語彙-1-4",
+        "sbry-n1-2011.07-文字・語彙-1-2",
+        "sbry-n1-2021.12-文字・語彙-1-4",
+        "markdown-2025.07-language-5",
+        "sbry-n1-2019.07-文字・語彙-1-6",
+        "sbry-n1-2015.12-文字・語彙-1-6",
+        "sbry-n1-2017.07-文字・語彙-1-3",
+        "jlpt4you-2023.12-vocabulary-1-5",
+        "sbry-n1-2010.07-文字・語彙-1-3",
+        "sbry-n1-2017.12-文字・語彙-1-3",
+        "sbry-n1-2011.07-文字・語彙-1-4",
+        "jlpt4you-2023.07-vocabulary-1-2",
+        "sbry-n1-2019.12-文字・語彙-1-2",
+        "sbry-n1-2022.07-文字・語彙-1-6",
+        "sbry-n1-2018.12-文字・語彙-1-3",
+        "sbry-n1-2010.07-文字・語彙-1-5",
+        "sbry-n1-2012.07-文字・語彙-1-2",
+        "jlpt4you-2024.12-vocabulary-1-4",
+        "sbry-n1-2014.12-文字・語彙-1-6",
+        "jlpt4you-2024.07-vocabulary-1-5",
+        "sbry-n1-2016.12-文字・語彙-1-5",
+        "sbry-n1-2020.12-文字・語彙-1-2",
+        "sbry-n1-2013.12-文字・語彙-1-5",
+        "sbry-n1-2010.12-文字・語彙-1-5",
+        "sbry-n1-2016.07-文字・語彙-1-2",
+        "sbry-n1-2015.12-文字・語彙-1-2",
+        "sbry-n1-2011.12-文字・語彙-1-1",
+        "sbry-n1-2017.07-文字・語彙-1-1",
+        "sbry-n1-2010.12-文字・語彙-1-6",
+        "sbry-n1-2015.07-文字・語彙-1-2",
+        "sbry-n1-2018.12-文字・語彙-1-5",
+        "sbry-n1-2014.12-文字・語彙-1-2",
+        "sbry-n1-2022.12-文字・語彙-1-3"
+      ]
+    },
+    "year": "专项练习",
+    "category": "文字・词汇",
+    "questionCount": 47,
+    "total": 47,
+    "answered": 47,
+    "correct": 43,
+    "percentage": 91,
+    "durationSeconds": 625,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2017.12-文字・語彙-1-6",
+        "number": 6,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "友人と東京の名所を【巡り】、旅を満喫した。",
+        "options": [
+          "さぐり",
+          "たどり",
+          "めぐり",
+          "ねばり"
+        ]
+      },
+      {
+        "sourceYear": "2022.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2022.12-文字・語彙-1-5",
+        "number": 5,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "厳しい練習に【臨む】選手たちの姿を目にした。",
+        "options": [
+          "いどむ",
+          "はげむ",
+          "なやむ",
+          "のぞむ"
+        ]
+      },
+      {
+        "sourceYear": "2014.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2014.07-文字・語彙-1-6",
+        "number": 6,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "介護制度の整備が遅れているという事実は【否めない】だろう。",
+        "options": [
+          "いなめない",
+          "ひめない",
+          "こばめない",
+          "ゆがめない"
+        ]
+      },
+      {
+        "sourceYear": "2015.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2015.12-文字・語彙-1-4",
+        "number": 4,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "佐藤さんの日々の努力は尊敬に【値する】。",
+        "options": [
+          "ちする",
+          "ねする",
+          "ちょくする",
+          "あたいする"
+        ]
+      },
+      {
+        "sourceYear": "2020.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2020.12-文字・語彙-1-4",
+        "number": 4,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "書類にミスがあったので、すぐに修正を【促した】。",
+        "options": [
+          "すました",
+          "ほどこした",
+          "せかした",
+          "うながした"
+        ]
+      },
+      {
+        "sourceYear": "2010.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2010.12-文字・語彙-1-4",
+        "number": 4,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "先日の会議では、【極めて】重要な問題が話し合われた。",
+        "options": [
+          "きわめて",
+          "あらためて",
+          "つとめて",
+          "つきつめて"
+        ]
+      },
+      {
+        "sourceYear": "2014.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2014.12-文字・語彙-1-4",
+        "number": 4,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "春になり、辺りには花の香りが【漂い】はじめた。",
+        "options": [
+          "さまよい",
+          "うるおい",
+          "ただよい",
+          "におい"
+        ]
+      },
+      {
+        "sourceYear": "2025.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "markdown-2025.12-language-2",
+        "number": 2,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "思わぬところに深刻な問題が⟦u⟧潜んで⟦/u⟧いた。",
+        "options": [
+          "およんで",
+          "からんで",
+          "しずんで",
+          "ひそんで"
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2019.07-文字・語彙-1-3",
+        "number": 3,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【崩れやすい】ので、運ぶときは気をつけてください。",
+        "options": [
+          "つぶれやすい",
+          "くずれやすい",
+          "はがれやすい",
+          "こぼれやすい"
+        ]
+      },
+      {
+        "sourceYear": "2017.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2017.07-文字・語彙-1-5",
+        "number": 5,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "毎回のように反対派の人々に【阻まれて】きた。",
+        "options": [
+          "はばまれて",
+          "にらまれて",
+          "からまれて",
+          "こばまれて"
+        ]
+      },
+      {
+        "sourceYear": "2022.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2022.07-文字・語彙-1-3",
+        "number": 3,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "チームの多くの選手が監督を【慕って】いるようだ。",
+        "options": [
+          "いたわって",
+          "うやまって",
+          "したって",
+          "かばって"
+        ]
+      },
+      {
+        "sourceYear": "2016.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2016.07-文字・語彙-1-6",
+        "number": 6,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この雑誌にある情報は少し【偏って】いる。",
+        "options": [
+          "こだわって",
+          "あやまって",
+          "いつわって",
+          "かたよって"
+        ]
+      },
+      {
+        "sourceYear": "2018.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2018.07-文字・語彙-1-5",
+        "number": 5,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "自分を【戒めたい】と思う。",
+        "options": [
+          "あらためたい",
+          "なぐさめたい",
+          "きわめたい",
+          "いましめたい"
+        ]
+      },
+      {
+        "sourceYear": "2021.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2021.07-文字・語彙-1-4",
+        "number": 4,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "彼は顔を真っ赤にして【憤った】。",
+        "options": [
+          "どなった",
+          "ののしった",
+          "いきどおった",
+          "うなった"
+        ]
+      },
+      {
+        "sourceYear": "2012.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2012.12-文字・語彙-1-4",
+        "number": 4,
+        "selected": [
+          1
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "新商品の開発には多額の資金を【費やした】。",
+        "options": [
+          "ひやした",
+          "つやした",
+          "ついやした",
+          "ひいやした"
+        ]
+      },
+      {
+        "sourceYear": "2011.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2011.07-文字・語彙-1-2",
+        "number": 2,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "橋本選手の活躍で、なんとかピンチを【逃れた】。",
+        "options": [
+          "のがれた",
+          "はなれた",
+          "それた",
+          "まぬがれた"
+        ]
+      },
+      {
+        "sourceYear": "2021.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2021.12-文字・語彙-1-4",
+        "number": 4,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "その手紙は、私の心を【慰めて】くれた。",
+        "options": [
+          "なだめて",
+          "なぐさめて",
+          "あらためて",
+          "とどめて"
+        ]
+      },
+      {
+        "sourceYear": "2025.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "markdown-2025.07-language-5",
+        "number": 5,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "自分には⟦u⟧裁く⟦/u⟧ことはできなかった。",
+        "options": [
+          "あばく",
+          "つらぬく",
+          "あざむく",
+          "さばく"
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2019.07-文字・語彙-1-6",
+        "number": 6,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "夕日に赤く【映える】山を写真に収めた。",
+        "options": [
+          "そびえる",
+          "はえる",
+          "もえる",
+          "さえる"
+        ]
+      },
+      {
+        "sourceYear": "2015.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2015.12-文字・語彙-1-6",
+        "number": 6,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "優勝を目指してこれからも練習に【励んで】いきます。",
+        "options": [
+          "はげんで",
+          "およんで",
+          "いどんで",
+          "しのんで"
+        ]
+      },
+      {
+        "sourceYear": "2017.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2017.07-文字・語彙-1-3",
+        "number": 3,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "これが私に【託された】仕事です。",
+        "options": [
+          "かされた",
+          "まかされた",
+          "くだされた",
+          "たくされた"
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "jlpt4you-2023.12-vocabulary-1-5",
+        "number": 5,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この食堂で社員全員の昼食を⟦u⟧賄って⟦/u⟧いる。",
+        "options": [
+          "ふるまって",
+          "になって",
+          "あつかって",
+          "まかなって"
+        ]
+      },
+      {
+        "sourceYear": "2010.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2010.07-文字・語彙-1-3",
+        "number": 3,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この国は、昔から貿易によって【潤って】きた",
+        "options": [
+          "もうかって",
+          "まかなって",
+          "あきなって",
+          "うるおって"
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2017.12-文字・語彙-1-3",
+        "number": 3,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "書類の確認を【怠った】ために、問題が生じた。",
+        "options": [
+          "いつわった",
+          "ためらった",
+          "あやまった",
+          "おこたった"
+        ]
+      },
+      {
+        "sourceYear": "2011.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2011.07-文字・語彙-1-4",
+        "number": 4,
+        "selected": [
+          4
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この辺りは視界を【遮る】物が何もない。",
+        "options": [
+          "さまたげる",
+          "さえぎる",
+          "せばめる",
+          "へだてる"
+        ]
+      },
+      {
+        "sourceYear": "2023.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "jlpt4you-2023.07-vocabulary-1-2",
+        "number": 2,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "西村さんはいたずらした子供を優しく⟦u⟧諭した⟦/u⟧。",
+        "options": [
+          "さとした",
+          "あやした",
+          "ただした",
+          "いやした"
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2019.12-文字・語彙-1-2",
+        "number": 2,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "力を入れたら【砕けて】しまった。",
+        "options": [
+          "くだけて",
+          "かけて",
+          "はじけて",
+          "さけて"
+        ]
+      },
+      {
+        "sourceYear": "2022.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2022.07-文字・語彙-1-6",
+        "number": 6,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "激しい雪に【阻まれて】前に進めない。",
+        "options": [
+          "かこまれて",
+          "からまれて",
+          "こばまれて",
+          "はばまれて"
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2018.12-文字・語彙-1-3",
+        "number": 3,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "今、アイディアを【募って】いるところですので、ご協力をお願いします。",
+        "options": [
+          "しぼって",
+          "ねって",
+          "つのって",
+          "さぐって"
+        ]
+      },
+      {
+        "sourceYear": "2010.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2010.07-文字・語彙-1-5",
+        "number": 5,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "開発のために古いビルが次々と【壊されて】いる。",
+        "options": [
+          "こわされて",
+          "くずされて",
+          "たおされて",
+          "つぶされて"
+        ]
+      },
+      {
+        "sourceYear": "2012.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2012.07-文字・語彙-1-2",
+        "number": 2,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "これまでの学説を【覆す】ような新事実が発見された。",
+        "options": [
+          "ひるがえす",
+          "くつがえす",
+          "まどわす",
+          "ゆるがす"
+        ]
+      },
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "jlpt4you-2024.12-vocabulary-1-4",
+        "number": 4,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "人を⟦u⟧侮って⟦/u⟧はいけない。",
+        "options": [
+          "からかって",
+          "ののしって",
+          "あなどって",
+          "うらぎって"
+        ]
+      },
+      {
+        "sourceYear": "2014.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2014.12-文字・語彙-1-6",
+        "number": 6,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "これ以上【拒んで】もしかたない。",
+        "options": [
+          "うらんで",
+          "おがんで",
+          "にくんで",
+          "こばんで"
+        ]
+      },
+      {
+        "sourceYear": "2024.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "jlpt4you-2024.07-vocabulary-1-5",
+        "number": 5,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "手紙の内容は私を⟦u⟧戒める⟦/u⟧ものだった。",
+        "options": [
+          "とがめる",
+          "せめる",
+          "なぐさめる",
+          "いましめる"
+        ]
+      },
+      {
+        "sourceYear": "2016.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2016.12-文字・語彙-1-5",
+        "number": 5,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "その風習は、今はもう【廃れて】しまった。",
+        "options": [
+          "くずれて",
+          "かすれて",
+          "つぶれて",
+          "すたれて"
+        ]
+      },
+      {
+        "sourceYear": "2020.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2020.12-文字・語彙-1-2",
+        "number": 2,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "田中選手は、最後まで【粘って】、ついに勝利を収めた。",
+        "options": [
+          "ねばって",
+          "あらそって",
+          "きそって",
+          "ふんばって"
+        ]
+      },
+      {
+        "sourceYear": "2013.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2013.12-文字・語彙-1-5",
+        "number": 5,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "川田さんは最後まで自分の主張を【貫いた】。",
+        "options": [
+          "つらぬいた",
+          "つらむいた",
+          "すらぬいた",
+          "すらむいた"
+        ]
+      },
+      {
+        "sourceYear": "2010.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2010.12-文字・語彙-1-5",
+        "number": 5,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "もう少しアイディアを【練って】からお話しします。",
+        "options": [
+          "けずって",
+          "つのって",
+          "ほって",
+          "ねって"
+        ]
+      },
+      {
+        "sourceYear": "2016.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2016.07-文字・語彙-1-2",
+        "number": 2,
+        "selected": [
+          1
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "将来のために様々な知識を【蓄えて】おきたい。",
+        "options": [
+          "たずさえて",
+          "そなえて",
+          "かかえて",
+          "たくわえて"
+        ]
+      },
+      {
+        "sourceYear": "2015.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2015.12-文字・語彙-1-2",
+        "number": 2,
+        "selected": [
+          4
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この説は、鈴木氏が30年前に初めて【唱えた】。",
+        "options": [
+          "たたえた",
+          "となえた",
+          "かなえた",
+          "うったえた"
+        ]
+      },
+      {
+        "sourceYear": "2011.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2011.12-文字・語彙-1-1",
+        "number": 1,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "時間がたつにつれて、選手の動きが【鈍って】きた。",
+        "options": [
+          "にぶって",
+          "とどこおって",
+          "おとって",
+          "ちぢまって"
+        ]
+      },
+      {
+        "sourceYear": "2017.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2017.07-文字・語彙-1-1",
+        "number": 1,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この広大な大地を【潤す】にはまだまだ不十分だった。",
+        "options": [
+          "たがやす",
+          "ぬらす",
+          "うるおす",
+          "いやす"
+        ]
+      },
+      {
+        "sourceYear": "2010.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2010.12-文字・語彙-1-6",
+        "number": 6,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "靴のひもを【締めた】。",
+        "options": [
+          "からめた",
+          "ゆるめた",
+          "はめた",
+          "しめた"
+        ]
+      },
+      {
+        "sourceYear": "2015.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2015.07-文字・語彙-1-2",
+        "number": 2,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "学生に【慕われる】教師になりたい。",
+        "options": [
+          "したわれる",
+          "したがわれる",
+          "うやまわれる",
+          "ともなわれる"
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2018.12-文字・語彙-1-5",
+        "number": 5,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【滞って】いた作業が、担当者が変わってからスムーズに進み出した。",
+        "options": [
+          "とどこおって",
+          "つまって",
+          "てこずって",
+          "たまって"
+        ]
+      },
+      {
+        "sourceYear": "2014.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2014.12-文字・語彙-1-2",
+        "number": 2,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "面接には、しっかりと準備をして【臨みたい】と思う。",
+        "options": [
+          "からみたい",
+          "いどみたい",
+          "はげみたい",
+          "のぞみたい"
+        ]
+      },
+      {
+        "sourceYear": "2022.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2022.12-文字・語彙-1-3",
+        "number": 3,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "文字が【透けて】いる。",
+        "options": [
+          "ぼけて",
+          "かけて",
+          "ぬけて",
+          "すけて"
+        ]
+      }
+    ]
+  }
+}
