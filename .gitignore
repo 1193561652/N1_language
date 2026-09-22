@@ -8,5 +8,4 @@ __pycache__/
 !.env.example
 *.dpapi
 /offline-exam-tool/config/
-/offline-exam-tool/history/
 /local-config/

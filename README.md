@@ -93,4 +93,4 @@ python .\offline-exam-tool\start_offline_exam.py
 
 当前工作空间为 E:\N1_language。资料目录保持原有结构，所有后续维护在此目录进行。
 
-Git 包含课程、题库、原始资料与处理产物；虚拟环境、临时文件、日志、个人答题历史及本地认证配置仅保存在本机。Gemini 转换工具优先读取 GEMINI_API_KEY 环境变量，也兼容 local-config 中的本地密钥文件。
+Git 包含课程、题库、原始资料、处理产物及个人答题历史（`offline-exam-tool/history/`）。答题仍先保存到本机，执行 commit 和 push 后才上传到远程仓库，不会每次提交答案就自动推送。虚拟环境、临时文件、日志及本地认证配置仅保存在本机。Gemini 转换工具优先读取 GEMINI_API_KEY 环境变量，也兼容 local-config 中的本地密钥文件。
