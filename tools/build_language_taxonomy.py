@@ -16,7 +16,7 @@ from language_tag_annotations import READING, MEANING, PARAPHRASE, USAGE
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / 'output/N1考试知识库/文字词汇分类'
 SOURCE = ROOT / 'offline-exam-tool/data.js'
-VERSION = '1.1'
+VERSION = '1.2'
 # These annotations were reviewed against this exact bundle, not future changes.
 REVIEWED_SOURCE_SHA256 = 'b3982d3045b36e02ddf9841f5da7ae81f6acdd65074abdfe9ce3c617d6b0189f'
 GROUPS = {1:'读音', 2:'词汇意思', 3:'近义词替换', 4:'在句子中词汇用法'}
@@ -43,6 +43,8 @@ WORD_CODES = {
  'D': ('adverb', '一般副词'),
  'O': ('other', '其他名词及惯用表达'),
 }
+MEANING_CODES = {code: value for code, value in WORD_CODES.items() if code not in {'T', 'N', 'R', 'E'}}
+MEANING_CODES['M'] = ('mimetic', '拟声・拟态词')
 USE_CODES = {
  'S': ('sense', '核心词义与语境'),
  'O': ('object', '适用对象与使用范围'),
@@ -96,7 +98,7 @@ def parse_usage():
 def definitions():
     result = []
     for group in GROUPS:
-        codebook = READ_CODES if group==1 else USE_CODES if group==4 else WORD_CODES
+        codebook = READ_CODES if group==1 else USE_CODES if group==4 else MEANING_CODES if group==2 else WORD_CODES
         for code,(suffix,label) in codebook.items():
             if group==2 and code=='H':label='汉字熟语，以近义二字词辨析为主'
             if group==2 and code=='O':label='其他名词、惯用表达及构词成分'
@@ -165,6 +167,7 @@ def validate(rows,data,tags):
     assert actual['sbry-n1-2015.07-文字・語彙-3-17']['tags']==['language.q3.kanji'] # 助言→アドバイス
     assert actual['markdown-2025.12-language-15']['tags']==['language.q3.adjective.other'] # ひそかに→こっそり
     assert actual['sbry-n1-2017.12-文字・語彙-2-13']['tags']==['language.q2.adjective.other'] # まちまち is not tagged by spelling alone
+    assert sum('language.q2.mimetic' in r['tags'] for r in rows)==22
     # The scope guard itself must reject a valid tag from another problem.
     invalid={**rows[0], 'tags':['language.q4.sense']}
     try:
@@ -193,6 +196,8 @@ def render(data,tags,rows,report):
     OUT.mkdir(parents=True,exist_ok=True)
     (OUT/'期次').mkdir(exist_ok=True)
     (OUT/'标签').mkdir(exist_ok=True)
+    for obsolete in (OUT/'标签').glob('language.q2.mimetic.*.md'):
+        obsolete.unlink()
     (OUT/'校验报告.json').write_text('{"status":"checking"}\n',encoding='utf-8')
     tag_map={t['id']:t for t in tags}
     taxonomy={'version':VERSION,'agreedDate':'2026-09-20','subject':'文字・词汇',
@@ -201,7 +206,7 @@ def render(data,tags,rows,report):
                        '問題2按正确选词；問題3按题干被替换词；問題4按四个句子的用法差别',
                        '主标签是本题主要归档入口；辅助标签仍不得跨问题'], 'tags':tags}
     (OUT/'分类法.json').write_text(json.dumps(taxonomy,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
-    lines=['# 文字・词汇考点分类法', '', f'版本：{VERSION}；商定日期：2026-09-20；2026-09-22合并名词读音子类。', '',
+    lines=['# 文字・词汇考点分类法', '', f'版本：{VERSION}；商定日期：2026-09-20；2026-09-22合并名词读音子类；2026-09-26合并問題2拟声・拟态词子类。', '',
            '适用范围：31期离线真题的文字・词汇（問題1—4）。本目录是此前跨科目草稿在文字・词汇范围内的正式替代。', '',
            '## 标签规则', '', *['- '+x for x in taxonomy['rules']], '',
            '## 分类边界', '',
@@ -210,8 +215,8 @@ def render(data,tags,rows,report):
            '- 「～やか／～らか」指な形容词词干；い形容词活用还原到原形。',
            '- 「～しい」按原形词尾判定；「すさまじい」放其他形容词，不因意思相近强并入。',
            '- 复合动词与一般动词分开；动词派生但在本题作名词的「見返り、手分け、意気込み」按名词归档。',
-           '- 拟声拟态词须先判断词汇性质，再分词形；不能只见重复或り结尾就归入。「まちまち」归其他な形容词，「てっきり、しきりに」归一般副词。',
-           '- ABAB允许常见清浊变化重复形式「つくづく」；「むしゃくしゃ、ぎくしゃく、てきぱき」归其他形式。',
+           '- 拟声拟态词须先判断词汇性质；問題2统一归入拟声・拟态词，問題3继续按词形细分。不能只见重复或り结尾就归入：「まちまち」归其他な形容词，「てっきり、しきりに」归一般副词。',
+           '- 問題3的ABAB允许常见清浊变化重复形式「つくづく」；「むしゃくしゃ、ぎくしゃく、てきぱき」归其他形式。',
            '- 用法题的语法接续只作辅助标签；不会因为题中出现动词就借用問題1—3的动词标签。',
            '- 边界例外：「極めて」实际为副词，暂按动词来源归到读音的动词类，逐题注明，不新增未经商定的标签。', '',]
     for group,title in GROUPS.items():

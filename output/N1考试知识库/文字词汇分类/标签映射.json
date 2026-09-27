@@ -1,5 +1,5 @@
 {
-  "taxonomyVersion": "1.1",
+  "taxonomyVersion": "1.2",
   "sourceSha256": "b3982d3045b36e02ddf9841f5da7ae81f6acdd65074abdfe9ce3c617d6b0189f",
   "questions": {
     "markdown-2025.12-language-1": {
@@ -142,11 +142,11 @@
     "markdown-2025.12-language-13": {
       "problemNumber": 2,
       "lemma": "むしゃくしゃ",
-      "primaryTag": "language.q2.mimetic.other",
+      "primaryTag": "language.q2.mimetic",
       "tags": [
-        "language.q2.mimetic.other"
+        "language.q2.mimetic"
       ],
-      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「むしゃくしゃ」归档为「むしゃくしゃ」；拟声・拟态词 / 其他形式。",
+      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「むしゃくしゃ」归档为「むしゃくしゃ」；拟声・拟态词。",
       "notes": [],
       "sourceQuestionSha256": "8cc81a27466eaa60e798f2998b9bd02712bb30f684698da99c6ef8b7e3e09e9d"
     },
@@ -416,11 +416,11 @@
     "markdown-2025.07-language-12": {
       "problemNumber": 2,
       "lemma": "うすうす",
-      "primaryTag": "language.q2.mimetic.repeat",
+      "primaryTag": "language.q2.mimetic",
       "tags": [
-        "language.q2.mimetic.repeat"
+        "language.q2.mimetic"
       ],
-      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「うすうす」归档为「うすうす」；拟声・拟态词 / ABAB重复型。",
+      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「うすうす」归档为「うすうす」；拟声・拟态词。",
       "notes": [],
       "sourceQuestionSha256": "13fd42a67ec9a2845fb8302555c165eaef71c553fc16350c24656d50abe73d7a"
     },
@@ -690,11 +690,11 @@
     "jlpt4you-2024.12-vocabulary-2-5": {
       "problemNumber": 2,
       "lemma": "へとへと",
-      "primaryTag": "language.q2.mimetic.repeat",
+      "primaryTag": "language.q2.mimetic",
       "tags": [
-        "language.q2.mimetic.repeat"
+        "language.q2.mimetic"
       ],
-      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「へとへと」归档为「へとへと」；拟声・拟态词 / ABAB重复型。",
+      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「へとへと」归档为「へとへと」；拟声・拟态词。",
       "notes": [],
       "sourceQuestionSha256": "12bdad5a40398534d5390192cc40c99861e35981ffcc8a6f562ead60467f4ae4"
     },
@@ -996,11 +996,11 @@
     "jlpt4you-2024.07-vocabulary-2-6": {
       "problemNumber": 2,
       "lemma": "がやがや",
-      "primaryTag": "language.q2.mimetic.repeat",
+      "primaryTag": "language.q2.mimetic",
       "tags": [
-        "language.q2.mimetic.repeat"
+        "language.q2.mimetic"
       ],
-      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「がやがや」归档为「がやがや」；拟声・拟态词 / ABAB重复型。",
+      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「がやがや」归档为「がやがや」；拟声・拟态词。",
       "notes": [],
       "sourceQuestionSha256": "a3cd6c91aa55e33a56757b30e238b2fa09fd2f537c60e43ef5274fac52847c2f"
     },
@@ -1280,11 +1280,11 @@
     "jlpt4you-2023.12-vocabulary-2-6": {
       "problemNumber": 2,
       "lemma": "つくづく",
-      "primaryTag": "language.q2.mimetic.repeat",
+      "primaryTag": "language.q2.mimetic",
       "tags": [
-        "language.q2.mimetic.repeat"
+        "language.q2.mimetic"
       ],
-      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「つくづく」归档为「つくづく」；拟声・拟态词 / ABAB重复型。",
+      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「つくづく」归档为「つくづく」；拟声・拟态词。",
       "notes": [],
       "sourceQuestionSha256": "13b18221ede008519be351e3375df2d9c9b3674a5953878d937abb8713e7c849"
     },
@@ -1530,11 +1530,11 @@
     "jlpt4you-2023.07-vocabulary-2-3": {
       "problemNumber": 2,
       "lemma": "どんより",
-      "primaryTag": "language.q2.mimetic.ri.nasal",
+      "primaryTag": "language.q2.mimetic",
       "tags": [
-        "language.q2.mimetic.ri.nasal"
+        "language.q2.mimetic"
       ],
-      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「どんより」归档为「どんより」；拟声・拟态词 / ～り型 / 拨音型。",
+      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「どんより」归档为「どんより」；拟声・拟态词。",
       "notes": [],
       "sourceQuestionSha256": "3a7936e07abb3b3f221c64ba10434044ef4d0472400ec87e9e8c547eababf6db"
     },
@@ -2131,11 +2131,11 @@
     "sbry-n1-2022.07-文字・語彙-2-12": {
       "problemNumber": 2,
       "lemma": "すべすべ",
-      "primaryTag": "language.q2.mimetic.repeat",
+      "primaryTag": "language.q2.mimetic",
       "tags": [
-        "language.q2.mimetic.repeat"
+        "language.q2.mimetic"
       ],
-      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「すべすべ」归档为「すべすべ」；拟声・拟态词 / ABAB重复型。",
+      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「すべすべ」归档为「すべすべ」；拟声・拟态词。",
       "notes": [],
       "sourceQuestionSha256": "824a966614c485ac6d182942a5a9752986ca8d1b58a6f1bbf13e0f0d05027649"
     },
@@ -2415,11 +2415,11 @@
     "sbry-n1-2021.12-文字・語彙-2-12": {
       "problemNumber": 2,
       "lemma": "めきめき",
-      "primaryTag": "language.q2.mimetic.repeat",
+      "primaryTag": "language.q2.mimetic",
       "tags": [
-        "language.q2.mimetic.repeat"
+        "language.q2.mimetic"
       ],
-      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「めきめき」归档为「めきめき」；拟声・拟态词 / ABAB重复型。",
+      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「めきめき」归档为「めきめき」；拟声・拟态词。",
       "notes": [],
       "sourceQuestionSha256": "350126d9287d52ec7fbfb97ceb2c17cee7a846e0e20fcf63e0183d30427fec83"
     },
@@ -2699,11 +2699,11 @@
     "sbry-n1-2021.07-文字・語彙-2-12": {
       "problemNumber": 2,
       "lemma": "ぎくしゃく",
-      "primaryTag": "language.q2.mimetic.other",
+      "primaryTag": "language.q2.mimetic",
       "tags": [
-        "language.q2.mimetic.other"
+        "language.q2.mimetic"
       ],
-      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「ぎくしゃく」归档为「ぎくしゃく」；拟声・拟态词 / 其他形式。",
+      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「ぎくしゃく」归档为「ぎくしゃく」；拟声・拟态词。",
       "notes": [],
       "sourceQuestionSha256": "8700e98a8f6851b5da386eee58613ba075d3576355ea7963789aa9d03a525a82"
     },
@@ -2963,11 +2963,11 @@
     "sbry-n1-2020.12-文字・語彙-2-10": {
       "problemNumber": 2,
       "lemma": "みっちり",
-      "primaryTag": "language.q2.mimetic.ri.sokuon",
+      "primaryTag": "language.q2.mimetic",
       "tags": [
-        "language.q2.mimetic.ri.sokuon"
+        "language.q2.mimetic"
       ],
-      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「みっちり」归档为「みっちり」；拟声・拟态词 / ～り型 / 促音型。",
+      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「みっちり」归档为「みっちり」；拟声・拟态词。",
       "notes": [],
       "sourceQuestionSha256": "85e1009b0dd08900f9d9f186d6fa055f1ba4cc7da466419ab7542c7cf87b0380"
     },
@@ -2996,11 +2996,11 @@
     "sbry-n1-2020.12-文字・語彙-2-13": {
       "problemNumber": 2,
       "lemma": "うずうず",
-      "primaryTag": "language.q2.mimetic.repeat",
+      "primaryTag": "language.q2.mimetic",
       "tags": [
-        "language.q2.mimetic.repeat"
+        "language.q2.mimetic"
       ],
-      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「うずうず」归档为「うずうず」；拟声・拟态词 / ABAB重复型。",
+      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「うずうず」归档为「うずうず」；拟声・拟态词。",
       "notes": [],
       "sourceQuestionSha256": "99e45f836e7b1e5e6ce567c2f224477f6b2ac23aa902351195836a2748557b34"
     },
@@ -3269,11 +3269,11 @@
     "sbry-n1-2019.12-文字・語彙-2-12": {
       "problemNumber": 2,
       "lemma": "ずっしり",
-      "primaryTag": "language.q2.mimetic.ri.sokuon",
+      "primaryTag": "language.q2.mimetic",
       "tags": [
-        "language.q2.mimetic.ri.sokuon"
+        "language.q2.mimetic"
       ],
-      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「ずっしりと」归档为「ずっしり」；拟声・拟态词 / ～り型 / 促音型。",
+      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「ずっしりと」归档为「ずっしり」；拟声・拟态词。",
       "notes": [],
       "sourceQuestionSha256": "00073bb997fe085d03ebb52c7030ea69a1df9302a2187cb2a240c696e2e64336"
     },
@@ -3566,11 +3566,11 @@
     "sbry-n1-2019.07-文字・語彙-2-13": {
       "problemNumber": 2,
       "lemma": "ひしひし",
-      "primaryTag": "language.q2.mimetic.repeat",
+      "primaryTag": "language.q2.mimetic",
       "tags": [
-        "language.q2.mimetic.repeat"
+        "language.q2.mimetic"
       ],
-      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「ひしひしと」归档为「ひしひし」；拟声・拟态词 / ABAB重复型。",
+      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「ひしひしと」归档为「ひしひし」；拟声・拟态词。",
       "notes": [],
       "sourceQuestionSha256": "b9057d1509ef65dfb761ad976ba475fa5e325c88cfc08834083c7bcc792b8e28"
     },
@@ -3855,11 +3855,11 @@
     "sbry-n1-2018.12-文字・語彙-2-13": {
       "problemNumber": 2,
       "lemma": "せかせか",
-      "primaryTag": "language.q2.mimetic.repeat",
+      "primaryTag": "language.q2.mimetic",
       "tags": [
-        "language.q2.mimetic.repeat"
+        "language.q2.mimetic"
       ],
-      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「せかせかと」归档为「せかせか」；拟声・拟态词 / ABAB重复型。",
+      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「せかせかと」归档为「せかせか」；拟声・拟态词。",
       "notes": [],
       "sourceQuestionSha256": "d1ab9d1495e0e712f75393c248ac94dab176a15a52bde8ceadee83de6b57fdcb"
     },
@@ -4116,11 +4116,11 @@
     "sbry-n1-2018.07-文字・語彙-2-11": {
       "problemNumber": 2,
       "lemma": "がらり",
-      "primaryTag": "language.q2.mimetic.ri.other",
+      "primaryTag": "language.q2.mimetic",
       "tags": [
-        "language.q2.mimetic.ri.other"
+        "language.q2.mimetic"
       ],
-      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「がらりと」归档为「がらり」；拟声・拟态词 / ～り型 / 其他。",
+      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「がらりと」归档为「がらり」；拟声・拟态词。",
       "notes": [],
       "sourceQuestionSha256": "0a269804136e4e159d8e6f2ffbb8281e9782069b775626917f6be1ae22354260"
     },
@@ -4934,11 +4934,11 @@
     "sbry-n1-2016.12-文字・語彙-2-8": {
       "problemNumber": 2,
       "lemma": "すんなり",
-      "primaryTag": "language.q2.mimetic.ri.nasal",
+      "primaryTag": "language.q2.mimetic",
       "tags": [
-        "language.q2.mimetic.ri.nasal"
+        "language.q2.mimetic"
       ],
-      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「すんなり」归档为「すんなり」；拟声・拟态词 / ～り型 / 拨音型。",
+      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「すんなり」归档为「すんなり」；拟声・拟态词。",
       "notes": [],
       "sourceQuestionSha256": "b183241853e6ee753b4d3505834274ffd4a04995febe01e0308e922900c2b8a6"
     },
@@ -5261,11 +5261,11 @@
     "sbry-n1-2016.07-文字・語彙-2-12": {
       "problemNumber": 2,
       "lemma": "へとへと",
-      "primaryTag": "language.q2.mimetic.repeat",
+      "primaryTag": "language.q2.mimetic",
       "tags": [
-        "language.q2.mimetic.repeat"
+        "language.q2.mimetic"
       ],
-      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「へとへとに」归档为「へとへと」；拟声・拟态词 / ABAB重复型。",
+      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「へとへとに」归档为「へとへと」；拟声・拟态词。",
       "notes": [],
       "sourceQuestionSha256": "1362caf8882abb997d578008bc72ec4e1cbe55bbda8bc7a893dfd7dd188b044d"
     },
@@ -5804,11 +5804,11 @@
     "sbry-n1-2015.07-文字・語彙-2-10": {
       "problemNumber": 2,
       "lemma": "くよくよ",
-      "primaryTag": "language.q2.mimetic.repeat",
+      "primaryTag": "language.q2.mimetic",
       "tags": [
-        "language.q2.mimetic.repeat"
+        "language.q2.mimetic"
       ],
-      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「くよくよ」归档为「くよくよ」；拟声・拟态词 / ABAB重复型。",
+      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「くよくよ」归档为「くよくよ」；拟声・拟态词。",
       "notes": [],
       "sourceQuestionSha256": "556209e5b944eac1a883c67837ce4bd8bc275c7d5074f7a564ee8a1139b08c2c"
     },
@@ -6405,11 +6405,11 @@
     "sbry-n1-2014.07-文字・語彙-2-13": {
       "problemNumber": 2,
       "lemma": "てきぱき",
-      "primaryTag": "language.q2.mimetic.other",
+      "primaryTag": "language.q2.mimetic",
       "tags": [
-        "language.q2.mimetic.other"
+        "language.q2.mimetic"
       ],
-      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「てきぱきと」归档为「てきぱき」；拟声・拟态词 / 其他形式。",
+      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「てきぱきと」归档为「てきぱき」；拟声・拟态词。",
       "notes": [],
       "sourceQuestionSha256": "71e3a6846501c52116e7bce0e408f3918582bf410c4975121d50d8b2bc66c46d"
     },
@@ -6658,11 +6658,11 @@
     "sbry-n1-2013.12-文字・語彙-2-10": {
       "problemNumber": 2,
       "lemma": "そわそわ",
-      "primaryTag": "language.q2.mimetic.repeat",
+      "primaryTag": "language.q2.mimetic",
       "tags": [
-        "language.q2.mimetic.repeat"
+        "language.q2.mimetic"
       ],
-      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「そわそわ」归档为「そわそわ」；拟声・拟态词 / ABAB重复型。",
+      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「そわそわ」归档为「そわそわ」；拟声・拟态词。",
       "notes": [],
       "sourceQuestionSha256": "07be5dbbc9740d6a3f5791dd76593e14566c98d2a054724fe3104e00f312d068"
     },
@@ -6974,11 +6974,11 @@
     "sbry-n1-2013.07-文字・語彙-2-13": {
       "problemNumber": 2,
       "lemma": "じめじめ",
-      "primaryTag": "language.q2.mimetic.repeat",
+      "primaryTag": "language.q2.mimetic",
       "tags": [
-        "language.q2.mimetic.repeat"
+        "language.q2.mimetic"
       ],
-      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「じめじめ」归档为「じめじめ」；拟声・拟态词 / ABAB重复型。",
+      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「じめじめ」归档为「じめじめ」；拟声・拟态词。",
       "notes": [],
       "sourceQuestionSha256": "1a2e4300bd85b90d6ebdf3314e878155ea6b9b1869a5ff9aceac9896721664ed"
     },
@@ -8659,11 +8659,11 @@
     "sbry-n1-2010.07-文字・語彙-2-11": {
       "problemNumber": 2,
       "lemma": "やんわり",
-      "primaryTag": "language.q2.mimetic.ri.nasal",
+      "primaryTag": "language.q2.mimetic",
       "tags": [
-        "language.q2.mimetic.ri.nasal"
+        "language.q2.mimetic"
       ],
-      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「やんわり」归档为「やんわり」；拟声・拟态词 / ～り型 / 拨音型。",
+      "evidence": "按本题正确选词归类，不按干扰项扩充标签：「やんわり」归档为「やんわり」；拟声・拟态词。",
       "notes": [],
       "sourceQuestionSha256": "d435f48f3a4a3d949cc43f51cf3b2bd7affddf5d28e1dd517f263addd5a0817c"
     },

@@ -1,6 +1,6 @@
 # 文字・词汇分类知识库
 
-已为 **31期、775道题** 全量标注；每题仅使用所属问题的标签，可多选。分类版本 1.1。
+已为 **31期、775道题** 全量标注；每题仅使用所属问题的标签，可多选。分类版本 1.2。
 
 - [分类法](分类法.md) · [机器可读分类法](分类法.json)
 - [全量逐题标签与原题快照](题目标签.jsonl) · [按题目ID关联的标签映射](标签映射.json)
@@ -31,11 +31,7 @@
 | 問題2 | [一般动词](标签/language.q2.verb.simple.md) | 27 |
 | 問題2 | [汉字熟语，以近义二字词辨析为主](标签/language.q2.kanji.md) | 102 |
 | 問題2 | [片假名词汇](标签/language.q2.katakana.md) | 22 |
-| 問題2 | [拟声・拟态词 / ABAB重复型](标签/language.q2.mimetic.repeat.md) | 13 |
-| 問題2 | [拟声・拟态词 / ～り型 / 促音型](标签/language.q2.mimetic.ri.sokuon.md) | 2 |
-| 問題2 | [拟声・拟态词 / ～り型 / 拨音型](标签/language.q2.mimetic.ri.nasal.md) | 3 |
-| 問題2 | [拟声・拟态词 / ～り型 / 其他](标签/language.q2.mimetic.ri.other.md) | 1 |
-| 問題2 | [拟声・拟态词 / 其他形式](标签/language.q2.mimetic.other.md) | 3 |
+| 問題2 | [拟声・拟态词](标签/language.q2.mimetic.md) | 22 |
 | 問題2 | [一般副词](标签/language.q2.adverb.md) | 9 |
 | 問題2 | [其他名词、惯用表达及构词成分](标签/language.q2.other.md) | 13 |
 | 問題3 | [～しい结尾的形容词](标签/language.q3.adjective.shii.md) | 5 |

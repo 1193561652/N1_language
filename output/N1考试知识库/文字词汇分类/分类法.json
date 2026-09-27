@@ -1,5 +1,5 @@
 {
-  "version": "1.1",
+  "version": "1.2",
   "agreedDate": "2026-09-20",
   "subject": "文字・词汇",
   "scope": "問題1—4；题库底层文字与词汇合并，不含语法、阅读、听力",
@@ -136,61 +136,13 @@
       ]
     },
     {
-      "id": "language.q2.mimetic.repeat",
+      "id": "language.q2.mimetic",
       "problemNumber": 2,
       "problemName": "词汇意思",
       "code": "M",
       "path": [
         "词汇意思",
-        "拟声・拟态词",
-        "ABAB重复型"
-      ]
-    },
-    {
-      "id": "language.q2.mimetic.ri.sokuon",
-      "problemNumber": 2,
-      "problemName": "词汇意思",
-      "code": "T",
-      "path": [
-        "词汇意思",
-        "拟声・拟态词",
-        "～り型",
-        "促音型"
-      ]
-    },
-    {
-      "id": "language.q2.mimetic.ri.nasal",
-      "problemNumber": 2,
-      "problemName": "词汇意思",
-      "code": "N",
-      "path": [
-        "词汇意思",
-        "拟声・拟态词",
-        "～り型",
-        "拨音型"
-      ]
-    },
-    {
-      "id": "language.q2.mimetic.ri.other",
-      "problemNumber": 2,
-      "problemName": "词汇意思",
-      "code": "R",
-      "path": [
-        "词汇意思",
-        "拟声・拟态词",
-        "～り型",
-        "其他"
-      ]
-    },
-    {
-      "id": "language.q2.mimetic.other",
-      "problemNumber": 2,
-      "problemName": "词汇意思",
-      "code": "E",
-      "path": [
-        "词汇意思",
-        "拟声・拟态词",
-        "其他形式"
+        "拟声・拟态词"
       ]
     },
     {
