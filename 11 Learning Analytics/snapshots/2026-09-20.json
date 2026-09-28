@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-20",
+  "newRecords": 1,
+  "newRecordIds": [
+    "1789912385863-2033nn"
+  ],
+  "scope": "文字・词汇／問題1／动词读音专项",
+  "summary": {
+    "totalCorrect": 8,
+    "totalQuestions": 10,
+    "rate": 0.8,
+    "durationSeconds": 102,
+    "optionReasonCount": 0,
+    "answerRevealedBeforeSubmit": 0
+  },
+  "cumulative": {
+    "totalQuestions": 933,
+    "answeredQuestions": 928,
+    "adjudicatedCorrectAnswers": 742
+  },
+  "interpretation": "10题小样本；不外推整类能力。"
+}

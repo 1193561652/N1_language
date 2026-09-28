@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-28",
+  "newRecords": 1,
+  "newRecordIds": [
+    "1790603454282-lomdr9"
+  ],
+  "scope": "文字・词汇／問題1／动词读音专项",
+  "summary": {
+    "totalCorrect": 43,
+    "totalQuestions": 47,
+    "rate": 0.9149,
+    "durationSeconds": 1635,
+    "optionReasonCount": 83,
+    "answerRevealedBeforeSubmit": 0
+  },
+  "cumulative": {
+    "totalQuestions": 1074,
+    "answeredQuestions": 1069,
+    "adjudicatedCorrectAnswers": 869
+  },
+  "interpretation": "9月22、26、28日复测同一47题；成绩用于保持评价，不当作未见题迁移证据。"
+}
