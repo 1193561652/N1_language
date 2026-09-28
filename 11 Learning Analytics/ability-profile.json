@@ -558,7 +558,19 @@
     "optionNotes": 83,
     "nonSelectedOptions": 141,
     "unannotatedNonSelectedOptions": 58,
+    "annotationAudit": {
+      "accurate": 51,
+      "partlyAccurate": 12,
+      "incorrect": 20,
+      "unannotatedWithPriorNote": 7,
+      "unannotatedHighRiskCorrectReadings": 3,
+      "unannotatedPreviouslyAccurate": 5,
+      "unannotatedPreviouslyIncorrect": 2,
+      "unannotatedUnverified": 48,
+      "interpretation": "未标注不是不会的证据；结合重复错题、回退与先前标注判断风险。"
+    },
     "masteryJudgment": "熟题接近高水平；重复错点和回退仍在，未通过主动提取与新题迁移验证",
-    "report": "daily/2026-09-28.md"
+    "report": "daily/2026-09-28.md",
+    "optionAudit": "daily/2026-09-28-option-audit.md"
   }
 }
