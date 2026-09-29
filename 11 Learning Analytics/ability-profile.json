@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "updatedThrough": "2026-09-28",
+  "updatedThrough": "2026-09-29",
   "timezone": "Asia/Shanghai",
   "analysisPolicy": "题型用于统计；诊断、能力追踪和计划以跨题型考点为主。同一题可标注多个考点。语法考点须映射《新完全マスター文法N1》的部—课—条目；没有精确条目时只标对应能力章节。",
   "evidence": {
     "firstDate": "2026-08-28",
-    "lastDate": "2026-09-28",
-    "attempts": 46,
-    "totalQuestions": 1074,
-    "answeredQuestions": 1069,
-    "recordedCorrectAnswers": 869,
-    "adjudicatedCorrectAnswers": 869,
+    "lastDate": "2026-09-29",
+    "attempts": 47,
+    "totalQuestions": 1121,
+    "answeredQuestions": 1116,
+    "recordedCorrectAnswers": 916,
+    "adjudicatedCorrectAnswers": 916,
     "coverage": [
       "文字・词汇",
       "语法（八个期次，含熟题集中复测）"
@@ -19,15 +19,24 @@
       "阅读",
       "听力",
       "阅读与听力基线"
-    ]
+    ],
+    "rawRecordAudit": {
+      "totalFiles": 48,
+      "uniqueRecordIds": 48,
+      "allRecordsQuestions": 1127,
+      "allRecordsAnswered": 1122,
+      "allRecordsRecordedCorrect": 917,
+      "pendingRecordId": "1787920512509-g71xbx",
+      "pendingReason": "沿用历史待核查状态：8/28 20:35六题25秒全选1；未擅自认定为试用或正式测验。"
+    }
   },
   "abilities": {
     "kanjiReading": {
-      "correct": 233,
-      "total": 265,
-      "rate": 0.8792,
+      "correct": 280,
+      "total": 312,
+      "rate": 0.8974,
       "confidence": "high",
-      "description": "累计233/265次作答（87.9%），其中同一47道动词读音题三轮重复；費やす、遮る连续三错，阻む、否める发生回退。熟题识别较强，仍需无选项与新题验证。"
+      "description": "有效口径累计280/312次作答（89.7%）；同一47题四轮43→41→43→47。本轮全部正确，費やす／遮る首次纠正，阻む／否めない恢复；94条中文标注90条可接受、4条错误。熟题识别达标，主动提取、迁移与新纠正词长期保持仍待验证。"
     },
     "contextVocabulary": {
       "correct": 114,
@@ -91,18 +100,17 @@
   },
   "knowledgePoints": {
     "orthographicReading": {
-      "status": "familiar-items-strong-active-recall-unstable",
+      "status": "familiar-pool-perfect-transfer-and-retention-unverified",
       "evidence": [
-        "枯渇→こかつ",
-        "慰める→なぐさめる",
-        "施錠→せじょう",
-        "阻む→はばむ",
-        "動詞讀音47题三轮43/47→41/47→43/47",
-        "費やす、遮る三轮全错",
-        "阻む、否める本轮由对转错",
-        "本轮83条选项标注中阻む正解被误标为拒"
+        "9/22、26、28、29同一47题：43/47→41/47→43/47→47/47",
+        "費やす、遮る三连错后首次纠正",
+        "阻む（2022.07）9/7、9/28曾错，本轮恢复",
+        "否めない9/28错，本轮恢复",
+        "蓄える、巡る、潜む、託す连续两轮正确",
+        "按用户中文输入限制：94条标注90条可接受、4条错误",
+        "からかう标注由戏弄回退为络；せめる／あやす／商う仍错"
       ],
-      "diagnosis": "近音、近义词与题面汉字的对应仍会交叉；标注增加不等于准确。先从无选项主动读音和词形区分入手，再用未见题检验。"
+      "diagnosis": "读音识别明确改善，但主答案满分仍掩盖干扰项混淆。优先改4条错误、复核8个高风险空白；用无选项和新语境判断迁移，不要求机械满标。"
     },
     "lexicalScopeAndCollocation": {
       "status": "priority-weakness",
@@ -193,7 +201,7 @@
     "2024.12熟题的完整排序结构复原"
   ],
   "currentPriorities": [
-    "動詞讀音：費やす／遮る三连错、阻む／否める回退；先无选项主动提取，再用未见题验证",
+    "動詞讀音：四轮熟题首次47/47；纠正4条明确错误标注，补8个历史高风险空白，并验证費やす／遮る／阻む／否めない的无选项提取与间隔保持",
     "篇章连接词的方向：因果、追加、强反转、承认后逆接",
     "反事实条件、かのように与だって的精确义项",
     "敬语主体、助词与授受视角联动",
@@ -545,32 +553,51 @@
     }
   ],
   "latestPractice": {
-    "date": "2026-09-28",
-    "focus": "問題1 動词读音",
+    "date": "2026-09-29",
+    "recordId": "1790656814775-fgutx6",
+    "focus": "問題1 动词读音",
     "samePoolQuestions": 47,
     "samePoolScores": [
       43,
       41,
-      43
+      43,
+      47
     ],
-    "latestCorrect": 43,
+    "latestCorrect": 47,
     "latestTotal": 47,
-    "optionNotes": 83,
+    "durationSeconds": 1265,
+    "optionNotes": 94,
     "nonSelectedOptions": 141,
-    "unannotatedNonSelectedOptions": 58,
+    "annotatedNonSelectedOptions": 93,
+    "annotatedSelectedOptions": 1,
+    "unannotatedNonSelectedOptions": 48,
     "annotationAudit": {
-      "accurate": 51,
-      "partlyAccurate": 12,
-      "incorrect": 20,
-      "unannotatedWithPriorNote": 7,
-      "unannotatedHighRiskCorrectReadings": 3,
-      "unannotatedPreviouslyAccurate": 5,
-      "unannotatedPreviouslyIncorrect": 2,
-      "unannotatedUnverified": 48,
-      "interpretation": "未标注不是不会的证据；结合重复错题、回退与先前标注判断风险。"
+      "accepted": 90,
+      "incorrect": 4,
+      "acceptedRate": 0.9574,
+      "unannotatedPrioritize": 8,
+      "unannotatedRecommendOnce": 30,
+      "unannotatedReuseEvidence": 3,
+      "unannotatedOptional": 7,
+      "policy": "按用户中文输入限制，基本汉字一致即认可；空白不推断不会。"
     },
-    "masteryJudgment": "熟题接近高水平；重复错点和回退仍在，未通过主动提取与新题迁移验证",
-    "report": "daily/2026-09-28.md",
-    "optionAudit": "daily/2026-09-28-option-audit.md"
+    "masteryJudgment": "本题池识别达标；4条标注仍错，未验证主动提取、新语境迁移与新纠正词的间隔保持；整体N1未达完全掌握证据标准。",
+    "report": "daily/2026-09-29.md",
+    "optionAudit": "daily/2026-09-29-option-audit.md",
+    "optionAuditData": "daily/2026-09-29-option-audit.json"
+  },
+  "annotationPolicy": {
+    "updatedAt": "2026-09-29",
+    "userConstraint": "用户只能输入中文，汉字基本一致即可算对。",
+    "evaluation": "中文简写或对应义项成立即认可；不扣日文表记、简繁、送假名分；缺少完整义项不直接算错；未标注不等于不会。",
+    "acceptedExamples": [
+      "炼→練る",
+      "里切→裏切る",
+      "念→唸る",
+      "贿→賄う",
+      "愈→癒す",
+      "恼→悩む"
+    ],
+    "historicalComparability": "旧报告对简写和部分真实义项判定过严，未重算旧标注分母，不与本轮标注正确率作同口径差值比较。"
   }
 }

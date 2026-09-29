@@ -4,6 +4,7 @@
 
 | 想做的事 | 首选位置 | 说明 |
 | --- | --- | --- |
+| 分析答题记录、用户标注和历史能力变化 | `11 Learning Analytics/evaluation-policy.md`、`11 Learning Analytics/README.md` | 先读评价规范；中文标注汉字基本一致即认可，结合历史逐项判断空白是否需补 |
 | 直接进行离线答题 | `index.html` | 双击打开；不要单独移出根目录 |
 | 进行专项练习 | 首页或顶部导航“专项练习” | 文字・词汇/语法 → 問題及名称 → 考点；默认随机10题 |
 | 维护专项练习题池 | `offline-exam-tool/build_practice_data.py` | 读取已审核标签映射并关联原题，新增标注后重建即可 |
