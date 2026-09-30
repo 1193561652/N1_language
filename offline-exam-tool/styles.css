@@ -462,6 +462,8 @@ footer { padding: 1.5rem; color: var(--muted); text-align: center; font-size: .8
 .special-selectors label { min-width: 0; }
 .special-actions { display: flex; flex-wrap: wrap; align-items: flex-end; gap: 1rem; margin: 1.5rem 0 1rem; }
 .special-actions label { display: flex; flex-direction: column; gap: .4rem; }
+.special-actions .special-shuffle { flex-direction: row; align-items: center; gap: .6rem; min-height: 46px; cursor: pointer; }
+.special-shuffle input { width: 1.1rem; height: 1.1rem; accent-color: var(--ink); }
 #special-count { width: 9rem; padding: .75rem 1rem; border: 1px solid var(--line); border-radius: 12px; background: white; color: var(--ink); }
 .special-error { color: var(--red); margin: 0; }
 button:disabled { cursor: not-allowed; opacity: .5; }

@@ -103,6 +103,7 @@
       category: $("#category-select")?.value || state.category,
       specialFilters: specialFilters(),
       specialCount: $("#special-count").value,
+      specialShuffleOptions: $("#special-shuffle-options").checked,
       historyYear: $("#history-year-filter")?.value || "",
       historyCategory: $("#history-category-filter")?.value || "",
       examActive,
@@ -317,7 +318,10 @@
       const requestedCount = Number($("#special-count").value);
       const questionIds = PRACTICE.sample(filters, requestedCount);
       if (!questionIds.length) throw new Error("当前范围暂无已标记题目。");
-      startExam(null, { filters, requestedCount, questionIds });
+      const shuffleOptions = $("#special-shuffle-options").checked;
+      const optionOrders = shuffleOptions ? Object.fromEntries(questionIds.map((id) =>
+        [id, window.SpecialPractice.shuffleOptionOrder(PRACTICE.question(id))])) : {};
+      startExam(null, { filters, requestedCount, questionIds, shuffleOptions, optionOrders });
       switchView("practice");
     } catch (error) {
       $("#special-error").textContent = error.message;
@@ -339,6 +343,7 @@
     });
     $("#special-tag").addEventListener("change", () => { updateSpecialSummary(); saveUiState(); });
     $("#special-count").addEventListener("input", () => { updateSpecialSummary(); saveUiState(); });
+    $("#special-shuffle-options").addEventListener("change", saveUiState);
     $("#special-start").addEventListener("click", startSpecialExam);
     $$('[data-go-special]').forEach((button) => button.addEventListener("click", () => switchView("special")));
     $("#tag-insights").addEventListener("click", (event) => {
@@ -440,18 +445,26 @@
     $("#media-summary").textContent = audio || images ? `${audio} 段听力 · ${images} 张图片` : "纯文字试题";
   }
 
+  function displayedOptionOrder(question) {
+    return window.SpecialPractice.optionOrder(question, state.practice?.optionOrders?.[question.id]);
+  }
+
+  function displayedOptionNumber(question, originalNumber) {
+    return originalNumber == null ? null : displayedOptionOrder(question).indexOf(Number(originalNumber)) + 1;
+  }
+
   function optionMarkup(question, subIndex = null) {
     const count = Number(question.optionCount) || 4;
     const options = question.options.length ? question.options : Array.from({ length: count }, (_, i) => `选项 ${i + 1}`);
     const name = subIndex === null ? `answer-${question.id}` : `answer-${question.id}-${subIndex}`;
     const scope = subIndex === null ? "main" : String(subIndex);
-    return `<div class="option-list">${options.map((label, index) => `
+    return `<div class="option-list">${displayedOptionOrder(question).map((number, index) => `
       <div class="option-with-reason">
-        <label class="option" data-option="${index + 1}">
-          <input type="radio" name="${name}" value="${index + 1}" data-question="${question.id}" ${subIndex === null ? "" : `data-sub="${subIndex}"`}>
-          <span><strong>${index + 1}.</strong> ${formatExamText(label)}</span>
+        <label class="option" data-option="${number}">
+          <input type="radio" name="${name}" value="${number}" data-question="${question.id}" ${subIndex === null ? "" : `data-sub="${subIndex}"`}>
+          <span><strong>${index + 1}.</strong> ${formatExamText(options[number - 1])}</span>
         </label>
-        <textarea class="option-reason" data-option-reason-question="${question.id}" data-option-reason-key="${scope}:${index + 1}" maxlength="1200" placeholder="为什么选择或排除此项（可选）"></textarea>
+        <textarea class="option-reason" data-option-reason-question="${question.id}" data-option-reason-key="${scope}:${number}" maxlength="1200" placeholder="为什么选择或排除此项（可选）"></textarea>
       </div>`).join("")}</div>`;
   }
 
@@ -461,10 +474,10 @@
       <div class="ordering-instruction"><strong>句子排序</strong><span>依次点击选项加入排序；第 ${starPosition} 位是 ★，将自动作为本题答案。</span></div>
       <div class="order-replay-note" hidden></div>
       <div class="order-slots" aria-label="当前排列"></div>
-      <div class="ordering-options">${question.options.map((label, index) => `
+      <div class="ordering-options">${displayedOptionOrder(question).map((number, index) => `
         <div class="ordering-option-row">
-          <button type="button" class="order-choice" data-order-add="${index + 1}"><span class="order-choice-number">${index + 1}</span><span>${formatExamText(label)}</span><small></small></button>
-          <textarea class="option-reason" data-option-reason-question="${question.id}" data-option-reason-key="main:${index + 1}" maxlength="1200" placeholder="为什么把此项放在这个位置（可选）"></textarea>
+          <button type="button" class="order-choice" data-order-add="${number}"><span class="order-choice-number">${index + 1}</span><span>${formatExamText(question.options[number - 1])}</span><small></small></button>
+          <textarea class="option-reason" data-option-reason-question="${question.id}" data-option-reason-key="main:${number}" maxlength="1200" placeholder="为什么把此项放在这个位置（可选）"></textarea>
         </div>`).join("")}</div>
       <button type="button" class="order-reset" data-order-reset>清空排序</button>
     </div>`;
@@ -616,7 +629,7 @@
       const label = optionNumber ? question.options[optionNumber - 1] : "等待选择";
       return `<div class="order-slot ${optionNumber ? "filled" : ""} ${star ? "star-slot" : ""}">
         <span class="order-position">${star ? "★" : position + 1}</span>
-        <span class="order-fragment">${optionNumber ? `<b>${optionNumber}.</b> ${formatExamText(label)}` : label}</span>
+        <span class="order-fragment">${optionNumber ? `<b>${displayedOptionNumber(question, optionNumber)}.</b> ${formatExamText(label)}` : label}</span>
         ${optionNumber && !state.submitted ? `<span class="order-actions"><button type="button" data-order-move="-1" data-order-index="${position}" aria-label="向左移动" ${position === 0 ? "disabled" : ""}>←</button><button type="button" data-order-move="1" data-order-index="${position}" aria-label="向右移动" ${position === order.length - 1 ? "disabled" : ""}>→</button><button type="button" data-order-remove="${position}" aria-label="移除此项">×</button></span>` : ""}
       </div>`;
     }).join("");
@@ -658,7 +671,7 @@
   function answerLabels(question, answers) {
     return (answers || []).map((answer) => {
       const number = Number(answer);
-      return answer == null ? null : { number, text: question.options?.[number - 1] || "" };
+      return answer == null ? null : { number: displayedOptionNumber(question, number), text: question.options?.[number - 1] || "" };
     });
   }
 
@@ -695,12 +708,15 @@
       title: question.title || "",
       questionText: question.question || "",
       subQuestionText: question.subQuestion || "",
-      options: (question.options || []).map((text, index) => ({ number: index + 1, text })),
+      options: displayedOptionOrder(question).map((number, index) => ({ number: index + 1, text: question.options?.[number - 1] || "" })),
       userAnswer: answerLabels(question, selected),
       correctAnswer: answerLabels(question, expected),
-      userOrdering: order.map((number, index) => ({ position: index + 1, optionNumber: number, text: question.options?.[number - 1] || "" })),
+      userOrdering: order.map((number, index) => ({ position: index + 1, optionNumber: displayedOptionNumber(question, number), text: question.options?.[number - 1] || "" })),
       userQuestionReason: state.reasons[question.id] || "",
-      userOptionReasons: state.optionReasons[question.id] || {},
+      userOptionReasons: Object.fromEntries(Object.entries(state.optionReasons[question.id] || {}).map(([key, value]) => {
+        const [scope, number] = key.split(":");
+        return [`${scope}:${displayedOptionNumber(question, number)}`, value];
+      })),
     };
   }
 
@@ -915,11 +931,14 @@
     const order = state.orders[question.id] || [];
     const starIndex = isOrderingQuestion(question) ? orderingStarIndex(question) : -1;
     const orderSummary = isOrderingQuestion(question) && order.length
-      ? `<div class="submitted-order"><strong>你的排序：</strong>${order.map((value, position) => `${position === starIndex ? "★" : position + 1}=${value}`).join(" → ")}</div>` : "";
+      ? `<div class="submitted-order"><strong>你的排序：</strong>${order.map((value, position) => `${position === starIndex ? "★" : position + 1}=${displayedOptionNumber(question, value)}`).join(" → ")}</div>` : "";
     const resultText = unanswered ? "未作答" : correct ? "回答正确" : "回答错误";
     const resultClass = correct ? "result-ok" : "result-bad";
     const explanation = card.querySelector(".explanation");
-    explanation.innerHTML = `${orderSummary}<div class="single-check-result ${resultClass}">${resultText}</div><strong>正确答案：${expected.join("、")}</strong>${question.analysis ? `<br><br>${formatAnalysisHtml(question.analysis)}` : ""}${question.analysisSource ? `<small>解析来源：${escapeHtml(question.analysisSource)}</small>` : ""}`;
+    const optionOrder = displayedOptionOrder(question);
+    const numberingNote = question.analysis && optionOrder.some((number, index) => number !== index + 1)
+      ? `<p class="option-numbering-note">以下解析沿用原题编号：${optionOrder.map((number, index) => `本次 ${index + 1}＝原题 ${number}`).join("；")}。</p>` : "";
+    explanation.innerHTML = `${orderSummary}<div class="single-check-result ${resultClass}">${resultText}</div><strong>正确答案：${expected.map((number) => displayedOptionNumber(question, number)).join("、")}</strong>${numberingNote}${question.analysis ? `<br><br>${formatAnalysisHtml(question.analysis)}` : ""}${question.analysisSource ? `<small>解析来源：${escapeHtml(question.analysisSource)}</small>` : ""}`;
     explanation.hidden = false;
 
     const checkButton = card.querySelector("button[data-check-question]");
@@ -978,7 +997,8 @@
         order: [...(state.orders[question.id] || [])], starPosition: isOrderingQuestion(question) ? orderingStarIndex(question) + 1 : null,
         answerRevealedBeforeSubmit: Boolean(state.checked[question.id]),
         questionText: question.question || question.title || question.subQuestion || "",
-        options: question.options || []
+        options: question.options || [],
+        optionOrder: displayedOptionOrder(question)
       });
 
       renderQuestionFeedback(question, selected, expected, results);
@@ -1372,6 +1392,7 @@
     updateSelectionSummary();
     restoreSpecialFilters(saved.specialFilters || {});
     $("#special-count").value = saved.specialCount || "10";
+    $("#special-shuffle-options").checked = saved.specialShuffleOptions === true;
     updateSpecialSummary();
 
     if (saved.historyYear) $("#history-year-filter").value = saved.historyYear;
@@ -1401,6 +1422,7 @@
       <p class="section-kicker">${escapeHtml(record.year)} · ${escapeHtml(record.category)}</p>
       <h2>${record.percentage} 分</h2>
       <p>${formatDate(record.submittedAt)}</p>
+      ${record.practice?.shuffleOptions ? '<p>此汇总表中的答案、排序和选项理由按原题编号显示；理由文字保留作答时的内容。</p>' : ""}
       <div class="detail-grid">
         <div><strong>${record.correct} / ${record.total}</strong><br>正确</div>
         <div><strong>${record.answered} / ${record.total}</strong><br>已答</div>

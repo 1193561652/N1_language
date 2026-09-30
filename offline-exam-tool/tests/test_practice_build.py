@@ -43,7 +43,8 @@ class PracticeIntegrationTest(unittest.TestCase):
             server.RECORDS_DIR = Path(directory) / 'records'
             record = {'id': 'test-special', 'mode': 'special', 'year': '专项练习', 'category': '文字・词汇＋语法',
                       'submittedAt': '2026-09-20T10:00:00Z', 'timezoneOffsetMinutes': -480,
-                      'practice': {'filters': {'subject': '', 'problem': '', 'tag': ''}, 'questionIds': ['a', 'b']},
+                      'practice': {'filters': {'subject': '', 'problem': '', 'tag': ''}, 'questionIds': ['a', 'b'],
+                                   'shuffleOptions': True, 'optionOrders': {'a': [2, 3, 4, 1], 'b': [4, 1, 3, 2]}},
                       'details': [{'id': 'a', 'sourceYear': '2025.12', 'sourceCategory': '文字', 'selected': [1], 'results': [True]},
                                   {'id': 'b', 'sourceYear': '2021.07', 'sourceCategory': '语法', 'order': [2, 1, 3, 4], 'results': [False]}]}
             server.save_records([record])

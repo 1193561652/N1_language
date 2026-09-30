@@ -10,6 +10,20 @@ for (const name of ['data.js', 'practice-data.js', 'special-practice.js']) {
 }
 const { EXAM_DATA: data, PRACTICE_DATA: catalog, SpecialPractice } = context.window;
 const practice = SpecialPractice.create(data, catalog);
+// Saved display orders must survive serialization without changing source answers/options.
+const optionFixture = { options: ['A', 'B', 'C', 'D'], rightAnswer: 3 };
+const shuffled = SpecialPractice.shuffleOptionOrder(optionFixture, () => 0);
+assert.deepEqual([...shuffled], [2, 3, 4, 1]);
+assert.deepEqual([...SpecialPractice.optionOrder(optionFixture)], [1, 2, 3, 4]);
+const restoredOrder = SpecialPractice.optionOrder(optionFixture, JSON.parse(JSON.stringify(shuffled)));
+assert.equal(restoredOrder[1], optionFixture.rightAnswer);
+assert.equal(optionFixture.options[restoredOrder[1] - 1], 'C');
+assert.deepEqual(optionFixture, { options: ['A', 'B', 'C', 'D'], rightAnswer: 3 });
+for (const invalid of [[1, 1, 3, 4], [0, 1, 2, 3], [1, 2], ['1', 2, 3, 4], null]) {
+  assert.deepEqual([...SpecialPractice.optionOrder(optionFixture, invalid)], [1, 2, 3, 4]);
+}
+restoredOrder.reverse();
+assert.deepEqual([...shuffled], [2, 3, 4, 1]);
 assert.equal(practice.pool.length, Object.keys(catalog.questions).length);
 assert(practice.pool.length > 0);
 for (const subject of practice.subjects) {

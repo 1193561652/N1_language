@@ -61,5 +61,23 @@
     }
     return { byId, tags, tagById, annotations, pool, subjects: catalog.subjects || [], subjectOf, eligible, sample, question, stats };
   }
-  window.SpecialPractice = { create };
+  // Each entry is the original option number at a displayed position. Never mutate the question.
+  function optionOrder(question, savedOrder) {
+    const count = question.options?.length || Number(question.optionCount) || 4;
+    const original = Array.from({ length: count }, (_, index) => index + 1);
+    return Array.isArray(savedOrder) && savedOrder.length === count
+      && new Set(savedOrder).size === count && savedOrder.every((value) => original.includes(value))
+      ? [...savedOrder] : original;
+  }
+
+  function shuffleOptionOrder(question, random = Math.random) {
+    const order = optionOrder(question);
+    for (let i = order.length - 1; i > 0; i--) {
+      const j = Math.floor(random() * (i + 1));
+      [order[i], order[j]] = [order[j], order[i]];
+    }
+    return order;
+  }
+
+  window.SpecialPractice = { create, optionOrder, shuffleOptionOrder };
 })();
