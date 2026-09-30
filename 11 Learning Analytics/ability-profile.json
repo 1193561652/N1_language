@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "updatedThrough": "2026-09-29",
+  "updatedThrough": "2026-09-30",
   "timezone": "Asia/Shanghai",
   "analysisPolicy": "题型用于统计；诊断、能力追踪和计划以跨题型考点为主。同一题可标注多个考点。语法考点须映射《新完全マスター文法N1》的部—课—条目；没有精确条目时只标对应能力章节。",
   "evidence": {
     "firstDate": "2026-08-28",
-    "lastDate": "2026-09-29",
-    "attempts": 47,
-    "totalQuestions": 1121,
-    "answeredQuestions": 1116,
-    "recordedCorrectAnswers": 916,
-    "adjudicatedCorrectAnswers": 916,
+    "lastDate": "2026-09-30",
+    "attempts": 48,
+    "totalQuestions": 1168,
+    "answeredQuestions": 1163,
+    "recordedCorrectAnswers": 963,
+    "adjudicatedCorrectAnswers": 963,
     "coverage": [
       "文字・词汇",
       "语法（八个期次，含熟题集中复测）"
@@ -21,22 +21,22 @@
       "阅读与听力基线"
     ],
     "rawRecordAudit": {
-      "totalFiles": 48,
-      "uniqueRecordIds": 48,
-      "allRecordsQuestions": 1127,
-      "allRecordsAnswered": 1122,
-      "allRecordsRecordedCorrect": 917,
+      "totalFiles": 49,
+      "uniqueRecordIds": 49,
+      "allRecordsQuestions": 1174,
+      "allRecordsAnswered": 1169,
+      "allRecordsRecordedCorrect": 964,
       "pendingRecordId": "1787920512509-g71xbx",
       "pendingReason": "沿用历史待核查状态：8/28 20:35六题25秒全选1；未擅自认定为试用或正式测验。"
     }
   },
   "abilities": {
     "kanjiReading": {
-      "correct": 280,
-      "total": 312,
-      "rate": 0.8974,
+      "correct": 327,
+      "total": 359,
+      "rate": 0.9109,
       "confidence": "high",
-      "description": "有效口径累计280/312次作答（89.7%）；同一47题四轮43→41→43→47。本轮全部正确，費やす／遮る首次纠正，阻む／否めない恢复；94条中文标注90条可接受、4条错误。熟题识别达标，主动提取、迁移与新纠正词长期保持仍待验证。"
+      "description": "累计327/359次作答（91.1%）；同一47题五轮43→41→43→47→47。连续两轮满分，費やす／遮る纠正后短期保持；120条标注中116条完整可接受、3条字词错配、1条字形正确但释义需改。新语境迁移、主动提取与新纠正词长期保持仍待验证。"
     },
     "contextVocabulary": {
       "correct": 114,
@@ -100,17 +100,17 @@
   },
   "knowledgePoints": {
     "orthographicReading": {
-      "status": "familiar-pool-perfect-transfer-and-retention-unverified",
+      "status": "familiar-pool-short-term-stable-transfer-unverified",
       "evidence": [
-        "9/22、26、28、29同一47题：43/47→41/47→43/47→47/47",
-        "費やす、遮る三连错后首次纠正",
-        "阻む（2022.07）9/7、9/28曾错，本轮恢复",
-        "否めない9/28错，本轮恢复",
-        "蓄える、巡る、潜む、託す连续两轮正确",
-        "按用户中文输入限制：94条标注90条可接受、4条错误",
-        "からかう标注由戏弄回退为络；せめる／あやす／商う仍错"
+        "同一47题五轮43/47→41/47→43/47→47/47→47/47",
+        "費やす／遮る三错后两对；阻む／否めない回退后两对",
+        "蓄える／巡る／潜む／託す连续三轮正确",
+        "からかう→揶揄、あやす→哄已纠正",
+        "せめる三轮标焦／急／急未纠正；商う上轮错误、本轮空白",
+        "新增抱える→揭、嵌める→履错配；踏张字形对但释义需改",
+        "120条标注中116条完整可接受、117条字词对应可认可；21个空白干扰项"
       ],
-      "diagnosis": "读音识别明确改善，但主答案满分仍掩盖干扰项混淆。优先改4条错误、复核8个高风险空白；用无选项和新语境判断迁移，不要求机械满标。"
+      "diagnosis": "熟题识别与短期保持可上调；纠正具体读音和搭配边界后，用无选项与新语境验证。保留中文输入规则，不扣踏张等字形分，显式错误释义另列。"
     },
     "lexicalScopeAndCollocation": {
       "status": "priority-weakness",
@@ -201,7 +201,7 @@
     "2024.12熟题的完整排序结构复原"
   ],
   "currentPriorities": [
-    "動詞讀音：四轮熟题首次47/47；纠正4条明确错误标注，补8个历史高风险空白，并验证費やす／遮る／阻む／否めない的无选项提取与间隔保持",
+    "动词读音连续两轮47/47：处理抱える／掲げる、責める／急かす、嵌める／履く、踏ん張る的词义、商う；补3个高风险空白后转无选项与新语境验证",
     "篇章连接词的方向：因果、追加、强反转、承认后逆接",
     "反事实条件、かのように与だって的精确义项",
     "敬语主体、助词与授受视角联动",
@@ -553,38 +553,46 @@
     }
   ],
   "latestPractice": {
-    "date": "2026-09-29",
-    "recordId": "1790656814775-fgutx6",
+    "date": "2026-09-30",
+    "recordId": "1790734652206-2xya14",
     "focus": "問題1 动词读音",
     "samePoolQuestions": 47,
     "samePoolScores": [
       43,
       41,
       43,
+      47,
       47
     ],
     "latestCorrect": 47,
     "latestTotal": 47,
-    "durationSeconds": 1265,
-    "optionNotes": 94,
+    "durationSeconds": 1659,
+    "optionNotes": 120,
     "nonSelectedOptions": 141,
-    "annotatedNonSelectedOptions": 93,
-    "annotatedSelectedOptions": 1,
-    "unannotatedNonSelectedOptions": 48,
+    "annotatedNonSelectedOptions": 120,
+    "annotatedSelectedOptions": 0,
+    "unannotatedNonSelectedOptions": 21,
     "annotationAudit": {
-      "accepted": 90,
-      "incorrect": 4,
-      "acceptedRate": 0.9574,
-      "unannotatedPrioritize": 8,
-      "unannotatedRecommendOnce": 30,
-      "unannotatedReuseEvidence": 3,
+      "accepted": 116,
+      "fullyAcceptable": 116,
+      "mappingErrors": 3,
+      "meaningCorrectionWithCorrectCharacters": 1,
+      "correctCharacterOrLexicalMappingNotes": 117,
+      "acceptedRate": 0.9667,
+      "mappingAcceptedRate": 0.975,
+      "unannotatedPrioritize": 3,
+      "unannotatedRecommendOnce": 11,
+      "unannotatedReuseEvidence": 0,
       "unannotatedOptional": 7,
-      "policy": "按用户中文输入限制，基本汉字一致即认可；空白不推断不会。"
+      "newNotes": 28,
+      "rewrittenNotes": 5,
+      "notesNowBlank": 2,
+      "policy": "基本汉字对应或中文义项成立即认可；踏张字形算对，仅纠正明确写出的附加释义。"
     },
-    "masteryJudgment": "本题池识别达标；4条标注仍错，未验证主动提取、新语境迁移与新纠正词的间隔保持；整体N1未达完全掌握证据标准。",
-    "report": "daily/2026-09-29.md",
-    "optionAudit": "daily/2026-09-29-option-audit.md",
-    "optionAuditData": "daily/2026-09-29-option-audit.json"
+    "masteryJudgment": "本题池连续两轮全对、短期保持改善；3条字词错配、1条显式释义需修正，商う留空尚无纠正证据；主动提取、新语境迁移及长期保持仍待验证。",
+    "report": "daily/2026-09-30.md",
+    "optionAudit": "daily/2026-09-30-option-audit.md",
+    "optionAuditData": "daily/2026-09-30-option-audit.json"
   },
   "annotationPolicy": {
     "updatedAt": "2026-09-29",

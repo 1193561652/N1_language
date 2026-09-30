@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-30",
+  "newRecords": 1,
+  "newRecordIds": [
+    "1790734652206-2xya14"
+  ],
+  "scope": "文字・词汇／問題1／动词读音专项",
+  "summary": {
+    "totalCorrect": 47,
+    "totalQuestions": 47,
+    "rate": 1,
+    "durationSeconds": 1659,
+    "optionReasonCount": 120,
+    "fullyAcceptableNotes": 116,
+    "correctCharacterOrLexicalMappingNotes": 117,
+    "mappingErrors": 3,
+    "meaningCorrectionWithCorrectCharacters": 1,
+    "answerRevealedBeforeSubmit": 0
+  },
+  "cumulative": {
+    "totalQuestions": 1168,
+    "answeredQuestions": 1163,
+    "adjudicatedCorrectAnswers": 963
+  },
+  "interpretation": "本题池连续两轮全对、短期保持改善；3条字词错配、1条显式释义需修正，商う留空尚无纠正证据；主动提取、新语境迁移及长期保持仍待验证。"
+}
