@@ -1,0 +1,144 @@
+{
+  "scope": "31 papers 2010.07-2025.12; 186 reading questions. Excludes unverified mappings from wrong kana reading options to independent lexemes.",
+  "interpretation": "Written-word recurrence; mastery of the correct contextual reading is assumed, not verified by recurrence. No character-level inference or distractor elimination modeled.",
+  "windows": {
+    "10": {
+      "past_reading_targets": {
+        "hits": 8,
+        "total": 60,
+        "coverage": 0.13333333333333333,
+        "perfect_reading_else_random": 0.35
+      },
+      "past_vocabulary_full_text": {
+        "hits": 12,
+        "total": 60,
+        "coverage": 0.2,
+        "perfect_reading_else_random": 0.4
+      },
+      "past_groups1to4_full_text": {
+        "hits": 19,
+        "total": 60,
+        "coverage": 0.31666666666666665,
+        "perfect_reading_else_random": 0.4875
+      }
+    },
+    "6": {
+      "past_reading_targets": {
+        "hits": 2,
+        "total": 36,
+        "coverage": 0.05555555555555555,
+        "perfect_reading_else_random": 0.2916666666666667
+      },
+      "past_vocabulary_full_text": {
+        "hits": 6,
+        "total": 36,
+        "coverage": 0.16666666666666666,
+        "perfect_reading_else_random": 0.375
+      },
+      "past_groups1to4_full_text": {
+        "hits": 8,
+        "total": 36,
+        "coverage": 0.2222222222222222,
+        "perfect_reading_else_random": 0.41666666666666663
+      }
+    },
+    "4": {
+      "past_reading_targets": {
+        "hits": 1,
+        "total": 24,
+        "coverage": 0.041666666666666664,
+        "perfect_reading_else_random": 0.28125
+      },
+      "past_vocabulary_full_text": {
+        "hits": 3,
+        "total": 24,
+        "coverage": 0.125,
+        "perfect_reading_else_random": 0.34375
+      },
+      "past_groups1to4_full_text": {
+        "hits": 4,
+        "total": 24,
+        "coverage": 0.16666666666666666,
+        "perfect_reading_else_random": 0.375
+      }
+    }
+  },
+  "latest": [
+    {
+      "year": "2025.12",
+      "number": 1,
+      "target": "頑丈",
+      "correct_reading": "がんじょう",
+      "matches": {
+        "past_reading_targets": null,
+        "past_vocabulary_full_text": null,
+        "past_groups1to4_full_text": null
+      }
+    },
+    {
+      "year": "2025.12",
+      "number": 2,
+      "target": "潜んで",
+      "correct_reading": "ひそんで",
+      "matches": {
+        "past_reading_targets": null,
+        "past_vocabulary_full_text": null,
+        "past_groups1to4_full_text": null
+      }
+    },
+    {
+      "year": "2025.12",
+      "number": 3,
+      "target": "行政",
+      "correct_reading": "ぎょうせい",
+      "matches": {
+        "past_reading_targets": null,
+        "past_vocabulary_full_text": {
+          "year": "2016.12",
+          "number": 10,
+          "field": "question",
+          "text": "市長の責任ある行動が住民の不安を()し、行政に対する期待が一気に高まった。"
+        },
+        "past_groups1to4_full_text": {
+          "year": "2016.12",
+          "number": 10,
+          "field": "question",
+          "text": "市長の責任ある行動が住民の不安を()し、行政に対する期待が一気に高まった。"
+        }
+      }
+    },
+    {
+      "year": "2025.12",
+      "number": 4,
+      "target": "卓越",
+      "correct_reading": "たくえつ",
+      "matches": {
+        "past_reading_targets": null,
+        "past_vocabulary_full_text": null,
+        "past_groups1to4_full_text": null
+      }
+    },
+    {
+      "year": "2025.12",
+      "number": 5,
+      "target": "芳しく",
+      "correct_reading": "かんばしくない",
+      "matches": {
+        "past_reading_targets": null,
+        "past_vocabulary_full_text": null,
+        "past_groups1to4_full_text": null
+      }
+    },
+    {
+      "year": "2025.12",
+      "number": 6,
+      "target": "管轄",
+      "correct_reading": "かんかつ",
+      "matches": {
+        "past_reading_targets": null,
+        "past_vocabulary_full_text": null,
+        "past_groups1to4_full_text": null
+      }
+    }
+  ]
+}

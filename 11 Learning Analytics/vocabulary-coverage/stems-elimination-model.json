@@ -1,0 +1,291 @@
+{
+  "scope": "Historical vocabulary section groups 2-4; all four options plus full stems; rolling chronological holdouts.",
+  "assumptions": "Same perfect-use and error-free elimination assumptions as elimination-model.json. Unknown synonym target => random 1/4, even if options familiar.",
+  "windows": {
+    "10": {
+      "all_options": {
+        "coverage": {
+          "questions": 190,
+          "target": 48,
+          "option_lexical_tokens": 2429,
+          "known_option_lexical_tokens": 1584,
+          "group2": {
+            "n": 70,
+            "target": 22,
+            "answer": 22,
+            "both": 22,
+            "all4": 2,
+            "option_hits": 72
+          },
+          "group3": {
+            "n": 60,
+            "target": 12,
+            "answer": 33,
+            "both": 6,
+            "all4": 16,
+            "option_hits": 134
+          },
+          "group4": {
+            "n": 60,
+            "target": 14
+          },
+          "target_and_synonym_answer": 42
+        },
+        "synonym_expected_accuracy": 0.3402777777777778,
+        "whole_vocabulary_expected_accuracy": 0.4337719298245614
+      },
+      "all_options_plus_synonym_targets": {
+        "coverage": {
+          "questions": 190,
+          "target": 61,
+          "option_lexical_tokens": 2429,
+          "known_option_lexical_tokens": 1584,
+          "group2": {
+            "n": 70,
+            "target": 23,
+            "answer": 23,
+            "both": 23,
+            "all4": 2,
+            "option_hits": 74
+          },
+          "group3": {
+            "n": 60,
+            "target": 22,
+            "answer": 33,
+            "both": 13,
+            "all4": 16,
+            "option_hits": 134
+          },
+          "group4": {
+            "n": 60,
+            "target": 16
+          },
+          "target_and_synonym_answer": 52
+        },
+        "synonym_expected_accuracy": 0.43194444444444446,
+        "whole_vocabulary_expected_accuracy": 0.47368421052631576
+      },
+      "all_options_plus_all_stems": {
+        "coverage": {
+          "questions": 190,
+          "target": 65,
+          "option_lexical_tokens": 2429,
+          "known_option_lexical_tokens": 1584,
+          "group2": {
+            "n": 70,
+            "target": 25,
+            "answer": 25,
+            "both": 25,
+            "all4": 2,
+            "option_hits": 79
+          },
+          "group3": {
+            "n": 60,
+            "target": 22,
+            "answer": 35,
+            "both": 14,
+            "all4": 19,
+            "option_hits": 147
+          },
+          "group4": {
+            "n": 60,
+            "target": 18
+          },
+          "target_and_synonym_answer": 57
+        },
+        "synonym_expected_accuracy": 0.45416666666666666,
+        "whole_vocabulary_expected_accuracy": 0.49692982456140355
+      }
+    },
+    "6": {
+      "all_options": {
+        "coverage": {
+          "questions": 114,
+          "target": 31,
+          "option_lexical_tokens": 1432,
+          "known_option_lexical_tokens": 934,
+          "group2": {
+            "n": 42,
+            "target": 15,
+            "answer": 15,
+            "both": 15,
+            "all4": 1,
+            "option_hits": 43
+          },
+          "group3": {
+            "n": 36,
+            "target": 8,
+            "answer": 20,
+            "both": 5,
+            "all4": 6,
+            "option_hits": 79
+          },
+          "group4": {
+            "n": 36,
+            "target": 8
+          },
+          "target_and_synonym_answer": 28
+        },
+        "synonym_expected_accuracy": 0.36342592592592593,
+        "whole_vocabulary_expected_accuracy": 0.4473684210526316
+      },
+      "all_options_plus_synonym_targets": {
+        "coverage": {
+          "questions": 114,
+          "target": 40,
+          "option_lexical_tokens": 1432,
+          "known_option_lexical_tokens": 934,
+          "group2": {
+            "n": 42,
+            "target": 16,
+            "answer": 16,
+            "both": 16,
+            "all4": 1,
+            "option_hits": 44
+          },
+          "group3": {
+            "n": 36,
+            "target": 14,
+            "answer": 20,
+            "both": 9,
+            "all4": 6,
+            "option_hits": 79
+          },
+          "group4": {
+            "n": 36,
+            "target": 10
+          },
+          "target_and_synonym_answer": 35
+        },
+        "synonym_expected_accuracy": 0.4513888888888889,
+        "whole_vocabulary_expected_accuracy": 0.4926900584795321
+      },
+      "all_options_plus_all_stems": {
+        "coverage": {
+          "questions": 114,
+          "target": 41,
+          "option_lexical_tokens": 1432,
+          "known_option_lexical_tokens": 934,
+          "group2": {
+            "n": 42,
+            "target": 17,
+            "answer": 17,
+            "both": 17,
+            "all4": 1,
+            "option_hits": 48
+          },
+          "group3": {
+            "n": 36,
+            "target": 14,
+            "answer": 22,
+            "both": 10,
+            "all4": 9,
+            "option_hits": 90
+          },
+          "group4": {
+            "n": 36,
+            "target": 10
+          },
+          "target_and_synonym_answer": 37
+        },
+        "synonym_expected_accuracy": 0.46990740740740733,
+        "whole_vocabulary_expected_accuracy": 0.506578947368421
+      }
+    },
+    "4": {
+      "all_options": {
+        "coverage": {
+          "questions": 76,
+          "target": 23,
+          "option_lexical_tokens": 991,
+          "known_option_lexical_tokens": 655,
+          "group2": {
+            "n": 28,
+            "target": 11,
+            "answer": 11,
+            "both": 11,
+            "all4": 1,
+            "option_hits": 33
+          },
+          "group3": {
+            "n": 24,
+            "target": 6,
+            "answer": 12,
+            "both": 3,
+            "all4": 4,
+            "option_hits": 51
+          },
+          "group4": {
+            "n": 24,
+            "target": 6
+          },
+          "target_and_synonym_answer": 20
+        },
+        "synonym_expected_accuracy": 0.3576388888888889,
+        "whole_vocabulary_expected_accuracy": 0.46381578947368424
+      },
+      "all_options_plus_synonym_targets": {
+        "coverage": {
+          "questions": 76,
+          "target": 31,
+          "option_lexical_tokens": 991,
+          "known_option_lexical_tokens": 655,
+          "group2": {
+            "n": 28,
+            "target": 12,
+            "answer": 12,
+            "both": 12,
+            "all4": 1,
+            "option_hits": 34
+          },
+          "group3": {
+            "n": 24,
+            "target": 11,
+            "answer": 12,
+            "both": 6,
+            "all4": 4,
+            "option_hits": 51
+          },
+          "group4": {
+            "n": 24,
+            "target": 8
+          },
+          "target_and_synonym_answer": 26
+        },
+        "synonym_expected_accuracy": 0.4583333333333333,
+        "whole_vocabulary_expected_accuracy": 0.5219298245614036
+      },
+      "all_options_plus_all_stems": {
+        "coverage": {
+          "questions": 76,
+          "target": 32,
+          "option_lexical_tokens": 991,
+          "known_option_lexical_tokens": 655,
+          "group2": {
+            "n": 28,
+            "target": 13,
+            "answer": 13,
+            "both": 13,
+            "all4": 1,
+            "option_hits": 38
+          },
+          "group3": {
+            "n": 24,
+            "target": 11,
+            "answer": 14,
+            "both": 7,
+            "all4": 6,
+            "option_hits": 58
+          },
+          "group4": {
+            "n": 24,
+            "target": 8
+          },
+          "target_and_synonym_answer": 28
+        },
+        "synonym_expected_accuracy": 0.4861111111111111,
+        "whole_vocabulary_expected_accuracy": 0.5427631578947368
+      }
+    }
+  }
+}

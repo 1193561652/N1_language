@@ -1,0 +1,2924 @@
+{
+  "scope": "Existing taxonomy: reading categories in group 1; shii and katakana tags in groups 2-3. All prior groups 1-4 written vocabulary used for matching. Wrong kana distractors not mapped to independent lexical items.",
+  "validation": "All 775 source questions match taxonomy snapshots for question/options/answer/group.",
+  "summary": {
+    "动词读音": {
+      "31": {
+        "hits": 11,
+        "total": 47,
+        "coverage": 0.23404255319148937
+      },
+      "10": {
+        "hits": 6,
+        "total": 12,
+        "coverage": 0.5
+      },
+      "6": {
+        "hits": 1,
+        "total": 6,
+        "coverage": 0.16666666666666666
+      },
+      "4": {
+        "hits": 1,
+        "total": 4,
+        "coverage": 0.25
+      }
+    },
+    "汉字读音（名词与汉字熟语）": {
+      "31": {
+        "hits": 19,
+        "total": 126,
+        "coverage": 0.15079365079365079
+      },
+      "10": {
+        "hits": 13,
+        "total": 43,
+        "coverage": 0.3023255813953488
+      },
+      "6": {
+        "hits": 7,
+        "total": 26,
+        "coverage": 0.2692307692307692
+      },
+      "4": {
+        "hits": 3,
+        "total": 17,
+        "coverage": 0.17647058823529413
+      }
+    },
+    "い形容词读音": {
+      "31": {
+        "hits": 1,
+        "total": 9,
+        "coverage": 0.1111111111111111
+      },
+      "10": {
+        "hits": 0,
+        "total": 4,
+        "coverage": 0.0
+      },
+      "6": {
+        "hits": 0,
+        "total": 3,
+        "coverage": 0.0
+      },
+      "4": {
+        "hits": 0,
+        "total": 3,
+        "coverage": 0.0
+      }
+    },
+    "しい形容词（問題2—3）": {
+      "31": {
+        "hits": 4,
+        "total": 9,
+        "coverage": 0.4444444444444444
+      },
+      "10": {
+        "hits": 3,
+        "total": 4,
+        "coverage": 0.75
+      },
+      "6": {
+        "hits": 3,
+        "total": 3,
+        "coverage": 1.0
+      },
+      "4": {
+        "hits": 1,
+        "total": 1,
+        "coverage": 1.0
+      }
+    },
+    "らか/やか形容词读音": {
+      "31": {
+        "hits": 0,
+        "total": 3,
+        "coverage": 0.0
+      },
+      "10": {
+        "hits": 0,
+        "total": 1,
+        "coverage": 0.0
+      },
+      "6": {
+        "hits": 0,
+        "total": 1,
+        "coverage": 0.0
+      },
+      "4": {
+        "hits": 0,
+        "total": 0,
+        "coverage": null
+      }
+    },
+    "片假名（問題2—3）": {
+      "31": {
+        "hits": 7,
+        "total": 40,
+        "coverage": 0.175
+      },
+      "10": {
+        "hits": 2,
+        "total": 10,
+        "coverage": 0.2
+      },
+      "6": {
+        "hits": 1,
+        "total": 5,
+        "coverage": 0.2
+      },
+      "4": {
+        "hits": 1,
+        "total": 4,
+        "coverage": 0.25
+      }
+    }
+  },
+  "rows": [
+    {
+      "year": "2025.12",
+      "number": 1,
+      "id": "markdown-2025.12-language-1",
+      "lemma": "頑丈",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2025.12",
+      "number": 2,
+      "id": "markdown-2025.12-language-2",
+      "lemma": "潜む",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2025.12",
+      "number": 3,
+      "id": "markdown-2025.12-language-3",
+      "lemma": "行政",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": true,
+      "witness": {
+        "year": "2016.12",
+        "number": 10,
+        "field": "question",
+        "text": "市長の責任ある行動が住民の不安を()し、行政に対する期待が一気に高まった。"
+      }
+    },
+    {
+      "year": "2025.12",
+      "number": 4,
+      "id": "markdown-2025.12-language-4",
+      "lemma": "卓越",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2025.12",
+      "number": 5,
+      "id": "markdown-2025.12-language-5",
+      "lemma": "芳しい",
+      "categories": [
+        "い形容词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2025.12",
+      "number": 6,
+      "id": "markdown-2025.12-language-6",
+      "lemma": "管轄",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2025.12",
+      "number": 8,
+      "id": "markdown-2025.12-language-8",
+      "lemma": "リード",
+      "categories": [
+        "片假名（問題2—3）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2025.07",
+      "number": 1,
+      "id": "markdown-2025.07-language-1",
+      "lemma": "余暇",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2025.07",
+      "number": 2,
+      "id": "markdown-2025.07-language-2",
+      "lemma": "鈍い",
+      "categories": [
+        "い形容词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2025.07",
+      "number": 3,
+      "id": "markdown-2025.07-language-3",
+      "lemma": "検閲",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2025.07",
+      "number": 4,
+      "id": "markdown-2025.07-language-4",
+      "lemma": "崇高",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2025.07",
+      "number": 5,
+      "id": "markdown-2025.07-language-5",
+      "lemma": "裁く",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2025.07",
+      "number": 6,
+      "id": "markdown-2025.07-language-6",
+      "lemma": "胸中",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2025.07",
+      "number": 11,
+      "id": "markdown-2025.07-language-11",
+      "lemma": "ブランク",
+      "categories": [
+        "片假名（問題2—3）"
+      ],
+      "covered": true,
+      "witness": {
+        "year": "2012.07",
+        "number": 21,
+        "option": 1,
+        "text": "２年の【ブランク】があり心配だったが、先月から職場に復帰した。"
+      }
+    },
+    {
+      "year": "2025.07",
+      "number": 15,
+      "id": "markdown-2025.07-language-15",
+      "lemma": "トレンド",
+      "categories": [
+        "片假名（問題2—3）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2024.12",
+      "number": 1,
+      "id": "jlpt4you-2024.12-vocabulary-1-1",
+      "lemma": "絶叫",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2024.12",
+      "number": 2,
+      "id": "jlpt4you-2024.12-vocabulary-1-2",
+      "lemma": "背後",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": true,
+      "witness": {
+        "year": "2021.07",
+        "number": 11,
+        "option": 4,
+        "text": "背後"
+      }
+    },
+    {
+      "year": "2024.12",
+      "number": 3,
+      "id": "jlpt4you-2024.12-vocabulary-1-3",
+      "lemma": "抱負",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": true,
+      "witness": {
+        "year": "2017.12",
+        "number": 14,
+        "field": "question",
+        "text": "松本氏は自身のブログで【抱負】を述べていた。"
+      }
+    },
+    {
+      "year": "2024.12",
+      "number": 4,
+      "id": "jlpt4you-2024.12-vocabulary-1-4",
+      "lemma": "侮る",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2024.12",
+      "number": 5,
+      "id": "jlpt4you-2024.12-vocabulary-1-5",
+      "lemma": "筋道",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2024.12",
+      "number": 6,
+      "id": "jlpt4you-2024.12-vocabulary-1-6",
+      "lemma": "奔放",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2024.12",
+      "number": 15,
+      "id": "jlpt4you-2024.12-vocabulary-3-2",
+      "lemma": "ロス",
+      "categories": [
+        "片假名（問題2—3）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2024.07",
+      "number": 1,
+      "id": "jlpt4you-2024.07-vocabulary-1-1",
+      "lemma": "腐敗",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2024.07",
+      "number": 2,
+      "id": "jlpt4you-2024.07-vocabulary-1-2",
+      "lemma": "粗い",
+      "categories": [
+        "い形容词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2024.07",
+      "number": 3,
+      "id": "jlpt4you-2024.07-vocabulary-1-3",
+      "lemma": "粘膜",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2024.07",
+      "number": 4,
+      "id": "jlpt4you-2024.07-vocabulary-1-4",
+      "lemma": "寿命",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2024.07",
+      "number": 5,
+      "id": "jlpt4you-2024.07-vocabulary-1-5",
+      "lemma": "戒める",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": true,
+      "witness": {
+        "year": "2018.07",
+        "number": 5,
+        "field": "question",
+        "text": "自分を【戒めたい】と思う。"
+      }
+    },
+    {
+      "year": "2024.07",
+      "number": 6,
+      "id": "jlpt4you-2024.07-vocabulary-1-6",
+      "lemma": "誓約書",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2024.07",
+      "number": 15,
+      "id": "jlpt4you-2024.07-vocabulary-3-2",
+      "lemma": "すがすがしい",
+      "categories": [
+        "しい形容词（問題2—3）"
+      ],
+      "covered": true,
+      "witness": {
+        "year": "2012.07",
+        "number": 15,
+        "field": "question",
+        "text": "試合後のインタビューで、選手たちは【すがすがしい】表情で質問に答えていた。"
+      }
+    },
+    {
+      "year": "2023.12",
+      "number": 1,
+      "id": "jlpt4you-2023.12-vocabulary-1-1",
+      "lemma": "軌跡",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": true,
+      "witness": {
+        "year": "2020.12",
+        "number": 8,
+        "option": 4,
+        "text": "軌跡"
+      }
+    },
+    {
+      "year": "2023.12",
+      "number": 2,
+      "id": "jlpt4you-2023.12-vocabulary-1-2",
+      "lemma": "偏り",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2023.12",
+      "number": 3,
+      "id": "jlpt4you-2023.12-vocabulary-1-3",
+      "lemma": "矛盾",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2023.12",
+      "number": 4,
+      "id": "jlpt4you-2023.12-vocabulary-1-4",
+      "lemma": "誇張",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": true,
+      "witness": {
+        "year": "2015.12",
+        "number": 19,
+        "field": "question",
+        "text": "あの人は【誇張して】話すことが多い。"
+      }
+    },
+    {
+      "year": "2023.12",
+      "number": 5,
+      "id": "jlpt4you-2023.12-vocabulary-1-5",
+      "lemma": "賄う",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2023.12",
+      "number": 6,
+      "id": "jlpt4you-2023.12-vocabulary-1-6",
+      "lemma": "軽率",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": true,
+      "witness": {
+        "year": "2022.07",
+        "number": 7,
+        "option": 2,
+        "text": "軽率"
+      }
+    },
+    {
+      "year": "2023.12",
+      "number": 15,
+      "id": "jlpt4you-2023.12-vocabulary-3-2",
+      "lemma": "わずらわしい",
+      "categories": [
+        "しい形容词（問題2—3）"
+      ],
+      "covered": true,
+      "witness": {
+        "year": "2010.07",
+        "number": 18,
+        "field": "question",
+        "text": "やっと【わずらわしい】作業から解放された。"
+      }
+    },
+    {
+      "year": "2023.07",
+      "number": 1,
+      "id": "jlpt4you-2023.07-vocabulary-1-1",
+      "lemma": "騒然",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2023.07",
+      "number": 2,
+      "id": "jlpt4you-2023.07-vocabulary-1-2",
+      "lemma": "諭す",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2023.07",
+      "number": 3,
+      "id": "jlpt4you-2023.07-vocabulary-1-3",
+      "lemma": "秩序",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2023.07",
+      "number": 4,
+      "id": "jlpt4you-2023.07-vocabulary-1-4",
+      "lemma": "潜伏",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2023.07",
+      "number": 5,
+      "id": "jlpt4you-2023.07-vocabulary-1-5",
+      "lemma": "朗らか",
+      "categories": [
+        "らか/やか形容词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2023.07",
+      "number": 6,
+      "id": "jlpt4you-2023.07-vocabulary-1-6",
+      "lemma": "振興",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": true,
+      "witness": {
+        "year": "2020.12",
+        "number": 6,
+        "field": "question",
+        "text": "スポーツを通じて、地域の【振興】を図りたい"
+      }
+    },
+    {
+      "year": "2023.07",
+      "number": 10,
+      "id": "jlpt4you-2023.07-vocabulary-2-4",
+      "lemma": "ネック",
+      "categories": [
+        "片假名（問題2—3）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2023.07",
+      "number": 12,
+      "id": "jlpt4you-2023.07-vocabulary-2-6",
+      "lemma": "まぎらわしい",
+      "categories": [
+        "しい形容词（問題2—3）"
+      ],
+      "covered": true,
+      "witness": {
+        "year": "2012.07",
+        "number": 11,
+        "option": 3,
+        "text": "まぎらわしい"
+      }
+    },
+    {
+      "year": "2022.12",
+      "number": 1,
+      "id": "sbry-n1-2022.12-文字・語彙-1-1",
+      "lemma": "監督",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": true,
+      "witness": {
+        "year": "2017.07",
+        "number": 24,
+        "option": 4,
+        "text": "中野監督が引退した後の監督をお願いできないかと、山本氏に【提起】している。"
+      }
+    },
+    {
+      "year": "2022.12",
+      "number": 2,
+      "id": "sbry-n1-2022.12-文字・語彙-1-2",
+      "lemma": "派生",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": true,
+      "witness": {
+        "year": "2022.07",
+        "number": 11,
+        "option": 2,
+        "text": "派生"
+      }
+    },
+    {
+      "year": "2022.12",
+      "number": 3,
+      "id": "sbry-n1-2022.12-文字・語彙-1-3",
+      "lemma": "透ける",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2022.12",
+      "number": 4,
+      "id": "sbry-n1-2022.12-文字・語彙-1-4",
+      "lemma": "恩恵",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2022.12",
+      "number": 5,
+      "id": "sbry-n1-2022.12-文字・語彙-1-5",
+      "lemma": "臨む",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": true,
+      "witness": {
+        "year": "2014.12",
+        "number": 2,
+        "field": "question",
+        "text": "面接には、しっかりと準備をして【臨みたい】と思う。"
+      }
+    },
+    {
+      "year": "2022.12",
+      "number": 6,
+      "id": "sbry-n1-2022.12-文字・語彙-1-6",
+      "lemma": "如実",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2022.12",
+      "number": 11,
+      "id": "sbry-n1-2022.12-文字・語彙-2-11",
+      "lemma": "ピント",
+      "categories": [
+        "片假名（問題2—3）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2022.12",
+      "number": 16,
+      "id": "sbry-n1-2022.12-文字・語彙-3-16",
+      "lemma": "スポット",
+      "categories": [
+        "片假名（問題2—3）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2022.07",
+      "number": 1,
+      "id": "sbry-n1-2022.07-文字・語彙-1-1",
+      "lemma": "勇敢",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2022.07",
+      "number": 2,
+      "id": "sbry-n1-2022.07-文字・語彙-1-2",
+      "lemma": "忠告",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": true,
+      "witness": {
+        "year": "2021.07",
+        "number": 24,
+        "option": 3,
+        "text": "彼は家族の忠告も聞かず、【かたくな】に自分の考えを押し通した。"
+      }
+    },
+    {
+      "year": "2022.07",
+      "number": 3,
+      "id": "sbry-n1-2022.07-文字・語彙-1-3",
+      "lemma": "慕う",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": true,
+      "witness": {
+        "year": "2015.07",
+        "number": 2,
+        "field": "question",
+        "text": "学生に【慕われる】教師になりたい。"
+      }
+    },
+    {
+      "year": "2022.07",
+      "number": 4,
+      "id": "sbry-n1-2022.07-文字・語彙-1-4",
+      "lemma": "施錠",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2022.07",
+      "number": 5,
+      "id": "sbry-n1-2022.07-文字・語彙-1-5",
+      "lemma": "沈下",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2022.07",
+      "number": 6,
+      "id": "sbry-n1-2022.07-文字・語彙-1-6",
+      "lemma": "阻む",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": true,
+      "witness": {
+        "year": "2017.07",
+        "number": 5,
+        "field": "question",
+        "text": "毎回のように反対派の人々に【阻まれて】きた。"
+      }
+    },
+    {
+      "year": "2022.07",
+      "number": 8,
+      "id": "sbry-n1-2022.07-文字・語彙-2-8",
+      "lemma": "サイクル",
+      "categories": [
+        "片假名（問題2—3）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2021.12",
+      "number": 1,
+      "id": "sbry-n1-2021.12-文字・語彙-1-1",
+      "lemma": "錯覚",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": true,
+      "witness": {
+        "year": "2015.07",
+        "number": 18,
+        "field": "question",
+        "text": "そんなことを言われたら、佐藤さんが【錯覚する】のもしかたがない。"
+      }
+    },
+    {
+      "year": "2021.12",
+      "number": 2,
+      "id": "sbry-n1-2021.12-文字・語彙-1-2",
+      "lemma": "尊い",
+      "categories": [
+        "い形容词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2021.12",
+      "number": 3,
+      "id": "sbry-n1-2021.12-文字・語彙-1-3",
+      "lemma": "枯渇",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2021.12",
+      "number": 4,
+      "id": "sbry-n1-2021.12-文字・語彙-1-4",
+      "lemma": "慰める",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": true,
+      "witness": {
+        "year": "2016.12",
+        "number": 22,
+        "option": 3,
+        "text": "鈴木さんは、私が何も言わなくても、私の気持ちを【察して】慰めてくれた。"
+      }
+    },
+    {
+      "year": "2021.12",
+      "number": 5,
+      "id": "sbry-n1-2021.12-文字・語彙-1-5",
+      "lemma": "克明",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": true,
+      "witness": {
+        "year": "2012.07",
+        "number": 3,
+        "field": "question",
+        "text": "この文書には、当時の生活の様子が【克明】に記録されている。"
+      }
+    },
+    {
+      "year": "2021.12",
+      "number": 6,
+      "id": "sbry-n1-2021.12-文字・語彙-1-6",
+      "lemma": "緊迫",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2021.12",
+      "number": 10,
+      "id": "sbry-n1-2021.12-文字・語彙-2-10",
+      "lemma": "もどかしい",
+      "categories": [
+        "しい形容词（問題2—3）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2021.12",
+      "number": 14,
+      "id": "sbry-n1-2021.12-文字・語彙-3-14",
+      "lemma": "リスク",
+      "categories": [
+        "片假名（問題2—3）"
+      ],
+      "covered": true,
+      "witness": {
+        "year": "2018.07",
+        "number": 8,
+        "option": 3,
+        "text": "リスク"
+      }
+    },
+    {
+      "year": "2021.07",
+      "number": 1,
+      "id": "sbry-n1-2021.07-文字・語彙-1-1",
+      "lemma": "遺憾",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2021.07",
+      "number": 2,
+      "id": "sbry-n1-2021.07-文字・語彙-1-2",
+      "lemma": "閉鎖",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2021.07",
+      "number": 3,
+      "id": "sbry-n1-2021.07-文字・語彙-1-3",
+      "lemma": "心遣い",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2021.07",
+      "number": 4,
+      "id": "sbry-n1-2021.07-文字・語彙-1-4",
+      "lemma": "憤る",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": true,
+      "witness": {
+        "year": "2013.12",
+        "number": 2,
+        "field": "question",
+        "text": "社長の発言に【憤り】を感じる。"
+      }
+    },
+    {
+      "year": "2021.07",
+      "number": 5,
+      "id": "sbry-n1-2021.07-文字・語彙-1-5",
+      "lemma": "貧富",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": true,
+      "witness": {
+        "year": "2013.12",
+        "number": 6,
+        "field": "question",
+        "text": "この30年で、この国の【貧富】の差は縮まってきている。"
+      }
+    },
+    {
+      "year": "2021.07",
+      "number": 6,
+      "id": "sbry-n1-2021.07-文字・語彙-1-6",
+      "lemma": "治癒",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2021.07",
+      "number": 18,
+      "id": "sbry-n1-2021.07-文字・語彙-3-18",
+      "lemma": "スケール",
+      "categories": [
+        "片假名（問題2—3）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2020.12",
+      "number": 1,
+      "id": "sbry-n1-2020.12-文字・語彙-1-1",
+      "lemma": "干渉",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2020.12",
+      "number": 2,
+      "id": "sbry-n1-2020.12-文字・語彙-1-2",
+      "lemma": "粘る",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2020.12",
+      "number": 3,
+      "id": "sbry-n1-2020.12-文字・語彙-1-3",
+      "lemma": "巧妙",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": true,
+      "witness": {
+        "year": "2013.07",
+        "number": 2,
+        "field": "question",
+        "text": "相手チームの【巧妙】な作戦に引っかかってしまった。"
+      }
+    },
+    {
+      "year": "2020.12",
+      "number": 4,
+      "id": "sbry-n1-2020.12-文字・語彙-1-4",
+      "lemma": "促す",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2020.12",
+      "number": 5,
+      "id": "sbry-n1-2020.12-文字・語彙-1-5",
+      "lemma": "措置",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2020.12",
+      "number": 6,
+      "id": "sbry-n1-2020.12-文字・語彙-1-6",
+      "lemma": "振興",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2020.12",
+      "number": 7,
+      "id": "sbry-n1-2020.12-文字・語彙-2-7",
+      "lemma": "クレーム",
+      "categories": [
+        "片假名（問題2—3）"
+      ],
+      "covered": true,
+      "witness": {
+        "year": "2015.07",
+        "number": 16,
+        "field": "question",
+        "text": "お客様からの【クレーム】に対応するのが鈴木さんの仕事です。"
+      }
+    },
+    {
+      "year": "2020.12",
+      "number": 14,
+      "id": "sbry-n1-2020.12-文字・語彙-3-14",
+      "lemma": "エキスパート",
+      "categories": [
+        "片假名（問題2—3）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2019.12",
+      "number": 1,
+      "id": "sbry-n1-2019.12-文字・語彙-1-1",
+      "lemma": "披露",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": true,
+      "witness": {
+        "year": "2013.12",
+        "number": 12,
+        "field": "question",
+        "text": "パーティーでは林さんが料理を作って、みんなにその()を披露してくれた。"
+      }
+    },
+    {
+      "year": "2019.12",
+      "number": 2,
+      "id": "sbry-n1-2019.12-文字・語彙-1-2",
+      "lemma": "砕ける",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2019.12",
+      "number": 3,
+      "id": "sbry-n1-2019.12-文字・語彙-1-3",
+      "lemma": "執着",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2019.12",
+      "number": 4,
+      "id": "sbry-n1-2019.12-文字・語彙-1-4",
+      "lemma": "債務",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2019.12",
+      "number": 5,
+      "id": "sbry-n1-2019.12-文字・語彙-1-5",
+      "lemma": "貢献",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2019.12",
+      "number": 6,
+      "id": "sbry-n1-2019.12-文字・語彙-1-6",
+      "lemma": "潔い",
+      "categories": [
+        "い形容词读音"
+      ],
+      "covered": true,
+      "witness": {
+        "year": "2010.07",
+        "number": 21,
+        "field": "question",
+        "text": "潔い"
+      }
+    },
+    {
+      "year": "2019.12",
+      "number": 16,
+      "id": "sbry-n1-2019.12-文字・語彙-3-16",
+      "lemma": "ルーズ",
+      "categories": [
+        "片假名（問題2—3）"
+      ],
+      "covered": true,
+      "witness": {
+        "year": "2010.07",
+        "number": 14,
+        "field": "question",
+        "text": "彼はお金に関して【ルーズ】なところがある。"
+      }
+    },
+    {
+      "year": "2019.07",
+      "number": 1,
+      "id": "sbry-n1-2019.07-文字・語彙-1-1",
+      "lemma": "猛烈",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2019.07",
+      "number": 2,
+      "id": "sbry-n1-2019.07-文字・語彙-1-2",
+      "lemma": "克服",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2019.07",
+      "number": 3,
+      "id": "sbry-n1-2019.07-文字・語彙-1-3",
+      "lemma": "崩れる",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2019.07",
+      "number": 4,
+      "id": "sbry-n1-2019.07-文字・語彙-1-4",
+      "lemma": "繁殖",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2019.07",
+      "number": 5,
+      "id": "sbry-n1-2019.07-文字・語彙-1-5",
+      "lemma": "履歴",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2019.07",
+      "number": 6,
+      "id": "sbry-n1-2019.07-文字・語彙-1-6",
+      "lemma": "映える",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2019.07",
+      "number": 7,
+      "id": "sbry-n1-2019.07-文字・語彙-2-7",
+      "lemma": "センサー",
+      "categories": [
+        "片假名（問題2—3）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2019.07",
+      "number": 14,
+      "id": "sbry-n1-2019.07-文字・語彙-3-14",
+      "lemma": "コンパクト",
+      "categories": [
+        "片假名（問題2—3）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2018.12",
+      "number": 1,
+      "id": "sbry-n1-2018.12-文字・語彙-1-1",
+      "lemma": "豪快",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2018.12",
+      "number": 2,
+      "id": "sbry-n1-2018.12-文字・語彙-1-2",
+      "lemma": "忍耐",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2018.12",
+      "number": 3,
+      "id": "sbry-n1-2018.12-文字・語彙-1-3",
+      "lemma": "募る",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": true,
+      "witness": {
+        "year": "2018.07",
+        "number": 20,
+        "option": 2,
+        "text": "社員全員に意見を募ったところ、【巧み】なアイディアが寄せられた."
+      }
+    },
+    {
+      "year": "2018.12",
+      "number": 4,
+      "id": "sbry-n1-2018.12-文字・語彙-1-4",
+      "lemma": "膨大",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": true,
+      "witness": {
+        "year": "2014.07",
+        "number": 9,
+        "option": 2,
+        "text": "膨大"
+      }
+    },
+    {
+      "year": "2018.12",
+      "number": 5,
+      "id": "sbry-n1-2018.12-文字・語彙-1-5",
+      "lemma": "滞る",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2018.12",
+      "number": 6,
+      "id": "sbry-n1-2018.12-文字・語彙-1-6",
+      "lemma": "驚嘆",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2018.12",
+      "number": 8,
+      "id": "sbry-n1-2018.12-文字・語彙-2-8",
+      "lemma": "レイアウト",
+      "categories": [
+        "片假名（問題2—3）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2018.12",
+      "number": 14,
+      "id": "sbry-n1-2018.12-文字・語彙-3-14",
+      "lemma": "スライス",
+      "categories": [
+        "片假名（問題2—3）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2018.07",
+      "number": 1,
+      "id": "sbry-n1-2018.07-文字・語彙-1-1",
+      "lemma": "回顧",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2018.07",
+      "number": 2,
+      "id": "sbry-n1-2018.07-文字・語彙-1-2",
+      "lemma": "偽り",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2018.07",
+      "number": 3,
+      "id": "sbry-n1-2018.07-文字・語彙-1-3",
+      "lemma": "嫌悪感",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2018.07",
+      "number": 4,
+      "id": "sbry-n1-2018.07-文字・語彙-1-4",
+      "lemma": "自粛",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2018.07",
+      "number": 5,
+      "id": "sbry-n1-2018.07-文字・語彙-1-5",
+      "lemma": "戒める",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2018.07",
+      "number": 6,
+      "id": "sbry-n1-2018.07-文字・語彙-1-6",
+      "lemma": "丘陵",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2018.07",
+      "number": 8,
+      "id": "sbry-n1-2018.07-文字・語彙-2-8",
+      "lemma": "リスク",
+      "categories": [
+        "片假名（問題2—3）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2018.07",
+      "number": 17,
+      "id": "sbry-n1-2018.07-文字・語彙-3-17",
+      "lemma": "エレガント",
+      "categories": [
+        "片假名（問題2—3）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2017.12",
+      "number": 1,
+      "id": "sbry-n1-2017.12-文字・語彙-1-1",
+      "lemma": "開拓",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2017.12",
+      "number": 2,
+      "id": "sbry-n1-2017.12-文字・語彙-1-2",
+      "lemma": "復興",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": true,
+      "witness": {
+        "year": "2011.07",
+        "number": 12,
+        "option": 4,
+        "text": "復興"
+      }
+    },
+    {
+      "year": "2017.12",
+      "number": 3,
+      "id": "sbry-n1-2017.12-文字・語彙-1-3",
+      "lemma": "怠る",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": true,
+      "witness": {
+        "year": "2012.07",
+        "number": 22,
+        "field": "question",
+        "text": "怠る"
+      }
+    },
+    {
+      "year": "2017.12",
+      "number": 4,
+      "id": "sbry-n1-2017.12-文字・語彙-1-4",
+      "lemma": "了承",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2017.12",
+      "number": 5,
+      "id": "sbry-n1-2017.12-文字・語彙-1-5",
+      "lemma": "指図",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2017.12",
+      "number": 6,
+      "id": "sbry-n1-2017.12-文字・語彙-1-6",
+      "lemma": "巡る",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2017.12",
+      "number": 7,
+      "id": "sbry-n1-2017.12-文字・語彙-2-7",
+      "lemma": "シェア",
+      "categories": [
+        "片假名（問題2—3）"
+      ],
+      "covered": true,
+      "witness": {
+        "year": "2011.12",
+        "number": 13,
+        "option": 4,
+        "text": "シェア"
+      }
+    },
+    {
+      "year": "2017.07",
+      "number": 1,
+      "id": "sbry-n1-2017.07-文字・語彙-1-1",
+      "lemma": "潤す",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2017.07",
+      "number": 2,
+      "id": "sbry-n1-2017.07-文字・語彙-1-2",
+      "lemma": "殺菌",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2017.07",
+      "number": 3,
+      "id": "sbry-n1-2017.07-文字・語彙-1-3",
+      "lemma": "託す",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2017.07",
+      "number": 4,
+      "id": "sbry-n1-2017.07-文字・語彙-1-4",
+      "lemma": "傾斜",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2017.07",
+      "number": 5,
+      "id": "sbry-n1-2017.07-文字・語彙-1-5",
+      "lemma": "阻む",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2017.07",
+      "number": 6,
+      "id": "sbry-n1-2017.07-文字・語彙-1-6",
+      "lemma": "暴露",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2017.07",
+      "number": 8,
+      "id": "sbry-n1-2017.07-文字・語彙-2-8",
+      "lemma": "コンスタント",
+      "categories": [
+        "片假名（問題2—3）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2016.12",
+      "number": 1,
+      "id": "sbry-n1-2016.12-文字・語彙-1-1",
+      "lemma": "人脈",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2016.12",
+      "number": 2,
+      "id": "sbry-n1-2016.12-文字・語彙-1-2",
+      "lemma": "賢い",
+      "categories": [
+        "い形容词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2016.12",
+      "number": 3,
+      "id": "sbry-n1-2016.12-文字・語彙-1-3",
+      "lemma": "顕著",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2016.12",
+      "number": 4,
+      "id": "sbry-n1-2016.12-文字・語彙-1-4",
+      "lemma": "多岐",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2016.12",
+      "number": 5,
+      "id": "sbry-n1-2016.12-文字・語彙-1-5",
+      "lemma": "廃れる",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2016.12",
+      "number": 6,
+      "id": "sbry-n1-2016.12-文字・語彙-1-6",
+      "lemma": "相場",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2016.12",
+      "number": 13,
+      "id": "sbry-n1-2016.12-文字・語彙-2-13",
+      "lemma": "ノウハウ",
+      "categories": [
+        "片假名（問題2—3）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2016.07",
+      "number": 1,
+      "id": "sbry-n1-2016.07-文字・語彙-1-1",
+      "lemma": "樹木",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2016.07",
+      "number": 2,
+      "id": "sbry-n1-2016.07-文字・語彙-1-2",
+      "lemma": "蓄える",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2016.07",
+      "number": 3,
+      "id": "sbry-n1-2016.07-文字・語彙-1-3",
+      "lemma": "陳列",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2016.07",
+      "number": 4,
+      "id": "sbry-n1-2016.07-文字・語彙-1-4",
+      "lemma": "華やか",
+      "categories": [
+        "らか/やか形容词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2016.07",
+      "number": 5,
+      "id": "sbry-n1-2016.07-文字・語彙-1-5",
+      "lemma": "鑑定",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2016.07",
+      "number": 6,
+      "id": "sbry-n1-2016.07-文字・語彙-1-6",
+      "lemma": "偏る",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2016.07",
+      "number": 8,
+      "id": "sbry-n1-2016.07-文字・語彙-2-8",
+      "lemma": "センス",
+      "categories": [
+        "片假名（問題2—3）"
+      ],
+      "covered": true,
+      "witness": {
+        "year": "2011.12",
+        "number": 10,
+        "option": 1,
+        "text": "センス"
+      }
+    },
+    {
+      "year": "2016.07",
+      "number": 15,
+      "id": "sbry-n1-2016.07-文字・語彙-3-15",
+      "lemma": "わずらわしい",
+      "categories": [
+        "しい形容词（問題2—3）"
+      ],
+      "covered": true,
+      "witness": {
+        "year": "2010.07",
+        "number": 18,
+        "field": "question",
+        "text": "やっと【わずらわしい】作業から解放された。"
+      }
+    },
+    {
+      "year": "2015.12",
+      "number": 1,
+      "id": "sbry-n1-2015.12-文字・語彙-1-1",
+      "lemma": "興奮",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": true,
+      "witness": {
+        "year": "2012.07",
+        "number": 15,
+        "option": 2,
+        "text": "興奮した"
+      }
+    },
+    {
+      "year": "2015.12",
+      "number": 2,
+      "id": "sbry-n1-2015.12-文字・語彙-1-2",
+      "lemma": "唱える",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": true,
+      "witness": {
+        "year": "2011.07",
+        "number": 21,
+        "option": 3,
+        "text": "審判の判定に【不服】を唱えることはできない。"
+      }
+    },
+    {
+      "year": "2015.12",
+      "number": 3,
+      "id": "sbry-n1-2015.12-文字・語彙-1-3",
+      "lemma": "変遷",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2015.12",
+      "number": 4,
+      "id": "sbry-n1-2015.12-文字・語彙-1-4",
+      "lemma": "値する",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2015.12",
+      "number": 5,
+      "id": "sbry-n1-2015.12-文字・語彙-1-5",
+      "lemma": "随時",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2015.12",
+      "number": 6,
+      "id": "sbry-n1-2015.12-文字・語彙-1-6",
+      "lemma": "励む",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": true,
+      "witness": {
+        "year": "2013.07",
+        "number": 21,
+        "option": 2,
+        "text": "今度のスポーツ大会では【優位】に入賞できるように毎日練習に励んでいる。"
+      }
+    },
+    {
+      "year": "2015.12",
+      "number": 8,
+      "id": "sbry-n1-2015.12-文字・語彙-2-8",
+      "lemma": "メディア",
+      "categories": [
+        "片假名（問題2—3）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2015.07",
+      "number": 1,
+      "id": "sbry-n1-2015.07-文字・語彙-1-1",
+      "lemma": "添付",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2015.07",
+      "number": 2,
+      "id": "sbry-n1-2015.07-文字・語彙-1-2",
+      "lemma": "慕う",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2015.07",
+      "number": 3,
+      "id": "sbry-n1-2015.07-文字・語彙-1-3",
+      "lemma": "破損",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2015.07",
+      "number": 4,
+      "id": "sbry-n1-2015.07-文字・語彙-1-4",
+      "lemma": "承諾",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2015.07",
+      "number": 5,
+      "id": "sbry-n1-2015.07-文字・語彙-1-5",
+      "lemma": "淡い",
+      "categories": [
+        "い形容词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2015.07",
+      "number": 6,
+      "id": "sbry-n1-2015.07-文字・語彙-1-6",
+      "lemma": "画一的",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2015.07",
+      "number": 16,
+      "id": "sbry-n1-2015.07-文字・語彙-3-16",
+      "lemma": "クレーム",
+      "categories": [
+        "片假名（問題2—3）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2014.12",
+      "number": 1,
+      "id": "sbry-n1-2014.12-文字・語彙-1-1",
+      "lemma": "概略",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2014.12",
+      "number": 2,
+      "id": "sbry-n1-2014.12-文字・語彙-1-2",
+      "lemma": "臨む",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2014.12",
+      "number": 3,
+      "id": "sbry-n1-2014.12-文字・語彙-1-3",
+      "lemma": "督促",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2014.12",
+      "number": 4,
+      "id": "sbry-n1-2014.12-文字・語彙-1-4",
+      "lemma": "漂う",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2014.12",
+      "number": 5,
+      "id": "sbry-n1-2014.12-文字・語彙-1-5",
+      "lemma": "厳正",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2014.12",
+      "number": 6,
+      "id": "sbry-n1-2014.12-文字・語彙-1-6",
+      "lemma": "拒む",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2014.12",
+      "number": 10,
+      "id": "sbry-n1-2014.12-文字・語彙-2-10",
+      "lemma": "ノルマ",
+      "categories": [
+        "片假名（問題2—3）"
+      ],
+      "covered": true,
+      "witness": {
+        "year": "2012.07",
+        "number": 7,
+        "option": 3,
+        "text": "ノルマ"
+      }
+    },
+    {
+      "year": "2014.07",
+      "number": 1,
+      "id": "sbry-n1-2014.07-文字・語彙-1-1",
+      "lemma": "躍進",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2014.07",
+      "number": 2,
+      "id": "sbry-n1-2014.07-文字・語彙-1-2",
+      "lemma": "遂行",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2014.07",
+      "number": 3,
+      "id": "sbry-n1-2014.07-文字・語彙-1-3",
+      "lemma": "凝縮",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2014.07",
+      "number": 4,
+      "id": "sbry-n1-2014.07-文字・語彙-1-4",
+      "lemma": "健やか",
+      "categories": [
+        "らか/やか形容词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2014.07",
+      "number": 5,
+      "id": "sbry-n1-2014.07-文字・語彙-1-5",
+      "lemma": "中枢",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2014.07",
+      "number": 6,
+      "id": "sbry-n1-2014.07-文字・語彙-1-6",
+      "lemma": "否める",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2014.07",
+      "number": 8,
+      "id": "sbry-n1-2014.07-文字・語彙-2-8",
+      "lemma": "おびただしい",
+      "categories": [
+        "しい形容词（問題2—3）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2014.07",
+      "number": 11,
+      "id": "sbry-n1-2014.07-文字・語彙-2-11",
+      "lemma": "ウェイト",
+      "categories": [
+        "片假名（問題2—3）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2014.07",
+      "number": 16,
+      "id": "sbry-n1-2014.07-文字・語彙-3-16",
+      "lemma": "ストレート",
+      "categories": [
+        "片假名（問題2—3）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2013.12",
+      "number": 1,
+      "id": "sbry-n1-2013.12-文字・語彙-1-1",
+      "lemma": "把握",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2013.12",
+      "number": 2,
+      "id": "sbry-n1-2013.12-文字・語彙-1-2",
+      "lemma": "憤り",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2013.12",
+      "number": 3,
+      "id": "sbry-n1-2013.12-文字・語彙-1-3",
+      "lemma": "趣旨",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2013.12",
+      "number": 4,
+      "id": "sbry-n1-2013.12-文字・語彙-1-4",
+      "lemma": "日夜",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2013.12",
+      "number": 5,
+      "id": "sbry-n1-2013.12-文字・語彙-1-5",
+      "lemma": "貫く",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2013.12",
+      "number": 6,
+      "id": "sbry-n1-2013.12-文字・語彙-1-6",
+      "lemma": "貧富",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2013.12",
+      "number": 16,
+      "id": "sbry-n1-2013.12-文字・語彙-3-16",
+      "lemma": "メカニズム",
+      "categories": [
+        "片假名（問題2—3）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2013.07",
+      "number": 2,
+      "id": "sbry-n1-2013.07-文字・語彙-1-2",
+      "lemma": "巧妙",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2013.07",
+      "number": 3,
+      "id": "sbry-n1-2013.07-文字・語彙-1-3",
+      "lemma": "憩い",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2013.07",
+      "number": 4,
+      "id": "sbry-n1-2013.07-文字・語彙-1-4",
+      "lemma": "需要",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2013.07",
+      "number": 5,
+      "id": "sbry-n1-2013.07-文字・語彙-1-5",
+      "lemma": "緩和",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2013.07",
+      "number": 6,
+      "id": "sbry-n1-2013.07-文字・語彙-1-6",
+      "lemma": "跡地",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2013.07",
+      "number": 17,
+      "id": "sbry-n1-2013.07-文字・語彙-3-17",
+      "lemma": "バックアップ",
+      "categories": [
+        "片假名（問題2—3）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2012.12",
+      "number": 1,
+      "id": "sbry-n1-2012.12-文字・語彙-1-1",
+      "lemma": "枠",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2012.12",
+      "number": 2,
+      "id": "sbry-n1-2012.12-文字・語彙-1-2",
+      "lemma": "網羅",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2012.12",
+      "number": 3,
+      "id": "sbry-n1-2012.12-文字・語彙-1-3",
+      "lemma": "名誉",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2012.12",
+      "number": 4,
+      "id": "sbry-n1-2012.12-文字・語彙-1-4",
+      "lemma": "費やす",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": true,
+      "witness": {
+        "year": "2010.12",
+        "number": 8,
+        "option": 3,
+        "text": "費やす"
+      }
+    },
+    {
+      "year": "2012.12",
+      "number": 5,
+      "id": "sbry-n1-2012.12-文字・語彙-1-5",
+      "lemma": "由緒",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2012.12",
+      "number": 6,
+      "id": "sbry-n1-2012.12-文字・語彙-1-6",
+      "lemma": "手際",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2012.12",
+      "number": 12,
+      "id": "sbry-n1-2012.12-文字・語彙-2-12",
+      "lemma": "リストアップ",
+      "categories": [
+        "片假名（問題2—3）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2012.12",
+      "number": 15,
+      "id": "sbry-n1-2012.12-文字・語彙-3-15",
+      "lemma": "スケール",
+      "categories": [
+        "片假名（問題2—3）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2012.07",
+      "number": 1,
+      "id": "sbry-n1-2012.07-文字・語彙-1-1",
+      "lemma": "群衆",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2012.07",
+      "number": 2,
+      "id": "sbry-n1-2012.07-文字・語彙-1-2",
+      "lemma": "覆す",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2012.07",
+      "number": 3,
+      "id": "sbry-n1-2012.07-文字・語彙-1-3",
+      "lemma": "克明",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2012.07",
+      "number": 4,
+      "id": "sbry-n1-2012.07-文字・語彙-1-4",
+      "lemma": "心地よい",
+      "categories": [
+        "い形容词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2012.07",
+      "number": 5,
+      "id": "sbry-n1-2012.07-文字・語彙-1-5",
+      "lemma": "踏襲",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2012.07",
+      "number": 6,
+      "id": "sbry-n1-2012.07-文字・語彙-1-6",
+      "lemma": "改革",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2012.07",
+      "number": 7,
+      "id": "sbry-n1-2012.07-文字・語彙-2-7",
+      "lemma": "ハードル",
+      "categories": [
+        "片假名（問題2—3）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2012.07",
+      "number": 11,
+      "id": "sbry-n1-2012.07-文字・語彙-2-11",
+      "lemma": "まぎらわしい",
+      "categories": [
+        "しい形容词（問題2—3）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2012.07",
+      "number": 15,
+      "id": "sbry-n1-2012.07-文字・語彙-3-15",
+      "lemma": "すがすがしい",
+      "categories": [
+        "しい形容词（問題2—3）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2011.12",
+      "number": 1,
+      "id": "sbry-n1-2011.12-文字・語彙-1-1",
+      "lemma": "鈍る",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2011.12",
+      "number": 2,
+      "id": "sbry-n1-2011.12-文字・語彙-1-2",
+      "lemma": "漠然",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2011.12",
+      "number": 3,
+      "id": "sbry-n1-2011.12-文字・語彙-1-3",
+      "lemma": "閲覧",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2011.12",
+      "number": 4,
+      "id": "sbry-n1-2011.12-文字・語彙-1-4",
+      "lemma": "釈明",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2011.12",
+      "number": 5,
+      "id": "sbry-n1-2011.12-文字・語彙-1-5",
+      "lemma": "合併",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2011.12",
+      "number": 6,
+      "id": "sbry-n1-2011.12-文字・語彙-1-6",
+      "lemma": "兆し",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2011.12",
+      "number": 10,
+      "id": "sbry-n1-2011.12-文字・語彙-2-10",
+      "lemma": "ニュアンス",
+      "categories": [
+        "片假名（問題2—3）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2011.12",
+      "number": 13,
+      "id": "sbry-n1-2011.12-文字・語彙-2-13",
+      "lemma": "ストック",
+      "categories": [
+        "片假名（問題2—3）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2011.12",
+      "number": 19,
+      "id": "sbry-n1-2011.12-文字・語彙-3-19",
+      "lemma": "コントラスト",
+      "categories": [
+        "片假名（問題2—3）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2011.07",
+      "number": 1,
+      "id": "sbry-n1-2011.07-文字・語彙-1-1",
+      "lemma": "利益",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": true,
+      "witness": {
+        "year": "2010.12",
+        "number": 24,
+        "option": 3,
+        "text": "【目先】の利益を追うのではなく、会社の将来を考えるべきだ。"
+      }
+    },
+    {
+      "year": "2011.07",
+      "number": 2,
+      "id": "sbry-n1-2011.07-文字・語彙-1-2",
+      "lemma": "逃れる",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2011.07",
+      "number": 3,
+      "id": "sbry-n1-2011.07-文字・語彙-1-3",
+      "lemma": "考慮",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2011.07",
+      "number": 4,
+      "id": "sbry-n1-2011.07-文字・語彙-1-4",
+      "lemma": "遮る",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2011.07",
+      "number": 5,
+      "id": "sbry-n1-2011.07-文字・語彙-1-5",
+      "lemma": "根拠",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2011.07",
+      "number": 6,
+      "id": "sbry-n1-2011.07-文字・語彙-1-6",
+      "lemma": "肝心",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2011.07",
+      "number": 19,
+      "id": "sbry-n1-2011.07-文字・語彙-3-19",
+      "lemma": "シビア",
+      "categories": [
+        "片假名（問題2—3）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2010.12",
+      "number": 1,
+      "id": "sbry-n1-2010.12-文字・語彙-1-1",
+      "lemma": "本筋",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2010.12",
+      "number": 2,
+      "id": "sbry-n1-2010.12-文字・語彙-1-2",
+      "lemma": "伴奏",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2010.12",
+      "number": 3,
+      "id": "sbry-n1-2010.12-文字・語彙-1-3",
+      "lemma": "推理",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2010.12",
+      "number": 4,
+      "id": "sbry-n1-2010.12-文字・語彙-1-4",
+      "lemma": "極めて",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2010.12",
+      "number": 5,
+      "id": "sbry-n1-2010.12-文字・語彙-1-5",
+      "lemma": "練る",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2010.12",
+      "number": 6,
+      "id": "sbry-n1-2010.12-文字・語彙-1-6",
+      "lemma": "締める",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2010.12",
+      "number": 9,
+      "id": "sbry-n1-2010.12-文字・語彙-2-9",
+      "lemma": "キャリア",
+      "categories": [
+        "片假名（問題2—3）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2010.07",
+      "number": 1,
+      "id": "sbry-n1-2010.07-文字・語彙-1-1",
+      "lemma": "繁盛",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2010.07",
+      "number": 2,
+      "id": "sbry-n1-2010.07-文字・語彙-1-2",
+      "lemma": "契約",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2010.07",
+      "number": 3,
+      "id": "sbry-n1-2010.07-文字・語彙-1-3",
+      "lemma": "潤う",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2010.07",
+      "number": 4,
+      "id": "sbry-n1-2010.07-文字・語彙-1-4",
+      "lemma": "手薄",
+      "categories": [
+        "汉字读音（名词与汉字熟语）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2010.07",
+      "number": 5,
+      "id": "sbry-n1-2010.07-文字・語彙-1-5",
+      "lemma": "壊す",
+      "categories": [
+        "动词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2010.07",
+      "number": 6,
+      "id": "sbry-n1-2010.07-文字・語彙-1-6",
+      "lemma": "華々しい",
+      "categories": [
+        "い形容词读音"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2010.07",
+      "number": 8,
+      "id": "sbry-n1-2010.07-文字・語彙-2-8",
+      "lemma": "フォロー",
+      "categories": [
+        "片假名（問題2—3）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2010.07",
+      "number": 14,
+      "id": "sbry-n1-2010.07-文字・語彙-3-14",
+      "lemma": "ルーズ",
+      "categories": [
+        "片假名（問題2—3）"
+      ],
+      "covered": false,
+      "witness": null
+    },
+    {
+      "year": "2010.07",
+      "number": 18,
+      "id": "sbry-n1-2010.07-文字・語彙-3-18",
+      "lemma": "わずらわしい",
+      "categories": [
+        "しい形容词（問題2—3）"
+      ],
+      "covered": false,
+      "witness": null
+    }
+  ]
+}

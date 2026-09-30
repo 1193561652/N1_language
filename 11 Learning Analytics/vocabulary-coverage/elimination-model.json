@@ -1,0 +1,31 @@
+{
+  "assumptions": [
+    "Historical option lexicon and chronological matching inherited from question-audit.json.",
+    "Group 2: a familiar correct answer is recognized with certainty; familiar distractors are ruled out correctly.",
+    "Group 3: the target must be familiar before either recognition or elimination is allowed.",
+    "Group 4: familiar target means perfect usage mastery; unfamiliar target means random guessing.",
+    "Choose uniformly among remaining candidates, no mistakes in elimination.",
+    "Unfamiliar words yield no contextual or character-based inferences; no vocabulary learned outside historical options.",
+    "These assumptions are unvalidated learner-behavior scenarios, not measured accuracy or an absolute upper bound."
+  ],
+  "results": {
+    "10": {
+      "questions": 190,
+      "known_answer_else_random": 0.41578947368421054,
+      "with_perfect_valid_elimination": 0.4337719298245614,
+      "questions_helped_by_elimination": 25
+    },
+    "6": {
+      "questions": 114,
+      "known_answer_else_random": 0.4342105263157895,
+      "with_perfect_valid_elimination": 0.4473684210526316,
+      "questions_helped_by_elimination": 12
+    },
+    "4": {
+      "questions": 76,
+      "known_answer_else_random": 0.4473684210526316,
+      "with_perfect_valid_elimination": 0.46381578947368424,
+      "questions_helped_by_elimination": 9
+    }
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "10": {
+    "5": {
+      "questions": 100,
+      "strict": 0.4656223141349339,
+      "central": 0.6110928870599427,
+      "generous": 0.7426442283494475,
+      "all_points_seen": 0.62,
+      "all_points_seen_same_type": 0.39,
+      "broad_primary_tag_seen": 1.0,
+      "literal_construction_seen": 0.08,
+      "central_ge_80": 7,
+      "central_lt_50": 24
+    },
+    "6": {
+      "questions": 50,
+      "strict": 0.5162754816431891,
+      "central": 0.6478323156807708,
+      "generous": 0.7675358795317955,
+      "all_points_seen": 0.62,
+      "all_points_seen_same_type": 0.36,
+      "broad_primary_tag_seen": 1.0,
+      "literal_construction_seen": 0.0,
+      "central_ge_80": 6,
+      "central_lt_50": 8
+    },
+    "7": {
+      "questions": 40,
+      "strict": 0.5051097068924395,
+      "central": 0.6422227603235282,
+      "generous": 0.7654588472936995,
+      "all_points_seen": 0.7,
+      "all_points_seen_same_type": 0.475,
+      "broad_primary_tag_seen": 1.0,
+      "literal_construction_seen": 0.1,
+      "central_ge_80": 4,
+      "central_lt_50": 9
+    },
+    "total": {
+      "questions": 190,
+      "strict": 0.4872652303755286,
+      "central": 0.6273148152788103,
+      "generous": 0.753997740543592,
+      "all_points_seen": 0.6368421052631579,
+      "all_points_seen_same_type": 0.4,
+      "broad_primary_tag_seen": 1.0,
+      "literal_construction_seen": 0.06315789473684211,
+      "central_ge_80": 17,
+      "central_lt_50": 41
+    },
+    "exclude_flagged_queries": {
+      "questions": 182,
+      "strict": 0.48510909719712114,
+      "central": 0.6261067687975427,
+      "generous": 0.7534166457267764,
+      "all_points_seen": 0.6373626373626373,
+      "all_points_seen_same_type": 0.3956043956043956,
+      "broad_primary_tag_seen": 1.0,
+      "literal_construction_seen": 0.06593406593406594,
+      "central_ge_80": 16,
+      "central_lt_50": 40
+    }
+  },
+  "6": {
+    "5": {
+      "questions": 60,
+      "strict": 0.4679998524991356,
+      "central": 0.6185403892543483,
+      "generous": 0.754328056390126,
+      "all_points_seen": 0.6333333333333333,
+      "all_points_seen_same_type": 0.36666666666666664,
+      "broad_primary_tag_seen": 1.0,
+      "literal_construction_seen": 0.06666666666666667,
+      "central_ge_80": 4,
+      "central_lt_50": 12
+    },
+    "6": {
+      "questions": 30,
+      "strict": 0.5250496941328391,
+      "central": 0.65788771717848,
+      "generous": 0.7794093406961509,
+      "all_points_seen": 0.6,
+      "all_points_seen_same_type": 0.36666666666666664,
+      "broad_primary_tag_seen": 1.0,
+      "literal_construction_seen": 0.0,
+      "central_ge_80": 4,
+      "central_lt_50": 4
+    },
+    "7": {
+      "questions": 24,
+      "strict": 0.4890531122728339,
+      "central": 0.6319910082891569,
+      "generous": 0.7610967166965592,
+      "all_points_seen": 0.6666666666666666,
+      "all_points_seen_same_type": 0.4583333333333333,
+      "broad_primary_tag_seen": 1.0,
+      "literal_construction_seen": 0.041666666666666664,
+      "central_ge_80": 3,
+      "central_lt_50": 7
+    },
+    "total": {
+      "questions": 114,
+      "strict": 0.48744523393404665,
+      "central": 0.631726658504869,
+      "generous": 0.7623533754825396,
+      "all_points_seen": 0.631578947368421,
+      "all_points_seen_same_type": 0.38596491228070173,
+      "broad_primary_tag_seen": 1.0,
+      "literal_construction_seen": 0.043859649122807015,
+      "central_ge_80": 11,
+      "central_lt_50": 23
+    },
+    "exclude_flagged_queries": {
+      "questions": 107,
+      "strict": 0.4820515805381443,
+      "central": 0.6276605159658925,
+      "generous": 0.7591031463527164,
+      "all_points_seen": 0.6261682242990654,
+      "all_points_seen_same_type": 0.37383177570093457,
+      "broad_primary_tag_seen": 1.0,
+      "literal_construction_seen": 0.04672897196261682,
+      "central_ge_80": 10,
+      "central_lt_50": 23
+    }
+  },
+  "4": {
+    "5": {
+      "questions": 40,
+      "strict": 0.4593850126267487,
+      "central": 0.608510246004979,
+      "generous": 0.741522758090708,
+      "all_points_seen": 0.65,
+      "all_points_seen_same_type": 0.35,
+      "broad_primary_tag_seen": 1.0,
+      "literal_construction_seen": 0.075,
+      "central_ge_80": 2,
+      "central_lt_50": 9
+    },
+    "6": {
+      "questions": 20,
+      "strict": 0.5094196143613066,
+      "central": 0.6475076261895664,
+      "generous": 0.7797415173621388,
+      "all_points_seen": 0.55,
+      "all_points_seen_same_type": 0.3,
+      "broad_primary_tag_seen": 1.0,
+      "literal_construction_seen": 0.0,
+      "central_ge_80": 2,
+      "central_lt_50": 3
+    },
+    "7": {
+      "questions": 16,
+      "strict": 0.48092430592506097,
+      "central": 0.6221859353328929,
+      "generous": 0.7505261429070245,
+      "all_points_seen": 0.5625,
+      "all_points_seen_same_type": 0.375,
+      "broad_primary_tag_seen": 1.0,
+      "literal_construction_seen": 0.0625,
+      "central_ge_80": 2,
+      "central_lt_50": 6
+    },
+    "total": {
+      "questions": 76,
+      "strict": 0.4770866011460139,
+      "central": 0.6216518069646945,
+      "generous": 0.753475775755046,
+      "all_points_seen": 0.6052631578947368,
+      "all_points_seen_same_type": 0.34210526315789475,
+      "broad_primary_tag_seen": 1.0,
+      "literal_construction_seen": 0.05263157894736842,
+      "central_ge_80": 6,
+      "central_lt_50": 18
+    },
+    "exclude_flagged_queries": {
+      "questions": 70,
+      "strict": 0.4685363405927387,
+      "central": 0.6150786784410759,
+      "generous": 0.7481940919887548,
+      "all_points_seen": 0.6,
+      "all_points_seen_same_type": 0.32857142857142857,
+      "broad_primary_tag_seen": 1.0,
+      "literal_construction_seen": 0.05714285714285714,
+      "central_ge_80": 5,
+      "central_lt_50": 18
+    }
+  }
+}
+LOWEST RECENT
+2022.12 30 ～場合を除いて 0.149 [{'id': 'sbry-n1-2010.07-文法-5-35', 'year': '2010.07', 'number': 35, 'group': 5, 'construction': 'しようとしたにすぎず', 'similarity': 0.15, 'point_similarity': 0.15, 'type_similarity': 1.0}, {'id': 'sbry-n1-2010.12-文法-5-27', 'year': '2010.12', 'number': 27, 'group': 5, 'construction': '受け入れられはしない', 'similarity': 0.15, 'point_similarity': 0.15, 'type_similarity': 1.0}]
+2025.12 28 ～くらいなら～ほうがいい 0.15 [{'id': 'sbry-n1-2010.12-文法-5-33', 'year': '2010.12', 'number': 33, 'group': 5, 'construction': '刺されでもしたら', 'similarity': 0.15, 'point_similarity': 0.15, 'type_similarity': 1.0}, {'id': 'sbry-n1-2011.07-文法-5-31', 'year': '2011.07', 'number': 31, 'group': 5, 'construction': 'お出しする以上', 'similarity': 0.15, 'point_similarity': 0.15, 'type_similarity': 1.0}]
+2024.07 35 ～たがるものです 0.314 [{'id': 'sbry-n1-2013.12-文法-7-43', 'year': '2013.12', 'number': 43, 'group': 7, 'construction': '犬の礼儀作法', 'similarity': 0.3818181818181819, 'point_similarity': 0.6363636363636365, 'type_similarity': 0.6}, {'id': 'sbry-n1-2017.12-文法-7-43', 'year': '2017.12', 'number': 43, 'group': 7, 'construction': 'よく思う', 'similarity': 0.3818181818181819, 'point_similarity': 0.6363636363636365, 'type_similarity': 0.6}]
+2022.12 43 言語感覚すら 0.318 [{'id': 'sbry-n1-2010.12-文法-7-41', 'year': '2010.12', 'number': 41, 'group': 7, 'construction': '通う人もいるほどだ', 'similarity': 0.4, 'point_similarity': 0.4, 'type_similarity': 1.0}, {'id': 'sbry-n1-2016.07-文法-7-43', 'year': '2016.07', 'number': 43, 'group': 7, 'construction': '私だって', 'similarity': 0.4, 'point_similarity': 0.4, 'type_similarity': 1.0}]
+2024.07 37 産卵を控えた雌に限っての行動 0.342 [{'id': 'sbry-n1-2019.12-文法-5-28', 'year': '2019.12', 'number': 28, 'group': 5, 'construction': 'を控えて', 'similarity': 0.4, 'point_similarity': 0.5, 'type_similarity': 0.8}, {'id': 'sbry-n1-2017.12-文法-5-26', 'year': '2017.12', 'number': 26, 'group': 5, 'construction': 'に先立ち', 'similarity': 0.26, 'point_similarity': 0.325, 'type_similarity': 0.8}]
+2022.07 37 市民を対象に／運動に関する意識調査 0.344 [{'id': 'sbry-n1-2011.12-文法-6-40', 'year': '2011.12', 'number': 40, 'group': 6, 'construction': '他人を眺めるがごとく', 'similarity': 0.196969696969697, 'point_similarity': 0.196969696969697, 'type_similarity': 1.0}, {'id': 'sbry-n1-2016.12-文法-6-37', 'year': '2016.12', 'number': 37, 'group': 6, 'construction': '仕事に夢中になりすぎる私に…気づかせてくれる', 'similarity': 0.196969696969697, 'point_similarity': 0.196969696969697, 'type_similarity': 1.0}]
+2022.07 34 ～書くんだっけ 0.349 [{'id': 'sbry-n1-2015.07-文法-5-30', 'year': '2015.07', 'number': 30, 'group': 5, 'construction': '思い出される', 'similarity': 0.393939393939394, 'point_similarity': 0.393939393939394, 'type_similarity': 1.0}, {'id': 'sbry-n1-2012.12-文法-7-43', 'year': '2012.12', 'number': 43, 'group': 7, 'construction': 'そして', 'similarity': 0.2363636363636364, 'point_similarity': 0.393939393939394, 'type_similarity': 0.6}]
+2025.07 30 Nを題材としながらも 0.357 [{'id': 'sbry-n1-2013.07-文法-6-37', 'year': '2013.07', 'number': 37, 'group': 6, 'construction': '使いにくいと言いながらも毎日使っているところを見ると', 'similarity': 0.4, 'point_similarity': 0.5, 'type_similarity': 0.8}, {'id': 'sbry-n1-2010.07-文法-5-32', 'year': '2010.07', 'number': 32, 'group': 5, 'construction': 'ことはないにしても', 'similarity': 0.325, 'point_similarity': 0.325, 'type_similarity': 1.0}]
+2024.07 29 ～かどうかはともかく 0.366 [{'id': 'sbry-n1-2016.07-文法-6-38', 'year': '2016.07', 'number': 38, 'group': 6, 'construction': 'か否かだけでなくいつのデータかを', 'similarity': 0.4, 'point_similarity': 0.5, 'type_similarity': 0.8}, {'id': 'sbry-n1-2022.12-文法-6-40', 'year': '2022.12', 'number': 40, 'group': 6, 'construction': '～か否かにかかっている', 'similarity': 0.4, 'point_similarity': 0.5, 'type_similarity': 0.8}]
+2025.12 36 NもNならNもNだ 0.371 [{'id': 'sbry-n1-2012.12-文法-5-28', 'year': '2012.12', 'number': 28, 'group': 5, 'construction': '君も君だ', 'similarity': 0.52, 'point_similarity': 0.65, 'type_similarity': 0.8}, {'id': 'sbry-n1-2010.07-文法-6-36', 'year': '2010.07', 'number': 36, 'group': 6, 'construction': '主人が魚屋も経営しているだけあって', 'similarity': 0.15, 'point_similarity': 0.15, 'type_similarity': 1.0}]
+2025.12 34 ～みたいなところがある 0.381 [{'id': 'sbry-n1-2010.07-文法-6-40', 'year': '2010.07', 'number': 40, 'group': 6, 'construction': 'わかるというような意味だったと思う', 'similarity': 0.2747169811320755, 'point_similarity': 0.3433962264150944, 'type_similarity': 0.8}, {'id': 'jlpt4you-2024.07-grammar-5-5', 'year': '2024.07', 'number': 30, 'group': 5, 'construction': 'あたかも～かのごとく', 'similarity': 0.24528301886792456, 'point_similarity': 0.24528301886792456, 'type_similarity': 1.0}]
+2022.12 35 ～たかったものだ 0.381 [{'id': 'sbry-n1-2015.07-文法-5-30', 'year': '2015.07', 'number': 30, 'group': 5, 'construction': '思い出される', 'similarity': 0.393939393939394, 'point_similarity': 0.393939393939394, 'type_similarity': 1.0}, {'id': 'sbry-n1-2022.07-文法-5-34', 'year': '2022.07', 'number': 34, 'group': 5, 'construction': '～書くんだっけ', 'similarity': 0.393939393939394, 'point_similarity': 0.393939393939394, 'type_similarity': 1.0}]

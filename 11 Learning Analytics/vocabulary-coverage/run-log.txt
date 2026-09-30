@@ -1,0 +1,510 @@
+{
+  "source": "E:\\N1_language\\offline-exam-tool\\data.js",
+  "sha256": "cf8871f385ec1762275ff920cb03d65494ac797a40e9f1e55889f38110ba47b3",
+  "papers": 31,
+  "questions": 589,
+  "option_lemma_types": 3239,
+  "last4": {
+    "all_options": {
+      "questions": 76,
+      "target": 23,
+      "option_lexical_tokens": 991,
+      "known_option_lexical_tokens": 655,
+      "group2": {
+        "n": 28,
+        "target": 11,
+        "answer": 11,
+        "both": 11,
+        "all4": 1,
+        "option_hits": 33
+      },
+      "group3": {
+        "n": 24,
+        "target": 6,
+        "answer": 12,
+        "both": 3,
+        "all4": 4,
+        "option_hits": 51
+      },
+      "group4": {
+        "n": 24,
+        "target": 6
+      },
+      "target_and_synonym_answer": 20
+    },
+    "core_options": {
+      "questions": 76,
+      "target": 20,
+      "option_lexical_tokens": 991,
+      "known_option_lexical_tokens": 655,
+      "group2": {
+        "n": 28,
+        "target": 10,
+        "answer": 10,
+        "both": 10,
+        "all4": 1,
+        "option_hits": 30
+      },
+      "group3": {
+        "n": 24,
+        "target": 5,
+        "answer": 9,
+        "both": 2,
+        "all4": 1,
+        "option_hits": 31
+      },
+      "group4": {
+        "n": 24,
+        "target": 5
+      },
+      "target_and_synonym_answer": 17
+    },
+    "core_plus_stems": {
+      "questions": 76,
+      "target": 28,
+      "option_lexical_tokens": 991,
+      "known_option_lexical_tokens": 655,
+      "group2": {
+        "n": 28,
+        "target": 11,
+        "answer": 11,
+        "both": 11,
+        "all4": 1,
+        "option_hits": 31
+      },
+      "group3": {
+        "n": 24,
+        "target": 10,
+        "answer": 9,
+        "both": 5,
+        "all4": 1,
+        "option_hits": 31
+      },
+      "group4": {
+        "n": 24,
+        "target": 7
+      },
+      "target_and_synonym_answer": 23
+    },
+    "all_options_plus_synonym_targets": {
+      "questions": 76,
+      "target": 31,
+      "option_lexical_tokens": 991,
+      "known_option_lexical_tokens": 655,
+      "group2": {
+        "n": 28,
+        "target": 12,
+        "answer": 12,
+        "both": 12,
+        "all4": 1,
+        "option_hits": 34
+      },
+      "group3": {
+        "n": 24,
+        "target": 11,
+        "answer": 12,
+        "both": 6,
+        "all4": 4,
+        "option_hits": 51
+      },
+      "group4": {
+        "n": 24,
+        "target": 8
+      },
+      "target_and_synonym_answer": 26
+    },
+    "all_options_plus_all_stems": {
+      "questions": 76,
+      "target": 32,
+      "option_lexical_tokens": 991,
+      "known_option_lexical_tokens": 655,
+      "group2": {
+        "n": 28,
+        "target": 13,
+        "answer": 13,
+        "both": 13,
+        "all4": 1,
+        "option_hits": 38
+      },
+      "group3": {
+        "n": 24,
+        "target": 11,
+        "answer": 14,
+        "both": 7,
+        "all4": 6,
+        "option_hits": 58
+      },
+      "group4": {
+        "n": 24,
+        "target": 8
+      },
+      "target_and_synonym_answer": 28
+    },
+    "all_groups1to4_full_text": {
+      "questions": 76,
+      "target": 35,
+      "option_lexical_tokens": 991,
+      "known_option_lexical_tokens": 655,
+      "group2": {
+        "n": 28,
+        "target": 15,
+        "answer": 15,
+        "both": 15,
+        "all4": 1,
+        "option_hits": 40
+      },
+      "group3": {
+        "n": 24,
+        "target": 11,
+        "answer": 14,
+        "both": 7,
+        "all4": 7,
+        "option_hits": 60
+      },
+      "group4": {
+        "n": 24,
+        "target": 9
+      },
+      "target_and_synonym_answer": 31
+    }
+  },
+  "last6": {
+    "all_options": {
+      "questions": 114,
+      "target": 31,
+      "option_lexical_tokens": 1432,
+      "known_option_lexical_tokens": 934,
+      "group2": {
+        "n": 42,
+        "target": 15,
+        "answer": 15,
+        "both": 15,
+        "all4": 1,
+        "option_hits": 43
+      },
+      "group3": {
+        "n": 36,
+        "target": 8,
+        "answer": 20,
+        "both": 5,
+        "all4": 6,
+        "option_hits": 79
+      },
+      "group4": {
+        "n": 36,
+        "target": 8
+      },
+      "target_and_synonym_answer": 28
+    },
+    "core_options": {
+      "questions": 114,
+      "target": 28,
+      "option_lexical_tokens": 1432,
+      "known_option_lexical_tokens": 934,
+      "group2": {
+        "n": 42,
+        "target": 14,
+        "answer": 14,
+        "both": 14,
+        "all4": 1,
+        "option_hits": 40
+      },
+      "group3": {
+        "n": 36,
+        "target": 7,
+        "answer": 17,
+        "both": 4,
+        "all4": 2,
+        "option_hits": 56
+      },
+      "group4": {
+        "n": 36,
+        "target": 7
+      },
+      "target_and_synonym_answer": 25
+    },
+    "core_plus_stems": {
+      "questions": 114,
+      "target": 37,
+      "option_lexical_tokens": 1432,
+      "known_option_lexical_tokens": 934,
+      "group2": {
+        "n": 42,
+        "target": 15,
+        "answer": 15,
+        "both": 15,
+        "all4": 1,
+        "option_hits": 41
+      },
+      "group3": {
+        "n": 36,
+        "target": 13,
+        "answer": 17,
+        "both": 8,
+        "all4": 2,
+        "option_hits": 56
+      },
+      "group4": {
+        "n": 36,
+        "target": 9
+      },
+      "target_and_synonym_answer": 32
+    },
+    "all_options_plus_synonym_targets": {
+      "questions": 114,
+      "target": 40,
+      "option_lexical_tokens": 1432,
+      "known_option_lexical_tokens": 934,
+      "group2": {
+        "n": 42,
+        "target": 16,
+        "answer": 16,
+        "both": 16,
+        "all4": 1,
+        "option_hits": 44
+      },
+      "group3": {
+        "n": 36,
+        "target": 14,
+        "answer": 20,
+        "both": 9,
+        "all4": 6,
+        "option_hits": 79
+      },
+      "group4": {
+        "n": 36,
+        "target": 10
+      },
+      "target_and_synonym_answer": 35
+    },
+    "all_options_plus_all_stems": {
+      "questions": 114,
+      "target": 41,
+      "option_lexical_tokens": 1432,
+      "known_option_lexical_tokens": 934,
+      "group2": {
+        "n": 42,
+        "target": 17,
+        "answer": 17,
+        "both": 17,
+        "all4": 1,
+        "option_hits": 48
+      },
+      "group3": {
+        "n": 36,
+        "target": 14,
+        "answer": 22,
+        "both": 10,
+        "all4": 9,
+        "option_hits": 90
+      },
+      "group4": {
+        "n": 36,
+        "target": 10
+      },
+      "target_and_synonym_answer": 37
+    },
+    "all_groups1to4_full_text": {
+      "questions": 114,
+      "target": 46,
+      "option_lexical_tokens": 1432,
+      "known_option_lexical_tokens": 934,
+      "group2": {
+        "n": 42,
+        "target": 19,
+        "answer": 19,
+        "both": 19,
+        "all4": 1,
+        "option_hits": 51
+      },
+      "group3": {
+        "n": 36,
+        "target": 15,
+        "answer": 22,
+        "both": 11,
+        "all4": 10,
+        "option_hits": 92
+      },
+      "group4": {
+        "n": 36,
+        "target": 12
+      },
+      "target_and_synonym_answer": 42
+    }
+  },
+  "last10": {
+    "all_options": {
+      "questions": 190,
+      "target": 48,
+      "option_lexical_tokens": 2429,
+      "known_option_lexical_tokens": 1584,
+      "group2": {
+        "n": 70,
+        "target": 22,
+        "answer": 22,
+        "both": 22,
+        "all4": 2,
+        "option_hits": 72
+      },
+      "group3": {
+        "n": 60,
+        "target": 12,
+        "answer": 33,
+        "both": 6,
+        "all4": 16,
+        "option_hits": 134
+      },
+      "group4": {
+        "n": 60,
+        "target": 14
+      },
+      "target_and_synonym_answer": 42
+    },
+    "core_options": {
+      "questions": 190,
+      "target": 43,
+      "option_lexical_tokens": 2429,
+      "known_option_lexical_tokens": 1584,
+      "group2": {
+        "n": 70,
+        "target": 20,
+        "answer": 20,
+        "both": 20,
+        "all4": 2,
+        "option_hits": 63
+      },
+      "group3": {
+        "n": 60,
+        "target": 11,
+        "answer": 26,
+        "both": 5,
+        "all4": 6,
+        "option_hits": 94
+      },
+      "group4": {
+        "n": 60,
+        "target": 12
+      },
+      "target_and_synonym_answer": 37
+    },
+    "core_plus_stems": {
+      "questions": 190,
+      "target": 56,
+      "option_lexical_tokens": 2429,
+      "known_option_lexical_tokens": 1584,
+      "group2": {
+        "n": 70,
+        "target": 21,
+        "answer": 21,
+        "both": 21,
+        "all4": 2,
+        "option_hits": 65
+      },
+      "group3": {
+        "n": 60,
+        "target": 21,
+        "answer": 26,
+        "both": 11,
+        "all4": 6,
+        "option_hits": 94
+      },
+      "group4": {
+        "n": 60,
+        "target": 14
+      },
+      "target_and_synonym_answer": 46
+    },
+    "all_options_plus_synonym_targets": {
+      "questions": 190,
+      "target": 61,
+      "option_lexical_tokens": 2429,
+      "known_option_lexical_tokens": 1584,
+      "group2": {
+        "n": 70,
+        "target": 23,
+        "answer": 23,
+        "both": 23,
+        "all4": 2,
+        "option_hits": 74
+      },
+      "group3": {
+        "n": 60,
+        "target": 22,
+        "answer": 33,
+        "both": 13,
+        "all4": 16,
+        "option_hits": 134
+      },
+      "group4": {
+        "n": 60,
+        "target": 16
+      },
+      "target_and_synonym_answer": 52
+    },
+    "all_options_plus_all_stems": {
+      "questions": 190,
+      "target": 65,
+      "option_lexical_tokens": 2429,
+      "known_option_lexical_tokens": 1584,
+      "group2": {
+        "n": 70,
+        "target": 25,
+        "answer": 25,
+        "both": 25,
+        "all4": 2,
+        "option_hits": 79
+      },
+      "group3": {
+        "n": 60,
+        "target": 22,
+        "answer": 35,
+        "both": 14,
+        "all4": 19,
+        "option_hits": 147
+      },
+      "group4": {
+        "n": 60,
+        "target": 18
+      },
+      "target_and_synonym_answer": 57
+    },
+    "all_groups1to4_full_text": {
+      "questions": 190,
+      "target": 72,
+      "option_lexical_tokens": 2429,
+      "known_option_lexical_tokens": 1584,
+      "group2": {
+        "n": 70,
+        "target": 29,
+        "answer": 29,
+        "both": 29,
+        "all4": 2,
+        "option_hits": 84
+      },
+      "group3": {
+        "n": 60,
+        "target": 23,
+        "answer": 36,
+        "both": 16,
+        "all4": 21,
+        "option_hits": 151
+      },
+      "group4": {
+        "n": 60,
+        "target": 20
+      },
+      "target_and_synonym_answer": 65
+    }
+  }
+}
+LAST TEN PERIODS
+2021.07 {"questions": 19, "target": 6, "option_lexical_tokens": 249, "known_option_lexical_tokens": 171, "group2": {"n": 7, "target": 3, "answer": 3, "both": 3, "all4": 1, "option_hits": 10}, "group3": {"n": 6, "target": 1, "answer": 3, "both": 0, "all4": 2, "option_hits": 12}, "group4": {"n": 6, "target": 2}, "target_and_synonym_answer": 5}
+2021.12 {"questions": 19, "target": 3, "option_lexical_tokens": 259, "known_option_lexical_tokens": 175, "group2": {"n": 7, "target": 1, "answer": 1, "both": 1, "all4": 0, "option_hits": 6}, "group3": {"n": 6, "target": 1, "answer": 4, "both": 1, "all4": 3, "option_hits": 14}, "group4": {"n": 6, "target": 1}, "target_and_synonym_answer": 3}
+2022.07 {"questions": 19, "target": 4, "option_lexical_tokens": 255, "known_option_lexical_tokens": 156, "group2": {"n": 7, "target": 1, "answer": 1, "both": 1, "all4": 0, "option_hits": 4}, "group3": {"n": 6, "target": 1, "answer": 4, "both": 0, "all4": 3, "option_hits": 16}, "group4": {"n": 6, "target": 2}, "target_and_synonym_answer": 3}
+2022.12 {"questions": 19, "target": 4, "option_lexical_tokens": 234, "known_option_lexical_tokens": 148, "group2": {"n": 7, "target": 2, "answer": 2, "both": 2, "all4": 0, "option_hits": 9}, "group3": {"n": 6, "target": 1, "answer": 2, "both": 0, "all4": 2, "option_hits": 13}, "group4": {"n": 6, "target": 1}, "target_and_synonym_answer": 3}
+2023.07 {"questions": 19, "target": 7, "option_lexical_tokens": 214, "known_option_lexical_tokens": 141, "group2": {"n": 7, "target": 4, "answer": 4, "both": 4, "all4": 0, "option_hits": 7}, "group3": {"n": 6, "target": 1, "answer": 3, "both": 1, "all4": 1, "option_hits": 14}, "group4": {"n": 6, "target": 2}, "target_and_synonym_answer": 7}
+2023.12 {"questions": 19, "target": 1, "option_lexical_tokens": 227, "known_option_lexical_tokens": 138, "group2": {"n": 7, "target": 0, "answer": 0, "both": 0, "all4": 0, "option_hits": 3}, "group3": {"n": 6, "target": 1, "answer": 5, "both": 1, "all4": 1, "option_hits": 14}, "group4": {"n": 6, "target": 0}, "target_and_synonym_answer": 1}
+2024.07 {"questions": 19, "target": 7, "option_lexical_tokens": 263, "known_option_lexical_tokens": 169, "group2": {"n": 7, "target": 2, "answer": 2, "both": 2, "all4": 0, "option_hits": 4}, "group3": {"n": 6, "target": 4, "answer": 2, "both": 2, "all4": 1, "option_hits": 12}, "group4": {"n": 6, "target": 1}, "target_and_synonym_answer": 5}
+2024.12 {"questions": 19, "target": 5, "option_lexical_tokens": 223, "known_option_lexical_tokens": 141, "group2": {"n": 7, "target": 3, "answer": 3, "both": 3, "all4": 1, "option_hits": 10}, "group3": {"n": 6, "target": 1, "answer": 3, "both": 0, "all4": 1, "option_hits": 14}, "group4": {"n": 6, "target": 1}, "target_and_synonym_answer": 4}
+2025.07 {"questions": 19, "target": 3, "option_lexical_tokens": 246, "known_option_lexical_tokens": 163, "group2": {"n": 7, "target": 2, "answer": 2, "both": 2, "all4": 0, "option_hits": 6}, "group3": {"n": 6, "target": 0, "answer": 3, "both": 0, "all4": 1, "option_hits": 11}, "group4": {"n": 6, "target": 1}, "target_and_synonym_answer": 3}
+2025.12 {"questions": 19, "target": 8, "option_lexical_tokens": 259, "known_option_lexical_tokens": 182, "group2": {"n": 7, "target": 4, "answer": 4, "both": 4, "all4": 0, "option_hits": 13}, "group3": {"n": 6, "target": 1, "answer": 4, "both": 1, "all4": 1, "option_hits": 14}, "group4": {"n": 6, "target": 3}, "target_and_synonym_answer": 8}
