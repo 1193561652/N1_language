@@ -1,0 +1,5033 @@
+{
+  "createdAt": "2026-10-02",
+  "scope": "31 periods; all 186 reading-question targets; cross-subject common-word associations",
+  "source": "offline-exam-tool/data.js",
+  "targetCount": 186,
+  "uniqueSurfaceCount": 181,
+  "characterCount": 271,
+  "coreFamilies": [
+    {
+      "character": "正",
+      "readings": "せい／しょう／ただしい",
+      "targets": [
+        "厳正"
+      ],
+      "related": [
+        "正確",
+        "正直",
+        "正しい"
+      ],
+      "note": "厳正・正確的正读せい；正直读しょうじき。不要由正直反推所有正都读しょう。正しいただしい为跨科目关联词。"
+    },
+    {
+      "character": "厳",
+      "readings": "げん／きびしい",
+      "targets": [
+        "厳正"
+      ],
+      "related": [
+        "厳しい"
+      ],
+      "note": "厳正げんせい ↔ 厳しいきびしい；音读与训读分开。"
+    },
+    {
+      "character": "凝",
+      "readings": "ぎょう",
+      "targets": [
+        "凝縮"
+      ],
+      "related": [
+        "凝視"
+      ],
+      "note": "凝縮ぎょうしゅく ↔ 凝視ぎょうし；ぎょう不是ぎ。"
+    },
+    {
+      "character": "縮",
+      "readings": "しゅく",
+      "targets": [
+        "凝縮"
+      ],
+      "related": [
+        "縮小"
+      ],
+      "note": "凝縮ぎょうしゅく ↔ 縮小しゅくしょう；不要把しゅく写成しゅう。"
+    },
+    {
+      "character": "自",
+      "readings": "じ／し／みずから",
+      "targets": [
+        "自粛"
+      ],
+      "related": [
+        "自然",
+        "自ら"
+      ],
+      "note": "自粛じしゅく；自然しぜん；自らみずから。按词区分，不能一律浊读じ。"
+    },
+    {
+      "character": "踏",
+      "readings": "とう",
+      "targets": [
+        "踏襲"
+      ],
+      "related": [
+        "雑踏"
+      ],
+      "note": "踏襲とうしゅう ↔ 雑踏ざっとう。襲在本题中读しゅう，勿与しょう混。"
+    },
+    {
+      "character": "群",
+      "readings": "ぐん",
+      "targets": [
+        "群衆"
+      ],
+      "related": [
+        "抜群"
+      ],
+      "note": "群衆ぐんしゅう ↔ 抜群ばつぐん；群不是かん。"
+    },
+    {
+      "character": "越",
+      "readings": "えつ／こえる",
+      "targets": [
+        "卓越"
+      ],
+      "related": [
+        "越える"
+      ],
+      "note": "卓越たくえつ ↔ 越えるこえる。卓＝たく；越＝えつ。"
+    },
+    {
+      "character": "趣",
+      "readings": "しゅ",
+      "targets": [
+        "趣旨"
+      ],
+      "related": [
+        "趣味"
+      ],
+      "note": "趣旨しゅし ↔ 趣味しゅみ；趣均为しゅ，旨在趣旨中为清音し。"
+    },
+    {
+      "character": "政",
+      "readings": "せい",
+      "targets": [
+        "行政"
+      ],
+      "related": [
+        "政治",
+        "政策"
+      ],
+      "note": "行政ぎょうせい、政治せいじ、政策せいさく；政在这些词中不读ぜい。"
+    },
+    {
+      "character": "行",
+      "readings": "こう／ぎょう",
+      "targets": [
+        "遂行",
+        "行政"
+      ],
+      "related": [
+        "旅行",
+        "銀行",
+        "行動"
+      ],
+      "note": "遂行すいこう ↔ 行政ぎょうせい；旅行りょこう、銀行ぎんこう、行動こうどう是こう的常见锚点。同一个行需按词记。"
+    },
+    {
+      "character": "合",
+      "readings": "ごう／がっ／あい",
+      "targets": [
+        "合併"
+      ],
+      "related": [
+        "合意",
+        "合致",
+        "試合",
+        "場合"
+      ],
+      "note": "合意ごうい；合併がっぺい、合致がっち；試合しあい、場合ばあい。がっ是合在整词中的音形，不是所有合都能这样变。"
+    },
+    {
+      "character": "執",
+      "readings": "しゅう／しつ（しっ）",
+      "targets": [
+        "執着"
+      ],
+      "related": [
+        "執筆",
+        "固執"
+      ],
+      "note": "執着しゅうちゃく；執筆しっぴつ；固執こしつ也读こしゅう。不要将固執当成只有一种读法的反例。"
+    },
+    {
+      "character": "着",
+      "readings": "ちゃく／きる／つく",
+      "targets": [
+        "執着"
+      ],
+      "related": [
+        "定着",
+        "着る",
+        "着く"
+      ],
+      "note": "執着しゅうちゃく、定着ていちゃく；着るきる、着くつく。日文汉字相同，词性与意思不同。"
+    },
+    {
+      "character": "興",
+      "readings": "こう／きょう",
+      "targets": [
+        "興奮",
+        "復興",
+        "振興"
+      ],
+      "related": [
+        "興味"
+      ],
+      "note": "三个目标词的興都读こう；興味きょうみ读きょう。你把興奮读成きょうぶん，需拆成こう＋ふん重新固定。"
+    },
+    {
+      "character": "奮",
+      "readings": "ふん",
+      "targets": [
+        "興奮"
+      ],
+      "related": [
+        "奮闘"
+      ],
+      "note": "興奮こうふん ↔ 奮闘ふんとう；不浊化成ぶん。"
+    },
+    {
+      "character": "復",
+      "readings": "ふく／ふっ",
+      "targets": [
+        "復興"
+      ],
+      "related": [
+        "復習",
+        "復旧"
+      ],
+      "note": "復習ふくしゅう；復興ふっこう、復旧ふっきゅう。记这组词内的促音变化，不泛化为任意く都变っ。"
+    },
+    {
+      "character": "露",
+      "readings": "ろ／ろう",
+      "targets": [
+        "暴露",
+        "披露"
+      ],
+      "related": [
+        "露骨",
+        "露出"
+      ],
+      "note": "暴露ばくろ、露骨ろこつ、露出ろしゅつ；披露ひろう。ろ／ろう要逐词区分。"
+    },
+    {
+      "character": "筋",
+      "readings": "すじ／きん",
+      "targets": [
+        "本筋",
+        "筋道"
+      ],
+      "related": [
+        "筋肉"
+      ],
+      "note": "本筋ほんすじ、筋道すじみち；筋肉きんにく。筋道不是きんどう。"
+    },
+    {
+      "character": "図",
+      "readings": "ず／と／はかる",
+      "targets": [
+        "指図"
+      ],
+      "related": [
+        "地図",
+        "図書館",
+        "図る"
+      ],
+      "note": "指図さしず、地図ちず；図書館としょかん；図るはかる。"
+    },
+    {
+      "character": "派",
+      "readings": "は／ぱ",
+      "targets": [
+        "派生"
+      ],
+      "related": [
+        "派遣",
+        "立派"
+      ],
+      "note": "派生はせい、派遣はけん；立派りっぱ。は→ぱ是此词中的半浊音变化，派生不加っ。"
+    },
+    {
+      "character": "生",
+      "readings": "せい／しょう／じょう／うまれる",
+      "targets": [
+        "派生"
+      ],
+      "related": [
+        "生じる",
+        "誕生",
+        "生まれる"
+      ],
+      "note": "派生はせい；生じるしょうじる；誕生たんじょう；生まれるうまれる。先记具体词，不把所有读法平铺硬背。"
+    },
+    {
+      "character": "画",
+      "readings": "かく／が",
+      "targets": [
+        "画一的"
+      ],
+      "related": [
+        "計画",
+        "画面"
+      ],
+      "note": "画一的かくいつてき、計画けいかく；画面がめん。画一的不是がいちてき。"
+    },
+    {
+      "character": "人",
+      "readings": "じん／にん",
+      "targets": [
+        "人脈"
+      ],
+      "related": [
+        "人間"
+      ],
+      "note": "人脈じんみゃく ↔ 人間にんげん；词内读音不可任意互换。"
+    },
+    {
+      "character": "手",
+      "readings": "て／しゅ",
+      "targets": [
+        "手薄",
+        "手際"
+      ],
+      "related": [
+        "手段",
+        "選手",
+        "手軽"
+      ],
+      "note": "手薄てうす、手際てぎわ、手軽てがる；手段しゅだん、選手せんしゅ。際在手際中为ぎわ。"
+    },
+    {
+      "character": "心",
+      "readings": "しん／じん／こころ；心地整词ここち",
+      "targets": [
+        "肝心",
+        "心地よい",
+        "心遣い"
+      ],
+      "related": [
+        "心配"
+      ],
+      "note": "心配しんぱい；肝心かんじん；心遣いこころづかい；心地よいここちよい。心地按整词读，勿机械拼成こころち。"
+    },
+    {
+      "character": "相",
+      "readings": "そう／あい",
+      "targets": [
+        "相場"
+      ],
+      "related": [
+        "相互",
+        "相手"
+      ],
+      "note": "相場そうば、相互そうご；相手あいて。場在相場中读ば。"
+    },
+    {
+      "character": "大",
+      "readings": "だい／たい",
+      "targets": [
+        "膨大"
+      ],
+      "related": [
+        "大臣",
+        "大切"
+      ],
+      "note": "膨大ぼうだい、大臣だいじん；大切たいせつ。重点保存膨大的长音ぼう。"
+    },
+    {
+      "character": "盛",
+      "readings": "じょう／せい",
+      "targets": [
+        "繁盛"
+      ],
+      "related": [
+        "盛大"
+      ],
+      "note": "繁盛はんじょう ↔ 盛大せいだい；不是同一个读音的清浊变化，应分别记。"
+    },
+    {
+      "character": "日",
+      "readings": "にち／じつ",
+      "targets": [
+        "日夜"
+      ],
+      "related": [
+        "日時",
+        "休日"
+      ],
+      "note": "日夜にちや、日時にちじ；休日きゅうじつ。这里只列真题词里用到的读法。"
+    },
+    {
+      "character": "時",
+      "readings": "じ",
+      "targets": [
+        "随時"
+      ],
+      "related": [
+        "時間",
+        "日時"
+      ],
+      "note": "随時ずいじ、時間じかん、日時にちじ；随在随時中是ずい。"
+    },
+    {
+      "character": "潜",
+      "readings": "せん／ひそむ",
+      "targets": [
+        "潜伏",
+        "潜んで"
+      ],
+      "related": [
+        "潜在"
+      ],
+      "note": "潜伏せんぷく、潜在せんざい；潜んでひそんで。音读せん与训读ひそむ分开记。"
+    },
+    {
+      "character": "粘",
+      "readings": "ねん／ねばる",
+      "targets": [
+        "粘膜",
+        "粘って"
+      ],
+      "related": [],
+      "note": "粘膜ねんまく ↔ 粘ってねばって；同字音训转换，不能把粘膜读成ねばまく。"
+    },
+    {
+      "character": "促",
+      "readings": "そく／うながす",
+      "targets": [
+        "督促",
+        "促した"
+      ],
+      "related": [],
+      "note": "督促とくそく ↔ 促したうながした。"
+    },
+    {
+      "character": "跡",
+      "readings": "せき／あと",
+      "targets": [
+        "軌跡",
+        "跡地"
+      ],
+      "related": [],
+      "note": "軌跡きせき ↔ 跡地あとち。轨迹与旧址通过同一字关联，但整词意思另记。"
+    },
+    {
+      "character": "地",
+      "readings": "ち",
+      "targets": [
+        "跡地",
+        "心地よい"
+      ],
+      "related": [
+        "地図"
+      ],
+      "note": "跡地あとち、地図ちず；心地よいここちよい整词记。"
+    },
+    {
+      "character": "健",
+      "readings": "けん／すこやか",
+      "targets": [
+        "健やか"
+      ],
+      "related": [
+        "健康",
+        "健全"
+      ],
+      "note": "健康けんこう、健全けんぜん；健やかすこやか。不要把训读套用到熟语。"
+    },
+    {
+      "character": "軽",
+      "readings": "けい／かるい（かる）",
+      "targets": [
+        "軽率"
+      ],
+      "related": [
+        "軽減",
+        "手軽"
+      ],
+      "note": "軽率けいそつ、軽減けいげん；手軽てがる。手軽里的がる体现连浊，非新的独立音读。"
+    },
+    {
+      "character": "忠",
+      "readings": "ちゅう",
+      "targets": [
+        "忠告"
+      ],
+      "related": [
+        "忠実"
+      ],
+      "note": "忠告ちゅうこく ↔ 忠実ちゅうじつ，ちゅう不是じゅう。"
+    },
+    {
+      "character": "告",
+      "readings": "こく",
+      "targets": [
+        "忠告"
+      ],
+      "related": [
+        "告白"
+      ],
+      "note": "忠告ちゅうこく ↔ 告白こくはく。"
+    },
+    {
+      "character": "名",
+      "readings": "めい",
+      "targets": [
+        "名誉"
+      ],
+      "related": [
+        "名称"
+      ],
+      "note": "名誉めいよ ↔ 名称めいしょう；先固定名誉的よ，不加长音。"
+    },
+    {
+      "character": "鈍",
+      "readings": "どん／にぶい・にぶる",
+      "targets": [
+        "鈍い",
+        "鈍って"
+      ],
+      "related": [
+        "鈍感"
+      ],
+      "note": "鈍感どんかん；鈍いにぶい、鈍ってにぶって。"
+    },
+    {
+      "character": "沈",
+      "readings": "ちん／しずむ",
+      "targets": [
+        "沈下"
+      ],
+      "related": [
+        "沈黙",
+        "沈む"
+      ],
+      "note": "沈下ちんか、沈黙ちんもく；沈むしずむ。"
+    },
+    {
+      "character": "崩・壊",
+      "readings": "ほう・かい／くずれる・こわす",
+      "targets": [
+        "崩れやすい",
+        "壊されて"
+      ],
+      "related": [
+        "崩壊"
+      ],
+      "note": "崩壊ほうかい；崩れやすいくずれやすい、壊されてこわされて。两字各有音训两条线。"
+    },
+    {
+      "character": "閲",
+      "readings": "えつ",
+      "targets": [
+        "閲覧",
+        "検閲"
+      ],
+      "related": [],
+      "note": "閲覧えつらん ↔ 検閲けんえつ；閲为えつ，不凭形似替成けん。"
+    },
+    {
+      "character": "明",
+      "readings": "めい",
+      "targets": [
+        "釈明",
+        "克明"
+      ],
+      "related": [],
+      "note": "釈明しゃくめい ↔ 克明こくめい。"
+    },
+    {
+      "character": "克",
+      "readings": "こく",
+      "targets": [
+        "克明",
+        "克服"
+      ],
+      "related": [],
+      "note": "克明こくめい ↔ 克服こくふく；克不是きょく。"
+    },
+    {
+      "character": "督",
+      "readings": "とく",
+      "targets": [
+        "督促",
+        "監督"
+      ],
+      "related": [],
+      "note": "督促とくそく ↔ 監督かんとく，前后位置改变但读音保持。"
+    },
+    {
+      "character": "承",
+      "readings": "しょう",
+      "targets": [
+        "承諾",
+        "了承"
+      ],
+      "related": [],
+      "note": "承諾しょうだく ↔ 了承りょうしょう；りょうしょう不要混成りょうしゅう。"
+    },
+    {
+      "character": "中",
+      "readings": "ちゅう",
+      "targets": [
+        "中枢",
+        "胸中"
+      ],
+      "related": [],
+      "note": "中枢ちゅうすう ↔ 胸中きょうちゅう；胸为きょう，枢为すう。"
+    },
+    {
+      "character": "繁",
+      "readings": "はん",
+      "targets": [
+        "繁盛",
+        "繁殖"
+      ],
+      "related": [],
+      "note": "繁盛はんじょう ↔ 繁殖はんしょく。相同首字不代表第二字也能套用。"
+    },
+    {
+      "character": "然",
+      "readings": "ぜん",
+      "targets": [
+        "漠然",
+        "騒然"
+      ],
+      "related": [],
+      "note": "漠然ばくぜん ↔ 騒然そうぜん；保留騒的长音そう。"
+    },
+    {
+      "character": "約",
+      "readings": "やく",
+      "targets": [
+        "契約",
+        "誓約書"
+      ],
+      "related": [],
+      "note": "契約けいやく ↔ 誓約書せいやくしょ；契けい、誓せい要分开。"
+    },
+    {
+      "character": "華",
+      "readings": "はな／ばな（重复时）",
+      "targets": [
+        "華々しく",
+        "華やか"
+      ],
+      "related": [],
+      "note": "華やかはなやか；華々しくはなばなしく。々是重复符号，第二个華在此浊化为ばな。"
+    },
+    {
+      "character": "潤",
+      "readings": "うるおう／うるおす",
+      "targets": [
+        "潤って",
+        "潤す"
+      ],
+      "related": [],
+      "note": "潤う→潤ってうるおって；潤すうるおす。读音题保留原形变化，不能只记汉字。"
+    },
+    {
+      "character": "憤",
+      "readings": "いきどおる",
+      "targets": [
+        "憤り",
+        "憤った"
+      ],
+      "related": [],
+      "note": "憤りいきどおり；憤る→憤ったいきどおった。おお的表记与促音都保留。"
+    },
+    {
+      "character": "臨",
+      "readings": "のぞむ",
+      "targets": [
+        "臨む",
+        "臨みたい"
+      ],
+      "related": [],
+      "note": "臨むのぞむ→臨みたいのぞみたい，是活用关联。"
+    },
+    {
+      "character": "慕",
+      "readings": "したう",
+      "targets": [
+        "慕われる",
+        "慕って"
+      ],
+      "related": [],
+      "note": "慕う→慕ってしたって；慕われるしたわれる是被动形式。"
+    },
+    {
+      "character": "偏",
+      "readings": "かたよる",
+      "targets": [
+        "偏って",
+        "偏り"
+      ],
+      "related": [],
+      "note": "偏る→偏ってかたよって；偏りかたより可作名词。"
+    },
+    {
+      "character": "戒",
+      "readings": "いましめる",
+      "targets": [
+        "戒める",
+        "戒めたい"
+      ],
+      "related": [],
+      "note": "戒めるいましめる→戒めたいいましめたい。"
+    },
+    {
+      "character": "樹・木",
+      "readings": "じゅ・もく",
+      "targets": [
+        "樹木"
+      ],
+      "related": [
+        "樹立",
+        "木材"
+      ],
+      "note": "樹木じゅもく；樹立じゅりつ、木材もくざい。用常见组合稳固两字。"
+    }
+  ],
+  "supplementaryWords": [
+    {
+      "word": "旅行",
+      "reading": "りょこう",
+      "meaning": "旅行",
+      "source": {
+        "year": "2010.07",
+        "subject": "词汇",
+        "number": 25,
+        "role": "选项3",
+        "id": "sbry-n1-2010.07-文字・語彙-4-25",
+        "excerpt": "海外旅行に行って、久しぶりの休暇を【満喫】した。"
+      }
+    },
+    {
+      "word": "銀行",
+      "reading": "ぎんこう",
+      "meaning": "银行",
+      "source": {
+        "year": "2010.07",
+        "subject": "听力",
+        "number": 3,
+        "role": "选项4",
+        "id": "sbry-n1-2010.07-聴解-55-3",
+        "excerpt": "『ネオ銀行の再生』"
+      }
+    },
+    {
+      "word": "行動",
+      "reading": "こうどう",
+      "meaning": "行动",
+      "source": {
+        "year": "2010.07",
+        "subject": "阅读",
+        "number": 53,
+        "role": "passage",
+        "id": "sbry-n1-2010.07-読解-9-53",
+        "excerpt": "いるのです。\n\n　ツバメが渡りの行動をおこすのは、日照時間にかかわりがあるといわれて"
+      }
+    },
+    {
+      "word": "正しい",
+      "reading": "ただしい",
+      "meaning": "正确",
+      "source": {
+        "year": "2010.07",
+        "subject": "阅读",
+        "number": 46,
+        "role": "passage",
+        "id": "sbry-n1-2010.07-読解-8-46",
+        "excerpt": "。\n\n　(小竹裕一『アジア人との正しい付き合い方－異文化へのまなざし』による)"
+      }
+    },
+    {
+      "word": "正直",
+      "reading": "しょうじき",
+      "meaning": "诚实",
+      "source": {
+        "year": "2010.12",
+        "subject": "阅读",
+        "number": 66,
+        "role": "passage",
+        "id": "sbry-n1-2010.12-読解-12-66",
+        "excerpt": "分にうそのないふるまいか？自分の正直な姿を伝えるとはどういうことか？\n\n　日ごろ９９"
+      }
+    },
+    {
+      "word": "正確",
+      "reading": "せいかく",
+      "meaning": "准确",
+      "source": {
+        "year": "2010.12",
+        "subject": "阅读",
+        "number": 69,
+        "role": "选项1",
+        "id": "sbry-n1-2010.12-読解-12-69",
+        "excerpt": "相手に自分の「メディア力」が正確に伝わるように意識する。"
+      }
+    },
+    {
+      "word": "厳しい",
+      "reading": "きびしい",
+      "meaning": "严格",
+      "source": {
+        "year": "2010.07",
+        "subject": "阅读",
+        "number": 63,
+        "role": "passage",
+        "id": "sbry-n1-2010.07-読解-11-63",
+        "excerpt": "われていないだけで、本当はもっと厳しい選別が行なわれているそうです。(中略)\n\n　親な"
+      }
+    },
+    {
+      "word": "凝視",
+      "reading": "ぎょうし",
+      "meaning": "凝视",
+      "source": {
+        "year": "2020.12",
+        "subject": "词汇",
+        "number": 15,
+        "role": "question",
+        "id": "sbry-n1-2020.12-文字・語彙-3-15",
+        "excerpt": "兄は手にした新聞の記事を【凝視】した。"
+      }
+    },
+    {
+      "word": "縮小",
+      "reading": "しゅくしょう",
+      "meaning": "缩小",
+      "source": {
+        "year": "2015.07",
+        "subject": "语法",
+        "number": 41,
+        "role": "passage",
+        "id": "sbry-n1-2015.07-文法-7-41",
+        "excerpt": "研究者の間では、結婚は所得格差を縮小するという説が有力だった。その理由は、夫の稼ぎの"
+      }
+    },
+    {
+      "word": "自然",
+      "reading": "しぜん",
+      "meaning": "自然",
+      "source": {
+        "year": "2010.12",
+        "subject": "阅读",
+        "number": 52,
+        "role": "选项3",
+        "id": "sbry-n1-2010.12-読解-9-52",
+        "excerpt": "冒険者もアーティストのように自然と向き合って自己表現するから"
+      }
+    },
+    {
+      "word": "自ら",
+      "reading": "みずから",
+      "meaning": "亲自",
+      "source": {
+        "year": "2011.07",
+        "subject": "阅读",
+        "number": 47,
+        "role": "passage",
+        "id": "sbry-n1-2011.07-読解-8-47",
+        "excerpt": "すが、弱者は苦しい嘘をついてでも自らの尊厳を守ろうとします。 \n\n　論理的に正しいこ"
+      }
+    },
+    {
+      "word": "雑踏",
+      "reading": "ざっとう",
+      "meaning": "人群喧闹",
+      "source": {
+        "year": "2013.12",
+        "subject": "词汇",
+        "number": 15,
+        "role": "question",
+        "id": "sbry-n1-2013.12-文字・語彙-3-15",
+        "excerpt": "やっと【雑踏】を抜けた。"
+      }
+    },
+    {
+      "word": "抜群",
+      "reading": "ばつぐん",
+      "meaning": "出众",
+      "source": {
+        "year": "2013.07",
+        "subject": "词汇",
+        "number": 16,
+        "role": "question",
+        "id": "sbry-n1-2013.07-文字・語彙-3-16",
+        "excerpt": "彼は高校時代、数学の成績が【抜群だった】。"
+      }
+    },
+    {
+      "word": "越える",
+      "reading": "こえる",
+      "meaning": "越过",
+      "source": {
+        "year": "2011.07",
+        "subject": "阅读",
+        "number": 58,
+        "role": "选项2",
+        "id": "sbry-n1-2011.07-読解-9-58",
+        "excerpt": "克服して、自分の世界認識の限界を越えること"
+      }
+    },
+    {
+      "word": "趣味",
+      "reading": "しゅみ",
+      "meaning": "爱好",
+      "source": {
+        "year": "2010.07",
+        "subject": "词汇",
+        "number": 20,
+        "role": "选项4",
+        "id": "sbry-n1-2010.07-文字・語彙-4-20",
+        "excerpt": "趣味で外国の切手を【密集】している。"
+      }
+    },
+    {
+      "word": "政治",
+      "reading": "せいじ",
+      "meaning": "政治",
+      "source": {
+        "year": "2010.07",
+        "subject": "语法",
+        "number": 32,
+        "role": "question",
+        "id": "sbry-n1-2010.07-文法-5-32",
+        "excerpt": "今回の事件で山田氏の政治的影響力が完全に失われる()、弱まることは間違い"
+      }
+    },
+    {
+      "word": "政策",
+      "reading": "せいさく",
+      "meaning": "政策",
+      "source": {
+        "year": "2010.12",
+        "subject": "阅读",
+        "number": 53,
+        "role": "passage",
+        "id": "sbry-n1-2010.12-読解-9-53",
+        "excerpt": "保のためのある程度強制力を持った政策を実施することなど不可能である。畑にはイモ類を優"
+      }
+    },
+    {
+      "word": "合意",
+      "reading": "ごうい",
+      "meaning": "达成一致",
+      "source": {
+        "year": "2015.12",
+        "subject": "词汇",
+        "number": 7,
+        "role": "选项1",
+        "id": "sbry-n1-2015.12-文字・語彙-2-7",
+        "excerpt": "合意"
+      }
+    },
+    {
+      "word": "合致",
+      "reading": "がっち",
+      "meaning": "吻合",
+      "source": {
+        "year": "2012.07",
+        "subject": "阅读",
+        "number": 50,
+        "role": "passage",
+        "id": "sbry-n1-2012.07-読解-9-50",
+        "excerpt": "、「社会」のために頑張る価値観と合致するかもしれない＞と分析される先の調査結果などは"
+      }
+    },
+    {
+      "word": "試合",
+      "reading": "しあい",
+      "meaning": "比赛",
+      "source": {
+        "year": "2010.12",
+        "subject": "词汇",
+        "number": 19,
+        "role": "question",
+        "id": "sbry-n1-2010.12-文字・語彙-3-19",
+        "excerpt": "激しい雨のため、【やむをえず】試合は延期することになった。"
+      }
+    },
+    {
+      "word": "場合",
+      "reading": "ばあい",
+      "meaning": "场合",
+      "source": {
+        "year": "2010.07",
+        "subject": "阅读",
+        "number": 47,
+        "role": "passage",
+        "id": "sbry-n1-2010.07-読解-8-47",
+        "excerpt": "んねる」などでは、犯罪を起こした場合は摘発されますが、そこまでいかなければ、何を書い"
+      }
+    },
+    {
+      "word": "興味",
+      "reading": "きょうみ",
+      "meaning": "兴趣",
+      "source": {
+        "year": "2011.07",
+        "subject": "语法",
+        "number": 41,
+        "role": "passage",
+        "id": "sbry-n1-2011.07-文法-7-41",
+        "excerpt": "興をそぐ：何かについて持っている興味をなくさせる。"
+      }
+    },
+    {
+      "word": "奮闘",
+      "reading": "ふんとう",
+      "meaning": "奋战",
+      "source": {
+        "year": "2023.07",
+        "subject": "词汇",
+        "number": 16,
+        "role": "question",
+        "id": "jlpt4you-2023.07-vocabulary-3-3",
+        "excerpt": "彼が⟦u⟧奮闘して⟦/u⟧いる姿を見て、力を貸そうと思った。"
+      }
+    },
+    {
+      "word": "執筆",
+      "reading": "しっぴつ",
+      "meaning": "写作",
+      "source": {
+        "year": "2012.07",
+        "subject": "阅读",
+        "number": 56,
+        "role": "passage",
+        "id": "sbry-n1-2012.07-読解-9-56",
+        "excerpt": "とを区別しようとした。その文章の執筆の時期や、あつかう対象、また語りかける相手のちが"
+      }
+    },
+    {
+      "word": "固執",
+      "reading": "こしつ／こしゅう",
+      "meaning": "固执",
+      "source": {
+        "year": "2013.12",
+        "subject": "阅读",
+        "number": 46,
+        "role": "选项3",
+        "id": "sbry-n1-2013.12-読解-8-46",
+        "excerpt": "既存の「型」に固執せず、常に「型やぶり」なことに挑むこと"
+      }
+    },
+    {
+      "word": "定着",
+      "reading": "ていちゃく",
+      "meaning": "固定下来",
+      "source": {
+        "year": "2015.12",
+        "subject": "阅读",
+        "number": 65,
+        "role": "passage",
+        "id": "sbry-n1-2015.12-読解-12-65",
+        "excerpt": "ではないだろうか。見る者の心の中定着される山のイメージは、そしてその表現は、もっと多"
+      }
+    },
+    {
+      "word": "着る",
+      "reading": "きる",
+      "meaning": "穿衣",
+      "source": {
+        "year": "2010.07",
+        "subject": "阅读",
+        "number": 57,
+        "role": "选项1",
+        "id": "sbry-n1-2010.07-読解-9-57",
+        "excerpt": "体温を一定にに保つだけでなく、着る人に満足感をあたえる。"
+      }
+    },
+    {
+      "word": "着く",
+      "reading": "つく",
+      "meaning": "到达",
+      "source": {
+        "year": "2012.12",
+        "subject": "阅读",
+        "number": 63,
+        "role": "passage",
+        "id": "sbry-n1-2012.12-読解-11-63",
+        "excerpt": "子辞書を用いた学生は単語にたどり着く時間は早いが第一義(注２)の意味だけを読むことに"
+      }
+    },
+    {
+      "word": "筋肉",
+      "reading": "きんにく",
+      "meaning": "肌肉",
+      "source": {
+        "year": "2012.07",
+        "subject": "阅读",
+        "number": 65,
+        "role": "passage",
+        "id": "sbry-n1-2012.07-読解-12-65",
+        "excerpt": "まで削り取ってはいけない。父親は筋肉質で髯をはやし、母親には柔らかな肌とやさしい笑顔"
+      }
+    },
+    {
+      "word": "地図",
+      "reading": "ちず",
+      "meaning": "地图",
+      "source": {
+        "year": "2010.12",
+        "subject": "阅读",
+        "number": 50,
+        "role": "passage",
+        "id": "sbry-n1-2010.12-読解-9-50",
+        "excerpt": "(１)\n\n　すでに地図の空白がなくなった現在、地理的な冒険や探検といっ"
+      }
+    },
+    {
+      "word": "図書館",
+      "reading": "としょかん",
+      "meaning": "图书馆",
+      "source": {
+        "year": "2010.07",
+        "subject": "词汇",
+        "number": 23,
+        "role": "选项4",
+        "id": "sbry-n1-2010.07-文字・語彙-4-23",
+        "excerpt": "この図書館には、いろいろな分野の本が【にぎわって】いる。"
+      }
+    },
+    {
+      "word": "図る",
+      "reading": "はかる",
+      "meaning": "谋求",
+      "source": {
+        "year": "2010.12",
+        "subject": "阅读",
+        "number": 53,
+        "role": "passage",
+        "id": "sbry-n1-2010.12-読解-9-53",
+        "excerpt": "衰退させ、一方では食生活の向上を図るアジアの動きなど、私たちが暮らしている輸入大国の"
+      }
+    },
+    {
+      "word": "露骨",
+      "reading": "ろこつ",
+      "meaning": "露骨",
+      "source": {
+        "year": "2021.07",
+        "subject": "词汇",
+        "number": 22,
+        "role": "question",
+        "id": "sbry-n1-2021.07-文字・語彙-4-22",
+        "excerpt": "露骨"
+      }
+    },
+    {
+      "word": "露出",
+      "reading": "ろしゅつ",
+      "meaning": "露出",
+      "source": {
+        "year": "2022.07",
+        "subject": "词汇",
+        "number": 11,
+        "role": "选项4",
+        "id": "sbry-n1-2022.07-文字・語彙-2-11",
+        "excerpt": "露出"
+      }
+    },
+    {
+      "word": "復習",
+      "reading": "ふくしゅう",
+      "meaning": "复习",
+      "source": {
+        "year": "2022.07",
+        "subject": "词汇",
+        "number": 8,
+        "role": "question",
+        "id": "sbry-n1-2022.07-文字・語彙-2-8",
+        "excerpt": "予習、授業、復習という()を繰り返すことで、知識の定着を図る"
+      }
+    },
+    {
+      "word": "復旧",
+      "reading": "ふっきゅう",
+      "meaning": "恢复原状",
+      "source": {
+        "year": "2011.07",
+        "subject": "词汇",
+        "number": 12,
+        "role": "选项3",
+        "id": "sbry-n1-2011.07-文字・語彙-2-12",
+        "excerpt": "復旧"
+      }
+    },
+    {
+      "word": "派遣",
+      "reading": "はけん",
+      "meaning": "派遣",
+      "source": {
+        "year": "2020.12",
+        "subject": "听力",
+        "number": 4,
+        "role": "选项4",
+        "id": "sbry-n1-2020.12-聴解-51-4",
+        "excerpt": "講師の派遣を依頼する"
+      }
+    },
+    {
+      "word": "立派",
+      "reading": "りっぱ",
+      "meaning": "出色",
+      "source": {
+        "year": "2010.07",
+        "subject": "语法",
+        "number": 41,
+        "role": "passage",
+        "id": "sbry-n1-2010.07-文法-7-41",
+        "excerpt": "えている。\n\n　父としての役割は立派な父でないと果たすことができない。立派でない父が"
+      }
+    },
+    {
+      "word": "生じる",
+      "reading": "しょうじる",
+      "meaning": "产生",
+      "source": {
+        "year": "2010.12",
+        "subject": "语法",
+        "number": 41,
+        "role": "passage",
+        "id": "sbry-n1-2010.12-文法-7-41",
+        "excerpt": "、みんなが空気を読みすぎることで生じるストレスのはけ口を特定の人間に向けることで起きて"
+      }
+    },
+    {
+      "word": "誕生",
+      "reading": "たんじょう",
+      "meaning": "诞生",
+      "source": {
+        "year": "2012.07",
+        "subject": "词汇",
+        "number": 17,
+        "role": "question",
+        "id": "sbry-n1-2012.07-文字・語彙-3-17",
+        "excerpt": "彼の誕生日パーティーの準備を、友人数人と【ひそかに】進め"
+      }
+    },
+    {
+      "word": "生まれる",
+      "reading": "うまれる",
+      "meaning": "出生",
+      "source": {
+        "year": "2010.12",
+        "subject": "语法",
+        "number": 41,
+        "role": "passage",
+        "id": "sbry-n1-2010.12-文法-7-41",
+        "excerpt": "踏み出せなくなってしまうことから生まれる。引きこもりまでいかなくても、周りとのコミュニケ"
+      }
+    },
+    {
+      "word": "画面",
+      "reading": "がめん",
+      "meaning": "画面",
+      "source": {
+        "year": "2011.07",
+        "subject": "语法",
+        "number": 41,
+        "role": "passage",
+        "id": "sbry-n1-2011.07-文法-7-41",
+        "excerpt": "されようとするその瞬間に、サッと画面がＣＭに入れ替わる。ああいうせこい(注１)ことは"
+      }
+    },
+    {
+      "word": "計画",
+      "reading": "けいかく",
+      "meaning": "计划",
+      "source": {
+        "year": "2010.07",
+        "subject": "词汇",
+        "number": 13,
+        "role": "question",
+        "id": "sbry-n1-2010.07-文字・語彙-2-13",
+        "excerpt": "ジネスを始めるにあたっては、()計画を立てる必要がある。"
+      }
+    },
+    {
+      "word": "人間",
+      "reading": "にんげん",
+      "meaning": "人",
+      "source": {
+        "year": "2010.07",
+        "subject": "语法",
+        "number": 41,
+        "role": "passage",
+        "id": "sbry-n1-2010.07-文法-7-41",
+        "excerpt": "ラバラになって、善悪の感覚のない人間が成長し、全体的視点のない人間や無気力な人間が増"
+      }
+    },
+    {
+      "word": "手段",
+      "reading": "しゅだん",
+      "meaning": "手段",
+      "source": {
+        "year": "2011.07",
+        "subject": "阅读",
+        "number": 65,
+        "role": "passage",
+        "id": "sbry-n1-2011.07-読解-12-65",
+        "excerpt": "人間の上に君臨し、現実を支配する手段になっていった。 \n\n　            "
+      }
+    },
+    {
+      "word": "選手",
+      "reading": "せんしゅ",
+      "meaning": "选手",
+      "source": {
+        "year": "2010.12",
+        "subject": "词汇",
+        "number": 24,
+        "role": "选项4",
+        "id": "sbry-n1-2010.12-文字・語彙-4-24",
+        "excerpt": "決勝戦を【目先】に控え、選手はだいぶ緊張しているようだ。"
+      }
+    },
+    {
+      "word": "樹立",
+      "reading": "じゅりつ",
+      "meaning": "树立",
+      "source": {
+        "year": "2016.12",
+        "subject": "阅读",
+        "number": 48,
+        "role": "passage",
+        "id": "sbry-n1-2016.12-読解-8-48",
+        "excerpt": "。他者と対話を通して、人間関係を樹立していくには、自己の価値観を保存したままで、他者"
+      }
+    },
+    {
+      "word": "木材",
+      "reading": "もくざい",
+      "meaning": "木材",
+      "source": {
+        "year": "2010.12",
+        "subject": "阅读",
+        "number": 56,
+        "role": "passage",
+        "id": "sbry-n1-2010.12-読解-9-56",
+        "excerpt": "長期にわたって維持される。しかも木材はリユース(注７)、リサイクルされた。\n\n　これ"
+      }
+    },
+    {
+      "word": "心配",
+      "reading": "しんぱい",
+      "meaning": "担心",
+      "source": {
+        "year": "2012.07",
+        "subject": "词汇",
+        "number": 21,
+        "role": "选项1",
+        "id": "sbry-n1-2012.07-文字・語彙-4-21",
+        "excerpt": "２年の【ブランク】があり心配だったが、先月から職場に復帰した。"
+      }
+    },
+    {
+      "word": "手軽",
+      "reading": "てがる",
+      "meaning": "简便",
+      "source": {
+        "year": "2011.12",
+        "subject": "语法",
+        "number": 28,
+        "role": "question",
+        "id": "sbry-n1-2011.12-文法-5-28",
+        "excerpt": "まで届けてくれるサービスが、その手軽さ()人気を集めている。"
+      }
+    },
+    {
+      "word": "相手",
+      "reading": "あいて",
+      "meaning": "对方",
+      "source": {
+        "year": "2010.07",
+        "subject": "阅读",
+        "number": 46,
+        "role": "选项1",
+        "id": "sbry-n1-2010.07-読解-8-46",
+        "excerpt": "視線や仕草で相手と意思を疎通させること"
+      }
+    },
+    {
+      "word": "相互",
+      "reading": "そうご",
+      "meaning": "相互",
+      "source": {
+        "year": "2012.07",
+        "subject": "阅读",
+        "number": 63,
+        "role": "passage",
+        "id": "sbry-n1-2012.07-読解-11-63",
+        "excerpt": "恐れがある。そこで、多様な生物の相互関係を含む自然をそのまま保全することが重要になっ"
+      }
+    },
+    {
+      "word": "大臣",
+      "reading": "だいじん",
+      "meaning": "大臣",
+      "source": {
+        "year": "2020.12",
+        "subject": "词汇",
+        "number": 23,
+        "role": "选项1",
+        "id": "sbry-n1-2020.12-文字・語彙-4-23",
+        "excerpt": "大臣が汚職事件で【失脚】すると、国民の政治に対する不"
+      }
+    },
+    {
+      "word": "大切",
+      "reading": "たいせつ",
+      "meaning": "重要",
+      "source": {
+        "year": "2010.07",
+        "subject": "词汇",
+        "number": 17,
+        "role": "选项3",
+        "id": "sbry-n1-2010.07-文字・語彙-3-17",
+        "excerpt": "大切な知らせ"
+      }
+    },
+    {
+      "word": "盛大",
+      "reading": "せいだい",
+      "meaning": "盛大",
+      "source": {
+        "year": "2018.12",
+        "subject": "词汇",
+        "number": 12,
+        "role": "选项3",
+        "id": "sbry-n1-2018.12-文字・語彙-2-12",
+        "excerpt": "盛大に"
+      }
+    },
+    {
+      "word": "日時",
+      "reading": "にちじ",
+      "meaning": "日期时间",
+      "source": {
+        "year": "2010.07",
+        "subject": "阅读",
+        "number": 53,
+        "role": "passage",
+        "id": "sbry-n1-2010.07-読解-9-53",
+        "excerpt": "年ごとの変化が比較的少ないので、日時がそれほどずれることがありませんでした。ところが"
+      }
+    },
+    {
+      "word": "休日",
+      "reading": "きゅうじつ",
+      "meaning": "休息日",
+      "source": {
+        "year": "2011.12",
+        "subject": "词汇",
+        "number": 21,
+        "role": "选项4",
+        "id": "sbry-n1-2011.12-文字・語彙-4-21",
+        "excerpt": "営業時間や定休日は、【まちまち】の店舗で異なります。"
+      }
+    },
+    {
+      "word": "時間",
+      "reading": "じかん",
+      "meaning": "时间",
+      "source": {
+        "year": "2010.07",
+        "subject": "语法",
+        "number": 31,
+        "role": "question",
+        "id": "sbry-n1-2010.07-文法-5-31",
+        "excerpt": "電車の中で)\nＡ「いつもならこの時間帯は込んでるのに、今日は空いてるね。」\nＢ「祝日"
+      }
+    },
+    {
+      "word": "潜在",
+      "reading": "せんざい",
+      "meaning": "潜在",
+      "source": {
+        "year": "2015.12",
+        "subject": "阅读",
+        "number": 53,
+        "role": "passage",
+        "id": "sbry-n1-2015.12-読解-9-53",
+        "excerpt": "としたらどうするだろうか。当然、潜在的な可能性に基づいて肥大する欲望のうち、実際に満"
+      }
+    },
+    {
+      "word": "健康",
+      "reading": "けんこう",
+      "meaning": "健康",
+      "source": {
+        "year": "2010.12",
+        "subject": "词汇",
+        "number": 23,
+        "role": "选项2",
+        "id": "sbry-n1-2010.12-文字・語彙-4-23",
+        "excerpt": "入院して、健康のありがたみを【めきめき】感じた。"
+      }
+    },
+    {
+      "word": "健全",
+      "reading": "けんぜん",
+      "meaning": "健全",
+      "source": {
+        "year": "2010.12",
+        "subject": "语法",
+        "number": 42,
+        "role": "选项3",
+        "id": "sbry-n1-2010.12-文法-7-42",
+        "excerpt": "はたして健全なのだろうか"
+      }
+    },
+    {
+      "word": "軽減",
+      "reading": "けいげん",
+      "meaning": "减轻",
+      "source": {
+        "year": "2019.07",
+        "subject": "阅读",
+        "number": 49,
+        "role": "passage",
+        "id": "sbry-n1-2019.07-読解-8-49",
+        "excerpt": "それらを手がかりに選択のリスクを軽減しようとする。この記号にあたるものがブランドで、"
+      }
+    },
+    {
+      "word": "告白",
+      "reading": "こくはく",
+      "meaning": "告白",
+      "source": {
+        "year": "2018.07",
+        "subject": "词汇",
+        "number": 13,
+        "role": "选项3",
+        "id": "sbry-n1-2018.07-文字・語彙-2-13",
+        "excerpt": "告白"
+      }
+    },
+    {
+      "word": "忠実",
+      "reading": "ちゅうじつ",
+      "meaning": "忠实",
+      "source": {
+        "year": "2022.12",
+        "subject": "词汇",
+        "number": 8,
+        "role": "选项3",
+        "id": "sbry-n1-2022.12-文字・語彙-2-8",
+        "excerpt": "忠実に"
+      }
+    },
+    {
+      "word": "名称",
+      "reading": "めいしょう",
+      "meaning": "名称",
+      "source": {
+        "year": "2010.07",
+        "subject": "阅读",
+        "number": 66,
+        "role": "passage",
+        "id": "sbry-n1-2010.07-読解-12-66",
+        "excerpt": "「おそば給与」など、そんな給与の名称はないが、あると嬉しい給与である。\n\n　私の場合"
+      }
+    },
+    {
+      "word": "鈍感",
+      "reading": "どんかん",
+      "meaning": "迟钝",
+      "source": {
+        "year": "2017.07",
+        "subject": "阅读",
+        "number": 49,
+        "role": "选项1",
+        "id": "sbry-n1-2017.07-読解-8-49",
+        "excerpt": "道具によって人間が便利さに鈍感になる現象"
+      }
+    },
+    {
+      "word": "沈黙",
+      "reading": "ちんもく",
+      "meaning": "沉默",
+      "source": {
+        "year": "2013.07",
+        "subject": "阅读",
+        "number": 59,
+        "role": "passage",
+        "id": "sbry-n1-2013.07-読解-10-59",
+        "excerpt": "チェル・カーソン著・青樹簗一訳『沈黙の春』一筑波常治の『解説』による)\n\n　(注1)"
+      }
+    },
+    {
+      "word": "沈む",
+      "reading": "しずむ",
+      "meaning": "下沉",
+      "source": {
+        "year": "2019.07",
+        "subject": "阅读",
+        "number": 64,
+        "role": "passage",
+        "id": "sbry-n1-2019.07-読解-12-64",
+        "excerpt": "がなくなり、ひとりぼっちの深みに沈むのが怖くてたまらないのだ。たぶん、彼ら・彼女たち"
+      }
+    },
+    {
+      "word": "崩壊",
+      "reading": "ほうかい",
+      "meaning": "崩溃",
+      "source": {
+        "year": "2013.07",
+        "subject": "阅读",
+        "number": 59,
+        "role": "passage",
+        "id": "sbry-n1-2013.07-読解-10-59",
+        "excerpt": "におよび、石垣そのものの大規模な崩壊をおこすにちがいない。ちょうどそれとおなじである"
+      }
+    }
+  ],
+  "targets": [
+    {
+      "year": "2010.07",
+      "number": 1,
+      "id": "sbry-n1-2010.07-文字・語彙-1-1",
+      "target": "繁盛",
+      "reading": "はんじょう",
+      "rawAnswer": "はんじょう",
+      "question": "駅前の店はどこも【繁盛】している。"
+    },
+    {
+      "year": "2010.07",
+      "number": 2,
+      "id": "sbry-n1-2010.07-文字・語彙-1-2",
+      "target": "契約",
+      "reading": "けいやく",
+      "rawAnswer": "けいやく",
+      "question": "【契約】の内容については、こちらの書類をご覧ください。"
+    },
+    {
+      "year": "2010.07",
+      "number": 3,
+      "id": "sbry-n1-2010.07-文字・語彙-1-3",
+      "target": "潤って",
+      "reading": "うるおって",
+      "rawAnswer": "うるおって",
+      "question": "この国は、昔から貿易によって【潤って】きた"
+    },
+    {
+      "year": "2010.07",
+      "number": 4,
+      "id": "sbry-n1-2010.07-文字・語彙-1-4",
+      "target": "手薄",
+      "reading": "てうす",
+      "rawAnswer": "てうす",
+      "question": "警備が【手薄】なところがないか調べた。"
+    },
+    {
+      "year": "2010.07",
+      "number": 5,
+      "id": "sbry-n1-2010.07-文字・語彙-1-5",
+      "target": "壊されて",
+      "reading": "こわされて",
+      "rawAnswer": "こわされて",
+      "question": "開発のために古いビルが次々と【壊されて】いる。"
+    },
+    {
+      "year": "2010.07",
+      "number": 6,
+      "id": "sbry-n1-2010.07-文字・語彙-1-6",
+      "target": "華々しく",
+      "reading": "はなばなしく",
+      "rawAnswer": "はなばなしく",
+      "question": "オリンピックが【華々しく】開幕した。"
+    },
+    {
+      "year": "2010.12",
+      "number": 1,
+      "id": "sbry-n1-2010.12-文字・語彙-1-1",
+      "target": "本筋",
+      "reading": "ほんすじ",
+      "rawAnswer": "ほんすじ",
+      "question": "話しが【本筋】からずれてしまった。"
+    },
+    {
+      "year": "2010.12",
+      "number": 2,
+      "id": "sbry-n1-2010.12-文字・語彙-1-2",
+      "target": "伴奏",
+      "reading": "ばんそう",
+      "rawAnswer": "ばんそう",
+      "question": "友人にピアノの【伴奏】を頼まれた。"
+    },
+    {
+      "year": "2010.12",
+      "number": 3,
+      "id": "sbry-n1-2010.12-文字・語彙-1-3",
+      "target": "推理",
+      "reading": "すいり",
+      "rawAnswer": "すいり",
+      "question": "名探偵の【推理】で事件は無事に解決した。"
+    },
+    {
+      "year": "2010.12",
+      "number": 4,
+      "id": "sbry-n1-2010.12-文字・語彙-1-4",
+      "target": "極めて",
+      "reading": "きわめて",
+      "rawAnswer": "きわめて",
+      "question": "先日の会議では、【極めて】重要な問題が話し合われた。"
+    },
+    {
+      "year": "2010.12",
+      "number": 5,
+      "id": "sbry-n1-2010.12-文字・語彙-1-5",
+      "target": "練って",
+      "reading": "ねって",
+      "rawAnswer": "ねって",
+      "question": "もう少しアイディアを【練って】からお話しします。"
+    },
+    {
+      "year": "2010.12",
+      "number": 6,
+      "id": "sbry-n1-2010.12-文字・語彙-1-6",
+      "target": "締めた",
+      "reading": "しめた",
+      "rawAnswer": "しめた",
+      "question": "靴のひもを【締めた】。"
+    },
+    {
+      "year": "2011.07",
+      "number": 1,
+      "id": "sbry-n1-2011.07-文字・語彙-1-1",
+      "target": "利益",
+      "reading": "りえき",
+      "rawAnswer": "りえき",
+      "question": "去年より【利益】がわずかに増えた。"
+    },
+    {
+      "year": "2011.07",
+      "number": 2,
+      "id": "sbry-n1-2011.07-文字・語彙-1-2",
+      "target": "逃れた",
+      "reading": "のがれた",
+      "rawAnswer": "のがれた",
+      "question": "橋本選手の活躍で、なんとかピンチを【逃れた】。"
+    },
+    {
+      "year": "2011.07",
+      "number": 3,
+      "id": "sbry-n1-2011.07-文字・語彙-1-3",
+      "target": "考慮",
+      "reading": "こうりょ",
+      "rawAnswer": "こうりょ",
+      "question": "子どものおもちゃは、安全性を【考慮】して選ぶようにしている。"
+    },
+    {
+      "year": "2011.07",
+      "number": 4,
+      "id": "sbry-n1-2011.07-文字・語彙-1-4",
+      "target": "遮る",
+      "reading": "さえぎる",
+      "rawAnswer": "さえぎる",
+      "question": "この辺りは視界を【遮る】物が何もない。"
+    },
+    {
+      "year": "2011.07",
+      "number": 5,
+      "id": "sbry-n1-2011.07-文字・語彙-1-5",
+      "target": "根拠",
+      "reading": "こんきょ",
+      "rawAnswer": "こんきょ",
+      "question": "この説は科学的な【根拠】に乏しい。"
+    },
+    {
+      "year": "2011.07",
+      "number": 6,
+      "id": "sbry-n1-2011.07-文字・語彙-1-6",
+      "target": "肝心",
+      "reading": "かんじん",
+      "rawAnswer": "かんじん",
+      "question": "何事も初めが【肝心】だ。"
+    },
+    {
+      "year": "2011.12",
+      "number": 1,
+      "id": "sbry-n1-2011.12-文字・語彙-1-1",
+      "target": "鈍って",
+      "reading": "にぶって",
+      "rawAnswer": "にぶって",
+      "question": "時間がたつにつれて、選手の動きが【鈍って】きた。"
+    },
+    {
+      "year": "2011.12",
+      "number": 2,
+      "id": "sbry-n1-2011.12-文字・語彙-1-2",
+      "target": "漠然",
+      "reading": "ばくぜん",
+      "rawAnswer": "ばくぜん",
+      "question": "高校生のころ、「将来は海外で働きたい」と【漠然】と考えていた。"
+    },
+    {
+      "year": "2011.12",
+      "number": 3,
+      "id": "sbry-n1-2011.12-文字・語彙-1-3",
+      "target": "閲覧",
+      "reading": "えつらん",
+      "rawAnswer": "えつらん",
+      "question": "【閲覧】した資料は、カウンターに戻してください。"
+    },
+    {
+      "year": "2011.12",
+      "number": 4,
+      "id": "sbry-n1-2011.12-文字・語彙-1-4",
+      "target": "釈明",
+      "reading": "しゃくめい",
+      "rawAnswer": "しゃくめい",
+      "question": "首相は自身の発言についての【釈明】に追われた。"
+    },
+    {
+      "year": "2011.12",
+      "number": 5,
+      "id": "sbry-n1-2011.12-文字・語彙-1-5",
+      "target": "合併",
+      "reading": "がっぺい",
+      "rawAnswer": "がっぺい",
+      "question": "弊社は今回の【合併】を機に社名を変更します。"
+    },
+    {
+      "year": "2011.12",
+      "number": 6,
+      "id": "sbry-n1-2011.12-文字・語彙-1-6",
+      "target": "兆し",
+      "reading": "きざし",
+      "rawAnswer": "きざし",
+      "question": "ようやく景気回復の【兆し】が見えてきた。"
+    },
+    {
+      "year": "2012.07",
+      "number": 1,
+      "id": "sbry-n1-2012.07-文字・語彙-1-1",
+      "target": "群衆",
+      "reading": "ぐんしゅう",
+      "rawAnswer": "ぐんしゅう",
+      "question": "珍しいイベントがあると聞いて、広場に【群衆】が押し寄せた。"
+    },
+    {
+      "year": "2012.07",
+      "number": 2,
+      "id": "sbry-n1-2012.07-文字・語彙-1-2",
+      "target": "覆す",
+      "reading": "くつがえす",
+      "rawAnswer": "くつがえす",
+      "question": "これまでの学説を【覆す】ような新事実が発見された。"
+    },
+    {
+      "year": "2012.07",
+      "number": 3,
+      "id": "sbry-n1-2012.07-文字・語彙-1-3",
+      "target": "克明",
+      "reading": "こくめい",
+      "rawAnswer": "こくめい",
+      "question": "この文書には、当時の生活の様子が【克明】に記録されている。"
+    },
+    {
+      "year": "2012.07",
+      "number": 4,
+      "id": "sbry-n1-2012.07-文字・語彙-1-4",
+      "target": "心地よい",
+      "reading": "ここちよい",
+      "rawAnswer": "ここちよい",
+      "question": "窓を開けると、【心地よい】風が入ってきた。"
+    },
+    {
+      "year": "2012.07",
+      "number": 5,
+      "id": "sbry-n1-2012.07-文字・語彙-1-5",
+      "target": "踏襲",
+      "reading": "とうしゅう",
+      "rawAnswer": "とうしゅう",
+      "question": "新社長は、これまでの経営方針を【踏襲】すると述べた。"
+    },
+    {
+      "year": "2012.07",
+      "number": 6,
+      "id": "sbry-n1-2012.07-文字・語彙-1-6",
+      "target": "改革",
+      "reading": "かいかく",
+      "rawAnswer": "かいかく",
+      "question": "新しい政権には、医療制度の【改革】が期待されている。"
+    },
+    {
+      "year": "2012.12",
+      "number": 1,
+      "id": "sbry-n1-2012.12-文字・語彙-1-1",
+      "target": "枠",
+      "reading": "わく",
+      "rawAnswer": "わく",
+      "question": "従来の【枠】を超えて新しい分野に進出する企業が増えている。"
+    },
+    {
+      "year": "2012.12",
+      "number": 2,
+      "id": "sbry-n1-2012.12-文字・語彙-1-2",
+      "target": "網羅",
+      "reading": "もうら",
+      "rawAnswer": "もうら",
+      "question": "この情報誌は国内の主な観光名所をほぼ【網羅】している"
+    },
+    {
+      "year": "2012.12",
+      "number": 3,
+      "id": "sbry-n1-2012.12-文字・語彙-1-3",
+      "target": "名誉",
+      "reading": "めいよ",
+      "rawAnswer": "めいよ",
+      "question": "このような賞を受けることは、私にとって大変【名誉】なことです"
+    },
+    {
+      "year": "2012.12",
+      "number": 4,
+      "id": "sbry-n1-2012.12-文字・語彙-1-4",
+      "target": "費やした",
+      "reading": "ついやした",
+      "rawAnswer": "ついやした",
+      "question": "新商品の開発には多額の資金を【費やした】。"
+    },
+    {
+      "year": "2012.12",
+      "number": 5,
+      "id": "sbry-n1-2012.12-文字・語彙-1-5",
+      "target": "由緒",
+      "reading": "ゆいしょ",
+      "rawAnswer": "ゆいしょ",
+      "question": "あそこに見えるのは、千年前に建てられた【由緒】あるお寺です。"
+    },
+    {
+      "year": "2012.12",
+      "number": 6,
+      "id": "sbry-n1-2012.12-文字・語彙-1-6",
+      "target": "手際",
+      "reading": "てぎわ",
+      "rawAnswer": "てぎわ",
+      "question": "若いスタッフたちが【手際】よく作業を進めていた。"
+    },
+    {
+      "year": "2013.07",
+      "number": 1,
+      "id": "sbry-n1-2013.07-文字・語彙-1-1",
+      "target": "愚か",
+      "reading": "おろか",
+      "rawAnswer": "おろか",
+      "question": "それは【愚か】な行動だった。"
+    },
+    {
+      "year": "2013.07",
+      "number": 2,
+      "id": "sbry-n1-2013.07-文字・語彙-1-2",
+      "target": "巧妙",
+      "reading": "こうみょう",
+      "rawAnswer": "こうみょう",
+      "question": "相手チームの【巧妙】な作戦に引っかかってしまった。"
+    },
+    {
+      "year": "2013.07",
+      "number": 3,
+      "id": "sbry-n1-2013.07-文字・語彙-1-3",
+      "target": "憩い",
+      "reading": "いこい",
+      "rawAnswer": "いこい",
+      "question": "町の公園は人々の【憩い】の場として親しまれている。"
+    },
+    {
+      "year": "2013.07",
+      "number": 4,
+      "id": "sbry-n1-2013.07-文字・語彙-1-4",
+      "target": "需要",
+      "reading": "じゅよう",
+      "rawAnswer": "じゅよう",
+      "question": "この製品は【需要】が高く、生産が追いつかない。"
+    },
+    {
+      "year": "2013.07",
+      "number": 5,
+      "id": "sbry-n1-2013.07-文字・語彙-1-5",
+      "target": "緩和",
+      "reading": "かんわ",
+      "rawAnswer": "かんわ",
+      "question": "道路の拡張工事によって、渋滞が【緩和】された。"
+    },
+    {
+      "year": "2013.07",
+      "number": 6,
+      "id": "sbry-n1-2013.07-文字・語彙-1-6",
+      "target": "跡地",
+      "reading": "あとち",
+      "rawAnswer": "あとち",
+      "question": "工場の【跡地】が公園になった。"
+    },
+    {
+      "year": "2013.12",
+      "number": 1,
+      "id": "sbry-n1-2013.12-文字・語彙-1-1",
+      "target": "把握",
+      "reading": "はあく",
+      "rawAnswer": "はあく",
+      "question": "関係者から話を聞いて、ようやく現状が【把握】できた。"
+    },
+    {
+      "year": "2013.12",
+      "number": 2,
+      "id": "sbry-n1-2013.12-文字・語彙-1-2",
+      "target": "憤り",
+      "reading": "いきどおり",
+      "rawAnswer": "いきどおり",
+      "question": "社長の発言に【憤り】を感じる。"
+    },
+    {
+      "year": "2013.12",
+      "number": 3,
+      "id": "sbry-n1-2013.12-文字・語彙-1-3",
+      "target": "趣旨",
+      "reading": "しゅし",
+      "rawAnswer": "しゅし",
+      "question": "その話の【趣旨】がよく分からなかった。"
+    },
+    {
+      "year": "2013.12",
+      "number": 4,
+      "id": "sbry-n1-2013.12-文字・語彙-1-4",
+      "target": "日夜",
+      "reading": "にちや",
+      "rawAnswer": "にちや",
+      "question": "兄は大学で【日夜】研究に励んでいる。"
+    },
+    {
+      "year": "2013.12",
+      "number": 5,
+      "id": "sbry-n1-2013.12-文字・語彙-1-5",
+      "target": "貫いた",
+      "reading": "つらぬいた",
+      "rawAnswer": "つらぬいた",
+      "question": "川田さんは最後まで自分の主張を【貫いた】。"
+    },
+    {
+      "year": "2013.12",
+      "number": 6,
+      "id": "sbry-n1-2013.12-文字・語彙-1-6",
+      "target": "貧富",
+      "reading": "ひんぷ",
+      "rawAnswer": "ひんぷ",
+      "question": "この30年で、この国の【貧富】の差は縮まってきている。"
+    },
+    {
+      "year": "2014.07",
+      "number": 1,
+      "id": "sbry-n1-2014.07-文字・語彙-1-1",
+      "target": "躍進",
+      "reading": "やくしん",
+      "rawAnswer": "やくしん",
+      "question": "今回の大会では、若手の【躍進】が目立った。"
+    },
+    {
+      "year": "2014.07",
+      "number": 2,
+      "id": "sbry-n1-2014.07-文字・語彙-1-2",
+      "target": "遂行",
+      "reading": "すいこう",
+      "rawAnswer": "すいこう",
+      "question": "計画をきちんと【遂行】することが大切だ。"
+    },
+    {
+      "year": "2014.07",
+      "number": 3,
+      "id": "sbry-n1-2014.07-文字・語彙-1-3",
+      "target": "凝縮",
+      "reading": "ぎょうしゅく",
+      "rawAnswer": "ぎょうしゅく",
+      "question": "作者の思いがこの一言に【凝縮】されている。"
+    },
+    {
+      "year": "2014.07",
+      "number": 4,
+      "id": "sbry-n1-2014.07-文字・語彙-1-4",
+      "target": "健やか",
+      "reading": "すこやか",
+      "rawAnswer": "すこやか",
+      "question": "どの親もわが子が【健やか】に育つことを願っている。"
+    },
+    {
+      "year": "2014.07",
+      "number": 5,
+      "id": "sbry-n1-2014.07-文字・語彙-1-5",
+      "target": "中枢",
+      "reading": "ちゅうすう",
+      "rawAnswer": "ちゅうすう",
+      "question": "このセンターは、日本のがん研究の【中枢】を担っている。"
+    },
+    {
+      "year": "2014.07",
+      "number": 6,
+      "id": "sbry-n1-2014.07-文字・語彙-1-6",
+      "target": "否めない",
+      "reading": "いなめない",
+      "rawAnswer": "いなめない",
+      "question": "介護制度の整備が遅れているという事実は【否めない】だろう。"
+    },
+    {
+      "year": "2014.12",
+      "number": 1,
+      "id": "sbry-n1-2014.12-文字・語彙-1-1",
+      "target": "概略",
+      "reading": "がいりゃく",
+      "rawAnswer": "がいりゃく",
+      "question": "これから【概略】をご説明します。"
+    },
+    {
+      "year": "2014.12",
+      "number": 2,
+      "id": "sbry-n1-2014.12-文字・語彙-1-2",
+      "target": "臨みたい",
+      "reading": "のぞみたい",
+      "rawAnswer": "のぞみたい",
+      "question": "面接には、しっかりと準備をして【臨みたい】と思う。"
+    },
+    {
+      "year": "2014.12",
+      "number": 3,
+      "id": "sbry-n1-2014.12-文字・語彙-1-3",
+      "target": "督促",
+      "reading": "とくそく",
+      "rawAnswer": "とくそく",
+      "question": "昨日、【督促】の電話がかかってきた。"
+    },
+    {
+      "year": "2014.12",
+      "number": 4,
+      "id": "sbry-n1-2014.12-文字・語彙-1-4",
+      "target": "漂い",
+      "reading": "ただよい",
+      "rawAnswer": "ただよい",
+      "question": "春になり、辺りには花の香りが【漂い】はじめた。"
+    },
+    {
+      "year": "2014.12",
+      "number": 5,
+      "id": "sbry-n1-2014.12-文字・語彙-1-5",
+      "target": "厳正",
+      "reading": "げんせい",
+      "rawAnswer": "げんせい",
+      "question": "応募作品を【厳正】に審査した。"
+    },
+    {
+      "year": "2014.12",
+      "number": 6,
+      "id": "sbry-n1-2014.12-文字・語彙-1-6",
+      "target": "拒んで",
+      "reading": "こばんで",
+      "rawAnswer": "こばんで",
+      "question": "これ以上【拒んで】もしかたない。"
+    },
+    {
+      "year": "2015.07",
+      "number": 1,
+      "id": "sbry-n1-2015.07-文字・語彙-1-1",
+      "target": "添付",
+      "reading": "てんぷ",
+      "rawAnswer": "てんぷ",
+      "question": "申込書にパスポートのコピーを【添付】した。"
+    },
+    {
+      "year": "2015.07",
+      "number": 2,
+      "id": "sbry-n1-2015.07-文字・語彙-1-2",
+      "target": "慕われる",
+      "reading": "したわれる",
+      "rawAnswer": "したわれる",
+      "question": "学生に【慕われる】教師になりたい。"
+    },
+    {
+      "year": "2015.07",
+      "number": 3,
+      "id": "sbry-n1-2015.07-文字・語彙-1-3",
+      "target": "破損",
+      "reading": "はそん",
+      "rawAnswer": "はそん",
+      "question": "商品に【破損】があった場合は交換いたします。"
+    },
+    {
+      "year": "2015.07",
+      "number": 4,
+      "id": "sbry-n1-2015.07-文字・語彙-1-4",
+      "target": "承諾",
+      "reading": "しょうだく",
+      "rawAnswer": "しょうだく",
+      "question": "この件は、すでに部長の【承諾】を得ている。"
+    },
+    {
+      "year": "2015.07",
+      "number": 5,
+      "id": "sbry-n1-2015.07-文字・語彙-1-5",
+      "target": "淡い",
+      "reading": "あわい",
+      "rawAnswer": "あわい",
+      "question": "庭に【淡い】ピンクの花が咲いている。"
+    },
+    {
+      "year": "2015.07",
+      "number": 6,
+      "id": "sbry-n1-2015.07-文字・語彙-1-6",
+      "target": "画一的",
+      "reading": "かくいつてき",
+      "rawAnswer": "かくいつてき",
+      "question": "個々の事情を考えず、【画一的】に判断するのはよくない。"
+    },
+    {
+      "year": "2015.12",
+      "number": 1,
+      "id": "sbry-n1-2015.12-文字・語彙-1-1",
+      "target": "興奮",
+      "reading": "こうふん",
+      "rawAnswer": "こうふん",
+      "question": "決勝の素晴らしい試合に観客は【興奮】した。"
+    },
+    {
+      "year": "2015.12",
+      "number": 2,
+      "id": "sbry-n1-2015.12-文字・語彙-1-2",
+      "target": "唱えた",
+      "reading": "となえた",
+      "rawAnswer": "となえた",
+      "question": "この説は、鈴木氏が30年前に初めて【唱えた】。"
+    },
+    {
+      "year": "2015.12",
+      "number": 3,
+      "id": "sbry-n1-2015.12-文字・語彙-1-3",
+      "target": "変遷",
+      "reading": "へんせん",
+      "rawAnswer": "へんせん",
+      "question": "この地域における主要な産業の【変遷】について調べた。"
+    },
+    {
+      "year": "2015.12",
+      "number": 4,
+      "id": "sbry-n1-2015.12-文字・語彙-1-4",
+      "target": "値する",
+      "reading": "あたいする",
+      "rawAnswer": "あたいする",
+      "question": "佐藤さんの日々の努力は尊敬に【値する】。"
+    },
+    {
+      "year": "2015.12",
+      "number": 5,
+      "id": "sbry-n1-2015.12-文字・語彙-1-5",
+      "target": "随時",
+      "reading": "ずいじ",
+      "rawAnswer": "ずいじ",
+      "question": "応募は【随時】受け付けています。"
+    },
+    {
+      "year": "2015.12",
+      "number": 6,
+      "id": "sbry-n1-2015.12-文字・語彙-1-6",
+      "target": "励んで",
+      "reading": "はげんで",
+      "rawAnswer": "はげんで",
+      "question": "優勝を目指してこれからも練習に【励んで】いきます。"
+    },
+    {
+      "year": "2016.07",
+      "number": 1,
+      "id": "sbry-n1-2016.07-文字・語彙-1-1",
+      "target": "樹木",
+      "reading": "じゅもく",
+      "rawAnswer": "じゅもく",
+      "question": "この寺の周辺には【樹木】が茂っている。"
+    },
+    {
+      "year": "2016.07",
+      "number": 2,
+      "id": "sbry-n1-2016.07-文字・語彙-1-2",
+      "target": "蓄えて",
+      "reading": "たくわえて",
+      "rawAnswer": "たくわえて",
+      "question": "将来のために様々な知識を【蓄えて】おきたい。"
+    },
+    {
+      "year": "2016.07",
+      "number": 3,
+      "id": "sbry-n1-2016.07-文字・語彙-1-3",
+      "target": "陳列",
+      "reading": "ちんれつ",
+      "rawAnswer": "ちんれつ",
+      "question": "この店は今月から商品の【陳列】の仕方を変更した。"
+    },
+    {
+      "year": "2016.07",
+      "number": 4,
+      "id": "sbry-n1-2016.07-文字・語彙-1-4",
+      "target": "華やか",
+      "reading": "はなやか",
+      "rawAnswer": "はなやか",
+      "question": "今日の舞台は【華やか】で、観客を大いに楽しませた。"
+    },
+    {
+      "year": "2016.07",
+      "number": 5,
+      "id": "sbry-n1-2016.07-文字・語彙-1-5",
+      "target": "鑑定",
+      "reading": "かんてい",
+      "rawAnswer": "かんてい",
+      "question": "専門家に【鑑定】を依頼した。"
+    },
+    {
+      "year": "2016.07",
+      "number": 6,
+      "id": "sbry-n1-2016.07-文字・語彙-1-6",
+      "target": "偏って",
+      "reading": "かたよって",
+      "rawAnswer": "かたよって",
+      "question": "この雑誌にある情報は少し【偏って】いる。"
+    },
+    {
+      "year": "2016.12",
+      "number": 1,
+      "id": "sbry-n1-2016.12-文字・語彙-1-1",
+      "target": "人脈",
+      "reading": "じんみゃく",
+      "rawAnswer": "じんみゃく",
+      "question": "社会活動に参加することで、【人脈】を広げることができた。"
+    },
+    {
+      "year": "2016.12",
+      "number": 2,
+      "id": "sbry-n1-2016.12-文字・語彙-1-2",
+      "target": "賢い",
+      "reading": "かしこい",
+      "rawAnswer": "かしこい",
+      "question": "鈴木さんは指摘がいつも的確で、本当に【賢い】人だと思う。"
+    },
+    {
+      "year": "2016.12",
+      "number": 3,
+      "id": "sbry-n1-2016.12-文字・語彙-1-3",
+      "target": "顕著",
+      "reading": "けんちょ",
+      "rawAnswer": "けんちょ",
+      "question": "文化の違いが食生活に【顕著】に現れている。"
+    },
+    {
+      "year": "2016.12",
+      "number": 4,
+      "id": "sbry-n1-2016.12-文字・語彙-1-4",
+      "target": "多岐",
+      "reading": "たき",
+      "rawAnswer": "たき",
+      "question": "相談の内容は【多岐】にわたった。"
+    },
+    {
+      "year": "2016.12",
+      "number": 5,
+      "id": "sbry-n1-2016.12-文字・語彙-1-5",
+      "target": "廃れて",
+      "reading": "すたれて",
+      "rawAnswer": "すたれて",
+      "question": "その風習は、今はもう【廃れて】しまった。"
+    },
+    {
+      "year": "2016.12",
+      "number": 6,
+      "id": "sbry-n1-2016.12-文字・語彙-1-6",
+      "target": "相場",
+      "reading": "そうば",
+      "rawAnswer": "そうば",
+      "question": "家賃の【相場】は地域によって違う。"
+    },
+    {
+      "year": "2017.07",
+      "number": 1,
+      "id": "sbry-n1-2017.07-文字・語彙-1-1",
+      "target": "潤す",
+      "reading": "うるおす",
+      "rawAnswer": "うるおす",
+      "question": "この広大な大地を【潤す】にはまだまだ不十分だった。"
+    },
+    {
+      "year": "2017.07",
+      "number": 2,
+      "id": "sbry-n1-2017.07-文字・語彙-1-2",
+      "target": "殺菌",
+      "reading": "さっきん",
+      "rawAnswer": "さっきん",
+      "question": "使う前に必ず熱湯で【殺菌】してください。"
+    },
+    {
+      "year": "2017.07",
+      "number": 3,
+      "id": "sbry-n1-2017.07-文字・語彙-1-3",
+      "target": "託された",
+      "reading": "たくされた",
+      "rawAnswer": "たくされた",
+      "question": "これが私に【託された】仕事です。"
+    },
+    {
+      "year": "2017.07",
+      "number": 4,
+      "id": "sbry-n1-2017.07-文字・語彙-1-4",
+      "target": "傾斜",
+      "reading": "けいしゃ",
+      "rawAnswer": "けいしゃ",
+      "question": "このコンサートホールは、舞台に向かって床が【傾斜】している。"
+    },
+    {
+      "year": "2017.07",
+      "number": 5,
+      "id": "sbry-n1-2017.07-文字・語彙-1-5",
+      "target": "阻まれて",
+      "reading": "はばまれて",
+      "rawAnswer": "はばまれて",
+      "question": "毎回のように反対派の人々に【阻まれて】きた。"
+    },
+    {
+      "year": "2017.07",
+      "number": 6,
+      "id": "sbry-n1-2017.07-文字・語彙-1-6",
+      "target": "暴露",
+      "reading": "ばくろ",
+      "rawAnswer": "ばくろ",
+      "question": "秘密にしていたことを友人に【暴露】された。"
+    },
+    {
+      "year": "2017.12",
+      "number": 1,
+      "id": "sbry-n1-2017.12-文字・語彙-1-1",
+      "target": "開拓",
+      "reading": "かいたく",
+      "rawAnswer": "かいたく",
+      "question": "新しい販売ルートを【開拓】した。"
+    },
+    {
+      "year": "2017.12",
+      "number": 2,
+      "id": "sbry-n1-2017.12-文字・語彙-1-2",
+      "target": "復興",
+      "reading": "ふっこう",
+      "rawAnswer": "ふっこう",
+      "question": "私たちは、町の【復興】に全力で取り組んでいます。"
+    },
+    {
+      "year": "2017.12",
+      "number": 3,
+      "id": "sbry-n1-2017.12-文字・語彙-1-3",
+      "target": "怠った",
+      "reading": "おこたった",
+      "rawAnswer": "おこたった",
+      "question": "書類の確認を【怠った】ために、問題が生じた。"
+    },
+    {
+      "year": "2017.12",
+      "number": 4,
+      "id": "sbry-n1-2017.12-文字・語彙-1-4",
+      "target": "了承",
+      "reading": "りょうしょう",
+      "rawAnswer": "りょうしょう",
+      "question": "本人の【了承】を得て、写真を掲載した。"
+    },
+    {
+      "year": "2017.12",
+      "number": 5,
+      "id": "sbry-n1-2017.12-文字・語彙-1-5",
+      "target": "指図",
+      "reading": "さしず",
+      "rawAnswer": "さしず",
+      "question": "あの人はいつもあれこれ【指図】をする。"
+    },
+    {
+      "year": "2017.12",
+      "number": 6,
+      "id": "sbry-n1-2017.12-文字・語彙-1-6",
+      "target": "巡り",
+      "reading": "めぐり",
+      "rawAnswer": "めぐり",
+      "question": "友人と東京の名所を【巡り】、旅を満喫した。"
+    },
+    {
+      "year": "2018.07",
+      "number": 1,
+      "id": "sbry-n1-2018.07-文字・語彙-1-1",
+      "target": "回顧",
+      "reading": "かいこ",
+      "rawAnswer": "かいこ",
+      "question": "鈴木氏は当時を【回顧】して、次のように語った。"
+    },
+    {
+      "year": "2018.07",
+      "number": 2,
+      "id": "sbry-n1-2018.07-文字・語彙-1-2",
+      "target": "偽り",
+      "reading": "いつわり",
+      "rawAnswer": "いつわり",
+      "question": "彼の話には多少の【偽り】があると思われた。"
+    },
+    {
+      "year": "2018.07",
+      "number": 3,
+      "id": "sbry-n1-2018.07-文字・語彙-1-3",
+      "target": "嫌悪感",
+      "reading": "けんおかん",
+      "rawAnswer": "けんおかん",
+      "question": "私は特に【嫌悪感】は持たなかった。"
+    },
+    {
+      "year": "2018.07",
+      "number": 4,
+      "id": "sbry-n1-2018.07-文字・語彙-1-4",
+      "target": "自粛",
+      "reading": "じしゅく",
+      "rawAnswer": "じしゅく",
+      "question": "問題が解決するまで【自粛】することにした。"
+    },
+    {
+      "year": "2018.07",
+      "number": 5,
+      "id": "sbry-n1-2018.07-文字・語彙-1-5",
+      "target": "戒めたい",
+      "reading": "いましめたい",
+      "rawAnswer": "いましめたい",
+      "question": "自分を【戒めたい】と思う。"
+    },
+    {
+      "year": "2018.07",
+      "number": 6,
+      "id": "sbry-n1-2018.07-文字・語彙-1-6",
+      "target": "丘陵",
+      "reading": "きゅうりょう",
+      "rawAnswer": "きゅうりょう",
+      "question": "この国の南側には、なだらかな【丘陵】地帯が広がっている。"
+    },
+    {
+      "year": "2018.12",
+      "number": 1,
+      "id": "sbry-n1-2018.12-文字・語彙-1-1",
+      "target": "豪快",
+      "reading": "ごうかい",
+      "rawAnswer": "ごうかい",
+      "question": "父は、楽しいときはいつも【豪快】に笑う."
+    },
+    {
+      "year": "2018.12",
+      "number": 2,
+      "id": "sbry-n1-2018.12-文字・語彙-1-2",
+      "target": "忍耐",
+      "reading": "にんたい",
+      "rawAnswer": "にんたい",
+      "question": "今回の仕事にはかなりの【忍耐】が必要だ。"
+    },
+    {
+      "year": "2018.12",
+      "number": 3,
+      "id": "sbry-n1-2018.12-文字・語彙-1-3",
+      "target": "募って",
+      "reading": "つのって",
+      "rawAnswer": "つのって",
+      "question": "今、アイディアを【募って】いるところですので、ご協力をお願いします。"
+    },
+    {
+      "year": "2018.12",
+      "number": 4,
+      "id": "sbry-n1-2018.12-文字・語彙-1-4",
+      "target": "膨大",
+      "reading": "ぼうだい",
+      "rawAnswer": "ぼうだい",
+      "question": "現代の社会では、【膨大】なエネルギーが消費されている。"
+    },
+    {
+      "year": "2018.12",
+      "number": 5,
+      "id": "sbry-n1-2018.12-文字・語彙-1-5",
+      "target": "滞って",
+      "reading": "とどこおって",
+      "rawAnswer": "とどこおって",
+      "question": "【滞って】いた作業が、担当者が変わってからスムーズに進み出した。"
+    },
+    {
+      "year": "2018.12",
+      "number": 6,
+      "id": "sbry-n1-2018.12-文字・語彙-1-6",
+      "target": "驚嘆",
+      "reading": "きょうたん",
+      "rawAnswer": "きょうたん",
+      "question": "彼の見識の高さには【驚嘆】するばかりだ。"
+    },
+    {
+      "year": "2019.07",
+      "number": 1,
+      "id": "sbry-n1-2019.07-文字・語彙-1-1",
+      "target": "猛烈",
+      "reading": "もうれつ",
+      "rawAnswer": "もうれつ",
+      "question": "あの態度には【猛烈】に腹が立った。"
+    },
+    {
+      "year": "2019.07",
+      "number": 2,
+      "id": "sbry-n1-2019.07-文字・語彙-1-2",
+      "target": "克服",
+      "reading": "こくふく",
+      "rawAnswer": "こくふく",
+      "question": "彼女は病を【克服】して、職場に戻ってきた。"
+    },
+    {
+      "year": "2019.07",
+      "number": 3,
+      "id": "sbry-n1-2019.07-文字・語彙-1-3",
+      "target": "崩れやすい",
+      "reading": "くずれやすい",
+      "rawAnswer": "くずれやすい",
+      "question": "【崩れやすい】ので、運ぶときは気をつけてください。"
+    },
+    {
+      "year": "2019.07",
+      "number": 4,
+      "id": "sbry-n1-2019.07-文字・語彙-1-4",
+      "target": "繁殖",
+      "reading": "はんしょく",
+      "rawAnswer": "はんしょく",
+      "question": "この薬にはウイルスの【繁殖】を抑える効果がある。"
+    },
+    {
+      "year": "2019.07",
+      "number": 5,
+      "id": "sbry-n1-2019.07-文字・語彙-1-5",
+      "target": "履歴",
+      "reading": "りれき",
+      "rawAnswer": "りれき",
+      "question": "サイトの【履歴】は残っていなかった。"
+    },
+    {
+      "year": "2019.07",
+      "number": 6,
+      "id": "sbry-n1-2019.07-文字・語彙-1-6",
+      "target": "映える",
+      "reading": "はえる",
+      "rawAnswer": "はえる",
+      "question": "夕日に赤く【映える】山を写真に収めた。"
+    },
+    {
+      "year": "2019.12",
+      "number": 1,
+      "id": "sbry-n1-2019.12-文字・語彙-1-1",
+      "target": "披露",
+      "reading": "ひろう",
+      "rawAnswer": "ひろう",
+      "question": "彼はその話を【披露】するチャンスをうかがっていたようだ。"
+    },
+    {
+      "year": "2019.12",
+      "number": 2,
+      "id": "sbry-n1-2019.12-文字・語彙-1-2",
+      "target": "砕けて",
+      "reading": "くだけて",
+      "rawAnswer": "くだけて",
+      "question": "力を入れたら【砕けて】しまった。"
+    },
+    {
+      "year": "2019.12",
+      "number": 3,
+      "id": "sbry-n1-2019.12-文字・語彙-1-3",
+      "target": "執着",
+      "reading": "しゅうちゃく",
+      "rawAnswer": "しゅうちゃく",
+      "question": "年を取って、物に【執着】する気持ちが少なくなった。"
+    },
+    {
+      "year": "2019.12",
+      "number": 4,
+      "id": "sbry-n1-2019.12-文字・語彙-1-4",
+      "target": "債務",
+      "reading": "さいむ",
+      "rawAnswer": "さいむ",
+      "question": "【債務】の状況を確かめる"
+    },
+    {
+      "year": "2019.12",
+      "number": 5,
+      "id": "sbry-n1-2019.12-文字・語彙-1-5",
+      "target": "貢献",
+      "reading": "こうけん",
+      "rawAnswer": "こうけん",
+      "question": "鈴木氏の研究は物理学の発展に大いに【貢献】した。"
+    },
+    {
+      "year": "2019.12",
+      "number": 6,
+      "id": "sbry-n1-2019.12-文字・語彙-1-6",
+      "target": "潔い",
+      "reading": "いさぎよい",
+      "rawAnswer": "いさぎよい",
+      "question": "昨日の彼の態度は、実に【潔い】ものだった。"
+    },
+    {
+      "year": "2020.12",
+      "number": 1,
+      "id": "sbry-n1-2020.12-文字・語彙-1-1",
+      "target": "干渉",
+      "reading": "かんしょう",
+      "rawAnswer": "かんしょう",
+      "question": "自分の将来について、他人には【干渉】されたくない。"
+    },
+    {
+      "year": "2020.12",
+      "number": 2,
+      "id": "sbry-n1-2020.12-文字・語彙-1-2",
+      "target": "粘って",
+      "reading": "ねばって",
+      "rawAnswer": "ねばって",
+      "question": "田中選手は、最後まで【粘って】、ついに勝利を収めた。"
+    },
+    {
+      "year": "2020.12",
+      "number": 3,
+      "id": "sbry-n1-2020.12-文字・語彙-1-3",
+      "target": "巧妙",
+      "reading": "こうみょう",
+      "rawAnswer": "こうみょう",
+      "question": "手品師の【巧妙】なテクニックに観客から拍手が起こった。"
+    },
+    {
+      "year": "2020.12",
+      "number": 4,
+      "id": "sbry-n1-2020.12-文字・語彙-1-4",
+      "target": "促した",
+      "reading": "うながした",
+      "rawAnswer": "うながした",
+      "question": "書類にミスがあったので、すぐに修正を【促した】。"
+    },
+    {
+      "year": "2020.12",
+      "number": 5,
+      "id": "sbry-n1-2020.12-文字・語彙-1-5",
+      "target": "措置",
+      "reading": "そち",
+      "rawAnswer": "そち",
+      "question": "適切な【措置】によって、問題が拡大するのを防ぐことができた。"
+    },
+    {
+      "year": "2020.12",
+      "number": 6,
+      "id": "sbry-n1-2020.12-文字・語彙-1-6",
+      "target": "振興",
+      "reading": "しんこう",
+      "rawAnswer": "しんこう",
+      "question": "スポーツを通じて、地域の【振興】を図りたい"
+    },
+    {
+      "year": "2021.07",
+      "number": 1,
+      "id": "sbry-n1-2021.07-文字・語彙-1-1",
+      "target": "遺憾",
+      "reading": "いかん",
+      "rawAnswer": "いかん",
+      "question": "今回の件については、大変【遺憾】に思っております。"
+    },
+    {
+      "year": "2021.07",
+      "number": 2,
+      "id": "sbry-n1-2021.07-文字・語彙-1-2",
+      "target": "閉鎖",
+      "reading": "へいさ",
+      "rawAnswer": "へいさ",
+      "question": "この門は常時【閉鎖】されている。"
+    },
+    {
+      "year": "2021.07",
+      "number": 3,
+      "id": "sbry-n1-2021.07-文字・語彙-1-3",
+      "target": "心遣い",
+      "reading": "こころづかい",
+      "rawAnswer": "こころづかい",
+      "question": "どんな時にも、周りへの【心遣い】を忘れてはいけない。"
+    },
+    {
+      "year": "2021.07",
+      "number": 4,
+      "id": "sbry-n1-2021.07-文字・語彙-1-4",
+      "target": "憤った",
+      "reading": "いきどおった",
+      "rawAnswer": "いきどおった",
+      "question": "彼は顔を真っ赤にして【憤った】。"
+    },
+    {
+      "year": "2021.07",
+      "number": 5,
+      "id": "sbry-n1-2021.07-文字・語彙-1-5",
+      "target": "貧富",
+      "reading": "ひんぷ",
+      "rawAnswer": "ひんぷ",
+      "question": "【貧富】の差が大きくなっているようだ。"
+    },
+    {
+      "year": "2021.07",
+      "number": 6,
+      "id": "sbry-n1-2021.07-文字・語彙-1-6",
+      "target": "治癒",
+      "reading": "ちゆ",
+      "rawAnswer": "ちゆ",
+      "question": "【治癒】するには1か月程度かかる。"
+    },
+    {
+      "year": "2021.12",
+      "number": 1,
+      "id": "sbry-n1-2021.12-文字・語彙-1-1",
+      "target": "錯覚",
+      "reading": "さっかく",
+      "rawAnswer": "さっかく",
+      "question": "この絵は目の【錯覚】を利用した作品です。"
+    },
+    {
+      "year": "2021.12",
+      "number": 2,
+      "id": "sbry-n1-2021.12-文字・語彙-1-2",
+      "target": "尊い",
+      "reading": "とうとい",
+      "rawAnswer": "とうとい",
+      "question": "【尊い】命を大切に守ろう。"
+    },
+    {
+      "year": "2021.12",
+      "number": 3,
+      "id": "sbry-n1-2021.12-文字・語彙-1-3",
+      "target": "枯渇",
+      "reading": "こかつ",
+      "rawAnswer": "こかつ",
+      "question": "このまま使い続けていたら、天然資源はいずれ【枯渇】してしまうだろう。"
+    },
+    {
+      "year": "2021.12",
+      "number": 4,
+      "id": "sbry-n1-2021.12-文字・語彙-1-4",
+      "target": "慰めて",
+      "reading": "なぐさめて",
+      "rawAnswer": "なぐさめて",
+      "question": "その手紙は、私の心を【慰めて】くれた。"
+    },
+    {
+      "year": "2021.12",
+      "number": 5,
+      "id": "sbry-n1-2021.12-文字・語彙-1-5",
+      "target": "克明",
+      "reading": "こくめい",
+      "rawAnswer": "こくめい",
+      "question": "この文書には、当時の生活の様子が【克明】に記憶されている。"
+    },
+    {
+      "year": "2021.12",
+      "number": 6,
+      "id": "sbry-n1-2021.12-文字・語彙-1-6",
+      "target": "緊迫",
+      "reading": "きんぱく",
+      "rawAnswer": "きんぱく",
+      "question": "試合会場には【緊迫】した雰囲気が漂っていた。"
+    },
+    {
+      "year": "2022.07",
+      "number": 1,
+      "id": "sbry-n1-2022.07-文字・語彙-1-1",
+      "target": "勇敢",
+      "reading": "ゆうかん",
+      "rawAnswer": "ゆうかん",
+      "question": "【勇敢】に戦う主人公に子どもたちは夢中だ。"
+    },
+    {
+      "year": "2022.07",
+      "number": 2,
+      "id": "sbry-n1-2022.07-文字・語彙-1-2",
+      "target": "忠告",
+      "reading": "ちゅうこく",
+      "rawAnswer": "ちゅうこく",
+      "question": "その件について、【忠告】すべきかどうか考えている。"
+    },
+    {
+      "year": "2022.07",
+      "number": 3,
+      "id": "sbry-n1-2022.07-文字・語彙-1-3",
+      "target": "慕って",
+      "reading": "したって",
+      "rawAnswer": "したって",
+      "question": "チームの多くの選手が監督を【慕って】いるようだ。"
+    },
+    {
+      "year": "2022.07",
+      "number": 4,
+      "id": "sbry-n1-2022.07-文字・語彙-1-4",
+      "target": "施錠",
+      "reading": "せじょう",
+      "rawAnswer": "せじょう",
+      "question": "建物の入口は、夜間は【施錠】されている。"
+    },
+    {
+      "year": "2022.07",
+      "number": 5,
+      "id": "sbry-n1-2022.07-文字・語彙-1-5",
+      "target": "沈下",
+      "reading": "ちんか",
+      "rawAnswer": "ちんか",
+      "question": "対策の結果、地盤の【沈下】は食い止められている。"
+    },
+    {
+      "year": "2022.07",
+      "number": 6,
+      "id": "sbry-n1-2022.07-文字・語彙-1-6",
+      "target": "阻まれて",
+      "reading": "はばまれて",
+      "rawAnswer": "はばまれて",
+      "question": "激しい雪に【阻まれて】前に進めない。"
+    },
+    {
+      "year": "2022.12",
+      "number": 1,
+      "id": "sbry-n1-2022.12-文字・語彙-1-1",
+      "target": "監督",
+      "reading": "かんとく",
+      "rawAnswer": "かんとく",
+      "question": "チームの新しい【監督】が決まった。"
+    },
+    {
+      "year": "2022.12",
+      "number": 2,
+      "id": "sbry-n1-2022.12-文字・語彙-1-2",
+      "target": "派生",
+      "reading": "はせい",
+      "rawAnswer": "はせい",
+      "question": "これは、外国語から【派生】した言葉です。"
+    },
+    {
+      "year": "2022.12",
+      "number": 3,
+      "id": "sbry-n1-2022.12-文字・語彙-1-3",
+      "target": "透けて",
+      "reading": "すけて",
+      "rawAnswer": "すけて",
+      "question": "文字が【透けて】いる。"
+    },
+    {
+      "year": "2022.12",
+      "number": 4,
+      "id": "sbry-n1-2022.12-文字・語彙-1-4",
+      "target": "恩恵",
+      "reading": "おんけい",
+      "rawAnswer": "おんけい",
+      "question": "この村は湖の【恩恵】を受けている。"
+    },
+    {
+      "year": "2022.12",
+      "number": 5,
+      "id": "sbry-n1-2022.12-文字・語彙-1-5",
+      "target": "臨む",
+      "reading": "のぞむ",
+      "rawAnswer": "のぞむ",
+      "question": "厳しい練習に【臨む】選手たちの姿を目にした。"
+    },
+    {
+      "year": "2022.12",
+      "number": 6,
+      "id": "sbry-n1-2022.12-文字・語彙-1-6",
+      "target": "如実に",
+      "reading": "にょじつに",
+      "rawAnswer": "にょじつに",
+      "question": "調査データは、地球の温暖化を【如実に】示した。"
+    },
+    {
+      "year": "2023.07",
+      "number": 1,
+      "id": "jlpt4you-2023.07-vocabulary-1-1",
+      "target": "騒然",
+      "reading": "そうぜん",
+      "rawAnswer": "そうぜん",
+      "question": "思わぬ出来事に、周りが⟦u⟧騒然⟦/u⟧としていた。"
+    },
+    {
+      "year": "2023.07",
+      "number": 2,
+      "id": "jlpt4you-2023.07-vocabulary-1-2",
+      "target": "諭した",
+      "reading": "さとした",
+      "rawAnswer": "さとした",
+      "question": "西村さんはいたずらした子供を優しく⟦u⟧諭した⟦/u⟧。"
+    },
+    {
+      "year": "2023.07",
+      "number": 3,
+      "id": "jlpt4you-2023.07-vocabulary-1-3",
+      "target": "秩序",
+      "reading": "ちつじょ",
+      "rawAnswer": "ちつじょ",
+      "question": "社会生活を送る上で、⟦u⟧秩序⟦/u⟧を守ることは重要だ。"
+    },
+    {
+      "year": "2023.07",
+      "number": 4,
+      "id": "jlpt4you-2023.07-vocabulary-1-4",
+      "target": "潜伏",
+      "reading": "せんぷく",
+      "rawAnswer": "せんぷく",
+      "question": "このあたりに犯人が⟦u⟧潜伏⟦/u⟧しているという情報が入った。"
+    },
+    {
+      "year": "2023.07",
+      "number": 5,
+      "id": "jlpt4you-2023.07-vocabulary-1-5",
+      "target": "朗らか",
+      "reading": "ほがらか",
+      "rawAnswer": "ほがらか",
+      "question": "アナウンサーの⟦u⟧朗らか⟦/u⟧な声が響いた。"
+    },
+    {
+      "year": "2023.07",
+      "number": 6,
+      "id": "jlpt4you-2023.07-vocabulary-1-6",
+      "target": "振興",
+      "reading": "しんこう",
+      "rawAnswer": "しんこう",
+      "question": "新しい市長は地域文化の⟦u⟧振興⟦/u⟧に力を入れている。"
+    },
+    {
+      "year": "2023.12",
+      "number": 1,
+      "id": "jlpt4you-2023.12-vocabulary-1-1",
+      "target": "軌跡",
+      "reading": "きせき",
+      "rawAnswer": "きせき",
+      "question": "ある画家の人生の⟦u⟧軌跡⟦/u⟧を描いた映画を見た。"
+    },
+    {
+      "year": "2023.12",
+      "number": 2,
+      "id": "jlpt4you-2023.12-vocabulary-1-2",
+      "target": "偏り",
+      "reading": "かたより",
+      "rawAnswer": "かたより",
+      "question": "ここに書いてある情報には⟦u⟧偏り⟦/u⟧がある。"
+    },
+    {
+      "year": "2023.12",
+      "number": 3,
+      "id": "jlpt4you-2023.12-vocabulary-1-3",
+      "target": "矛盾",
+      "reading": "むじゅん",
+      "rawAnswer": "むじゅん",
+      "question": "村上氏の主張にはさまざまな⟦u⟧矛盾⟦/u⟧が含まれている"
+    },
+    {
+      "year": "2023.12",
+      "number": 4,
+      "id": "jlpt4you-2023.12-vocabulary-1-4",
+      "target": "誇張",
+      "reading": "こちょう",
+      "rawAnswer": "こちょう",
+      "question": "事実が⟦u⟧誇張⟦/u⟧されて伝わる"
+    },
+    {
+      "year": "2023.12",
+      "number": 5,
+      "id": "jlpt4you-2023.12-vocabulary-1-5",
+      "target": "賄って",
+      "reading": "まかなって",
+      "rawAnswer": "まかなって",
+      "question": "この食堂で社員全員の昼食を⟦u⟧賄って⟦/u⟧いる。"
+    },
+    {
+      "year": "2023.12",
+      "number": 6,
+      "id": "jlpt4you-2023.12-vocabulary-1-6",
+      "target": "軽率",
+      "reading": "けいそつ",
+      "rawAnswer": "けいそつ",
+      "question": "⟦u⟧軽率⟦/u⟧な行動が批判を招いた。"
+    },
+    {
+      "year": "2024.07",
+      "number": 1,
+      "id": "jlpt4you-2024.07-vocabulary-1-1",
+      "target": "腐敗",
+      "reading": "ふはい",
+      "rawAnswer": "ふはい",
+      "question": "食品の⟦u⟧腐敗⟦/u⟧を防止する"
+    },
+    {
+      "year": "2024.07",
+      "number": 2,
+      "id": "jlpt4you-2024.07-vocabulary-1-2",
+      "target": "粗い",
+      "reading": "あらい",
+      "rawAnswer": "あらい",
+      "question": "こちらの方が⟦u⟧粗い⟦/u⟧ようだ。"
+    },
+    {
+      "year": "2024.07",
+      "number": 3,
+      "id": "jlpt4you-2024.07-vocabulary-1-3",
+      "target": "粘膜",
+      "reading": "ねんまく",
+      "rawAnswer": "ねんまく",
+      "question": "これは胃の⟦u⟧粘膜⟦/u⟧を保護する薬です。"
+    },
+    {
+      "year": "2024.07",
+      "number": 4,
+      "id": "jlpt4you-2024.07-vocabulary-1-4",
+      "target": "寿命",
+      "reading": "じゅみょう",
+      "rawAnswer": "じゅみょう",
+      "question": "医学の進歩によって、人々の⟦u⟧寿命⟦/u⟧が延びた。"
+    },
+    {
+      "year": "2024.07",
+      "number": 5,
+      "id": "jlpt4you-2024.07-vocabulary-1-5",
+      "target": "戒める",
+      "reading": "いましめる",
+      "rawAnswer": "いましめる",
+      "question": "手紙の内容は私を⟦u⟧戒める⟦/u⟧ものだった。"
+    },
+    {
+      "year": "2024.07",
+      "number": 6,
+      "id": "jlpt4you-2024.07-vocabulary-1-6",
+      "target": "誓約書",
+      "reading": "せいやくしょ",
+      "rawAnswer": "せいやくしょ",
+      "question": "⟦u⟧誓約書⟦/u⟧に署名する時、少し緊張した。"
+    },
+    {
+      "year": "2024.12",
+      "number": 1,
+      "id": "jlpt4you-2024.12-vocabulary-1-1",
+      "target": "絶叫",
+      "reading": "ぜっきょう",
+      "rawAnswer": "ぜっきょう",
+      "question": "佐藤選手がゴールを決めたとき、観客は⟦u⟧絶叫⟦/u⟧した。"
+    },
+    {
+      "year": "2024.12",
+      "number": 2,
+      "id": "jlpt4you-2024.12-vocabulary-1-2",
+      "target": "背後",
+      "reading": "はいご",
+      "rawAnswer": "はいご",
+      "question": "⟦u⟧背後⟦/u⟧から物音が聞こえた。"
+    },
+    {
+      "year": "2024.12",
+      "number": 3,
+      "id": "jlpt4you-2024.12-vocabulary-1-3",
+      "target": "抱負",
+      "reading": "ほうふ",
+      "rawAnswer": "ほうふ",
+      "question": "将来の⟦u⟧抱負⟦/u⟧を述べる。"
+    },
+    {
+      "year": "2024.12",
+      "number": 4,
+      "id": "jlpt4you-2024.12-vocabulary-1-4",
+      "target": "侮って",
+      "reading": "あなどって",
+      "rawAnswer": "あなどって",
+      "question": "人を⟦u⟧侮って⟦/u⟧はいけない。"
+    },
+    {
+      "year": "2024.12",
+      "number": 5,
+      "id": "jlpt4you-2024.12-vocabulary-1-5",
+      "target": "筋道",
+      "reading": "すじみち",
+      "rawAnswer": "すじみち",
+      "question": "相手がわかるように、⟦u⟧筋道⟦/u⟧を立てて説明した。"
+    },
+    {
+      "year": "2024.12",
+      "number": 6,
+      "id": "jlpt4you-2024.12-vocabulary-1-6",
+      "target": "奔放",
+      "reading": "ほんぽう",
+      "rawAnswer": "ほんぽう",
+      "question": "その小説の主人公は、⟦u⟧奔放⟦/u⟧な性格をしている。"
+    },
+    {
+      "year": "2025.07",
+      "number": 1,
+      "id": "markdown-2025.07-language-1",
+      "target": "余暇",
+      "reading": "よか",
+      "rawAnswer": "よか",
+      "question": "⟦u⟧余暇⟦/u⟧の楽しみ方はいろいろある。"
+    },
+    {
+      "year": "2025.07",
+      "number": 2,
+      "id": "markdown-2025.07-language-2",
+      "target": "鈍い",
+      "reading": "にぶい",
+      "rawAnswer": "にぶい",
+      "question": "その動物は動きが⟦u⟧鈍い⟦/u⟧。"
+    },
+    {
+      "year": "2025.07",
+      "number": 3,
+      "id": "markdown-2025.07-language-3",
+      "target": "検閲",
+      "reading": "けんえつ",
+      "rawAnswer": "けんえつ",
+      "question": "⟦u⟧検閲⟦/u⟧は行われていない。"
+    },
+    {
+      "year": "2025.07",
+      "number": 4,
+      "id": "markdown-2025.07-language-4",
+      "target": "崇高",
+      "reading": "すうこう",
+      "rawAnswer": "すうこう",
+      "question": "彼の唱える理念は⟦u⟧崇高⟦/u⟧なものだ。"
+    },
+    {
+      "year": "2025.07",
+      "number": 5,
+      "id": "markdown-2025.07-language-5",
+      "target": "裁く",
+      "reading": "さばく",
+      "rawAnswer": "さばく",
+      "question": "自分には⟦u⟧裁く⟦/u⟧ことはできなかった。"
+    },
+    {
+      "year": "2025.07",
+      "number": 6,
+      "id": "markdown-2025.07-language-6",
+      "target": "胸中",
+      "reading": "きょうちゅう",
+      "rawAnswer": "きょうちゅう",
+      "question": "親友に、複雑な⟦u⟧胸中⟦/u⟧を打ち明ける。"
+    },
+    {
+      "year": "2025.12",
+      "number": 1,
+      "id": "markdown-2025.12-language-1",
+      "target": "頑丈",
+      "reading": "がんじょう",
+      "rawAnswer": "がんじょう",
+      "question": "この棚は⟦u⟧頑丈⟦/u⟧に作られている。"
+    },
+    {
+      "year": "2025.12",
+      "number": 2,
+      "id": "markdown-2025.12-language-2",
+      "target": "潜んで",
+      "reading": "ひそんで",
+      "rawAnswer": "ひそんで",
+      "question": "思わぬところに深刻な問題が⟦u⟧潜んで⟦/u⟧いた。"
+    },
+    {
+      "year": "2025.12",
+      "number": 3,
+      "id": "markdown-2025.12-language-3",
+      "target": "行政",
+      "reading": "ぎょうせい",
+      "rawAnswer": "ぎょうせい",
+      "question": "私は⟦u⟧行政⟦/u⟧の仕事に携わっている。"
+    },
+    {
+      "year": "2025.12",
+      "number": 4,
+      "id": "markdown-2025.12-language-4",
+      "target": "卓越",
+      "reading": "たくえつ",
+      "rawAnswer": "たくえつ",
+      "question": "中村氏は大学時代にその⟦u⟧卓越⟦/u⟧した才能を開花させた。"
+    },
+    {
+      "year": "2025.12",
+      "number": 5,
+      "id": "markdown-2025.12-language-5",
+      "target": "芳しく",
+      "reading": "かんばしく",
+      "rawAnswer": "かんばしくない",
+      "question": "最近は会社の営業成績が⟦u⟧芳しく⟦/u⟧ない。"
+    },
+    {
+      "year": "2025.12",
+      "number": 6,
+      "id": "markdown-2025.12-language-6",
+      "target": "管轄",
+      "reading": "かんかつ",
+      "rawAnswer": "かんかつ",
+      "question": "その件は市民生活課の⟦u⟧管轄⟦/u⟧です。"
+    }
+  ],
+  "readingWeights": {
+    "meaning": "within-family study allocation, not probability of future JLPT occurrence or general Japanese use",
+    "formula": {
+      "targetQuestionShare": 0.6,
+      "crossSubjectPaperShare": 0.25,
+      "manualCommonnessShare": 0.15
+    },
+    "commonnessScale": {
+      "3": "日常／基础表达可作为熟词锚点（教学判断）",
+      "2": "通用书面／正式词汇（教学判断）",
+      "1": "较专门／较少用的锚点（本表未使用）"
+    },
+    "matching": "精确字面串，跨科目每期至多计一次；只计各分支列出的代表词，未穷举该字所有词。关联词有原文证据，但统计不证明某次出现就考该读音。",
+    "variantPolicy": "固執默认用常见こしつ分支计数，こしゅう读法合法但未二次累计同一字面词。",
+    "families": [
+      {
+        "character": "正",
+        "branches": [
+          {
+            "reading": "せい",
+            "commonness": 3,
+            "words": [
+              "厳正",
+              "正確"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 13,
+            "crossSubjectQuestionCount": 17,
+            "recentWrongWords": [
+              "厳正"
+            ],
+            "rawWeight": 0.7378378378378379,
+            "weightPercent": 74
+          },
+          {
+            "reading": "しょう",
+            "commonness": 3,
+            "words": [
+              "正直"
+            ],
+            "targetQuestionCount": 0,
+            "crossSubjectPaperCount": 7,
+            "crossSubjectQuestionCount": 9,
+            "recentWrongWords": [],
+            "rawWeight": 0.0972972972972973,
+            "weightPercent": 10
+          },
+          {
+            "reading": "ただしい",
+            "commonness": 3,
+            "words": [
+              "正しい"
+            ],
+            "targetQuestionCount": 0,
+            "crossSubjectPaperCount": 17,
+            "crossSubjectQuestionCount": 32,
+            "recentWrongWords": [],
+            "rawWeight": 0.16486486486486487,
+            "weightPercent": 16
+          }
+        ]
+      },
+      {
+        "character": "厳",
+        "branches": [
+          {
+            "reading": "げん",
+            "commonness": 2,
+            "words": [
+              "厳正"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 2,
+            "crossSubjectQuestionCount": 2,
+            "recentWrongWords": [
+              "厳正"
+            ],
+            "rawWeight": 0.6894117647058824,
+            "weightPercent": 69
+          },
+          {
+            "reading": "きびしい",
+            "commonness": 3,
+            "words": [
+              "厳しい"
+            ],
+            "targetQuestionCount": 0,
+            "crossSubjectPaperCount": 15,
+            "crossSubjectQuestionCount": 19,
+            "recentWrongWords": [],
+            "rawWeight": 0.3105882352941176,
+            "weightPercent": 31
+          }
+        ]
+      },
+      {
+        "character": "凝",
+        "branches": [
+          {
+            "reading": "ぎょう",
+            "commonness": 2,
+            "words": [
+              "凝縮",
+              "凝視"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 2,
+            "crossSubjectQuestionCount": 2,
+            "recentWrongWords": [
+              "凝縮"
+            ],
+            "rawWeight": 1.0,
+            "weightPercent": 100
+          }
+        ]
+      },
+      {
+        "character": "縮",
+        "branches": [
+          {
+            "reading": "しゅく",
+            "commonness": 2,
+            "words": [
+              "凝縮",
+              "縮小"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 6,
+            "crossSubjectQuestionCount": 7,
+            "recentWrongWords": [
+              "凝縮"
+            ],
+            "rawWeight": 1.0,
+            "weightPercent": 100
+          }
+        ]
+      },
+      {
+        "character": "自",
+        "branches": [
+          {
+            "reading": "じ",
+            "commonness": 3,
+            "words": [
+              "自粛"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 0,
+            "crossSubjectQuestionCount": 0,
+            "recentWrongWords": [
+              "自粛"
+            ],
+            "rawWeight": 0.65625,
+            "weightPercent": 65
+          },
+          {
+            "reading": "し",
+            "commonness": 3,
+            "words": [
+              "自然"
+            ],
+            "targetQuestionCount": 0,
+            "crossSubjectPaperCount": 27,
+            "crossSubjectQuestionCount": 84,
+            "recentWrongWords": [],
+            "rawWeight": 0.196875,
+            "weightPercent": 20
+          },
+          {
+            "reading": "みずから",
+            "commonness": 2,
+            "words": [
+              "自ら"
+            ],
+            "targetQuestionCount": 0,
+            "crossSubjectPaperCount": 21,
+            "crossSubjectQuestionCount": 35,
+            "recentWrongWords": [],
+            "rawWeight": 0.146875,
+            "weightPercent": 15
+          }
+        ]
+      },
+      {
+        "character": "踏",
+        "branches": [
+          {
+            "reading": "とう",
+            "commonness": 2,
+            "words": [
+              "踏襲",
+              "雑踏"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 3,
+            "crossSubjectQuestionCount": 3,
+            "recentWrongWords": [
+              "踏襲"
+            ],
+            "rawWeight": 1.0,
+            "weightPercent": 100
+          }
+        ]
+      },
+      {
+        "character": "群",
+        "branches": [
+          {
+            "reading": "ぐん",
+            "commonness": 2,
+            "words": [
+              "群衆",
+              "抜群"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 3,
+            "crossSubjectQuestionCount": 3,
+            "recentWrongWords": [
+              "群衆"
+            ],
+            "rawWeight": 1.0,
+            "weightPercent": 100
+          }
+        ]
+      },
+      {
+        "character": "越",
+        "branches": [
+          {
+            "reading": "えつ",
+            "commonness": 2,
+            "words": [
+              "卓越"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 1,
+            "crossSubjectQuestionCount": 1,
+            "recentWrongWords": [
+              "卓越"
+            ],
+            "rawWeight": 0.7849999999999999,
+            "weightPercent": 78
+          },
+          {
+            "reading": "こえる",
+            "commonness": 3,
+            "words": [
+              "越える"
+            ],
+            "targetQuestionCount": 0,
+            "crossSubjectPaperCount": 1,
+            "crossSubjectQuestionCount": 1,
+            "recentWrongWords": [],
+            "rawWeight": 0.215,
+            "weightPercent": 22
+          }
+        ]
+      },
+      {
+        "character": "趣",
+        "branches": [
+          {
+            "reading": "しゅ",
+            "commonness": 3,
+            "words": [
+              "趣旨",
+              "趣味"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 12,
+            "crossSubjectQuestionCount": 17,
+            "recentWrongWords": [
+              "趣旨"
+            ],
+            "rawWeight": 1.0,
+            "weightPercent": 100
+          }
+        ]
+      },
+      {
+        "character": "政",
+        "branches": [
+          {
+            "reading": "せい",
+            "commonness": 3,
+            "words": [
+              "行政",
+              "政治",
+              "政策"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 18,
+            "crossSubjectQuestionCount": 27,
+            "recentWrongWords": [
+              "行政"
+            ],
+            "rawWeight": 1.0,
+            "weightPercent": 100
+          }
+        ]
+      },
+      {
+        "character": "行",
+        "branches": [
+          {
+            "reading": "こう",
+            "commonness": 3,
+            "words": [
+              "遂行",
+              "旅行",
+              "銀行",
+              "行動"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 30,
+            "crossSubjectQuestionCount": 102,
+            "recentWrongWords": [],
+            "rawWeight": 0.624375,
+            "weightPercent": 62
+          },
+          {
+            "reading": "ぎょう",
+            "commonness": 2,
+            "words": [
+              "行政"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 2,
+            "crossSubjectQuestionCount": 2,
+            "recentWrongWords": [
+              "行政"
+            ],
+            "rawWeight": 0.375625,
+            "weightPercent": 38
+          }
+        ]
+      },
+      {
+        "character": "合",
+        "branches": [
+          {
+            "reading": "ごう",
+            "commonness": 2,
+            "words": [
+              "合意"
+            ],
+            "targetQuestionCount": 0,
+            "crossSubjectPaperCount": 2,
+            "crossSubjectQuestionCount": 3,
+            "recentWrongWords": [],
+            "rawWeight": 0.055677655677655674,
+            "weightPercent": 6
+          },
+          {
+            "reading": "がっ",
+            "commonness": 2,
+            "words": [
+              "合併",
+              "合致"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 6,
+            "crossSubjectQuestionCount": 8,
+            "recentWrongWords": [
+              "合併"
+            ],
+            "rawWeight": 0.6813186813186812,
+            "weightPercent": 68
+          },
+          {
+            "reading": "あい",
+            "commonness": 3,
+            "words": [
+              "試合",
+              "場合"
+            ],
+            "targetQuestionCount": 0,
+            "crossSubjectPaperCount": 31,
+            "crossSubjectQuestionCount": 146,
+            "recentWrongWords": [],
+            "rawWeight": 0.26300366300366296,
+            "weightPercent": 26
+          }
+        ]
+      },
+      {
+        "character": "執",
+        "branches": [
+          {
+            "reading": "しゅう",
+            "commonness": 2,
+            "words": [
+              "執着"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 3,
+            "crossSubjectQuestionCount": 3,
+            "recentWrongWords": [
+              "執着"
+            ],
+            "rawWeight": 0.7499999999999999,
+            "weightPercent": 75
+          },
+          {
+            "reading": "しつ／しっ",
+            "commonness": 2,
+            "words": [
+              "執筆",
+              "固執"
+            ],
+            "targetQuestionCount": 0,
+            "crossSubjectPaperCount": 7,
+            "crossSubjectQuestionCount": 13,
+            "recentWrongWords": [],
+            "rawWeight": 0.25,
+            "weightPercent": 25
+          }
+        ]
+      },
+      {
+        "character": "着",
+        "branches": [
+          {
+            "reading": "ちゃく",
+            "commonness": 3,
+            "words": [
+              "執着",
+              "定着"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 8,
+            "crossSubjectQuestionCount": 10,
+            "recentWrongWords": [
+              "執着"
+            ],
+            "rawWeight": 0.7611111111111111,
+            "weightPercent": 76
+          },
+          {
+            "reading": "きる",
+            "commonness": 3,
+            "words": [
+              "着る"
+            ],
+            "targetQuestionCount": 0,
+            "crossSubjectPaperCount": 5,
+            "crossSubjectQuestionCount": 5,
+            "recentWrongWords": [],
+            "rawWeight": 0.11944444444444444,
+            "weightPercent": 12
+          },
+          {
+            "reading": "つく",
+            "commonness": 3,
+            "words": [
+              "着く"
+            ],
+            "targetQuestionCount": 0,
+            "crossSubjectPaperCount": 5,
+            "crossSubjectQuestionCount": 5,
+            "recentWrongWords": [],
+            "rawWeight": 0.11944444444444444,
+            "weightPercent": 12
+          }
+        ]
+      },
+      {
+        "character": "興",
+        "branches": [
+          {
+            "reading": "こう",
+            "commonness": 2,
+            "words": [
+              "興奮",
+              "復興",
+              "振興"
+            ],
+            "targetQuestionCount": 4,
+            "crossSubjectPaperCount": 6,
+            "crossSubjectQuestionCount": 6,
+            "recentWrongWords": [
+              "興奮"
+            ],
+            "rawWeight": 0.72,
+            "weightPercent": 72
+          },
+          {
+            "reading": "きょう",
+            "commonness": 3,
+            "words": [
+              "興味"
+            ],
+            "targetQuestionCount": 0,
+            "crossSubjectPaperCount": 19,
+            "crossSubjectQuestionCount": 38,
+            "recentWrongWords": [],
+            "rawWeight": 0.28,
+            "weightPercent": 28
+          }
+        ]
+      },
+      {
+        "character": "奮",
+        "branches": [
+          {
+            "reading": "ふん",
+            "commonness": 2,
+            "words": [
+              "興奮",
+              "奮闘"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 5,
+            "crossSubjectQuestionCount": 5,
+            "recentWrongWords": [
+              "興奮"
+            ],
+            "rawWeight": 1.0,
+            "weightPercent": 100
+          }
+        ]
+      },
+      {
+        "character": "復",
+        "branches": [
+          {
+            "reading": "ふく",
+            "commonness": 3,
+            "words": [
+              "復習"
+            ],
+            "targetQuestionCount": 0,
+            "crossSubjectPaperCount": 1,
+            "crossSubjectQuestionCount": 1,
+            "recentWrongWords": [],
+            "rawWeight": 0.14,
+            "weightPercent": 14
+          },
+          {
+            "reading": "ふっ",
+            "commonness": 2,
+            "words": [
+              "復興",
+              "復旧"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 4,
+            "crossSubjectQuestionCount": 4,
+            "recentWrongWords": [],
+            "rawWeight": 0.8600000000000001,
+            "weightPercent": 86
+          }
+        ]
+      },
+      {
+        "character": "露",
+        "branches": [
+          {
+            "reading": "ろ",
+            "commonness": 2,
+            "words": [
+              "暴露",
+              "露骨",
+              "露出"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 3,
+            "crossSubjectQuestionCount": 3,
+            "recentWrongWords": [],
+            "rawWeight": 0.5625,
+            "weightPercent": 56
+          },
+          {
+            "reading": "ろう",
+            "commonness": 2,
+            "words": [
+              "披露"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 1,
+            "crossSubjectQuestionCount": 1,
+            "recentWrongWords": [],
+            "rawWeight": 0.4375,
+            "weightPercent": 44
+          }
+        ]
+      },
+      {
+        "character": "筋",
+        "branches": [
+          {
+            "reading": "すじ",
+            "commonness": 3,
+            "words": [
+              "本筋",
+              "筋道"
+            ],
+            "targetQuestionCount": 2,
+            "crossSubjectPaperCount": 4,
+            "crossSubjectQuestionCount": 6,
+            "recentWrongWords": [],
+            "rawWeight": 0.7999999999999999,
+            "weightPercent": 80
+          },
+          {
+            "reading": "きん",
+            "commonness": 3,
+            "words": [
+              "筋肉"
+            ],
+            "targetQuestionCount": 0,
+            "crossSubjectPaperCount": 4,
+            "crossSubjectQuestionCount": 6,
+            "recentWrongWords": [],
+            "rawWeight": 0.2,
+            "weightPercent": 20
+          }
+        ]
+      },
+      {
+        "character": "図",
+        "branches": [
+          {
+            "reading": "ず",
+            "commonness": 3,
+            "words": [
+              "指図",
+              "地図"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 8,
+            "crossSubjectQuestionCount": 8,
+            "recentWrongWords": [],
+            "rawWeight": 0.7514880952380952,
+            "weightPercent": 75
+          },
+          {
+            "reading": "と",
+            "commonness": 3,
+            "words": [
+              "図書館"
+            ],
+            "targetQuestionCount": 0,
+            "crossSubjectPaperCount": 9,
+            "crossSubjectQuestionCount": 15,
+            "recentWrongWords": [],
+            "rawWeight": 0.16339285714285712,
+            "weightPercent": 16
+          },
+          {
+            "reading": "はかる",
+            "commonness": 2,
+            "words": [
+              "図る"
+            ],
+            "targetQuestionCount": 0,
+            "crossSubjectPaperCount": 4,
+            "crossSubjectQuestionCount": 4,
+            "recentWrongWords": [],
+            "rawWeight": 0.08511904761904762,
+            "weightPercent": 9
+          }
+        ]
+      },
+      {
+        "character": "派",
+        "branches": [
+          {
+            "reading": "は",
+            "commonness": 2,
+            "words": [
+              "派生",
+              "派遣"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 2,
+            "crossSubjectQuestionCount": 3,
+            "recentWrongWords": [],
+            "rawWeight": 0.7155555555555555,
+            "weightPercent": 72
+          },
+          {
+            "reading": "ぱ",
+            "commonness": 3,
+            "words": [
+              "立派"
+            ],
+            "targetQuestionCount": 0,
+            "crossSubjectPaperCount": 7,
+            "crossSubjectQuestionCount": 8,
+            "recentWrongWords": [],
+            "rawWeight": 0.28444444444444444,
+            "weightPercent": 28
+          }
+        ]
+      },
+      {
+        "character": "生",
+        "branches": [
+          {
+            "reading": "せい",
+            "commonness": 3,
+            "words": [
+              "派生"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 1,
+            "crossSubjectQuestionCount": 1,
+            "recentWrongWords": [],
+            "rawWeight": 0.6484848484848484,
+            "weightPercent": 65
+          },
+          {
+            "reading": "しょう",
+            "commonness": 2,
+            "words": [
+              "生じる"
+            ],
+            "targetQuestionCount": 0,
+            "crossSubjectPaperCount": 9,
+            "crossSubjectQuestionCount": 13,
+            "recentWrongWords": [],
+            "rawWeight": 0.09545454545454544,
+            "weightPercent": 10
+          },
+          {
+            "reading": "じょう",
+            "commonness": 3,
+            "words": [
+              "誕生"
+            ],
+            "targetQuestionCount": 0,
+            "crossSubjectPaperCount": 7,
+            "crossSubjectQuestionCount": 10,
+            "recentWrongWords": [],
+            "rawWeight": 0.09393939393939393,
+            "weightPercent": 9
+          },
+          {
+            "reading": "うまれる",
+            "commonness": 3,
+            "words": [
+              "生まれる"
+            ],
+            "targetQuestionCount": 0,
+            "crossSubjectPaperCount": 16,
+            "crossSubjectQuestionCount": 33,
+            "recentWrongWords": [],
+            "rawWeight": 0.1621212121212121,
+            "weightPercent": 16
+          }
+        ]
+      },
+      {
+        "character": "画",
+        "branches": [
+          {
+            "reading": "かく",
+            "commonness": 3,
+            "words": [
+              "画一的",
+              "計画"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 18,
+            "crossSubjectQuestionCount": 26,
+            "recentWrongWords": [],
+            "rawWeight": 0.8999999999999999,
+            "weightPercent": 90
+          },
+          {
+            "reading": "が",
+            "commonness": 3,
+            "words": [
+              "画面"
+            ],
+            "targetQuestionCount": 0,
+            "crossSubjectPaperCount": 2,
+            "crossSubjectQuestionCount": 3,
+            "recentWrongWords": [],
+            "rawWeight": 0.1,
+            "weightPercent": 10
+          }
+        ]
+      },
+      {
+        "character": "人",
+        "branches": [
+          {
+            "reading": "じん",
+            "commonness": 3,
+            "words": [
+              "人脈"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 2,
+            "crossSubjectQuestionCount": 3,
+            "recentWrongWords": [],
+            "rawWeight": 0.6901515151515151,
+            "weightPercent": 69
+          },
+          {
+            "reading": "にん",
+            "commonness": 3,
+            "words": [
+              "人間"
+            ],
+            "targetQuestionCount": 0,
+            "crossSubjectPaperCount": 31,
+            "crossSubjectQuestionCount": 192,
+            "recentWrongWords": [],
+            "rawWeight": 0.3098484848484849,
+            "weightPercent": 31
+          }
+        ]
+      },
+      {
+        "character": "手",
+        "branches": [
+          {
+            "reading": "て",
+            "commonness": 3,
+            "words": [
+              "手薄",
+              "手際",
+              "手軽"
+            ],
+            "targetQuestionCount": 2,
+            "crossSubjectPaperCount": 6,
+            "crossSubjectQuestionCount": 8,
+            "recentWrongWords": [],
+            "rawWeight": 0.725,
+            "weightPercent": 72
+          },
+          {
+            "reading": "しゅ",
+            "commonness": 3,
+            "words": [
+              "手段",
+              "選手"
+            ],
+            "targetQuestionCount": 0,
+            "crossSubjectPaperCount": 24,
+            "crossSubjectQuestionCount": 54,
+            "recentWrongWords": [],
+            "rawWeight": 0.275,
+            "weightPercent": 28
+          }
+        ]
+      },
+      {
+        "character": "心",
+        "branches": [
+          {
+            "reading": "しん",
+            "commonness": 3,
+            "words": [
+              "心配"
+            ],
+            "targetQuestionCount": 0,
+            "crossSubjectPaperCount": 12,
+            "crossSubjectQuestionCount": 13,
+            "recentWrongWords": [],
+            "rawWeight": 0.17134387351778654,
+            "weightPercent": 17
+          },
+          {
+            "reading": "じん",
+            "commonness": 2,
+            "words": [
+              "肝心"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 7,
+            "crossSubjectQuestionCount": 10,
+            "recentWrongWords": [],
+            "rawWeight": 0.3033596837944664,
+            "weightPercent": 31
+          },
+          {
+            "reading": "こころ",
+            "commonness": 3,
+            "words": [
+              "心遣い"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 2,
+            "crossSubjectQuestionCount": 2,
+            "recentWrongWords": [],
+            "rawWeight": 0.2626482213438735,
+            "weightPercent": 26
+          },
+          {
+            "reading": "ここち（整词）",
+            "commonness": 3,
+            "words": [
+              "心地よい"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 2,
+            "crossSubjectQuestionCount": 2,
+            "recentWrongWords": [],
+            "rawWeight": 0.2626482213438735,
+            "weightPercent": 26
+          }
+        ]
+      },
+      {
+        "character": "相",
+        "branches": [
+          {
+            "reading": "そう",
+            "commonness": 2,
+            "words": [
+              "相場",
+              "相互"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 8,
+            "crossSubjectQuestionCount": 9,
+            "recentWrongWords": [],
+            "rawWeight": 0.7126315789473685,
+            "weightPercent": 71
+          },
+          {
+            "reading": "あい",
+            "commonness": 3,
+            "words": [
+              "相手"
+            ],
+            "targetQuestionCount": 0,
+            "crossSubjectPaperCount": 30,
+            "crossSubjectQuestionCount": 89,
+            "recentWrongWords": [],
+            "rawWeight": 0.2873684210526316,
+            "weightPercent": 29
+          }
+        ]
+      },
+      {
+        "character": "大",
+        "branches": [
+          {
+            "reading": "だい",
+            "commonness": 3,
+            "words": [
+              "膨大",
+              "大臣"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 9,
+            "crossSubjectQuestionCount": 13,
+            "recentWrongWords": [],
+            "rawWeight": 0.7358108108108108,
+            "weightPercent": 74
+          },
+          {
+            "reading": "たい",
+            "commonness": 3,
+            "words": [
+              "大切"
+            ],
+            "targetQuestionCount": 0,
+            "crossSubjectPaperCount": 28,
+            "crossSubjectQuestionCount": 91,
+            "recentWrongWords": [],
+            "rawWeight": 0.2641891891891892,
+            "weightPercent": 26
+          }
+        ]
+      },
+      {
+        "character": "盛",
+        "branches": [
+          {
+            "reading": "じょう",
+            "commonness": 2,
+            "words": [
+              "繁盛"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 2,
+            "crossSubjectQuestionCount": 2,
+            "recentWrongWords": [],
+            "rawWeight": 0.7583333333333333,
+            "weightPercent": 76
+          },
+          {
+            "reading": "せい",
+            "commonness": 2,
+            "words": [
+              "盛大"
+            ],
+            "targetQuestionCount": 0,
+            "crossSubjectPaperCount": 4,
+            "crossSubjectQuestionCount": 4,
+            "recentWrongWords": [],
+            "rawWeight": 0.24166666666666664,
+            "weightPercent": 24
+          }
+        ]
+      },
+      {
+        "character": "日",
+        "branches": [
+          {
+            "reading": "にち",
+            "commonness": 3,
+            "words": [
+              "日夜",
+              "日時"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 8,
+            "crossSubjectQuestionCount": 8,
+            "recentWrongWords": [],
+            "rawWeight": 0.8178571428571428,
+            "weightPercent": 82
+          },
+          {
+            "reading": "じつ",
+            "commonness": 3,
+            "words": [
+              "休日"
+            ],
+            "targetQuestionCount": 0,
+            "crossSubjectPaperCount": 6,
+            "crossSubjectQuestionCount": 6,
+            "recentWrongWords": [],
+            "rawWeight": 0.18214285714285713,
+            "weightPercent": 18
+          }
+        ]
+      },
+      {
+        "character": "時",
+        "branches": [
+          {
+            "reading": "じ",
+            "commonness": 3,
+            "words": [
+              "随時",
+              "時間",
+              "日時"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 31,
+            "crossSubjectQuestionCount": 168,
+            "recentWrongWords": [],
+            "rawWeight": 1.0,
+            "weightPercent": 100
+          }
+        ]
+      },
+      {
+        "character": "潜",
+        "branches": [
+          {
+            "reading": "せん",
+            "commonness": 2,
+            "words": [
+              "潜伏",
+              "潜在"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 3,
+            "crossSubjectQuestionCount": 4,
+            "recentWrongWords": [],
+            "rawWeight": 0.5249999999999999,
+            "weightPercent": 52
+          },
+          {
+            "reading": "ひそむ",
+            "commonness": 2,
+            "words": [
+              "潜んで"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 2,
+            "crossSubjectQuestionCount": 2,
+            "recentWrongWords": [],
+            "rawWeight": 0.47500000000000003,
+            "weightPercent": 48
+          }
+        ]
+      },
+      {
+        "character": "粘",
+        "branches": [
+          {
+            "reading": "ねん",
+            "commonness": 2,
+            "words": [
+              "粘膜"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 0,
+            "crossSubjectQuestionCount": 0,
+            "recentWrongWords": [],
+            "rawWeight": 0.5,
+            "weightPercent": 50
+          },
+          {
+            "reading": "ねばる",
+            "commonness": 2,
+            "words": [
+              "粘って"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 0,
+            "crossSubjectQuestionCount": 0,
+            "recentWrongWords": [],
+            "rawWeight": 0.5,
+            "weightPercent": 50
+          }
+        ]
+      },
+      {
+        "character": "促",
+        "branches": [
+          {
+            "reading": "そく",
+            "commonness": 2,
+            "words": [
+              "督促"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 0,
+            "crossSubjectQuestionCount": 0,
+            "recentWrongWords": [],
+            "rawWeight": 0.375,
+            "weightPercent": 38
+          },
+          {
+            "reading": "うながす",
+            "commonness": 2,
+            "words": [
+              "促した"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 1,
+            "crossSubjectQuestionCount": 1,
+            "recentWrongWords": [],
+            "rawWeight": 0.625,
+            "weightPercent": 62
+          }
+        ]
+      },
+      {
+        "character": "跡",
+        "branches": [
+          {
+            "reading": "せき",
+            "commonness": 2,
+            "words": [
+              "軌跡"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 2,
+            "crossSubjectQuestionCount": 2,
+            "recentWrongWords": [],
+            "rawWeight": 0.6100000000000001,
+            "weightPercent": 61
+          },
+          {
+            "reading": "あと",
+            "commonness": 3,
+            "words": [
+              "跡地"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 0,
+            "crossSubjectQuestionCount": 0,
+            "recentWrongWords": [],
+            "rawWeight": 0.39,
+            "weightPercent": 39
+          }
+        ]
+      },
+      {
+        "character": "地",
+        "branches": [
+          {
+            "reading": "ち",
+            "commonness": 3,
+            "words": [
+              "跡地",
+              "心地よい",
+              "地図"
+            ],
+            "targetQuestionCount": 2,
+            "crossSubjectPaperCount": 10,
+            "crossSubjectQuestionCount": 10,
+            "recentWrongWords": [],
+            "rawWeight": 1.0,
+            "weightPercent": 100
+          }
+        ]
+      },
+      {
+        "character": "健",
+        "branches": [
+          {
+            "reading": "けん",
+            "commonness": 3,
+            "words": [
+              "健康",
+              "健全"
+            ],
+            "targetQuestionCount": 0,
+            "crossSubjectPaperCount": 17,
+            "crossSubjectQuestionCount": 32,
+            "recentWrongWords": [],
+            "rawWeight": 0.33999999999999997,
+            "weightPercent": 34
+          },
+          {
+            "reading": "すこやか",
+            "commonness": 2,
+            "words": [
+              "健やか"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 0,
+            "crossSubjectQuestionCount": 0,
+            "recentWrongWords": [],
+            "rawWeight": 0.6599999999999999,
+            "weightPercent": 66
+          }
+        ]
+      },
+      {
+        "character": "軽",
+        "branches": [
+          {
+            "reading": "けい",
+            "commonness": 2,
+            "words": [
+              "軽率",
+              "軽減"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 2,
+            "crossSubjectQuestionCount": 3,
+            "recentWrongWords": [],
+            "rawWeight": 0.76,
+            "weightPercent": 76
+          },
+          {
+            "reading": "かる（がる）",
+            "commonness": 3,
+            "words": [
+              "手軽"
+            ],
+            "targetQuestionCount": 0,
+            "crossSubjectPaperCount": 3,
+            "crossSubjectQuestionCount": 3,
+            "recentWrongWords": [],
+            "rawWeight": 0.24,
+            "weightPercent": 24
+          }
+        ]
+      },
+      {
+        "character": "忠",
+        "branches": [
+          {
+            "reading": "ちゅう",
+            "commonness": 2,
+            "words": [
+              "忠告",
+              "忠実"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 3,
+            "crossSubjectQuestionCount": 3,
+            "recentWrongWords": [],
+            "rawWeight": 1.0,
+            "weightPercent": 100
+          }
+        ]
+      },
+      {
+        "character": "告",
+        "branches": [
+          {
+            "reading": "こく",
+            "commonness": 3,
+            "words": [
+              "忠告",
+              "告白"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 3,
+            "crossSubjectQuestionCount": 3,
+            "recentWrongWords": [],
+            "rawWeight": 1.0,
+            "weightPercent": 100
+          }
+        ]
+      },
+      {
+        "character": "名",
+        "branches": [
+          {
+            "reading": "めい",
+            "commonness": 3,
+            "words": [
+              "名誉",
+              "名称"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 3,
+            "crossSubjectQuestionCount": 3,
+            "recentWrongWords": [],
+            "rawWeight": 1.0,
+            "weightPercent": 100
+          }
+        ]
+      },
+      {
+        "character": "鈍",
+        "branches": [
+          {
+            "reading": "どん",
+            "commonness": 2,
+            "words": [
+              "鈍感"
+            ],
+            "targetQuestionCount": 0,
+            "crossSubjectPaperCount": 1,
+            "crossSubjectQuestionCount": 1,
+            "recentWrongWords": [],
+            "rawWeight": 0.31,
+            "weightPercent": 31
+          },
+          {
+            "reading": "にぶい／にぶる",
+            "commonness": 3,
+            "words": [
+              "鈍い",
+              "鈍って"
+            ],
+            "targetQuestionCount": 2,
+            "crossSubjectPaperCount": 0,
+            "crossSubjectQuestionCount": 0,
+            "recentWrongWords": [],
+            "rawWeight": 0.69,
+            "weightPercent": 69
+          }
+        ]
+      },
+      {
+        "character": "沈",
+        "branches": [
+          {
+            "reading": "ちん",
+            "commonness": 2,
+            "words": [
+              "沈下",
+              "沈黙"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 2,
+            "crossSubjectQuestionCount": 2,
+            "recentWrongWords": [],
+            "rawWeight": 0.8266666666666667,
+            "weightPercent": 83
+          },
+          {
+            "reading": "しずむ",
+            "commonness": 3,
+            "words": [
+              "沈む"
+            ],
+            "targetQuestionCount": 0,
+            "crossSubjectPaperCount": 1,
+            "crossSubjectQuestionCount": 1,
+            "recentWrongWords": [],
+            "rawWeight": 0.17333333333333334,
+            "weightPercent": 17
+          }
+        ]
+      },
+      {
+        "character": "崩・壊",
+        "branches": [
+          {
+            "reading": "ほう・かい（音读）",
+            "commonness": 2,
+            "words": [
+              "崩壊"
+            ],
+            "targetQuestionCount": 0,
+            "crossSubjectPaperCount": 1,
+            "crossSubjectQuestionCount": 1,
+            "recentWrongWords": [],
+            "rawWeight": 0.2875,
+            "weightPercent": 29
+          },
+          {
+            "reading": "くずれる（崩）",
+            "commonness": 3,
+            "words": [
+              "崩れやすい"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 0,
+            "crossSubjectQuestionCount": 0,
+            "recentWrongWords": [],
+            "rawWeight": 0.35624999999999996,
+            "weightPercent": 36
+          },
+          {
+            "reading": "こわす（壊）",
+            "commonness": 3,
+            "words": [
+              "壊されて"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 0,
+            "crossSubjectQuestionCount": 0,
+            "recentWrongWords": [],
+            "rawWeight": 0.35624999999999996,
+            "weightPercent": 35
+          }
+        ]
+      },
+      {
+        "character": "閲",
+        "branches": [
+          {
+            "reading": "えつ",
+            "commonness": 2,
+            "words": [
+              "閲覧",
+              "検閲"
+            ],
+            "targetQuestionCount": 2,
+            "crossSubjectPaperCount": 1,
+            "crossSubjectQuestionCount": 1,
+            "recentWrongWords": [],
+            "rawWeight": 1.0,
+            "weightPercent": 100
+          }
+        ]
+      },
+      {
+        "character": "明",
+        "branches": [
+          {
+            "reading": "めい",
+            "commonness": 2,
+            "words": [
+              "釈明",
+              "克明"
+            ],
+            "targetQuestionCount": 3,
+            "crossSubjectPaperCount": 2,
+            "crossSubjectQuestionCount": 2,
+            "recentWrongWords": [],
+            "rawWeight": 1.0,
+            "weightPercent": 100
+          }
+        ]
+      },
+      {
+        "character": "克",
+        "branches": [
+          {
+            "reading": "こく",
+            "commonness": 2,
+            "words": [
+              "克明",
+              "克服"
+            ],
+            "targetQuestionCount": 3,
+            "crossSubjectPaperCount": 7,
+            "crossSubjectQuestionCount": 9,
+            "recentWrongWords": [],
+            "rawWeight": 1.0,
+            "weightPercent": 100
+          }
+        ]
+      },
+      {
+        "character": "督",
+        "branches": [
+          {
+            "reading": "とく",
+            "commonness": 2,
+            "words": [
+              "督促",
+              "監督"
+            ],
+            "targetQuestionCount": 2,
+            "crossSubjectPaperCount": 8,
+            "crossSubjectQuestionCount": 11,
+            "recentWrongWords": [],
+            "rawWeight": 1.0,
+            "weightPercent": 100
+          }
+        ]
+      },
+      {
+        "character": "承",
+        "branches": [
+          {
+            "reading": "しょう",
+            "commonness": 2,
+            "words": [
+              "承諾",
+              "了承"
+            ],
+            "targetQuestionCount": 2,
+            "crossSubjectPaperCount": 9,
+            "crossSubjectQuestionCount": 9,
+            "recentWrongWords": [],
+            "rawWeight": 1.0,
+            "weightPercent": 100
+          }
+        ]
+      },
+      {
+        "character": "中",
+        "branches": [
+          {
+            "reading": "ちゅう",
+            "commonness": 3,
+            "words": [
+              "中枢",
+              "胸中"
+            ],
+            "targetQuestionCount": 2,
+            "crossSubjectPaperCount": 0,
+            "crossSubjectQuestionCount": 0,
+            "recentWrongWords": [],
+            "rawWeight": 1.0,
+            "weightPercent": 100
+          }
+        ]
+      },
+      {
+        "character": "繁",
+        "branches": [
+          {
+            "reading": "はん",
+            "commonness": 2,
+            "words": [
+              "繁盛",
+              "繁殖"
+            ],
+            "targetQuestionCount": 2,
+            "crossSubjectPaperCount": 3,
+            "crossSubjectQuestionCount": 4,
+            "recentWrongWords": [],
+            "rawWeight": 1.0,
+            "weightPercent": 100
+          }
+        ]
+      },
+      {
+        "character": "然",
+        "branches": [
+          {
+            "reading": "ぜん",
+            "commonness": 2,
+            "words": [
+              "漠然",
+              "騒然"
+            ],
+            "targetQuestionCount": 2,
+            "crossSubjectPaperCount": 3,
+            "crossSubjectQuestionCount": 3,
+            "recentWrongWords": [],
+            "rawWeight": 1.0,
+            "weightPercent": 100
+          }
+        ]
+      },
+      {
+        "character": "約",
+        "branches": [
+          {
+            "reading": "やく",
+            "commonness": 3,
+            "words": [
+              "契約",
+              "誓約書"
+            ],
+            "targetQuestionCount": 2,
+            "crossSubjectPaperCount": 8,
+            "crossSubjectQuestionCount": 8,
+            "recentWrongWords": [],
+            "rawWeight": 1.0,
+            "weightPercent": 100
+          }
+        ]
+      },
+      {
+        "character": "華",
+        "branches": [
+          {
+            "reading": "はな／ばな",
+            "commonness": 2,
+            "words": [
+              "華々しく",
+              "華やか"
+            ],
+            "targetQuestionCount": 2,
+            "crossSubjectPaperCount": 0,
+            "crossSubjectQuestionCount": 0,
+            "recentWrongWords": [],
+            "rawWeight": 1.0,
+            "weightPercent": 100
+          }
+        ]
+      },
+      {
+        "character": "潤",
+        "branches": [
+          {
+            "reading": "うるおう／うるおす",
+            "commonness": 2,
+            "words": [
+              "潤って",
+              "潤す"
+            ],
+            "targetQuestionCount": 2,
+            "crossSubjectPaperCount": 1,
+            "crossSubjectQuestionCount": 1,
+            "recentWrongWords": [],
+            "rawWeight": 1.0,
+            "weightPercent": 100
+          }
+        ]
+      },
+      {
+        "character": "憤",
+        "branches": [
+          {
+            "reading": "いきどおる",
+            "commonness": 2,
+            "words": [
+              "憤り",
+              "憤った"
+            ],
+            "targetQuestionCount": 2,
+            "crossSubjectPaperCount": 0,
+            "crossSubjectQuestionCount": 0,
+            "recentWrongWords": [],
+            "rawWeight": 1.0,
+            "weightPercent": 100
+          }
+        ]
+      },
+      {
+        "character": "臨",
+        "branches": [
+          {
+            "reading": "のぞむ",
+            "commonness": 2,
+            "words": [
+              "臨む",
+              "臨みたい"
+            ],
+            "targetQuestionCount": 2,
+            "crossSubjectPaperCount": 2,
+            "crossSubjectQuestionCount": 4,
+            "recentWrongWords": [],
+            "rawWeight": 1.0,
+            "weightPercent": 100
+          }
+        ]
+      },
+      {
+        "character": "慕",
+        "branches": [
+          {
+            "reading": "したう",
+            "commonness": 2,
+            "words": [
+              "慕われる",
+              "慕って"
+            ],
+            "targetQuestionCount": 2,
+            "crossSubjectPaperCount": 0,
+            "crossSubjectQuestionCount": 0,
+            "recentWrongWords": [],
+            "rawWeight": 1.0,
+            "weightPercent": 100
+          }
+        ]
+      },
+      {
+        "character": "偏",
+        "branches": [
+          {
+            "reading": "かたよる",
+            "commonness": 2,
+            "words": [
+              "偏って",
+              "偏り"
+            ],
+            "targetQuestionCount": 2,
+            "crossSubjectPaperCount": 1,
+            "crossSubjectQuestionCount": 1,
+            "recentWrongWords": [],
+            "rawWeight": 1.0,
+            "weightPercent": 100
+          }
+        ]
+      },
+      {
+        "character": "戒",
+        "branches": [
+          {
+            "reading": "いましめる",
+            "commonness": 2,
+            "words": [
+              "戒める",
+              "戒めたい"
+            ],
+            "targetQuestionCount": 2,
+            "crossSubjectPaperCount": 0,
+            "crossSubjectQuestionCount": 0,
+            "recentWrongWords": [],
+            "rawWeight": 1.0,
+            "weightPercent": 100
+          }
+        ]
+      },
+      {
+        "character": "樹・木",
+        "branches": [
+          {
+            "reading": "じゅ・もく（音读）",
+            "commonness": 2,
+            "words": [
+              "樹木",
+              "樹立",
+              "木材"
+            ],
+            "targetQuestionCount": 1,
+            "crossSubjectPaperCount": 10,
+            "crossSubjectQuestionCount": 16,
+            "recentWrongWords": [],
+            "rawWeight": 1.0,
+            "weightPercent": 100
+          }
+        ]
+      }
+    ]
+  }
+}

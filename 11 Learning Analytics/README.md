@@ -18,6 +18,8 @@
 
 ## 后续更新规则
 
+读音复习资料：[真题词族与同字异读](references/kanji-reading-word-families.md)、[频率与复习权重](references/kanji-reading-weights.md)。覆盖31期186道读音题；关联词可来自其他科目。权重是可解释的教学分配，不是官方考试概率或通用日语语频。结构化出处与权重保存在同名JSON；用`tools/build_reading_families.py`后接`tools/weight_reading_families.py`重建。
+
 1. 读取全部原始记录，以记录内的 `id` 去重，以文件名中的本地提交日期归档。
 2. 区分“总题数正确率”“已作答正确率”和“完成率”；未作答不直接当作知识性错误。
 3. 成绩按科目、大题类型、期次统计；诊断主体按考点组织。同一考点跨题型合并，同一题允许标注多个考点。
