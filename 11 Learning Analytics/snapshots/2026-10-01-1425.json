@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-01",
+  "localTime": "14:25",
+  "newRecords": 1,
+  "newRecordIds": [
+    "1790835906650-0y9n56"
+  ],
+  "scope": "名词读音专项",
+  "summary": {
+    "correct": 35,
+    "total": 50,
+    "rate": 0.7,
+    "durationSeconds": 529,
+    "optionNotes": 0
+  },
+  "dayTotal": {
+    "correct": 82,
+    "total": 97,
+    "durationSeconds": 1766
+  },
+  "cumulative": {
+    "attempts": 50,
+    "totalQuestions": 1265,
+    "answeredQuestions": 1260,
+    "adjudicatedCorrectAnswers": 1045
+  },
+  "interpretation": "名词读音尚不稳定；多项历史纠正有保持，15个新暴露错题待训练；主动提取与词义应用待验证。"
+}
