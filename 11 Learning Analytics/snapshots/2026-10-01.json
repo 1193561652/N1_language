@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-01",
+  "newRecords": 1,
+  "newRecordIds": [
+    "1790834526328-h2y24h"
+  ],
+  "scope": "文字・词汇／問題1／动词读音专项",
+  "summary": {
+    "totalCorrect": 47,
+    "totalQuestions": 47,
+    "rate": 1,
+    "durationSeconds": 1277,
+    "optionReasonCount": 122,
+    "fullyAcceptableNotes": 118,
+    "correctCharacterOrLexicalMappingNotes": 118,
+    "mappingErrors": 3,
+    "meaningCorrectionWithCorrectCharacters": 0,
+    "answerRevealedBeforeSubmit": 0,
+    "shuffleOptions": true,
+    "pendingVerification": 1
+  },
+  "cumulative": {
+    "totalQuestions": 1215,
+    "answeredQuestions": 1210,
+    "adjudicatedCorrectAnswers": 1010
+  },
+  "interpretation": "同池连续三轮全对，本轮选项随机，熟题识别与短期保持有支持；3条标注明确错配、1条待核实，部分历史错误转为空白尚无纠正证据；主动提取、新语境与长期保持待验证。"
+}
