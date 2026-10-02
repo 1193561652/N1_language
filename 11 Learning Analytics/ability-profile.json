@@ -6,11 +6,11 @@
   "evidence": {
     "firstDate": "2026-08-28",
     "lastDate": "2026-10-02",
-    "attempts": 51,
-    "totalQuestions": 1312,
-    "answeredQuestions": 1307,
-    "recordedCorrectAnswers": 1092,
-    "adjudicatedCorrectAnswers": 1092,
+    "attempts": 52,
+    "totalQuestions": 1362,
+    "answeredQuestions": 1357,
+    "recordedCorrectAnswers": 1131,
+    "adjudicatedCorrectAnswers": 1131,
     "coverage": [
       "文字・词汇",
       "语法（八个期次，含熟题集中复测）"
@@ -21,22 +21,22 @@
       "阅读与听力基线"
     ],
     "rawRecordAudit": {
-      "totalFiles": 52,
-      "uniqueRecordIds": 52,
-      "allRecordsQuestions": 1318,
-      "allRecordsAnswered": 1313,
-      "allRecordsRecordedCorrect": 1093,
+      "totalFiles": 53,
+      "uniqueRecordIds": 53,
+      "allRecordsQuestions": 1368,
+      "allRecordsAnswered": 1363,
+      "allRecordsRecordedCorrect": 1132,
       "pendingRecordId": "1787920512509-g71xbx",
       "pendingReason": "沿用历史待核查状态：8/28 20:35六题25秒全选1；未擅自认定为试用或正式测验。"
     }
   },
   "abilities": {
     "kanjiReading": {
-      "correct": 456,
-      "total": 503,
-      "rate": 0.9066,
+      "correct": 495,
+      "total": 553,
+      "rate": 0.8951,
       "confidence": "high",
-      "description": "累计456/503次作答（90.7%），含重复题。动词同池连续四轮47/47，本轮125条标注122条可接受、3条错配；名词最近35/50的15错未复测，不能按动词满分上调。"
+      "description": "名词最新39/50；同题21题15→18对，5个纠正、1个持续错、2个回退。承＝しょう在两个词中同时混为しゅう，合併持续错，跡地误套せき。累计495/553含重复题；动词四轮满分单独保留。"
     },
     "contextVocabulary": {
       "correct": 114,
@@ -201,7 +201,7 @@
     "2024.12熟题的完整排序结构复原"
   ],
   "currentPriorities": [
-    "名词读音15个新暴露错误：分长拗音、清浊音、音读、多处音形及近义词替代训练；优先合併、興奮、卓越／超越、兆し／印。",
+    "名词优先承（了承／承諾）、合併、跡地／軌跡，补11错及昨日未测9词；5个新纠正词转保持验证。",
     "动词降低同池重刷：修复任す／賄う、零れる／拒む、労る／偽る；商う、責める转间隔保持；优先补证おがむ、せかす、とがめる、さまよう。",
     "篇章连接词的方向：因果、追加、强反转、承认后逆接",
     "反事实条件、かのように与だって的精确义项",
@@ -555,6 +555,78 @@
   ],
   "latestPractice": {
     "date": "2026-10-02",
+    "localTime": "16:12",
+    "recordId": "1790928740364-agwvrx",
+    "focus": "問題1 名词读音",
+    "latestCorrect": 39,
+    "latestTotal": 50,
+    "rate": 0.78,
+    "durationSeconds": 454,
+    "optionNotes": 0,
+    "reasonCount": 0,
+    "shuffleOptions": false,
+    "unannotatedOptions": 200,
+    "unannotatedDistractors": 150,
+    "annotationAudit": {
+      "acceptedRate": null,
+      "policy": "无标注，准确率不适用；空白不判不会。",
+      "blankPriorities": {
+        "建议辨析一次": 46,
+        "抽查或复用正确证据": 34,
+        "可不标": 89,
+        "优先验证纠正": 5,
+        "优先补": 22,
+        "复用已有标注": 4
+      }
+    },
+    "comparison": {
+      "questions": 21,
+      "previousCorrect": 15,
+      "currentCorrect": 18
+    },
+    "fixed": [
+      "猛烈",
+      "厳正",
+      "自粛",
+      "踏襲",
+      "行政"
+    ],
+    "regressed": [
+      "了承",
+      "膨大"
+    ],
+    "previousWrongNotRetested": [
+      "凝縮",
+      "丘陵",
+      "卓越",
+      "兆し",
+      "管轄",
+      "群衆",
+      "執着",
+      "趣旨",
+      "興奮"
+    ],
+    "masteryJudgment": "共同21题由15对增至18对；5个首次纠正、合併持续错、了承与膨大回退，另8个新暴露错误。昨日9错未测，主动提取与迁移待验证。",
+    "report": "daily/2026-10-02-1612.md",
+    "optionAudit": "daily/2026-10-02-1612-option-audit.md",
+    "optionAuditData": "daily/2026-10-02-1612-option-audit.json"
+  },
+  "annotationPolicy": {
+    "updatedAt": "2026-09-29",
+    "userConstraint": "用户只能输入中文，汉字基本一致即可算对。",
+    "evaluation": "中文简写或对应义项成立即认可；不扣日文表记、简繁、送假名分；缺少完整义项不直接算错；未标注不等于不会。",
+    "acceptedExamples": [
+      "炼→練る",
+      "里切→裏切る",
+      "念→唸る",
+      "贿→賄う",
+      "愈→癒す",
+      "恼→悩む"
+    ],
+    "historicalComparability": "旧报告对简写和部分真实义项判定过严，未重算旧标注分母，不与本轮标注正确率作同口径差值比较。"
+  },
+  "previousVerbPractice": {
+    "date": "2026-10-02",
     "localTime": "15:51",
     "recordId": "1790927513645-se9l8w",
     "focus": "問題1 动词读音",
@@ -599,65 +671,6 @@
     "report": "daily/2026-10-02.md",
     "optionAudit": "daily/2026-10-02-option-audit.md",
     "optionAuditData": "daily/2026-10-02-option-audit.json"
-  },
-  "annotationPolicy": {
-    "updatedAt": "2026-09-29",
-    "userConstraint": "用户只能输入中文，汉字基本一致即可算对。",
-    "evaluation": "中文简写或对应义项成立即认可；不扣日文表记、简繁、送假名分；缺少完整义项不直接算错；未标注不等于不会。",
-    "acceptedExamples": [
-      "炼→練る",
-      "里切→裏切る",
-      "念→唸る",
-      "贿→賄う",
-      "愈→癒す",
-      "恼→悩む"
-    ],
-    "historicalComparability": "旧报告对简写和部分真实义项判定过严，未重算旧标注分母，不与本轮标注正确率作同口径差值比较。"
-  },
-  "previousVerbPractice": {
-    "date": "2026-10-01",
-    "recordId": "1790834526328-h2y24h",
-    "focus": "問題1 动词读音",
-    "samePoolQuestions": 47,
-    "samePoolScores": [
-      43,
-      41,
-      43,
-      47,
-      47,
-      47
-    ],
-    "latestCorrect": 47,
-    "latestTotal": 47,
-    "durationSeconds": 1277,
-    "optionNotes": 122,
-    "nonSelectedOptions": 141,
-    "annotatedNonSelectedOptions": 122,
-    "annotatedSelectedOptions": 0,
-    "unannotatedNonSelectedOptions": 19,
-    "annotationAudit": {
-      "accepted": 118,
-      "fullyAcceptable": 118,
-      "mappingErrors": 3,
-      "meaningCorrectionWithCorrectCharacters": 0,
-      "correctCharacterOrLexicalMappingNotes": 118,
-      "acceptedRate": 0.9672,
-      "unannotatedPrioritize": 6,
-      "unannotatedRecommendOnce": 6,
-      "unannotatedReuseEvidence": 0,
-      "unannotatedOptional": 7,
-      "newNotes": 4,
-      "rewrittenNotes": 6,
-      "notesNowBlank": 2,
-      "policy": "基本汉字对应或中文义项成立即认可；踏张字形算对，仅纠正明确写出的附加释义。",
-      "pendingVerification": 1,
-      "decidedAcceptedRate": 0.9752
-    },
-    "masteryJudgment": "同池连续三轮全对，本轮选项随机，熟题识别与短期保持有支持；3条标注明确错配、1条待核实，部分历史错误转为空白尚无纠正证据；主动提取、新语境与长期保持待验证。",
-    "report": "daily/2026-10-01.md",
-    "optionAudit": "daily/2026-10-01-option-audit.md",
-    "optionAuditData": "daily/2026-10-01-option-audit.json",
-    "shuffleOptions": true
   },
   "previousNounPractice": {
     "date": "2026-10-01",
