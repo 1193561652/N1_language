@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-02",
+  "newRecords": 1,
+  "newRecordIds": [
+    "1790927513645-se9l8w"
+  ],
+  "scope": "动词读音专项",
+  "summary": {
+    "correct": 47,
+    "total": 47,
+    "durationSeconds": 1221,
+    "optionNotes": 125,
+    "acceptedNotes": 122,
+    "mappingErrors": 3,
+    "blankDistractors": 16
+  },
+  "cumulative": {
+    "attempts": 51,
+    "totalQuestions": 1312,
+    "answeredQuestions": 1307,
+    "adjudicatedCorrectAnswers": 1092
+  },
+  "interpretation": "动词同池连续四轮满分；商う、責める新纠正，1条持续错配及2条回退；主动提取和迁移待验证。名词15错本轮未测。"
+}

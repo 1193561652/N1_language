@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "updatedThrough": "2026-10-01",
+  "updatedThrough": "2026-10-02",
   "timezone": "Asia/Shanghai",
   "analysisPolicy": "题型用于统计；诊断、能力追踪和计划以跨题型考点为主。同一题可标注多个考点。语法考点须映射《新完全マスター文法N1》的部—课—条目；没有精确条目时只标对应能力章节。",
   "evidence": {
     "firstDate": "2026-08-28",
-    "lastDate": "2026-10-01",
-    "attempts": 50,
-    "totalQuestions": 1265,
-    "answeredQuestions": 1260,
-    "recordedCorrectAnswers": 1045,
-    "adjudicatedCorrectAnswers": 1045,
+    "lastDate": "2026-10-02",
+    "attempts": 51,
+    "totalQuestions": 1312,
+    "answeredQuestions": 1307,
+    "recordedCorrectAnswers": 1092,
+    "adjudicatedCorrectAnswers": 1092,
     "coverage": [
       "文字・词汇",
       "语法（八个期次，含熟题集中复测）"
@@ -21,22 +21,22 @@
       "阅读与听力基线"
     ],
     "rawRecordAudit": {
-      "totalFiles": 51,
-      "uniqueRecordIds": 51,
-      "allRecordsQuestions": 1271,
-      "allRecordsAnswered": 1266,
-      "allRecordsRecordedCorrect": 1046,
+      "totalFiles": 52,
+      "uniqueRecordIds": 52,
+      "allRecordsQuestions": 1318,
+      "allRecordsAnswered": 1313,
+      "allRecordsRecordedCorrect": 1093,
       "pendingRecordId": "1787920512509-g71xbx",
       "pendingReason": "沿用历史待核查状态：8/28 20:35六题25秒全选1；未擅自认定为试用或正式测验。"
     }
   },
   "abilities": {
     "kanjiReading": {
-      "correct": 409,
-      "total": 456,
-      "rate": 0.8969,
+      "correct": 456,
+      "total": 503,
+      "rate": 0.9066,
       "confidence": "high",
-      "description": "累计409/456次作答（89.7%）。最新名词池35/50，15个新暴露错题；熟练动词池仍保留三轮满分证据，不把不同题池差异当退步。重点音读、长拗音、清浊音与近义词读音对应。"
+      "description": "累计456/503次作答（90.7%），含重复题。动词同池连续四轮47/47，本轮125条标注122条可接受、3条错配；名词最近35/50的15错未复测，不能按动词满分上调。"
     },
     "contextVocabulary": {
       "correct": 114,
@@ -202,7 +202,7 @@
   ],
   "currentPriorities": [
     "名词读音15个新暴露错误：分长拗音、清浊音、音读、多处音形及近义词替代训练；优先合併、興奮、卓越／超越、兆し／印。",
-    "动词读音连续三轮47/47：核实剥がれる／励む、任す／賄う、拝む／憎む、怒鳴る／咎める；补せめる／せかす、商う、彷徨う的独立提取证据，再做新语境。",
+    "动词降低同池重刷：修复任す／賄う、零れる／拒む、労る／偽る；商う、責める转间隔保持；优先补证おがむ、せかす、とがめる、さまよう。",
     "篇章连接词的方向：因果、追加、强反转、承认后逆接",
     "反事实条件、かのように与だって的精确义项",
     "敬语主体、助词与授受视角联动",
@@ -554,40 +554,51 @@
     }
   ],
   "latestPractice": {
-    "date": "2026-10-01",
-    "localTime": "14:25",
-    "recordId": "1790835906650-0y9n56",
-    "focus": "問題1 名词读音",
-    "latestCorrect": 35,
-    "latestTotal": 50,
-    "answered": 50,
-    "rate": 0.7,
-    "durationSeconds": 529,
-    "optionNotes": 0,
+    "date": "2026-10-02",
+    "localTime": "15:51",
+    "recordId": "1790927513645-se9l8w",
+    "focus": "問題1 动词读音",
+    "samePoolQuestions": 47,
+    "samePoolScores": [
+      43,
+      41,
+      43,
+      47,
+      47,
+      47,
+      47
+    ],
+    "latestCorrect": 47,
+    "latestTotal": 47,
+    "durationSeconds": 1221,
+    "optionNotes": 125,
     "reasonCount": 0,
     "shuffleOptions": false,
-    "unannotatedOptions": 200,
-    "unannotatedNonSelectedOptions": 150,
-    "unannotatedDistractors": 150,
+    "nonSelectedOptions": 141,
+    "annotatedNonSelectedOptions": 125,
+    "annotatedSelectedOptions": 0,
+    "unannotatedNonSelectedOptions": 16,
     "annotationAudit": {
-      "accepted": 0,
-      "mappingErrors": 0,
+      "accepted": 122,
+      "fullyAcceptable": 122,
+      "mappingErrors": 3,
       "pendingVerification": 0,
-      "acceptedRate": null,
-      "policy": "无标注，正确率不适用；空白不等于不会。",
-      "blankPriorities": {
-        "优先补": 30,
-        "可不标": 83,
-        "建议抽查": 22,
-        "建议辨析一次": 48,
-        "复用答题证据": 13,
-        "复用已有标注": 4
+      "acceptedRate": 0.976,
+      "unannotatedPrioritize": 4,
+      "unannotatedRecommendOnce": 3,
+      "unannotatedReuseEvidence": 2,
+      "unannotatedOptional": 7,
+      "changes": {
+        "新增": 6,
+        "不变": 174,
+        "转为空白": 3,
+        "改写": 5
       }
     },
-    "masteryJudgment": "名词读音尚不稳定；多项历史纠正有保持，15个新暴露错题待训练；主动提取与词义应用待验证。",
-    "report": "daily/2026-10-01-1425.md",
-    "optionAudit": "daily/2026-10-01-1425-option-audit.md",
-    "optionAuditData": "daily/2026-10-01-1425-option-audit.json"
+    "masteryJudgment": "动词同池连续四轮满分；商う、責める新纠正，1条持续错配及2条回退；主动提取和迁移待验证。名词15错本轮未测。",
+    "report": "daily/2026-10-02.md",
+    "optionAudit": "daily/2026-10-02-option-audit.md",
+    "optionAuditData": "daily/2026-10-02-option-audit.json"
   },
   "annotationPolicy": {
     "updatedAt": "2026-09-29",
@@ -647,5 +658,41 @@
     "optionAudit": "daily/2026-10-01-option-audit.md",
     "optionAuditData": "daily/2026-10-01-option-audit.json",
     "shuffleOptions": true
+  },
+  "previousNounPractice": {
+    "date": "2026-10-01",
+    "localTime": "14:25",
+    "recordId": "1790835906650-0y9n56",
+    "focus": "問題1 名词读音",
+    "latestCorrect": 35,
+    "latestTotal": 50,
+    "answered": 50,
+    "rate": 0.7,
+    "durationSeconds": 529,
+    "optionNotes": 0,
+    "reasonCount": 0,
+    "shuffleOptions": false,
+    "unannotatedOptions": 200,
+    "unannotatedNonSelectedOptions": 150,
+    "unannotatedDistractors": 150,
+    "annotationAudit": {
+      "accepted": 0,
+      "mappingErrors": 0,
+      "pendingVerification": 0,
+      "acceptedRate": null,
+      "policy": "无标注，正确率不适用；空白不等于不会。",
+      "blankPriorities": {
+        "优先补": 30,
+        "可不标": 83,
+        "建议抽查": 22,
+        "建议辨析一次": 48,
+        "复用答题证据": 13,
+        "复用已有标注": 4
+      }
+    },
+    "masteryJudgment": "名词读音尚不稳定；多项历史纠正有保持，15个新暴露错题待训练；主动提取与词义应用待验证。",
+    "report": "daily/2026-10-01-1425.md",
+    "optionAudit": "daily/2026-10-01-1425-option-audit.md",
+    "optionAuditData": "daily/2026-10-01-1425-option-audit.json"
   }
 }
