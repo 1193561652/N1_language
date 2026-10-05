@@ -1,0 +1,3589 @@
+{
+  "date": "2026-10-05",
+  "localTime": "13:50",
+  "recordId": "1791179413014-zh79it",
+  "sourceFile": "offline-exam-tool/history/records/专项练习+文字・词汇+2026-10-05_13-50-13-014.json",
+  "correct": 40,
+  "total": 50,
+  "durationSeconds": 411,
+  "reasonCount": 0,
+  "optionNotes": 0,
+  "annotationAccuracy": null,
+  "blankOptions": 200,
+  "blankDistractors": 150,
+  "priorities": {
+    "建议辨析一次": 67,
+    "抽查或复用正确证据": 31,
+    "可不标": 73,
+    "优先补": 20,
+    "优先验证纠正": 9
+  },
+  "distractorPriorities": {
+    "建议辨析一次": 67,
+    "可不标": 73,
+    "优先补": 10
+  },
+  "overlap": {
+    "questions": 21,
+    "previousCorrect": 15,
+    "currentCorrect": 21
+  },
+  "fixed": [
+    "興奮",
+    "兆し",
+    "承諾",
+    "豪快",
+    "跡地",
+    "了承",
+    "丘陵",
+    "驚嘆",
+    "鑑定"
+  ],
+  "regressed": [
+    "変遷",
+    "陳列"
+  ],
+  "previousWrongNotRetested": [
+    "漠然",
+    "膨大",
+    "合併",
+    "顕著",
+    "把握"
+  ],
+  "questions": [
+    {
+      "question": 1,
+      "questionId": "sbry-n1-2021.07-文字・語彙-1-1",
+      "word": "遺憾",
+      "correct": true,
+      "selectedReading": "いかん",
+      "correctReading": "いかん",
+      "history": [
+        {
+          "date": "2026-08-29",
+          "recordId": "1788007443801-cmz8ow",
+          "questionId": "sbry-n1-2021.07-文字・語彙-1-1",
+          "correct": true
+        },
+        {
+          "date": "2026-09-09",
+          "recordId": "1788953694946-nts8cc",
+          "questionId": "sbry-n1-2021.07-文字・語彙-1-1",
+          "correct": true
+        },
+        {
+          "date": "2026-09-13",
+          "recordId": "1789305581413-i3uaec",
+          "questionId": "sbry-n1-2021.07-文字・語彙-1-1",
+          "correct": true
+        },
+        {
+          "date": "2026-10-01",
+          "recordId": "1790835906650-0y9n56",
+          "questionId": "sbry-n1-2021.07-文字・語彙-1-1",
+          "correct": true
+        }
+      ],
+      "crossQuestionHistory": [],
+      "status": "保持正确",
+      "diagnosis": "本次识别正确；词义、主动提取与新语境待验证。"
+    },
+    {
+      "question": 2,
+      "questionId": "sbry-n1-2018.07-文字・語彙-1-2",
+      "word": "偽り",
+      "correct": true,
+      "selectedReading": "いつわり",
+      "correctReading": "いつわり",
+      "history": [],
+      "crossQuestionHistory": [],
+      "status": "新增正确证据",
+      "diagnosis": "本次识别正确；词义、主动提取与新语境待验证。"
+    },
+    {
+      "question": 3,
+      "questionId": "sbry-n1-2010.07-文字・語彙-1-2",
+      "word": "契約",
+      "correct": true,
+      "selectedReading": "けいやく",
+      "correctReading": "けいやく",
+      "history": [],
+      "crossQuestionHistory": [],
+      "status": "新增正确证据",
+      "diagnosis": "本次识别正确；词义、主动提取与新语境待验证。"
+    },
+    {
+      "question": 4,
+      "questionId": "markdown-2025.12-language-1",
+      "word": "頑丈",
+      "correct": true,
+      "selectedReading": "がんじょう",
+      "correctReading": "がんじょう",
+      "history": [
+        {
+          "date": "2026-10-01",
+          "recordId": "1790835906650-0y9n56",
+          "questionId": "markdown-2025.12-language-1",
+          "correct": true
+        }
+      ],
+      "crossQuestionHistory": [],
+      "status": "保持正确",
+      "diagnosis": "本次识别正确；词义、主动提取与新语境待验证。"
+    },
+    {
+      "question": 5,
+      "questionId": "sbry-n1-2012.12-文字・語彙-1-1",
+      "word": "枠",
+      "correct": true,
+      "selectedReading": "わく",
+      "correctReading": "わく",
+      "history": [
+        {
+          "date": "2026-10-01",
+          "recordId": "1790835906650-0y9n56",
+          "questionId": "sbry-n1-2012.12-文字・語彙-1-1",
+          "correct": true
+        },
+        {
+          "date": "2026-10-02",
+          "recordId": "1790928740364-agwvrx",
+          "questionId": "sbry-n1-2012.12-文字・語彙-1-1",
+          "correct": true
+        }
+      ],
+      "crossQuestionHistory": [],
+      "status": "保持正确",
+      "diagnosis": "本次识别正确；词义、主动提取与新语境待验证。"
+    },
+    {
+      "question": 6,
+      "questionId": "sbry-n1-2017.12-文字・語彙-1-2",
+      "word": "復興",
+      "correct": true,
+      "selectedReading": "ふっこう",
+      "correctReading": "ふっこう",
+      "history": [
+        {
+          "date": "2026-10-01",
+          "recordId": "1790835906650-0y9n56",
+          "questionId": "sbry-n1-2017.12-文字・語彙-1-2",
+          "correct": true
+        },
+        {
+          "date": "2026-10-02",
+          "recordId": "1790928740364-agwvrx",
+          "questionId": "sbry-n1-2017.12-文字・語彙-1-2",
+          "correct": true
+        }
+      ],
+      "crossQuestionHistory": [],
+      "status": "保持正确",
+      "diagnosis": "本次识别正确；词义、主动提取与新语境待验证。"
+    },
+    {
+      "question": 7,
+      "questionId": "sbry-n1-2011.07-文字・語彙-1-6",
+      "word": "肝心",
+      "correct": false,
+      "selectedReading": "かんしん",
+      "correctReading": "かんじん",
+      "history": [],
+      "crossQuestionHistory": [],
+      "status": "新暴露错误",
+      "diagnosis": "心在本词读じん；かんしん可对应関心／感心，需区分整词。"
+    },
+    {
+      "question": 8,
+      "questionId": "jlpt4you-2023.12-vocabulary-1-4",
+      "word": "誇張",
+      "correct": true,
+      "selectedReading": "こちょう",
+      "correctReading": "こちょう",
+      "history": [
+        {
+          "date": "2026-08-29",
+          "recordId": "1788003615807-imph1f",
+          "questionId": "jlpt4you-2023.12-vocabulary-1-4",
+          "correct": false
+        },
+        {
+          "date": "2026-09-01",
+          "recordId": "1788263958429-97c9wz",
+          "questionId": "jlpt4you-2023.12-vocabulary-1-4",
+          "correct": false
+        },
+        {
+          "date": "2026-09-05",
+          "recordId": "1788612387907-02rwx7",
+          "questionId": "jlpt4you-2023.12-vocabulary-1-4",
+          "correct": true
+        }
+      ],
+      "crossQuestionHistory": [],
+      "status": "保持正确",
+      "diagnosis": "本次识别正确；词义、主动提取与新语境待验证。"
+    },
+    {
+      "question": 9,
+      "questionId": "sbry-n1-2015.12-文字・語彙-1-1",
+      "word": "興奮",
+      "correct": true,
+      "selectedReading": "こうふん",
+      "correctReading": "こうふん",
+      "history": [
+        {
+          "date": "2026-10-01",
+          "recordId": "1790835906650-0y9n56",
+          "questionId": "sbry-n1-2015.12-文字・語彙-1-1",
+          "correct": false
+        }
+      ],
+      "crossQuestionHistory": [],
+      "status": "纠正",
+      "diagnosis": "本次识别正确；词义、主动提取与新语境待验证。"
+    },
+    {
+      "question": 10,
+      "questionId": "markdown-2025.07-language-6",
+      "word": "胸中",
+      "correct": false,
+      "selectedReading": "きゅうちゅう",
+      "correctReading": "きょうちゅう",
+      "history": [],
+      "crossQuestionHistory": [],
+      "status": "新暴露错误",
+      "diagnosis": "胸＝きょう，不是きゅう；宮中きゅうちゅう是另一词。"
+    },
+    {
+      "question": 11,
+      "questionId": "sbry-n1-2010.07-文字・語彙-1-1",
+      "word": "繁盛",
+      "correct": false,
+      "selectedReading": "はんしょう",
+      "correctReading": "はんじょう",
+      "history": [],
+      "crossQuestionHistory": [],
+      "status": "新暴露错误",
+      "diagnosis": "盛在本词读じょう，不是しょう；与繁殖共享繁はん。"
+    },
+    {
+      "question": 12,
+      "questionId": "jlpt4you-2023.07-vocabulary-1-3",
+      "word": "秩序",
+      "correct": true,
+      "selectedReading": "ちつじょ",
+      "correctReading": "ちつじょ",
+      "history": [
+        {
+          "date": "2026-08-29",
+          "recordId": "1787991395255-bxet83",
+          "questionId": "jlpt4you-2023.07-vocabulary-1-3",
+          "correct": false
+        },
+        {
+          "date": "2026-09-02",
+          "recordId": "1788353849288-s7jsvm",
+          "questionId": "jlpt4you-2023.07-vocabulary-1-3",
+          "correct": false
+        },
+        {
+          "date": "2026-09-05",
+          "recordId": "1788612561389-gmry0u",
+          "questionId": "jlpt4you-2023.07-vocabulary-1-3",
+          "correct": true
+        },
+        {
+          "date": "2026-10-02",
+          "recordId": "1790928740364-agwvrx",
+          "questionId": "jlpt4you-2023.07-vocabulary-1-3",
+          "correct": true
+        }
+      ],
+      "crossQuestionHistory": [],
+      "status": "保持正确",
+      "diagnosis": "本次识别正确；词义、主动提取与新语境待验证。"
+    },
+    {
+      "question": 13,
+      "questionId": "jlpt4you-2023.07-vocabulary-1-6",
+      "word": "振興",
+      "correct": true,
+      "selectedReading": "しんこう",
+      "correctReading": "しんこう",
+      "history": [
+        {
+          "date": "2026-08-29",
+          "recordId": "1787991395255-bxet83",
+          "questionId": "jlpt4you-2023.07-vocabulary-1-6",
+          "correct": false
+        },
+        {
+          "date": "2026-09-02",
+          "recordId": "1788353849288-s7jsvm",
+          "questionId": "jlpt4you-2023.07-vocabulary-1-6",
+          "correct": false
+        },
+        {
+          "date": "2026-09-05",
+          "recordId": "1788612561389-gmry0u",
+          "questionId": "jlpt4you-2023.07-vocabulary-1-6",
+          "correct": true
+        }
+      ],
+      "crossQuestionHistory": [
+        {
+          "date": "2026-10-01",
+          "recordId": "1790835906650-0y9n56",
+          "questionId": "sbry-n1-2020.12-文字・語彙-1-6",
+          "correct": true
+        },
+        {
+          "date": "2026-10-02",
+          "recordId": "1790928740364-agwvrx",
+          "questionId": "sbry-n1-2020.12-文字・語彙-1-6",
+          "correct": true
+        }
+      ],
+      "status": "保持正确",
+      "diagnosis": "本次识别正确；词义、主动提取与新语境待验证。"
+    },
+    {
+      "question": 14,
+      "questionId": "sbry-n1-2011.12-文字・語彙-1-6",
+      "word": "兆し",
+      "correct": true,
+      "selectedReading": "きざし",
+      "correctReading": "きざし",
+      "history": [
+        {
+          "date": "2026-10-01",
+          "recordId": "1790835906650-0y9n56",
+          "questionId": "sbry-n1-2011.12-文字・語彙-1-6",
+          "correct": false
+        }
+      ],
+      "crossQuestionHistory": [
+        {
+          "date": "2026-08-29",
+          "recordId": "1787991395255-bxet83",
+          "questionId": "jlpt4you-2023.07-vocabulary-4-1",
+          "correct": true
+        },
+        {
+          "date": "2026-09-02",
+          "recordId": "1788353849288-s7jsvm",
+          "questionId": "jlpt4you-2023.07-vocabulary-4-1",
+          "correct": true
+        },
+        {
+          "date": "2026-09-05",
+          "recordId": "1788612561389-gmry0u",
+          "questionId": "jlpt4you-2023.07-vocabulary-4-1",
+          "correct": true
+        }
+      ],
+      "status": "纠正",
+      "diagnosis": "本次识别正确；词义、主动提取与新语境待验证。"
+    },
+    {
+      "question": 15,
+      "questionId": "sbry-n1-2014.07-文字・語彙-1-5",
+      "word": "中枢",
+      "correct": true,
+      "selectedReading": "ちゅうすう",
+      "correctReading": "ちゅうすう",
+      "history": [],
+      "crossQuestionHistory": [],
+      "status": "新增正确证据",
+      "diagnosis": "本次识别正确；词义、主动提取与新语境待验证。"
+    },
+    {
+      "question": 16,
+      "questionId": "sbry-n1-2012.12-文字・語彙-1-3",
+      "word": "名誉",
+      "correct": false,
+      "selectedReading": "めいゆ",
+      "correctReading": "めいよ",
+      "history": [],
+      "crossQuestionHistory": [],
+      "status": "新暴露错误",
+      "diagnosis": "誉在本词读よ，不是ゆ；名誉めいよ。"
+    },
+    {
+      "question": 17,
+      "questionId": "sbry-n1-2014.07-文字・語彙-1-2",
+      "word": "遂行",
+      "correct": true,
+      "selectedReading": "すいこう",
+      "correctReading": "すいこう",
+      "history": [
+        {
+          "date": "2026-10-01",
+          "recordId": "1790835906650-0y9n56",
+          "questionId": "sbry-n1-2014.07-文字・語彙-1-2",
+          "correct": true
+        }
+      ],
+      "crossQuestionHistory": [],
+      "status": "保持正确",
+      "diagnosis": "本次识别正确；词义、主动提取与新语境待验证。"
+    },
+    {
+      "question": 18,
+      "questionId": "sbry-n1-2015.07-文字・語彙-1-4",
+      "word": "承諾",
+      "correct": true,
+      "selectedReading": "しょうだく",
+      "correctReading": "しょうだく",
+      "history": [
+        {
+          "date": "2026-10-02",
+          "recordId": "1790928740364-agwvrx",
+          "questionId": "sbry-n1-2015.07-文字・語彙-1-4",
+          "correct": false
+        }
+      ],
+      "crossQuestionHistory": [],
+      "status": "纠正",
+      "diagnosis": "本次识别正确；词义、主动提取与新语境待验证。"
+    },
+    {
+      "question": 19,
+      "questionId": "markdown-2025.07-language-4",
+      "word": "崇高",
+      "correct": true,
+      "selectedReading": "すうこう",
+      "correctReading": "すうこう",
+      "history": [
+        {
+          "date": "2026-10-02",
+          "recordId": "1790928740364-agwvrx",
+          "questionId": "markdown-2025.07-language-4",
+          "correct": true
+        }
+      ],
+      "crossQuestionHistory": [],
+      "status": "保持正确",
+      "diagnosis": "本次识别正确；词义、主动提取与新语境待验证。"
+    },
+    {
+      "question": 20,
+      "questionId": "sbry-n1-2018.12-文字・語彙-1-1",
+      "word": "豪快",
+      "correct": true,
+      "selectedReading": "ごうかい",
+      "correctReading": "ごうかい",
+      "history": [
+        {
+          "date": "2026-10-02",
+          "recordId": "1790928740364-agwvrx",
+          "questionId": "sbry-n1-2018.12-文字・語彙-1-1",
+          "correct": false
+        }
+      ],
+      "crossQuestionHistory": [],
+      "status": "纠正",
+      "diagnosis": "本次识别正确；词义、主动提取与新语境待验证。"
+    },
+    {
+      "question": 21,
+      "questionId": "sbry-n1-2019.07-文字・語彙-1-4",
+      "word": "繁殖",
+      "correct": false,
+      "selectedReading": "はんちょく",
+      "correctReading": "はんしょく",
+      "history": [],
+      "crossQuestionHistory": [],
+      "status": "新暴露错误",
+      "diagnosis": "殖＝しょく，不是ちょく；与繁盛合并练繁はん。"
+    },
+    {
+      "question": 22,
+      "questionId": "sbry-n1-2018.07-文字・語彙-1-4",
+      "word": "自粛",
+      "correct": true,
+      "selectedReading": "じしゅく",
+      "correctReading": "じしゅく",
+      "history": [
+        {
+          "date": "2026-10-01",
+          "recordId": "1790835906650-0y9n56",
+          "questionId": "sbry-n1-2018.07-文字・語彙-1-4",
+          "correct": false
+        },
+        {
+          "date": "2026-10-02",
+          "recordId": "1790928740364-agwvrx",
+          "questionId": "sbry-n1-2018.07-文字・語彙-1-4",
+          "correct": true
+        }
+      ],
+      "crossQuestionHistory": [],
+      "status": "保持正确",
+      "diagnosis": "本次识别正确；词义、主动提取与新语境待验证。"
+    },
+    {
+      "question": 23,
+      "questionId": "sbry-n1-2013.07-文字・語彙-1-6",
+      "word": "跡地",
+      "correct": true,
+      "selectedReading": "あとち",
+      "correctReading": "あとち",
+      "history": [
+        {
+          "date": "2026-10-02",
+          "recordId": "1790928740364-agwvrx",
+          "questionId": "sbry-n1-2013.07-文字・語彙-1-6",
+          "correct": false
+        }
+      ],
+      "crossQuestionHistory": [],
+      "status": "纠正",
+      "diagnosis": "本次识别正确；词义、主动提取与新语境待验证。"
+    },
+    {
+      "question": 24,
+      "questionId": "sbry-n1-2017.12-文字・語彙-1-4",
+      "word": "了承",
+      "correct": true,
+      "selectedReading": "りょうしょう",
+      "correctReading": "りょうしょう",
+      "history": [
+        {
+          "date": "2026-10-01",
+          "recordId": "1790835906650-0y9n56",
+          "questionId": "sbry-n1-2017.12-文字・語彙-1-4",
+          "correct": true
+        },
+        {
+          "date": "2026-10-02",
+          "recordId": "1790928740364-agwvrx",
+          "questionId": "sbry-n1-2017.12-文字・語彙-1-4",
+          "correct": false
+        }
+      ],
+      "crossQuestionHistory": [],
+      "status": "纠正",
+      "diagnosis": "本次识别正确；词义、主动提取与新语境待验证。"
+    },
+    {
+      "question": 25,
+      "questionId": "sbry-n1-2015.07-文字・語彙-1-3",
+      "word": "破損",
+      "correct": true,
+      "selectedReading": "はそん",
+      "correctReading": "はそん",
+      "history": [
+        {
+          "date": "2026-10-02",
+          "recordId": "1790928740364-agwvrx",
+          "questionId": "sbry-n1-2015.07-文字・語彙-1-3",
+          "correct": true
+        }
+      ],
+      "crossQuestionHistory": [],
+      "status": "保持正确",
+      "diagnosis": "本次识别正确；词义、主动提取与新语境待验证。"
+    },
+    {
+      "question": 26,
+      "questionId": "sbry-n1-2016.12-文字・語彙-1-6",
+      "word": "相場",
+      "correct": false,
+      "selectedReading": "あいば",
+      "correctReading": "そうば",
+      "history": [],
+      "crossQuestionHistory": [],
+      "status": "新暴露错误",
+      "diagnosis": "相在本词读そう，場读ば；整词そうば。"
+    },
+    {
+      "question": 27,
+      "questionId": "sbry-n1-2019.12-文字・語彙-1-1",
+      "word": "披露",
+      "correct": true,
+      "selectedReading": "ひろう",
+      "correctReading": "ひろう",
+      "history": [
+        {
+          "date": "2026-10-01",
+          "recordId": "1790835906650-0y9n56",
+          "questionId": "sbry-n1-2019.12-文字・語彙-1-1",
+          "correct": true
+        }
+      ],
+      "crossQuestionHistory": [],
+      "status": "保持正确",
+      "diagnosis": "本次识别正确；词义、主动提取与新语境待验证。"
+    },
+    {
+      "question": 28,
+      "questionId": "sbry-n1-2018.12-文字・語彙-1-2",
+      "word": "忍耐",
+      "correct": true,
+      "selectedReading": "にんたい",
+      "correctReading": "にんたい",
+      "history": [],
+      "crossQuestionHistory": [],
+      "status": "新增正确证据",
+      "diagnosis": "本次识别正确；词义、主动提取与新语境待验证。"
+    },
+    {
+      "question": 29,
+      "questionId": "sbry-n1-2013.12-文字・語彙-1-6",
+      "word": "貧富",
+      "correct": true,
+      "selectedReading": "ひんぷ",
+      "correctReading": "ひんぷ",
+      "history": [],
+      "crossQuestionHistory": [
+        {
+          "date": "2026-08-29",
+          "recordId": "1788007443801-cmz8ow",
+          "questionId": "sbry-n1-2021.07-文字・語彙-1-5",
+          "correct": true
+        },
+        {
+          "date": "2026-09-09",
+          "recordId": "1788953694946-nts8cc",
+          "questionId": "sbry-n1-2021.07-文字・語彙-1-5",
+          "correct": true
+        },
+        {
+          "date": "2026-09-13",
+          "recordId": "1789305581413-i3uaec",
+          "questionId": "sbry-n1-2021.07-文字・語彙-1-5",
+          "correct": true
+        },
+        {
+          "date": "2026-10-02",
+          "recordId": "1790928740364-agwvrx",
+          "questionId": "sbry-n1-2021.07-文字・語彙-1-5",
+          "correct": true
+        }
+      ],
+      "status": "新增正确证据",
+      "diagnosis": "本次识别正确；词义、主动提取与新语境待验证。"
+    },
+    {
+      "question": 30,
+      "questionId": "sbry-n1-2020.12-文字・語彙-1-6",
+      "word": "振興",
+      "correct": true,
+      "selectedReading": "しんこう",
+      "correctReading": "しんこう",
+      "history": [
+        {
+          "date": "2026-10-01",
+          "recordId": "1790835906650-0y9n56",
+          "questionId": "sbry-n1-2020.12-文字・語彙-1-6",
+          "correct": true
+        },
+        {
+          "date": "2026-10-02",
+          "recordId": "1790928740364-agwvrx",
+          "questionId": "sbry-n1-2020.12-文字・語彙-1-6",
+          "correct": true
+        }
+      ],
+      "crossQuestionHistory": [
+        {
+          "date": "2026-08-29",
+          "recordId": "1787991395255-bxet83",
+          "questionId": "jlpt4you-2023.07-vocabulary-1-6",
+          "correct": false
+        },
+        {
+          "date": "2026-09-02",
+          "recordId": "1788353849288-s7jsvm",
+          "questionId": "jlpt4you-2023.07-vocabulary-1-6",
+          "correct": false
+        },
+        {
+          "date": "2026-09-05",
+          "recordId": "1788612561389-gmry0u",
+          "questionId": "jlpt4you-2023.07-vocabulary-1-6",
+          "correct": true
+        }
+      ],
+      "status": "保持正确",
+      "diagnosis": "本次识别正确；词义、主动提取与新语境待验证。"
+    },
+    {
+      "question": 31,
+      "questionId": "sbry-n1-2011.07-文字・語彙-1-1",
+      "word": "利益",
+      "correct": true,
+      "selectedReading": "りえき",
+      "correctReading": "りえき",
+      "history": [
+        {
+          "date": "2026-10-01",
+          "recordId": "1790835906650-0y9n56",
+          "questionId": "sbry-n1-2011.07-文字・語彙-1-1",
+          "correct": true
+        },
+        {
+          "date": "2026-10-02",
+          "recordId": "1790928740364-agwvrx",
+          "questionId": "sbry-n1-2011.07-文字・語彙-1-1",
+          "correct": true
+        }
+      ],
+      "crossQuestionHistory": [],
+      "status": "保持正确",
+      "diagnosis": "本次识别正确；词义、主动提取与新语境待验证。"
+    },
+    {
+      "question": 32,
+      "questionId": "jlpt4you-2023.12-vocabulary-1-1",
+      "word": "軌跡",
+      "correct": true,
+      "selectedReading": "きせき",
+      "correctReading": "きせき",
+      "history": [
+        {
+          "date": "2026-08-29",
+          "recordId": "1788003615807-imph1f",
+          "questionId": "jlpt4you-2023.12-vocabulary-1-1",
+          "correct": true
+        },
+        {
+          "date": "2026-09-01",
+          "recordId": "1788263958429-97c9wz",
+          "questionId": "jlpt4you-2023.12-vocabulary-1-1",
+          "correct": true
+        },
+        {
+          "date": "2026-09-05",
+          "recordId": "1788612387907-02rwx7",
+          "questionId": "jlpt4you-2023.12-vocabulary-1-1",
+          "correct": true
+        },
+        {
+          "date": "2026-10-01",
+          "recordId": "1790835906650-0y9n56",
+          "questionId": "jlpt4you-2023.12-vocabulary-1-1",
+          "correct": true
+        },
+        {
+          "date": "2026-10-02",
+          "recordId": "1790928740364-agwvrx",
+          "questionId": "jlpt4you-2023.12-vocabulary-1-1",
+          "correct": true
+        }
+      ],
+      "crossQuestionHistory": [],
+      "status": "保持正确",
+      "diagnosis": "本次识别正确；词义、主动提取与新语境待验证。"
+    },
+    {
+      "question": 33,
+      "questionId": "sbry-n1-2011.12-文字・語彙-1-4",
+      "word": "釈明",
+      "correct": true,
+      "selectedReading": "しゃくめい",
+      "correctReading": "しゃくめい",
+      "history": [
+        {
+          "date": "2026-10-02",
+          "recordId": "1790928740364-agwvrx",
+          "questionId": "sbry-n1-2011.12-文字・語彙-1-4",
+          "correct": true
+        }
+      ],
+      "crossQuestionHistory": [],
+      "status": "保持正确",
+      "diagnosis": "本次识别正确；词义、主动提取与新语境待验证。"
+    },
+    {
+      "question": 34,
+      "questionId": "sbry-n1-2019.12-文字・語彙-1-4",
+      "word": "債務",
+      "correct": false,
+      "selectedReading": "ざいむ",
+      "correctReading": "さいむ",
+      "history": [],
+      "crossQuestionHistory": [],
+      "status": "新暴露错误",
+      "diagnosis": "債＝さい，財＝ざい；債務さいむ／財務ざいむ。"
+    },
+    {
+      "question": 35,
+      "questionId": "sbry-n1-2022.07-文字・語彙-1-5",
+      "word": "沈下",
+      "correct": true,
+      "selectedReading": "ちんか",
+      "correctReading": "ちんか",
+      "history": [
+        {
+          "date": "2026-08-29",
+          "recordId": "1788006699590-u5sits",
+          "questionId": "sbry-n1-2022.07-文字・語彙-1-5",
+          "correct": true
+        },
+        {
+          "date": "2026-09-07",
+          "recordId": "1788782746969-eut38g",
+          "questionId": "sbry-n1-2022.07-文字・語彙-1-5",
+          "correct": true
+        },
+        {
+          "date": "2026-09-13",
+          "recordId": "1789304520800-r2ymut",
+          "questionId": "sbry-n1-2022.07-文字・語彙-1-5",
+          "correct": true
+        }
+      ],
+      "crossQuestionHistory": [],
+      "status": "保持正确",
+      "diagnosis": "本次识别正确；词义、主动提取与新语境待验证。"
+    },
+    {
+      "question": 36,
+      "questionId": "jlpt4you-2023.12-vocabulary-1-3",
+      "word": "矛盾",
+      "correct": true,
+      "selectedReading": "むじゅん",
+      "correctReading": "むじゅん",
+      "history": [
+        {
+          "date": "2026-08-29",
+          "recordId": "1788003615807-imph1f",
+          "questionId": "jlpt4you-2023.12-vocabulary-1-3",
+          "correct": false
+        },
+        {
+          "date": "2026-09-01",
+          "recordId": "1788263958429-97c9wz",
+          "questionId": "jlpt4you-2023.12-vocabulary-1-3",
+          "correct": true
+        },
+        {
+          "date": "2026-09-05",
+          "recordId": "1788612387907-02rwx7",
+          "questionId": "jlpt4you-2023.12-vocabulary-1-3",
+          "correct": true
+        },
+        {
+          "date": "2026-10-01",
+          "recordId": "1790835906650-0y9n56",
+          "questionId": "jlpt4you-2023.12-vocabulary-1-3",
+          "correct": true
+        },
+        {
+          "date": "2026-10-02",
+          "recordId": "1790928740364-agwvrx",
+          "questionId": "jlpt4you-2023.12-vocabulary-1-3",
+          "correct": true
+        }
+      ],
+      "crossQuestionHistory": [],
+      "status": "保持正确",
+      "diagnosis": "本次识别正确；词义、主动提取与新语境待验证。"
+    },
+    {
+      "question": 37,
+      "questionId": "jlpt4you-2024.12-vocabulary-1-3",
+      "word": "抱負",
+      "correct": true,
+      "selectedReading": "ほうふ",
+      "correctReading": "ほうふ",
+      "history": [
+        {
+          "date": "2026-08-29",
+          "recordId": "1787989631376-x6jrs7",
+          "questionId": "jlpt4you-2024.12-vocabulary-1-3",
+          "correct": true
+        },
+        {
+          "date": "2026-09-05",
+          "recordId": "1788611749993-yss10y",
+          "questionId": "jlpt4you-2024.12-vocabulary-1-3",
+          "correct": true
+        }
+      ],
+      "crossQuestionHistory": [],
+      "status": "保持正确",
+      "diagnosis": "本次识别正确；词义、主动提取与新语境待验证。"
+    },
+    {
+      "question": 38,
+      "questionId": "sbry-n1-2014.12-文字・語彙-1-5",
+      "word": "厳正",
+      "correct": true,
+      "selectedReading": "げんせい",
+      "correctReading": "げんせい",
+      "history": [
+        {
+          "date": "2026-10-01",
+          "recordId": "1790835906650-0y9n56",
+          "questionId": "sbry-n1-2014.12-文字・語彙-1-5",
+          "correct": false
+        },
+        {
+          "date": "2026-10-02",
+          "recordId": "1790928740364-agwvrx",
+          "questionId": "sbry-n1-2014.12-文字・語彙-1-5",
+          "correct": true
+        }
+      ],
+      "crossQuestionHistory": [],
+      "status": "保持正确",
+      "diagnosis": "本次识别正确；词义、主动提取与新语境待验证。"
+    },
+    {
+      "question": 39,
+      "questionId": "sbry-n1-2018.07-文字・語彙-1-6",
+      "word": "丘陵",
+      "correct": true,
+      "selectedReading": "きゅうりょう",
+      "correctReading": "きゅうりょう",
+      "history": [
+        {
+          "date": "2026-10-01",
+          "recordId": "1790835906650-0y9n56",
+          "questionId": "sbry-n1-2018.07-文字・語彙-1-6",
+          "correct": false
+        }
+      ],
+      "crossQuestionHistory": [],
+      "status": "纠正",
+      "diagnosis": "本次识别正确；词义、主动提取与新语境待验证。"
+    },
+    {
+      "question": 40,
+      "questionId": "sbry-n1-2012.07-文字・語彙-1-5",
+      "word": "踏襲",
+      "correct": true,
+      "selectedReading": "とうしゅう",
+      "correctReading": "とうしゅう",
+      "history": [
+        {
+          "date": "2026-10-01",
+          "recordId": "1790835906650-0y9n56",
+          "questionId": "sbry-n1-2012.07-文字・語彙-1-5",
+          "correct": false
+        },
+        {
+          "date": "2026-10-02",
+          "recordId": "1790928740364-agwvrx",
+          "questionId": "sbry-n1-2012.07-文字・語彙-1-5",
+          "correct": true
+        }
+      ],
+      "crossQuestionHistory": [],
+      "status": "保持正确",
+      "diagnosis": "本次识别正确；词义、主动提取与新语境待验证。"
+    },
+    {
+      "question": 41,
+      "questionId": "sbry-n1-2012.07-文字・語彙-1-6",
+      "word": "改革",
+      "correct": true,
+      "selectedReading": "かいかく",
+      "correctReading": "かいかく",
+      "history": [
+        {
+          "date": "2026-10-02",
+          "recordId": "1790928740364-agwvrx",
+          "questionId": "sbry-n1-2012.07-文字・語彙-1-6",
+          "correct": true
+        }
+      ],
+      "crossQuestionHistory": [],
+      "status": "保持正确",
+      "diagnosis": "本次识别正确；词义、主动提取与新语境待验证。"
+    },
+    {
+      "question": 42,
+      "questionId": "sbry-n1-2014.07-文字・語彙-1-1",
+      "word": "躍進",
+      "correct": true,
+      "selectedReading": "やくしん",
+      "correctReading": "やくしん",
+      "history": [
+        {
+          "date": "2026-10-01",
+          "recordId": "1790835906650-0y9n56",
+          "questionId": "sbry-n1-2014.07-文字・語彙-1-1",
+          "correct": true
+        }
+      ],
+      "crossQuestionHistory": [],
+      "status": "保持正确",
+      "diagnosis": "本次识别正确；词义、主动提取与新语境待验证。"
+    },
+    {
+      "question": 43,
+      "questionId": "sbry-n1-2015.12-文字・語彙-1-5",
+      "word": "随時",
+      "correct": true,
+      "selectedReading": "ずいじ",
+      "correctReading": "ずいじ",
+      "history": [],
+      "crossQuestionHistory": [],
+      "status": "新增正确证据",
+      "diagnosis": "本次识别正确；词义、主动提取与新语境待验证。"
+    },
+    {
+      "question": 44,
+      "questionId": "sbry-n1-2015.12-文字・語彙-1-3",
+      "word": "変遷",
+      "correct": false,
+      "selectedReading": "へんせい",
+      "correctReading": "へんせん",
+      "history": [
+        {
+          "date": "2026-10-01",
+          "recordId": "1790835906650-0y9n56",
+          "questionId": "sbry-n1-2015.12-文字・語彙-1-3",
+          "correct": true
+        }
+      ],
+      "crossQuestionHistory": [],
+      "status": "正确后回退",
+      "diagnosis": "遷＝せん，不是せい；10/1正确后回退。"
+    },
+    {
+      "question": 45,
+      "questionId": "sbry-n1-2018.12-文字・語彙-1-6",
+      "word": "驚嘆",
+      "correct": true,
+      "selectedReading": "きょうたん",
+      "correctReading": "きょうたん",
+      "history": [
+        {
+          "date": "2026-10-02",
+          "recordId": "1790928740364-agwvrx",
+          "questionId": "sbry-n1-2018.12-文字・語彙-1-6",
+          "correct": false
+        }
+      ],
+      "crossQuestionHistory": [],
+      "status": "纠正",
+      "diagnosis": "本次识别正确；词义、主动提取与新语境待验证。"
+    },
+    {
+      "question": 46,
+      "questionId": "sbry-n1-2016.07-文字・語彙-1-3",
+      "word": "陳列",
+      "correct": false,
+      "selectedReading": "ちんれい",
+      "correctReading": "ちんれつ",
+      "history": [
+        {
+          "date": "2026-10-01",
+          "recordId": "1790835906650-0y9n56",
+          "questionId": "sbry-n1-2016.07-文字・語彙-1-3",
+          "correct": true
+        }
+      ],
+      "crossQuestionHistory": [],
+      "status": "正确后回退",
+      "diagnosis": "列＝れつ，不是れい；10/1正确后回退。"
+    },
+    {
+      "question": 47,
+      "questionId": "sbry-n1-2016.07-文字・語彙-1-5",
+      "word": "鑑定",
+      "correct": true,
+      "selectedReading": "かんてい",
+      "correctReading": "かんてい",
+      "history": [
+        {
+          "date": "2026-10-02",
+          "recordId": "1790928740364-agwvrx",
+          "questionId": "sbry-n1-2016.07-文字・語彙-1-5",
+          "correct": false
+        }
+      ],
+      "crossQuestionHistory": [],
+      "status": "纠正",
+      "diagnosis": "本次识别正确；词义、主动提取与新语境待验证。"
+    },
+    {
+      "question": 48,
+      "questionId": "sbry-n1-2022.07-文字・語彙-1-4",
+      "word": "施錠",
+      "correct": true,
+      "selectedReading": "せじょう",
+      "correctReading": "せじょう",
+      "history": [
+        {
+          "date": "2026-08-29",
+          "recordId": "1788006699590-u5sits",
+          "questionId": "sbry-n1-2022.07-文字・語彙-1-4",
+          "correct": true
+        },
+        {
+          "date": "2026-09-07",
+          "recordId": "1788782746969-eut38g",
+          "questionId": "sbry-n1-2022.07-文字・語彙-1-4",
+          "correct": false
+        },
+        {
+          "date": "2026-09-13",
+          "recordId": "1789304520800-r2ymut",
+          "questionId": "sbry-n1-2022.07-文字・語彙-1-4",
+          "correct": true
+        },
+        {
+          "date": "2026-10-01",
+          "recordId": "1790835906650-0y9n56",
+          "questionId": "sbry-n1-2022.07-文字・語彙-1-4",
+          "correct": true
+        },
+        {
+          "date": "2026-10-02",
+          "recordId": "1790928740364-agwvrx",
+          "questionId": "sbry-n1-2022.07-文字・語彙-1-4",
+          "correct": true
+        }
+      ],
+      "crossQuestionHistory": [],
+      "status": "保持正确",
+      "diagnosis": "本次识别正确；词义、主动提取与新语境待验证。"
+    },
+    {
+      "question": 49,
+      "questionId": "sbry-n1-2013.07-文字・語彙-1-4",
+      "word": "需要",
+      "correct": false,
+      "selectedReading": "じゅうよう",
+      "correctReading": "じゅよう",
+      "history": [],
+      "crossQuestionHistory": [],
+      "status": "新暴露错误",
+      "diagnosis": "需＝じゅ，不加长音；需要じゅよう／重要じゅうよう。"
+    },
+    {
+      "question": 50,
+      "questionId": "jlpt4you-2024.12-vocabulary-1-6",
+      "word": "奔放",
+      "correct": true,
+      "selectedReading": "ほんぽう",
+      "correctReading": "ほんぽう",
+      "history": [
+        {
+          "date": "2026-08-29",
+          "recordId": "1787989631376-x6jrs7",
+          "questionId": "jlpt4you-2024.12-vocabulary-1-6",
+          "correct": true
+        },
+        {
+          "date": "2026-09-05",
+          "recordId": "1788611749993-yss10y",
+          "questionId": "jlpt4you-2024.12-vocabulary-1-6",
+          "correct": true
+        }
+      ],
+      "crossQuestionHistory": [],
+      "status": "保持正确",
+      "diagnosis": "本次识别正确；词义、主动提取与新语境待验证。"
+    }
+  ],
+  "rows": [
+    {
+      "question": 1,
+      "questionId": "sbry-n1-2021.07-文字・語彙-1-1",
+      "option": 1,
+      "kana": "いがい",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "意外／以外",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 1,
+      "questionId": "sbry-n1-2021.07-文字・語彙-1-1",
+      "option": 2,
+      "kana": "いかん",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "canonical": "遺憾：いかん",
+      "priority": "抽查或复用正确证据",
+      "explanation": "无选项读出并说基本中文义；选择正确不自动证明主动提取或词义掌握。"
+    },
+    {
+      "question": 1,
+      "questionId": "sbry-n1-2021.07-文字・語彙-1-1",
+      "option": 3,
+      "kana": "いかく",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "威嚇：威吓",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 1,
+      "questionId": "sbry-n1-2021.07-文字・語彙-1-1",
+      "option": 4,
+      "kana": "いかり",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "怒り：愤怒",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 2,
+      "questionId": "sbry-n1-2018.07-文字・語彙-1-2",
+      "option": 1,
+      "kana": "へだたり",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "隔たり：距离、差距",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 2,
+      "questionId": "sbry-n1-2018.07-文字・語彙-1-2",
+      "option": 2,
+      "kana": "あせり",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "焦り：焦躁",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 2,
+      "questionId": "sbry-n1-2018.07-文字・語彙-1-2",
+      "option": 3,
+      "kana": "かたより",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "偏り：偏向",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 2,
+      "questionId": "sbry-n1-2018.07-文字・語彙-1-2",
+      "option": 4,
+      "kana": "いつわり",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "canonical": "偽り：いつわり",
+      "priority": "抽查或复用正确证据",
+      "explanation": "无选项读出并说基本中文义；选择正确不自动证明主动提取或词义掌握。"
+    },
+    {
+      "question": 3,
+      "questionId": "sbry-n1-2010.07-文字・語彙-1-2",
+      "option": 1,
+      "kana": "せいやく",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "制約：限制／誓約：誓约",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 3,
+      "questionId": "sbry-n1-2010.07-文字・語彙-1-2",
+      "option": 2,
+      "kana": "けいやく",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "canonical": "契約：けいやく",
+      "priority": "抽查或复用正确证据",
+      "explanation": "无选项读出并说基本中文义；选择正确不自动证明主动提取或词义掌握。"
+    },
+    {
+      "question": 3,
+      "questionId": "sbry-n1-2010.07-文字・語彙-1-2",
+      "option": 3,
+      "kana": "こうやく",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "公約：公开承诺",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 3,
+      "questionId": "sbry-n1-2010.07-文字・語彙-1-2",
+      "option": 4,
+      "kana": "ようやく",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "要約：摘要",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 4,
+      "questionId": "markdown-2025.12-language-1",
+      "option": 1,
+      "kana": "がんじょう",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "canonical": "頑丈：がんじょう",
+      "priority": "抽查或复用正确证据",
+      "explanation": "无选项读出并说基本中文义；选择正确不自动证明主动提取或词义掌握。"
+    },
+    {
+      "question": 4,
+      "questionId": "markdown-2025.12-language-1",
+      "option": 2,
+      "kana": "かんじょう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "感情／勘定等",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 4,
+      "questionId": "markdown-2025.12-language-1",
+      "option": 3,
+      "kana": "がんじょ",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "仅作为本题音形干扰处理，不强配词义",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 4,
+      "questionId": "markdown-2025.12-language-1",
+      "option": 4,
+      "kana": "かんじょ",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "仅作为本题音形干扰处理，不强配词义",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 5,
+      "questionId": "sbry-n1-2012.12-文字・語彙-1-1",
+      "option": 1,
+      "kana": "かべ",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "壁：墙壁",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 5,
+      "questionId": "sbry-n1-2012.12-文字・語彙-1-1",
+      "option": 2,
+      "kana": "わく",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "canonical": "枠：わく",
+      "priority": "抽查或复用正确证据",
+      "explanation": "无选项读出并说基本中文义；选择正确不自动证明主动提取或词义掌握。"
+    },
+    {
+      "question": 5,
+      "questionId": "sbry-n1-2012.12-文字・語彙-1-1",
+      "option": 3,
+      "kana": "みぞ",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "溝：沟、隔阂",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 5,
+      "questionId": "sbry-n1-2012.12-文字・語彙-1-1",
+      "option": 4,
+      "kana": "ふち",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "縁：边缘",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 6,
+      "questionId": "sbry-n1-2017.12-文字・語彙-1-2",
+      "option": 1,
+      "kana": "ふっこう",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "canonical": "復興：ふっこう",
+      "priority": "抽查或复用正确证据",
+      "explanation": "无选项读出并说基本中文义；选择正确不自动证明主动提取或词义掌握。"
+    },
+    {
+      "question": 6,
+      "questionId": "sbry-n1-2017.12-文字・語彙-1-2",
+      "option": 2,
+      "kana": "ふっきょう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "仅作为本题音形干扰处理，不强配词义",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 6,
+      "questionId": "sbry-n1-2017.12-文字・語彙-1-2",
+      "option": 3,
+      "kana": "ふくこう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "仅作为本题音形干扰处理，不强配词义",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 6,
+      "questionId": "sbry-n1-2017.12-文字・語彙-1-2",
+      "option": 4,
+      "kana": "ふくきょう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "仅作为本题音形干扰处理，不强配词义",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 7,
+      "questionId": "sbry-n1-2011.07-文字・語彙-1-6",
+      "option": 1,
+      "kana": "たんしん",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "単身：独自",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 7,
+      "questionId": "sbry-n1-2011.07-文字・語彙-1-6",
+      "option": 2,
+      "kana": "かんしん",
+      "selected": true,
+      "expected": false,
+      "note": "",
+      "canonical": "関心：关心／感心：佩服",
+      "priority": "优先补",
+      "explanation": "心在本词读じん；かんしん可对应関心／感心，需区分整词。"
+    },
+    {
+      "question": 7,
+      "questionId": "sbry-n1-2011.07-文字・語彙-1-6",
+      "option": 3,
+      "kana": "たんじん",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题读音干扰；无需强配其他汉字",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 7,
+      "questionId": "sbry-n1-2011.07-文字・語彙-1-6",
+      "option": 4,
+      "kana": "かんじん",
+      "selected": false,
+      "expected": true,
+      "note": "",
+      "canonical": "肝心：かんじん",
+      "priority": "优先补",
+      "explanation": "心在本词读じん；かんしん可对应関心／感心，需区分整词。"
+    },
+    {
+      "question": 8,
+      "questionId": "jlpt4you-2023.12-vocabulary-1-4",
+      "option": 1,
+      "kana": "こうちょう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "好調：状态良好／校長：校长",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 8,
+      "questionId": "jlpt4you-2023.12-vocabulary-1-4",
+      "option": 2,
+      "kana": "ごちょう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题读音干扰；无需强配其他汉字",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 8,
+      "questionId": "jlpt4you-2023.12-vocabulary-1-4",
+      "option": 3,
+      "kana": "こちょう",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "canonical": "誇張：こちょう",
+      "priority": "抽查或复用正确证据",
+      "explanation": "无选项读出并说基本中文义；选择正确不自动证明主动提取或词义掌握。"
+    },
+    {
+      "question": 8,
+      "questionId": "jlpt4you-2023.12-vocabulary-1-4",
+      "option": 4,
+      "kana": "ごうちょう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题读音干扰；无需强配其他汉字",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 9,
+      "questionId": "sbry-n1-2015.12-文字・語彙-1-1",
+      "option": 1,
+      "kana": "こうふん",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "canonical": "興奮：こうふん",
+      "priority": "优先验证纠正",
+      "explanation": "无选项读出并说基本中文义；选择正确不自动证明主动提取或词义掌握。"
+    },
+    {
+      "question": 9,
+      "questionId": "sbry-n1-2015.12-文字・語彙-1-1",
+      "option": 2,
+      "kana": "きょうふん",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "仅作为本题音形干扰处理，不强配词义",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 9,
+      "questionId": "sbry-n1-2015.12-文字・語彙-1-1",
+      "option": 3,
+      "kana": "きょうぶん",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "仅作为本题音形干扰处理，不强配词义",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 9,
+      "questionId": "sbry-n1-2015.12-文字・語彙-1-1",
+      "option": 4,
+      "kana": "こうぶん",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "公文／構文等",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 10,
+      "questionId": "markdown-2025.07-language-6",
+      "option": 1,
+      "kana": "きょうじゅう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题读音干扰；无需强配其他汉字",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 10,
+      "questionId": "markdown-2025.07-language-6",
+      "option": 2,
+      "kana": "きゅうちゅう",
+      "selected": true,
+      "expected": false,
+      "note": "",
+      "canonical": "宮中：宫中",
+      "priority": "优先补",
+      "explanation": "胸＝きょう，不是きゅう；宮中きゅうちゅう是另一词。"
+    },
+    {
+      "question": 10,
+      "questionId": "markdown-2025.07-language-6",
+      "option": 3,
+      "kana": "きょうちゅう",
+      "selected": false,
+      "expected": true,
+      "note": "",
+      "canonical": "胸中：きょうちゅう",
+      "priority": "优先补",
+      "explanation": "胸＝きょう，不是きゅう；宮中きゅうちゅう是另一词。"
+    },
+    {
+      "question": 10,
+      "questionId": "markdown-2025.07-language-6",
+      "option": 4,
+      "kana": "きゅうじゅう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题读音干扰；无需强配其他汉字",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 11,
+      "questionId": "sbry-n1-2010.07-文字・語彙-1-1",
+      "option": 1,
+      "kana": "びんしょう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "敏捷：敏捷",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 11,
+      "questionId": "sbry-n1-2010.07-文字・語彙-1-1",
+      "option": 2,
+      "kana": "びんじょう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "便乗：搭便车、趁机",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 11,
+      "questionId": "sbry-n1-2010.07-文字・語彙-1-1",
+      "option": 3,
+      "kana": "はんしょう",
+      "selected": true,
+      "expected": false,
+      "note": "",
+      "canonical": "本题读音干扰；无需强配其他汉字",
+      "priority": "优先补",
+      "explanation": "盛在本词读じょう，不是しょう；与繁殖共享繁はん。"
+    },
+    {
+      "question": 11,
+      "questionId": "sbry-n1-2010.07-文字・語彙-1-1",
+      "option": 4,
+      "kana": "はんじょう",
+      "selected": false,
+      "expected": true,
+      "note": "",
+      "canonical": "繁盛：はんじょう",
+      "priority": "优先补",
+      "explanation": "盛在本词读じょう，不是しょう；与繁殖共享繁はん。"
+    },
+    {
+      "question": 12,
+      "questionId": "jlpt4you-2023.07-vocabulary-1-3",
+      "option": 1,
+      "kana": "ちつじょう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题音形干扰，不强配汉字",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 12,
+      "questionId": "jlpt4you-2023.07-vocabulary-1-3",
+      "option": 2,
+      "kana": "じつじょ",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题音形干扰，不强配汉字",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 12,
+      "questionId": "jlpt4you-2023.07-vocabulary-1-3",
+      "option": 3,
+      "kana": "ちつじょ",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "canonical": "秩序：ちつじょ",
+      "priority": "抽查或复用正确证据",
+      "explanation": "无选项读出并说基本中文义；选择正确不自动证明主动提取或词义掌握。"
+    },
+    {
+      "question": 12,
+      "questionId": "jlpt4you-2023.07-vocabulary-1-3",
+      "option": 4,
+      "kana": "しつじょう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题音形干扰，不强配汉字",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 13,
+      "questionId": "jlpt4you-2023.07-vocabulary-1-6",
+      "option": 1,
+      "kana": "しんきょう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题读音干扰；无需强配其他汉字",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 13,
+      "questionId": "jlpt4you-2023.07-vocabulary-1-6",
+      "option": 2,
+      "kana": "じんこう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题读音干扰；无需强配其他汉字",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 13,
+      "questionId": "jlpt4you-2023.07-vocabulary-1-6",
+      "option": 3,
+      "kana": "しんこう",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "canonical": "振興：しんこう",
+      "priority": "抽查或复用正确证据",
+      "explanation": "无选项读出并说基本中文义；选择正确不自动证明主动提取或词义掌握。"
+    },
+    {
+      "question": 13,
+      "questionId": "jlpt4you-2023.07-vocabulary-1-6",
+      "option": 4,
+      "kana": "じんきょう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题读音干扰；无需强配其他汉字",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 14,
+      "questionId": "sbry-n1-2011.12-文字・語彙-1-6",
+      "option": 1,
+      "kana": "しるし",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "印／標：标记",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 14,
+      "questionId": "sbry-n1-2011.12-文字・語彙-1-6",
+      "option": 2,
+      "kana": "あかし",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "証：证明",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 14,
+      "questionId": "sbry-n1-2011.12-文字・語彙-1-6",
+      "option": 3,
+      "kana": "きざし",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "canonical": "兆し：きざし",
+      "priority": "优先验证纠正",
+      "explanation": "无选项读出并说基本中文义；选择正确不自动证明主动提取或词义掌握。"
+    },
+    {
+      "question": 14,
+      "questionId": "sbry-n1-2011.12-文字・語彙-1-6",
+      "option": 4,
+      "kana": "ひざし",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "日差し：日照",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 15,
+      "questionId": "sbry-n1-2014.07-文字・語彙-1-5",
+      "option": 1,
+      "kana": "ちゅうかく",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "中核：核心",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 15,
+      "questionId": "sbry-n1-2014.07-文字・語彙-1-5",
+      "option": 2,
+      "kana": "ちゅうすう",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "canonical": "中枢：ちゅうすう",
+      "priority": "抽查或复用正确证据",
+      "explanation": "无选项读出并说基本中文义；选择正确不自动证明主动提取或词义掌握。"
+    },
+    {
+      "question": 15,
+      "questionId": "sbry-n1-2014.07-文字・語彙-1-5",
+      "option": 3,
+      "kana": "ちゅうしゅう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "仲秋：仲秋",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 15,
+      "questionId": "sbry-n1-2014.07-文字・語彙-1-5",
+      "option": 4,
+      "kana": "ちゅうきゃく",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题读音干扰；无需强配其他汉字",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 16,
+      "questionId": "sbry-n1-2012.12-文字・語彙-1-3",
+      "option": 1,
+      "kana": "めいゆう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "盟友：盟友",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 16,
+      "questionId": "sbry-n1-2012.12-文字・語彙-1-3",
+      "option": 2,
+      "kana": "めいゆ",
+      "selected": true,
+      "expected": false,
+      "note": "",
+      "canonical": "本题读音干扰；无需强配其他汉字",
+      "priority": "优先补",
+      "explanation": "誉在本词读よ，不是ゆ；名誉めいよ。"
+    },
+    {
+      "question": 16,
+      "questionId": "sbry-n1-2012.12-文字・語彙-1-3",
+      "option": 3,
+      "kana": "めいよう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题读音干扰；无需强配其他汉字",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 16,
+      "questionId": "sbry-n1-2012.12-文字・語彙-1-3",
+      "option": 4,
+      "kana": "めいよ",
+      "selected": false,
+      "expected": true,
+      "note": "",
+      "canonical": "名誉：めいよ",
+      "priority": "优先补",
+      "explanation": "誉在本词读よ，不是ゆ；名誉めいよ。"
+    },
+    {
+      "question": 17,
+      "questionId": "sbry-n1-2014.07-文字・語彙-1-2",
+      "option": 1,
+      "kana": "しっこう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "執行：执行／失効：失效",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 17,
+      "questionId": "sbry-n1-2014.07-文字・語彙-1-2",
+      "option": 2,
+      "kana": "すいこう",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "canonical": "遂行：すいこう",
+      "priority": "抽查或复用正确证据",
+      "explanation": "无选项读出并说基本中文义；选择正确不自动证明主动提取或词义掌握。"
+    },
+    {
+      "question": 17,
+      "questionId": "sbry-n1-2014.07-文字・語彙-1-2",
+      "option": 3,
+      "kana": "すいぎょう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "仅作为本题音形干扰处理，不强配词义",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 17,
+      "questionId": "sbry-n1-2014.07-文字・語彙-1-2",
+      "option": 4,
+      "kana": "しつぎょう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "失業：失业",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 18,
+      "questionId": "sbry-n1-2015.07-文字・語彙-1-4",
+      "option": 1,
+      "kana": "しゅうだく",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题音形干扰，不强配汉字",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 18,
+      "questionId": "sbry-n1-2015.07-文字・語彙-1-4",
+      "option": 2,
+      "kana": "しょうにん",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "承認：认可",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 18,
+      "questionId": "sbry-n1-2015.07-文字・語彙-1-4",
+      "option": 3,
+      "kana": "しゅうにん",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "就任：就职",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 18,
+      "questionId": "sbry-n1-2015.07-文字・語彙-1-4",
+      "option": 4,
+      "kana": "しょうだく",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "canonical": "承諾：しょうだく",
+      "priority": "优先验证纠正",
+      "explanation": "无选项读出并说基本中文义；选择正确不自动证明主动提取或词义掌握。"
+    },
+    {
+      "question": 19,
+      "questionId": "markdown-2025.07-language-4",
+      "option": 1,
+      "kana": "すうこう",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "canonical": "崇高：すうこう",
+      "priority": "抽查或复用正确证据",
+      "explanation": "无选项读出并说基本中文义；选择正确不自动证明主动提取或词义掌握。"
+    },
+    {
+      "question": 19,
+      "questionId": "markdown-2025.07-language-4",
+      "option": 2,
+      "kana": "しゅうこう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题音形干扰，不强配汉字",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 19,
+      "questionId": "markdown-2025.07-language-4",
+      "option": 3,
+      "kana": "しょうこう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题音形干扰，不强配汉字",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 19,
+      "questionId": "markdown-2025.07-language-4",
+      "option": 4,
+      "kana": "そうこう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题音形干扰，不强配汉字",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 20,
+      "questionId": "sbry-n1-2018.12-文字・語彙-1-1",
+      "option": 1,
+      "kana": "ゆうかい",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "誘拐／融解",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 20,
+      "questionId": "sbry-n1-2018.12-文字・語彙-1-1",
+      "option": 2,
+      "kana": "ごかい",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "誤解：误解",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 20,
+      "questionId": "sbry-n1-2018.12-文字・語彙-1-1",
+      "option": 3,
+      "kana": "ごうかい",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "canonical": "豪快：ごうかい",
+      "priority": "优先验证纠正",
+      "explanation": "无选项读出并说基本中文义；选择正确不自动证明主动提取或词义掌握。"
+    },
+    {
+      "question": 20,
+      "questionId": "sbry-n1-2018.12-文字・語彙-1-1",
+      "option": 4,
+      "kana": "ゆかい",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "愉快",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 21,
+      "questionId": "sbry-n1-2019.07-文字・語彙-1-4",
+      "option": 1,
+      "kana": "はんしょく",
+      "selected": false,
+      "expected": true,
+      "note": "",
+      "canonical": "繁殖：はんしょく",
+      "priority": "优先补",
+      "explanation": "殖＝しょく，不是ちょく；与繁盛合并练繁はん。"
+    },
+    {
+      "question": 21,
+      "questionId": "sbry-n1-2019.07-文字・語彙-1-4",
+      "option": 2,
+      "kana": "はんちょく",
+      "selected": true,
+      "expected": false,
+      "note": "",
+      "canonical": "本题读音干扰；无需强配其他汉字",
+      "priority": "优先补",
+      "explanation": "殖＝しょく，不是ちょく；与繁盛合并练繁はん。"
+    },
+    {
+      "question": 21,
+      "questionId": "sbry-n1-2019.07-文字・語彙-1-4",
+      "option": 3,
+      "kana": "ばんしょく",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题读音干扰；无需强配其他汉字",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 21,
+      "questionId": "sbry-n1-2019.07-文字・語彙-1-4",
+      "option": 4,
+      "kana": "ばんちょく",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题读音干扰；无需强配其他汉字",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 22,
+      "questionId": "sbry-n1-2018.07-文字・語彙-1-4",
+      "option": 1,
+      "kana": "じしゅう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "自習：自习",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 22,
+      "questionId": "sbry-n1-2018.07-文字・語彙-1-4",
+      "option": 2,
+      "kana": "じしゅく",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "canonical": "自粛：じしゅく",
+      "priority": "抽查或复用正确证据",
+      "explanation": "无选项读出并说基本中文义；选择正确不自动证明主动提取或词义掌握。"
+    },
+    {
+      "question": 22,
+      "questionId": "sbry-n1-2018.07-文字・語彙-1-4",
+      "option": 3,
+      "kana": "じせい",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "自制：自我控制",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 22,
+      "questionId": "sbry-n1-2018.07-文字・語彙-1-4",
+      "option": 4,
+      "kana": "じせき",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "自責：自责",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 23,
+      "questionId": "sbry-n1-2013.07-文字・語彙-1-6",
+      "option": 1,
+      "kana": "あとち",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "canonical": "跡地：あとち",
+      "priority": "优先验证纠正",
+      "explanation": "无选项读出并说基本中文义；选择正确不自动证明主动提取或词义掌握。"
+    },
+    {
+      "question": 23,
+      "questionId": "sbry-n1-2013.07-文字・語彙-1-6",
+      "option": 2,
+      "kana": "あとじ",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题音形干扰，不强配汉字",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 23,
+      "questionId": "sbry-n1-2013.07-文字・語彙-1-6",
+      "option": 3,
+      "kana": "せきち",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题音形干扰，不强配汉字",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 23,
+      "questionId": "sbry-n1-2013.07-文字・語彙-1-6",
+      "option": 4,
+      "kana": "せきじ",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题音形干扰，不强配汉字",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 24,
+      "questionId": "sbry-n1-2017.12-文字・語彙-1-4",
+      "option": 1,
+      "kana": "りょうしゅう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "仅作为本题音形干扰处理，不强配词义",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 24,
+      "questionId": "sbry-n1-2017.12-文字・語彙-1-4",
+      "option": 2,
+      "kana": "ろうしょう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "仅作为本题音形干扰处理，不强配词义",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 24,
+      "questionId": "sbry-n1-2017.12-文字・語彙-1-4",
+      "option": 3,
+      "kana": "りょうしょう",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "canonical": "了承：りょうしょう",
+      "priority": "优先验证纠正",
+      "explanation": "无选项读出并说基本中文义；选择正确不自动证明主动提取或词义掌握。"
+    },
+    {
+      "question": 24,
+      "questionId": "sbry-n1-2017.12-文字・語彙-1-4",
+      "option": 4,
+      "kana": "ろうしゅう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "仅作为本题音形干扰处理，不强配词义",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 25,
+      "questionId": "sbry-n1-2015.07-文字・語彙-1-3",
+      "option": 1,
+      "kana": "はいん",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题音形干扰，不强配汉字",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 25,
+      "questionId": "sbry-n1-2015.07-文字・語彙-1-3",
+      "option": 2,
+      "kana": "はそん",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "canonical": "破損：はそん",
+      "priority": "抽查或复用正确证据",
+      "explanation": "无选项读出并说基本中文义；选择正确不自动证明主动提取或词义掌握。"
+    },
+    {
+      "question": 25,
+      "questionId": "sbry-n1-2015.07-文字・語彙-1-3",
+      "option": 3,
+      "kana": "ひいん",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题音形干扰，不强配汉字",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 25,
+      "questionId": "sbry-n1-2015.07-文字・語彙-1-3",
+      "option": 4,
+      "kana": "ひそん",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题音形干扰，不强配汉字",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 26,
+      "questionId": "sbry-n1-2016.12-文字・語彙-1-6",
+      "option": 1,
+      "kana": "あいば",
+      "selected": true,
+      "expected": false,
+      "note": "",
+      "canonical": "本题读音干扰；无需强配其他汉字",
+      "priority": "优先补",
+      "explanation": "相在本词读そう，場读ば；整词そうば。"
+    },
+    {
+      "question": 26,
+      "questionId": "sbry-n1-2016.12-文字・語彙-1-6",
+      "option": 2,
+      "kana": "そうば",
+      "selected": false,
+      "expected": true,
+      "note": "",
+      "canonical": "相場：そうば",
+      "priority": "优先补",
+      "explanation": "相在本词读そう，場读ば；整词そうば。"
+    },
+    {
+      "question": 26,
+      "questionId": "sbry-n1-2016.12-文字・語彙-1-6",
+      "option": 3,
+      "kana": "あいじょう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "愛情：爱",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 26,
+      "questionId": "sbry-n1-2016.12-文字・語彙-1-6",
+      "option": 4,
+      "kana": "そうじょう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题读音干扰；无需强配其他汉字",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 27,
+      "questionId": "sbry-n1-2019.12-文字・語彙-1-1",
+      "option": 1,
+      "kana": "ひろ",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "仅作为本题音形干扰处理，不强配词义",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 27,
+      "questionId": "sbry-n1-2019.12-文字・語彙-1-1",
+      "option": 2,
+      "kana": "ひろう",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "canonical": "披露：ひろう",
+      "priority": "抽查或复用正确证据",
+      "explanation": "无选项读出并说基本中文义；选择正确不自动证明主动提取或词义掌握。"
+    },
+    {
+      "question": 27,
+      "questionId": "sbry-n1-2019.12-文字・語彙-1-1",
+      "option": 3,
+      "kana": "ばくろう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "仅作为本题音形干扰处理，不强配词义",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 27,
+      "questionId": "sbry-n1-2019.12-文字・語彙-1-1",
+      "option": 4,
+      "kana": "ばくろ",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "暴露：揭露",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 28,
+      "questionId": "sbry-n1-2018.12-文字・語彙-1-2",
+      "option": 1,
+      "kana": "にんてい",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "認定：认定",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 28,
+      "questionId": "sbry-n1-2018.12-文字・語彙-1-2",
+      "option": 2,
+      "kana": "にんたい",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "canonical": "忍耐：にんたい",
+      "priority": "抽查或复用正确证据",
+      "explanation": "无选项读出并说基本中文义；选择正确不自动证明主动提取或词义掌握。"
+    },
+    {
+      "question": 28,
+      "questionId": "sbry-n1-2018.12-文字・語彙-1-2",
+      "option": 3,
+      "kana": "じんたい",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "人体：人体",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 28,
+      "questionId": "sbry-n1-2018.12-文字・語彙-1-2",
+      "option": 4,
+      "kana": "じんてい",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题读音干扰；无需强配其他汉字",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 29,
+      "questionId": "sbry-n1-2013.12-文字・語彙-1-6",
+      "option": 1,
+      "kana": "ひんふ",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题读音干扰；无需强配其他汉字",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 29,
+      "questionId": "sbry-n1-2013.12-文字・語彙-1-6",
+      "option": 2,
+      "kana": "ひんぷ",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "canonical": "貧富：ひんぷ",
+      "priority": "抽查或复用正确证据",
+      "explanation": "无选项读出并说基本中文义；选择正确不自动证明主动提取或词义掌握。"
+    },
+    {
+      "question": 29,
+      "questionId": "sbry-n1-2013.12-文字・語彙-1-6",
+      "option": 3,
+      "kana": "びんふ",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题读音干扰；无需强配其他汉字",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 29,
+      "questionId": "sbry-n1-2013.12-文字・語彙-1-6",
+      "option": 4,
+      "kana": "びんぷ",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题读音干扰；无需强配其他汉字",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 30,
+      "questionId": "sbry-n1-2020.12-文字・語彙-1-6",
+      "option": 1,
+      "kana": "しんきょう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "仅作为本题音形干扰处理，不强配词义",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 30,
+      "questionId": "sbry-n1-2020.12-文字・語彙-1-6",
+      "option": 2,
+      "kana": "じんきょう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "仅作为本题音形干扰处理，不强配词义",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 30,
+      "questionId": "sbry-n1-2020.12-文字・語彙-1-6",
+      "option": 3,
+      "kana": "じんこう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "人口／人工",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 30,
+      "questionId": "sbry-n1-2020.12-文字・語彙-1-6",
+      "option": 4,
+      "kana": "しんこう",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "canonical": "振興：しんこう",
+      "priority": "抽查或复用正确证据",
+      "explanation": "无选项读出并说基本中文义；选择正确不自动证明主动提取或词义掌握。"
+    },
+    {
+      "question": 31,
+      "questionId": "sbry-n1-2011.07-文字・語彙-1-1",
+      "option": 1,
+      "kana": "りし",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "利子：利息",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 31,
+      "questionId": "sbry-n1-2011.07-文字・語彙-1-1",
+      "option": 2,
+      "kana": "りそく",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "利息：利息",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 31,
+      "questionId": "sbry-n1-2011.07-文字・語彙-1-1",
+      "option": 3,
+      "kana": "りえき",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "canonical": "利益：りえき",
+      "priority": "抽查或复用正确证据",
+      "explanation": "无选项读出并说基本中文义；选择正确不自动证明主动提取或词义掌握。"
+    },
+    {
+      "question": 31,
+      "questionId": "sbry-n1-2011.07-文字・語彙-1-1",
+      "option": 4,
+      "kana": "りじゅん",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "利潤：利润",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 32,
+      "questionId": "jlpt4you-2023.12-vocabulary-1-1",
+      "option": 1,
+      "kana": "きぜき",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "仅作为本题音形干扰处理，不强配词义",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 32,
+      "questionId": "jlpt4you-2023.12-vocabulary-1-1",
+      "option": 2,
+      "kana": "きせき",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "canonical": "軌跡：きせき",
+      "priority": "抽查或复用正确证据",
+      "explanation": "无选项读出并说基本中文义；选择正确不自动证明主动提取或词义掌握。"
+    },
+    {
+      "question": 32,
+      "questionId": "jlpt4you-2023.12-vocabulary-1-1",
+      "option": 3,
+      "kana": "きゅうせき",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "仅作为本题音形干扰处理，不强配词义",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 32,
+      "questionId": "jlpt4you-2023.12-vocabulary-1-1",
+      "option": 4,
+      "kana": "きゅうぜき",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "仅作为本题音形干扰处理，不强配词义",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 33,
+      "questionId": "sbry-n1-2011.12-文字・語彙-1-4",
+      "option": 1,
+      "kana": "しゅくめい",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "宿命",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 33,
+      "questionId": "sbry-n1-2011.12-文字・語彙-1-4",
+      "option": 2,
+      "kana": "やくめい",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题音形干扰，不强配汉字",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 33,
+      "questionId": "sbry-n1-2011.12-文字・語彙-1-4",
+      "option": 3,
+      "kana": "たくめい",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题音形干扰，不强配汉字",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 33,
+      "questionId": "sbry-n1-2011.12-文字・語彙-1-4",
+      "option": 4,
+      "kana": "しゃくめい",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "canonical": "釈明：しゃくめい",
+      "priority": "抽查或复用正确证据",
+      "explanation": "无选项读出并说基本中文义；选择正确不自动证明主动提取或词义掌握。"
+    },
+    {
+      "question": 34,
+      "questionId": "sbry-n1-2019.12-文字・語彙-1-4",
+      "option": 1,
+      "kana": "さいむ",
+      "selected": false,
+      "expected": true,
+      "note": "",
+      "canonical": "債務：さいむ",
+      "priority": "优先补",
+      "explanation": "債＝さい，財＝ざい；債務さいむ／財務ざいむ。"
+    },
+    {
+      "question": 34,
+      "questionId": "sbry-n1-2019.12-文字・語彙-1-4",
+      "option": 2,
+      "kana": "ざいむ",
+      "selected": true,
+      "expected": false,
+      "note": "",
+      "canonical": "財務：财务",
+      "priority": "优先补",
+      "explanation": "債＝さい，財＝ざい；債務さいむ／財務ざいむ。"
+    },
+    {
+      "question": 34,
+      "questionId": "sbry-n1-2019.12-文字・語彙-1-4",
+      "option": 3,
+      "kana": "せきむ",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "責務：职责",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 34,
+      "questionId": "sbry-n1-2019.12-文字・語彙-1-4",
+      "option": 4,
+      "kana": "ぜきむ",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题读音干扰；无需强配其他汉字",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 35,
+      "questionId": "sbry-n1-2022.07-文字・語彙-1-5",
+      "option": 1,
+      "kana": "ちんげ",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题读音干扰；无需强配其他汉字",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 35,
+      "questionId": "sbry-n1-2022.07-文字・語彙-1-5",
+      "option": 2,
+      "kana": "ちんか",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "canonical": "沈下：ちんか",
+      "priority": "抽查或复用正确证据",
+      "explanation": "无选项读出并说基本中文义；选择正确不自动证明主动提取或词义掌握。"
+    },
+    {
+      "question": 35,
+      "questionId": "sbry-n1-2022.07-文字・語彙-1-5",
+      "option": 3,
+      "kana": "しんか",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "進化：进化／真価：真正价值",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 35,
+      "questionId": "sbry-n1-2022.07-文字・語彙-1-5",
+      "option": 4,
+      "kana": "しんげ",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题读音干扰；无需强配其他汉字",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 36,
+      "questionId": "jlpt4you-2023.12-vocabulary-1-3",
+      "option": 1,
+      "kana": "むじゅん",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "canonical": "矛盾：むじゅん",
+      "priority": "抽查或复用正确证据",
+      "explanation": "无选项读出并说基本中文义；选择正确不自动证明主动提取或词义掌握。"
+    },
+    {
+      "question": 36,
+      "questionId": "jlpt4you-2023.12-vocabulary-1-3",
+      "option": 2,
+      "kana": "むじゅう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "仅作为本题音形干扰处理，不强配词义",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 36,
+      "questionId": "jlpt4you-2023.12-vocabulary-1-3",
+      "option": 3,
+      "kana": "みじゅん",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "仅作为本题音形干扰处理，不强配词义",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 36,
+      "questionId": "jlpt4you-2023.12-vocabulary-1-3",
+      "option": 4,
+      "kana": "みじゅう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "仅作为本题音形干扰处理，不强配词义",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 37,
+      "questionId": "jlpt4you-2024.12-vocabulary-1-3",
+      "option": 1,
+      "kana": "ほうふ",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "canonical": "抱負：ほうふ",
+      "priority": "抽查或复用正确证据",
+      "explanation": "无选项读出并说基本中文义；选择正确不自动证明主动提取或词义掌握。"
+    },
+    {
+      "question": 37,
+      "questionId": "jlpt4you-2024.12-vocabulary-1-3",
+      "option": 2,
+      "kana": "ほうぶ",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题读音干扰；无需强配其他汉字",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 37,
+      "questionId": "jlpt4you-2024.12-vocabulary-1-3",
+      "option": 3,
+      "kana": "ほふ",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题读音干扰；无需强配其他汉字",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 37,
+      "questionId": "jlpt4you-2024.12-vocabulary-1-3",
+      "option": 4,
+      "kana": "ほぶ",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题读音干扰；无需强配其他汉字",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 38,
+      "questionId": "sbry-n1-2014.12-文字・語彙-1-5",
+      "option": 1,
+      "kana": "げんせい",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "canonical": "厳正：げんせい",
+      "priority": "抽查或复用正确证据",
+      "explanation": "无选项读出并说基本中文义；选择正确不自动证明主动提取或词义掌握。"
+    },
+    {
+      "question": 38,
+      "questionId": "sbry-n1-2014.12-文字・語彙-1-5",
+      "option": 2,
+      "kana": "げんしょう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "仅作为本题音形干扰处理，不强配词义",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 38,
+      "questionId": "sbry-n1-2014.12-文字・語彙-1-5",
+      "option": 3,
+      "kana": "がんせい",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "仅作为本题音形干扰处理，不强配词义",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 38,
+      "questionId": "sbry-n1-2014.12-文字・語彙-1-5",
+      "option": 4,
+      "kana": "がんしょう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "仅作为本题音形干扰处理，不强配词义",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 39,
+      "questionId": "sbry-n1-2018.07-文字・語彙-1-6",
+      "option": 1,
+      "kana": "しゅうりょう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "終了／修了：结束、结业",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 39,
+      "questionId": "sbry-n1-2018.07-文字・語彙-1-6",
+      "option": 2,
+      "kana": "きゅうろう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "仅作为本题音形干扰处理，不强配词义",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 39,
+      "questionId": "sbry-n1-2018.07-文字・語彙-1-6",
+      "option": 3,
+      "kana": "きゅうりょう",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "canonical": "丘陵：きゅうりょう",
+      "priority": "优先验证纠正",
+      "explanation": "无选项读出并说基本中文义；选择正确不自动证明主动提取或词义掌握。"
+    },
+    {
+      "question": 39,
+      "questionId": "sbry-n1-2018.07-文字・語彙-1-6",
+      "option": 4,
+      "kana": "しゅうろう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "仅作为本题音形干扰处理，不强配词义",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 40,
+      "questionId": "sbry-n1-2012.07-文字・語彙-1-5",
+      "option": 1,
+      "kana": "とうしょう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "仅作为本题音形干扰处理，不强配词义",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 40,
+      "questionId": "sbry-n1-2012.07-文字・語彙-1-5",
+      "option": 2,
+      "kana": "とうしゅう",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "canonical": "踏襲：とうしゅう",
+      "priority": "抽查或复用正确证据",
+      "explanation": "无选项读出并说基本中文义；选择正确不自动证明主动提取或词义掌握。"
+    },
+    {
+      "question": 40,
+      "questionId": "sbry-n1-2012.07-文字・語彙-1-5",
+      "option": 3,
+      "kana": "としょう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "仅作为本题音形干扰处理，不强配词义",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 40,
+      "questionId": "sbry-n1-2012.07-文字・語彙-1-5",
+      "option": 4,
+      "kana": "としゅう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "仅作为本题音形干扰处理，不强配词义",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 41,
+      "questionId": "sbry-n1-2012.07-文字・語彙-1-6",
+      "option": 1,
+      "kana": "かいかく",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "canonical": "改革：かいかく",
+      "priority": "抽查或复用正确证据",
+      "explanation": "无选项读出并说基本中文义；选择正确不自动证明主动提取或词义掌握。"
+    },
+    {
+      "question": 41,
+      "questionId": "sbry-n1-2012.07-文字・語彙-1-6",
+      "option": 2,
+      "kana": "かいこく",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题音形干扰，不强配汉字",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 41,
+      "questionId": "sbry-n1-2012.07-文字・語彙-1-6",
+      "option": 3,
+      "kana": "かいがく",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题音形干扰，不强配汉字",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 41,
+      "questionId": "sbry-n1-2012.07-文字・語彙-1-6",
+      "option": 4,
+      "kana": "かいごく",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题音形干扰，不强配汉字",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 42,
+      "questionId": "sbry-n1-2014.07-文字・語彙-1-1",
+      "option": 1,
+      "kana": "やくしん",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "canonical": "躍進：やくしん",
+      "priority": "抽查或复用正确证据",
+      "explanation": "无选项读出并说基本中文义；选择正确不自动证明主动提取或词义掌握。"
+    },
+    {
+      "question": 42,
+      "questionId": "sbry-n1-2014.07-文字・語彙-1-1",
+      "option": 2,
+      "kana": "ようしん",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "仅作为本题音形干扰处理，不强配词义",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 42,
+      "questionId": "sbry-n1-2014.07-文字・語彙-1-1",
+      "option": 3,
+      "kana": "たくしん",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "仅作为本题音形干扰处理，不强配词义",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 42,
+      "questionId": "sbry-n1-2014.07-文字・語彙-1-1",
+      "option": 4,
+      "kana": "とうしん",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "仅作为本题音形干扰处理，不强配词义",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 43,
+      "questionId": "sbry-n1-2015.12-文字・語彙-1-5",
+      "option": 1,
+      "kana": "じゅうじ",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "従事：从事",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 43,
+      "questionId": "sbry-n1-2015.12-文字・語彙-1-5",
+      "option": 2,
+      "kana": "ずいじ",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "canonical": "随時：ずいじ",
+      "priority": "抽查或复用正确证据",
+      "explanation": "无选项读出并说基本中文义；选择正确不自动证明主动提取或词义掌握。"
+    },
+    {
+      "question": 43,
+      "questionId": "sbry-n1-2015.12-文字・語彙-1-5",
+      "option": 3,
+      "kana": "すいじ",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "炊事：做饭",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 43,
+      "questionId": "sbry-n1-2015.12-文字・語彙-1-5",
+      "option": 4,
+      "kana": "しゅうじ",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "習字：练字",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 44,
+      "questionId": "sbry-n1-2015.12-文字・語彙-1-3",
+      "option": 1,
+      "kana": "へんさん",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "編纂：编纂",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 44,
+      "questionId": "sbry-n1-2015.12-文字・語彙-1-3",
+      "option": 2,
+      "kana": "へんさい",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "仅作为本题音形干扰处理，不强配词义",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 44,
+      "questionId": "sbry-n1-2015.12-文字・語彙-1-3",
+      "option": 3,
+      "kana": "へんせん",
+      "selected": false,
+      "expected": true,
+      "note": "",
+      "canonical": "変遷：へんせん",
+      "priority": "优先补",
+      "explanation": "遷＝せん，不是せい；10/1正确后回退。"
+    },
+    {
+      "question": 44,
+      "questionId": "sbry-n1-2015.12-文字・語彙-1-3",
+      "option": 4,
+      "kana": "へんせい",
+      "selected": true,
+      "expected": false,
+      "note": "",
+      "canonical": "仅作为本题音形干扰处理，不强配词义",
+      "priority": "优先补",
+      "explanation": "遷＝せん，不是せい；10/1正确后回退。"
+    },
+    {
+      "question": 45,
+      "questionId": "sbry-n1-2018.12-文字・語彙-1-6",
+      "option": 1,
+      "kana": "きょたん",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题音形干扰，不强配汉字",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 45,
+      "questionId": "sbry-n1-2018.12-文字・語彙-1-6",
+      "option": 2,
+      "kana": "きょうたん",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "canonical": "驚嘆：きょうたん",
+      "priority": "优先验证纠正",
+      "explanation": "无选项读出并说基本中文义；选择正确不自动证明主动提取或词义掌握。"
+    },
+    {
+      "question": 45,
+      "questionId": "sbry-n1-2018.12-文字・語彙-1-6",
+      "option": 3,
+      "kana": "きょうだん",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "教壇／教団",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 45,
+      "questionId": "sbry-n1-2018.12-文字・語彙-1-6",
+      "option": 4,
+      "kana": "きょだん",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题音形干扰，不强配汉字",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 46,
+      "questionId": "sbry-n1-2016.07-文字・語彙-1-3",
+      "option": 1,
+      "kana": "ちんれつ",
+      "selected": false,
+      "expected": true,
+      "note": "",
+      "canonical": "陳列：ちんれつ",
+      "priority": "优先补",
+      "explanation": "列＝れつ，不是れい；10/1正确后回退。"
+    },
+    {
+      "question": 46,
+      "questionId": "sbry-n1-2016.07-文字・語彙-1-3",
+      "option": 2,
+      "kana": "しんれつ",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "仅作为本题音形干扰处理，不强配词义",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 46,
+      "questionId": "sbry-n1-2016.07-文字・語彙-1-3",
+      "option": 3,
+      "kana": "ちんれい",
+      "selected": true,
+      "expected": false,
+      "note": "",
+      "canonical": "仅作为本题音形干扰处理，不强配词义",
+      "priority": "优先补",
+      "explanation": "列＝れつ，不是れい；10/1正确后回退。"
+    },
+    {
+      "question": 46,
+      "questionId": "sbry-n1-2016.07-文字・語彙-1-3",
+      "option": 4,
+      "kana": "しんれい",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "心霊等；非陳列读音",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 47,
+      "questionId": "sbry-n1-2016.07-文字・語彙-1-5",
+      "option": 1,
+      "kana": "かんじょう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "感情／勘定",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 47,
+      "questionId": "sbry-n1-2016.07-文字・語彙-1-5",
+      "option": 2,
+      "kana": "かんてい",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "canonical": "鑑定：かんてい",
+      "priority": "优先验证纠正",
+      "explanation": "无选项读出并说基本中文义；选择正确不自动证明主动提取或词义掌握。"
+    },
+    {
+      "question": 47,
+      "questionId": "sbry-n1-2016.07-文字・語彙-1-5",
+      "option": 3,
+      "kana": "けんてい",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "検定：检定",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 47,
+      "questionId": "sbry-n1-2016.07-文字・語彙-1-5",
+      "option": 4,
+      "kana": "けんじょう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题音形干扰，不强配汉字",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 48,
+      "questionId": "sbry-n1-2022.07-文字・語彙-1-4",
+      "option": 1,
+      "kana": "せいてい",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "制定：制定",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 48,
+      "questionId": "sbry-n1-2022.07-文字・語彙-1-4",
+      "option": 2,
+      "kana": "せてい",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "仅作为本题音形干扰处理，不强配词义",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 48,
+      "questionId": "sbry-n1-2022.07-文字・語彙-1-4",
+      "option": 3,
+      "kana": "せいじょう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "仅作为本题音形干扰处理，不强配词义",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 48,
+      "questionId": "sbry-n1-2022.07-文字・語彙-1-4",
+      "option": 4,
+      "kana": "せじょう",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "canonical": "施錠：せじょう",
+      "priority": "抽查或复用正确证据",
+      "explanation": "无选项读出并说基本中文义；选择正确不自动证明主动提取或词义掌握。"
+    },
+    {
+      "question": 49,
+      "questionId": "sbry-n1-2013.07-文字・語彙-1-4",
+      "option": 1,
+      "kana": "しゅよう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "主要：主要",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 49,
+      "questionId": "sbry-n1-2013.07-文字・語彙-1-4",
+      "option": 2,
+      "kana": "じゅうよう",
+      "selected": true,
+      "expected": false,
+      "note": "",
+      "canonical": "重要：重要",
+      "priority": "优先补",
+      "explanation": "需＝じゅ，不加长音；需要じゅよう／重要じゅうよう。"
+    },
+    {
+      "question": 49,
+      "questionId": "sbry-n1-2013.07-文字・語彙-1-4",
+      "option": 3,
+      "kana": "じゅよう",
+      "selected": false,
+      "expected": true,
+      "note": "",
+      "canonical": "需要：じゅよう",
+      "priority": "优先补",
+      "explanation": "需＝じゅ，不加长音；需要じゅよう／重要じゅうよう。"
+    },
+    {
+      "question": 49,
+      "questionId": "sbry-n1-2013.07-文字・語彙-1-4",
+      "option": 4,
+      "kana": "しゅうよう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "収容：收容",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 50,
+      "questionId": "jlpt4you-2024.12-vocabulary-1-6",
+      "option": 1,
+      "kana": "はんぽう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "反哺：反哺",
+      "priority": "建议辨析一次",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 50,
+      "questionId": "jlpt4you-2024.12-vocabulary-1-6",
+      "option": 2,
+      "kana": "ぽんぽう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题读音干扰；无需强配其他汉字",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    },
+    {
+      "question": 50,
+      "questionId": "jlpt4you-2024.12-vocabulary-1-6",
+      "option": 3,
+      "kana": "ほんぽう",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "canonical": "奔放：ほんぽう",
+      "priority": "抽查或复用正确证据",
+      "explanation": "无选项读出并说基本中文义；选择正确不自动证明主动提取或词义掌握。"
+    },
+    {
+      "question": 50,
+      "questionId": "jlpt4you-2024.12-vocabulary-1-6",
+      "option": 4,
+      "kana": "ばんぽう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "canonical": "本题读音干扰；无需强配其他汉字",
+      "priority": "可不标",
+      "explanation": "能口述区别即可，不要求每轮重写；空白不直接判为不会。"
+    }
+  ]
+}

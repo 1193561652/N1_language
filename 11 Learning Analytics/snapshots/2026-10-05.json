@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-05",
+  "localTime": "13:50",
+  "newRecords": 1,
+  "newRecordIds": [
+    "1791179413014-zh79it"
+  ],
+  "summary": {
+    "correct": 40,
+    "total": 50,
+    "rate": 0.8,
+    "durationSeconds": 411,
+    "optionNotes": 0
+  },
+  "comparison": {
+    "questions": 21,
+    "previousCorrect": 15,
+    "currentCorrect": 21
+  },
+  "cumulative": {
+    "attempts": 53,
+    "totalQuestions": 1412,
+    "answeredQuestions": 1407,
+    "adjudicatedCorrectAnswers": 1171
+  },
+  "interpretation": "10/5名词40/50；与10/2共同21题15→21；9词纠正，変遷／陳列回退。历史出现题34/36，首次ID6/14；剔除跨题貧富后首次目标词5/13。11旧错未复测。"
+}
