@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-05",
+  "localTime": "15:14",
+  "newRecords": 9,
+  "newRecordIds": [
+    "1791181435928-2dygr1",
+    "1791182245239-5a2986",
+    "1791182605631-8nleri",
+    "1791182995119-g1ysme",
+    "1791183342470-zcg1k4",
+    "1791183695430-b89pg1",
+    "1791184009005-oeu2oj",
+    "1791184262613-gbbalo",
+    "1791184478597-oalwqh"
+  ],
+  "summary": {
+    "correct": 418,
+    "total": 450,
+    "durationSeconds": 2616,
+    "optionNotes": 0,
+    "annotationAccuracy": null,
+    "blankOptions": 1800,
+    "blankDistractors": 1350,
+    "uniqueQuestionIds": 125,
+    "uniqueTargets": 121
+  },
+  "dayTotal": {
+    "correct": 458,
+    "total": 500,
+    "durationSeconds": 3027
+  },
+  "cumulative": {
+    "attempts": 62,
+    "totalQuestions": 1862,
+    "answeredQuestions": 1857,
+    "adjudicatedCorrectAnswers": 1589
+  },
+  "interpretation": "10/5新增九轮418/450，末轮50/50；125题ID、121词。31个错词27个同日恢复，四个最后仍错：把握、興奮、本筋、手際，均未入末轮。13:50十错均纠正；此前11旧错除把握均已有正确证据。"
+}
