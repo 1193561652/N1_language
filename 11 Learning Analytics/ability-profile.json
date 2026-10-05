@@ -6,14 +6,14 @@
   "evidence": {
     "firstDate": "2026-08-28",
     "lastDate": "2026-10-05",
-    "attempts": 62,
-    "totalQuestions": 1862,
-    "answeredQuestions": 1857,
-    "recordedCorrectAnswers": 1589,
-    "adjudicatedCorrectAnswers": 1589,
+    "attempts": 64,
+    "totalQuestions": 1959,
+    "answeredQuestions": 1954,
+    "recordedCorrectAnswers": 1669,
+    "adjudicatedCorrectAnswers": 1669,
     "coverage": [
       "文字・词汇",
-      "语法（八个期次，含熟题集中复测）"
+      "语法（历史八期及新增跨期句子语法专项）"
     ],
     "missingCoverage": [
       "阅读",
@@ -21,22 +21,22 @@
       "阅读与听力基线"
     ],
     "rawRecordAudit": {
-      "totalFiles": 63,
-      "uniqueRecordIds": 63,
-      "allRecordsQuestions": 1868,
-      "allRecordsAnswered": 1863,
-      "allRecordsRecordedCorrect": 1590,
+      "totalFiles": 65,
+      "uniqueRecordIds": 65,
+      "allRecordsQuestions": 1965,
+      "allRecordsAnswered": 1960,
+      "allRecordsRecordedCorrect": 1670,
       "pendingRecordId": "1787920512509-g71xbx",
       "pendingReason": "沿用历史待核查状态：8/28 20:35六题25秒全选1；未擅自认定为试用或正式测验。"
     }
   },
   "abilities": {
     "kanjiReading": {
-      "correct": 953,
-      "total": 1053,
-      "rate": 0.905,
+      "correct": 998,
+      "total": 1100,
+      "rate": 0.9073,
       "confidence": "high",
-      "description": "10/5新增九轮418/450，末轮50/50；125题ID、121词。31个错词27个同日恢复，四个最后仍错：把握、興奮、本筋、手際，均未入末轮。13:50十错均纠正；此前11旧错除把握均已有正确证据。跨日保持、主动提取待验证。"
+      "description": "动词45/47，裁く、蓄える回退；名词把握、興奮、本筋、手際未复测。累计含重复。"
     },
     "contextVocabulary": {
       "correct": 114,
@@ -60,13 +60,14 @@
       "description": "仍是最稳定题型，但本场的本場、秘める说明词义对象限制需要单独追踪。"
     },
     "sentenceGrammar": {
-      "latestCorrect": 10,
-      "total": 10,
-      "answered": 10,
-      "latestRate": 1.0,
-      "firstAttemptCorrect": 6,
-      "confidence": "medium",
-      "description": "2024.12熟题复测10/10，连续两次保持满分；句内形式当前稳定，但不能抵消篇章关系的失分。"
+      "latestCorrect": 35,
+      "total": 50,
+      "answered": 50,
+      "latestRate": 0.7,
+      "previousFamiliarSetCorrect": 10,
+      "previousFamiliarSetTotal": 10,
+      "confidence": "medium-high",
+      "description": "跨期混合专项35/50；16熟题15对、34首次记录题20对；敬语持续错，固定连接与关系功能缺口明显，不与旧单套10/10直接比较。"
     },
     "sentenceOrdering": {
       "latestRecordedCorrect": 5,
@@ -100,12 +101,13 @@
   },
   "knowledgePoints": {
     "orthographicReading": {
-      "status": "same-day-recovery-delayed-recall-unverified",
+      "status": "retention-regressions-require-active-recall",
       "evidence": [
-        "10/5新增九轮418/450，末轮50/50；125题ID、121词。31个错词27个同日恢复，四个最后仍错：把握、興奮、本筋、手際，均未入末轮。13:50十错均纠正；此前11旧错除把握均已有正确证据。",
-        "选项固定，九轮无理由和标注；动词三条标注错配仍待纠正。"
+        "动词四连满分后45/47：裁く首次错，蓄える五次正确后回退",
+        "名词四个未解决词本次未测",
+        "三条动词旧标注错误本次空白，不能认定已纠正"
       ],
-      "diagnosis": "同日短期改善明显；四词仍错，部分多次正确后回退。转无选项、间隔及新语境验证。"
+      "diagnosis": "熟题识别仍强，但回退证据要求无选项和间隔验证。"
     },
     "lexicalScopeAndCollocation": {
       "status": "priority-weakness",
@@ -124,7 +126,8 @@
         "先生においでいただく连续两错",
         "お越しになる/伺う",
         "見える/伺う",
-        "といたしましては/におかれましては"
+        "といたしましては/におかれましては",
+        "10/5お越しになる際は持续错；もらってやってください本轮正确，局部能力分化。"
       ],
       "diagnosis": "动作主体、助词和くださる/いただく视角尚未自动联动；对应教材第3部第6课。"
     },
@@ -135,7 +138,8 @@
         "立ち上がれそうにないぐらい连续两错",
         "ものを",
         "ばこそ",
-        "とはいえ连续两错"
+        "とはいえ连续两错",
+        "10/5雨だろうと雪だろうと两错后纠正；ものの／ものを、时间边界／无条件让步仍错。"
       ],
       "diagnosis": "需要区分无条件让步、遗憾逆接、原因强调、能力/禁止和程度；对应教材第1部第8、10、12、13课。"
     },
@@ -157,7 +161,8 @@
         "ばこそ说明框架",
         "授受目的+关系从句",
         "冗談だってこと",
-        "嵌入疑问与回指"
+        "嵌入疑问与回指",
+        "10/5句子语法固定连接、名词化＋に気付く错误；未新增排序验证。"
       ],
       "diagnosis": "本套从4/5提高到5/5，但此前跨套复测未改善；继续用教材第2部第1—3课训练，并用新题验证。"
     },
@@ -196,8 +201,8 @@
     "2024.12熟题的完整排序结构复原"
   ],
   "currentPriorities": [
-    "先修复把握／興奮／本筋／手際；31个当日错词转无选项与跨日验证，减少同池连续重刷。",
-    "动词降低同池重刷：修复任す／賄う、零れる／拒む、労る／偽る；商う、責める转间隔保持；优先补证おがむ、せかす、とがめる、さまよう。",
+    "语法15错：敬语主体＋際／以来、固定连接与名词化、让步／伴随／原因／时点功能",
+    "动词裁く／暴く、蓄える／携える回退；名词把握、興奮、本筋、手際保持待纠正",
     "篇章连接词的方向：因果、追加、强反转、承认后逆接",
     "反事实条件、かのように与だって的精确义项",
     "敬语主体、助词与授受视角联动",
@@ -550,6 +555,61 @@
   ],
   "latestPractice": {
     "date": "2026-10-05",
+    "localTime": "16:05",
+    "recordId": "1791187543359-uhhd47",
+    "focus": "問題5 句子语法",
+    "latestCorrect": 35,
+    "latestTotal": 50,
+    "rate": 0.7,
+    "durationSeconds": 2323,
+    "optionNotes": 0,
+    "reasonCount": 0,
+    "shuffleOptions": false,
+    "comparison": {
+      "familiarQuestions": 16,
+      "previousCorrect": 13,
+      "currentCorrect": 15,
+      "firstRecordedQuestions": 34,
+      "firstRecordedCorrect": 20
+    },
+    "masteryJudgment": "新增动词45/47（裁く、蓄える回退）与句子语法35/50。语法按题干＋选项修正跨ID同题后：16熟题15对，34首次记录题20对；雨だろうと与泣かせる已纠正，お越しになる際は持续错。",
+    "report": "daily/2026-10-05-1605.md",
+    "optionAudit": "daily/2026-10-05-1605-option-audit.md"
+  },
+  "annotationPolicy": {
+    "updatedAt": "2026-09-29",
+    "userConstraint": "用户只能输入中文，汉字基本一致即可算对。",
+    "evaluation": "中文简写或对应义项成立即认可；不扣日文表记、简繁、送假名分；缺少完整义项不直接算错；未标注不等于不会。",
+    "acceptedExamples": [
+      "炼→練る",
+      "里切→裏切る",
+      "念→唸る",
+      "贿→賄う",
+      "愈→癒す",
+      "恼→悩む"
+    ],
+    "historicalComparability": "旧报告对简写和部分真实义项判定过严，未重算旧标注分母，不与本轮标注正确率作同口径差值比较。"
+  },
+  "previousVerbPractice": {
+    "date": "2026-10-05",
+    "localTime": "15:26",
+    "recordId": "1791185183208-1cly23",
+    "correct": 45,
+    "total": 47,
+    "durationSeconds": 232,
+    "optionNotes": 0,
+    "regressed": [
+      "裁く",
+      "蓄える"
+    ],
+    "unresolvedAnnotationMappings": [
+      "まかされた→贿",
+      "こぼれやすい→拒",
+      "いたわって→伪"
+    ]
+  },
+  "previousNounPractice": {
+    "date": "2026-10-05",
     "localTime": "15:14",
     "recordId": "1791184478597-oalwqh",
     "focus": "問題1 名词读音",
@@ -595,123 +655,5 @@
     "masteryJudgment": "10/5新增九轮418/450，末轮50/50；125题ID、121词。31个错词27个同日恢复，四个最后仍错：把握、興奮、本筋、手際，均未入末轮。13:50十错均纠正；此前11旧错除把握均已有正确证据。",
     "report": "daily/2026-10-05-1514.md",
     "optionAudit": "daily/2026-10-05-1514-option-audit.md"
-  },
-  "annotationPolicy": {
-    "updatedAt": "2026-09-29",
-    "userConstraint": "用户只能输入中文，汉字基本一致即可算对。",
-    "evaluation": "中文简写或对应义项成立即认可；不扣日文表记、简繁、送假名分；缺少完整义项不直接算错；未标注不等于不会。",
-    "acceptedExamples": [
-      "炼→練る",
-      "里切→裏切る",
-      "念→唸る",
-      "贿→賄う",
-      "愈→癒す",
-      "恼→悩む"
-    ],
-    "historicalComparability": "旧报告对简写和部分真实义项判定过严，未重算旧标注分母，不与本轮标注正确率作同口径差值比较。"
-  },
-  "previousVerbPractice": {
-    "date": "2026-10-02",
-    "localTime": "15:51",
-    "recordId": "1790927513645-se9l8w",
-    "focus": "問題1 动词读音",
-    "samePoolQuestions": 47,
-    "samePoolScores": [
-      43,
-      41,
-      43,
-      47,
-      47,
-      47,
-      47
-    ],
-    "latestCorrect": 47,
-    "latestTotal": 47,
-    "durationSeconds": 1221,
-    "optionNotes": 125,
-    "reasonCount": 0,
-    "shuffleOptions": false,
-    "nonSelectedOptions": 141,
-    "annotatedNonSelectedOptions": 125,
-    "annotatedSelectedOptions": 0,
-    "unannotatedNonSelectedOptions": 16,
-    "annotationAudit": {
-      "accepted": 122,
-      "fullyAcceptable": 122,
-      "mappingErrors": 3,
-      "pendingVerification": 0,
-      "acceptedRate": 0.976,
-      "unannotatedPrioritize": 4,
-      "unannotatedRecommendOnce": 3,
-      "unannotatedReuseEvidence": 2,
-      "unannotatedOptional": 7,
-      "changes": {
-        "新增": 6,
-        "不变": 174,
-        "转为空白": 3,
-        "改写": 5
-      }
-    },
-    "masteryJudgment": "动词同池连续四轮满分；商う、責める新纠正，1条持续错配及2条回退；主动提取和迁移待验证。名词15错本轮未测。",
-    "report": "daily/2026-10-02.md",
-    "optionAudit": "daily/2026-10-02-option-audit.md",
-    "optionAuditData": "daily/2026-10-02-option-audit.json"
-  },
-  "previousNounPractice": {
-    "date": "2026-10-05",
-    "localTime": "13:50",
-    "recordId": "1791179413014-zh79it",
-    "focus": "問題1 名词读音",
-    "latestCorrect": 40,
-    "latestTotal": 50,
-    "rate": 0.8,
-    "durationSeconds": 411,
-    "optionNotes": 0,
-    "reasonCount": 0,
-    "shuffleOptions": false,
-    "unannotatedOptions": 200,
-    "unannotatedDistractors": 150,
-    "annotationAudit": {
-      "acceptedRate": null,
-      "policy": "无新标注，空白不判不会。",
-      "blankPriorities": {
-        "建议辨析一次": 67,
-        "抽查或复用正确证据": 31,
-        "可不标": 73,
-        "优先补": 20,
-        "优先验证纠正": 9
-      }
-    },
-    "comparison": {
-      "questions": 21,
-      "previousCorrect": 15,
-      "currentCorrect": 21
-    },
-    "fixed": [
-      "興奮",
-      "兆し",
-      "承諾",
-      "豪快",
-      "跡地",
-      "了承",
-      "丘陵",
-      "驚嘆",
-      "鑑定"
-    ],
-    "regressed": [
-      "変遷",
-      "陳列"
-    ],
-    "previousWrongNotRetested": [
-      "漠然",
-      "膨大",
-      "合併",
-      "顕著",
-      "把握"
-    ],
-    "masteryJudgment": "10/5名词40/50；与10/2共同21题15→21；9词纠正，変遷／陳列回退。历史出现题34/36，首次ID6/14；剔除跨题貧富后首次目标词5/13。11旧错未复测。",
-    "report": "daily/2026-10-05.md",
-    "optionAudit": "daily/2026-10-05-option-audit.md",
-    "optionAuditData": "daily/2026-10-05-option-audit.json"
   }
 }

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-05",
+  "localTime": "16:05",
+  "newRecords": 2,
+  "newRecordIds": [
+    "1791185183208-1cly23",
+    "1791187543359-uhhd47"
+  ],
+  "summary": {
+    "correct": 80,
+    "total": 97,
+    "durationSeconds": 2555,
+    "grammarCorrect": 35,
+    "grammarTotal": 50,
+    "verbCorrect": 45,
+    "verbTotal": 47
+  },
+  "dayTotal": {
+    "correct": 538,
+    "total": 597,
+    "durationSeconds": 5582
+  },
+  "cumulative": {
+    "attempts": 64,
+    "totalQuestions": 1959,
+    "answeredQuestions": 1954,
+    "adjudicatedCorrectAnswers": 1669
+  },
+  "interpretation": "新增动词45/47（裁く、蓄える回退）与句子语法35/50。语法按题干＋选项修正跨ID同题后：16熟题15对，34首次记录题20对；雨だろうと与泣かせる已纠正，お越しになる際は持续错。"
+}
