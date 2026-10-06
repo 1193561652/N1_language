@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "updatedThrough": "2026-10-05",
+  "updatedThrough": "2026-10-06",
   "timezone": "Asia/Shanghai",
   "analysisPolicy": "题型用于统计；诊断、能力追踪和计划以跨题型考点为主。同一题可标注多个考点。语法考点须映射《新完全マスター文法N1》的部—课—条目；没有精确条目时只标对应能力章节。",
   "evidence": {
     "firstDate": "2026-08-28",
-    "lastDate": "2026-10-05",
-    "attempts": 70,
-    "totalQuestions": 2019,
-    "answeredQuestions": 2014,
-    "recordedCorrectAnswers": 1707,
-    "adjudicatedCorrectAnswers": 1707,
+    "lastDate": "2026-10-06",
+    "attempts": 72,
+    "totalQuestions": 2116,
+    "answeredQuestions": 2111,
+    "recordedCorrectAnswers": 1801,
+    "adjudicatedCorrectAnswers": 1801,
     "coverage": [
       "文字・词汇",
       "语法（历史八期及新增跨期句子语法专项）"
@@ -21,22 +21,22 @@
       "阅读与听力基线"
     ],
     "rawRecordAudit": {
-      "totalFiles": 71,
-      "uniqueRecordIds": 71,
-      "allRecordsQuestions": 2025,
-      "allRecordsAnswered": 2020,
-      "allRecordsRecordedCorrect": 1708,
+      "totalFiles": 73,
+      "uniqueRecordIds": 73,
+      "allRecordsQuestions": 2122,
+      "allRecordsAnswered": 2117,
+      "allRecordsRecordedCorrect": 1802,
       "pendingRecordId": "1787920512509-g71xbx",
       "pendingReason": "沿用历史待核查状态：8/28 20:35六题25秒全选1；未擅自认定为试用或正式测验。"
     }
   },
   "abilities": {
     "kanjiReading": {
-      "correct": 998,
-      "total": 1100,
-      "rate": 0.9073,
+      "correct": 1092,
+      "total": 1197,
+      "rate": 0.9123,
       "confidence": "high",
-      "description": "动词45/47，裁く、蓄える回退；名词把握、興奮、本筋、手際未复测。累计含重复。"
+      "description": "10/6动词47/47，裁く、蓄える恢复；名词47/50，手際纠正，人脈、克服、需要回退。合併新增跨天保持；把握、興奮、本筋未测，语法与三条动词错注无新增纠正证据。全部熟题，主动提取及新题迁移待验证。"
     },
     "contextVocabulary": {
       "correct": 114,
@@ -105,13 +105,13 @@
   },
   "knowledgePoints": {
     "orthographicReading": {
-      "status": "retention-regressions-require-active-recall",
+      "status": "cross-day-recognition-improving-with-regressions",
       "evidence": [
-        "动词四连满分后45/47：裁く首次错，蓄える五次正确后回退",
-        "名词四个未解决词本次未测",
-        "三条动词旧标注错误本次空白，不能认定已纠正"
+        "10/6动词47/47，裁く、蓄える恢复；名词47/50，手際纠正，人脈、克服、需要回退。合併新增跨天保持；把握、興奮、本筋未测，语法与三条动词错注无新增纠正证据。",
+        "名词按各题最近历史结果49/50→47/50，不是同一轮对比",
+        "动词三条旧错注仍空白，语法错注本批未测"
       ],
-      "diagnosis": "熟题识别仍强，但回退证据要求无选项和间隔验证。"
+      "diagnosis": "区分跨天纠正、跨天保持和新回退；用无选项与新语境验证。"
     },
     "lexicalScopeAndCollocation": {
       "status": "priority-weakness",
@@ -210,6 +210,7 @@
   "currentPriorities": [
     "敬语主体：お越しになる／伺う、見える／参る均连续三错；新例句验证",
     "句型功能：でもしたら、んだもん／もんか、次第では／次第に、耐えかねる／耐えぬく；复核6条标注",
+    "读音短时修复人脈、克服、需要；裁く、蓄える、手際转保持；补测把握、興奮、本筋，减少同池整套重刷。",
     "篇章连接词的方向：因果、追加、强反转、承认后逆接",
     "反事实条件、かのように与だって的精确义项",
     "敬语主体、助词与授受视角联动",
@@ -561,38 +562,38 @@
     }
   ],
   "latestPractice": {
-    "date": "2026-10-05",
-    "localTime": "19:23",
-    "recordId": "1791199403011-f67i79",
-    "focus": "問題5句子语法",
-    "latestCorrect": 9,
-    "latestTotal": 10,
-    "rate": 0.9,
-    "durationSeconds": 279,
+    "date": "2026-10-06",
+    "localTime": "12:52",
+    "recordId": "1791262336592-9p9nko",
+    "focus": "問題1名词读音",
+    "latestCorrect": 47,
+    "latestTotal": 50,
+    "rate": 0.94,
+    "durationSeconds": 259,
     "optionNotes": 0,
     "reasonCount": 0,
     "shuffleOptions": false,
-    "batchRecordIds": [
-      "1791193745692-upl716",
-      "1791196921030-gog2ru",
-      "1791197710057-8gh7x4",
-      "1791198224716-lzhnp3",
-      "1791198895676-a6drzx",
-      "1791199403011-f67i79"
+    "fixed": [
+      "手際"
     ],
-    "batchCorrect": 38,
-    "batchTotal": 60,
-    "annotationAudit": {
-      "batchOptionNotes": 6,
-      "accepted": 3,
-      "errors": 2,
-      "pending": 1,
-      "adjudicatedRate": 0.6,
-      "reasonErrors": 1
+    "regressed": [
+      "人脈",
+      "克服",
+      "需要"
+    ],
+    "unresolvedNotRetested": [
+      "把握",
+      "興奮",
+      "本筋"
+    ],
+    "comparison": {
+      "sameQuestions": 50,
+      "previousCorrect": 49,
+      "currentCorrect": 47
     },
-    "masteryJudgment": "10/5晚间六轮句子语法38/60，末轮9/10；22错中2题后续恢复、20题末次仍错。16:05五旧错纠正，两个敬语题均累计连续三错。6选项标注3认可2错1待核实；1理由误把でもしたら当转折。",
-    "report": "daily/2026-10-05-1923.md",
-    "optionAudit": "daily/2026-10-05-1923-option-audit.md"
+    "masteryJudgment": "10/6动词47/47，裁く、蓄える恢复；名词47/50，手際纠正，人脈、克服、需要回退。合併新增跨天保持；把握、興奮、本筋未测，语法与三条动词错注无新增纠正证据。",
+    "report": "daily/2026-10-06.md",
+    "optionAudit": "daily/2026-10-06-option-audit.md"
   },
   "annotationPolicy": {
     "updatedAt": "2026-09-29",
@@ -609,14 +610,14 @@
     "historicalComparability": "旧报告对简写和部分真实义项判定过严，未重算旧标注分母，不与本轮标注正确率作同口径差值比较。"
   },
   "previousVerbPractice": {
-    "date": "2026-10-05",
-    "localTime": "15:26",
-    "recordId": "1791185183208-1cly23",
-    "correct": 45,
+    "date": "2026-10-06",
+    "localTime": "12:47",
+    "recordId": "1791262069893-sw8w24",
+    "correct": 47,
     "total": 47,
-    "durationSeconds": 232,
+    "durationSeconds": 193,
     "optionNotes": 0,
-    "regressed": [
+    "fixed": [
       "裁く",
       "蓄える"
     ],
@@ -677,25 +678,36 @@
   "analysisUpdatedAt": "2026-10-06",
   "previousGrammarPractice": {
     "date": "2026-10-05",
-    "localTime": "16:05",
-    "recordId": "1791187543359-uhhd47",
-    "focus": "問題5 句子语法",
-    "latestCorrect": 35,
-    "latestTotal": 50,
-    "rate": 0.7,
-    "durationSeconds": 2323,
+    "localTime": "19:23",
+    "recordId": "1791199403011-f67i79",
+    "focus": "問題5句子语法",
+    "latestCorrect": 9,
+    "latestTotal": 10,
+    "rate": 0.9,
+    "durationSeconds": 279,
     "optionNotes": 0,
     "reasonCount": 0,
     "shuffleOptions": false,
-    "comparison": {
-      "familiarQuestions": 16,
-      "previousCorrect": 13,
-      "currentCorrect": 15,
-      "firstRecordedQuestions": 34,
-      "firstRecordedCorrect": 20
+    "batchRecordIds": [
+      "1791193745692-upl716",
+      "1791196921030-gog2ru",
+      "1791197710057-8gh7x4",
+      "1791198224716-lzhnp3",
+      "1791198895676-a6drzx",
+      "1791199403011-f67i79"
+    ],
+    "batchCorrect": 38,
+    "batchTotal": 60,
+    "annotationAudit": {
+      "batchOptionNotes": 6,
+      "accepted": 3,
+      "errors": 2,
+      "pending": 1,
+      "adjudicatedRate": 0.6,
+      "reasonErrors": 1
     },
-    "masteryJudgment": "新增动词45/47（裁く、蓄える回退）与句子语法35/50。语法按题干＋选项修正跨ID同题后：16熟题15对，34首次记录题20对；雨だろうと与泣かせる已纠正，お越しになる際は持续错。",
-    "report": "daily/2026-10-05-1605.md",
-    "optionAudit": "daily/2026-10-05-1605-option-audit.md"
+    "masteryJudgment": "10/5晚间六轮句子语法38/60，末轮9/10；22错中2题后续恢复、20题末次仍错。16:05五旧错纠正，两个敬语题均累计连续三错。6选项标注3认可2错1待核实；1理由误把でもしたら当转折。",
+    "report": "daily/2026-10-05-1923.md",
+    "optionAudit": "daily/2026-10-05-1923-option-audit.md"
   }
 }

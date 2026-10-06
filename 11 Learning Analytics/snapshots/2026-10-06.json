@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-06",
+  "localTime": "12:52",
+  "newRecords": 2,
+  "newRecordIds": [
+    "1791262069893-sw8w24",
+    "1791262336592-9p9nko"
+  ],
+  "summary": {
+    "correct": 94,
+    "total": 97,
+    "durationSeconds": 452,
+    "optionNotes": 0
+  },
+  "comparison": {
+    "verb": {
+      "sameQuestions": 47,
+      "previousCorrect": 45,
+      "currentCorrect": 47
+    },
+    "nounLatestPerQuestion": {
+      "sameQuestions": 50,
+      "previousCorrect": 49,
+      "currentCorrect": 47
+    }
+  },
+  "cumulative": {
+    "attempts": 72,
+    "totalQuestions": 2116,
+    "answeredQuestions": 2111,
+    "adjudicatedCorrectAnswers": 1801
+  },
+  "interpretation": "10/6动词47/47，裁く、蓄える恢复；名词47/50，手際纠正，人脈、克服、需要回退。合併新增跨天保持；把握、興奮、本筋未测，语法与三条动词错注无新增纠正证据。"
+}
