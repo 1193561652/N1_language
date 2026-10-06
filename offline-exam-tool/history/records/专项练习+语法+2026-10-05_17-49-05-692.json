@@ -1,0 +1,435 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791193745692-upl716",
+    "submittedAt": "2026-10-05T09:49:05.692Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": [
+          "grammar.q5.c01",
+          "grammar.q5.c02",
+          "grammar.q5.c03",
+          "grammar.q5.c04",
+          "grammar.q5.c05",
+          "grammar.q5.c06",
+          "grammar.q5.c07",
+          "grammar.q5.c08",
+          "grammar.q5.c09",
+          "grammar.q5.c10",
+          "grammar.q5.c11",
+          "grammar.q5.c12",
+          "grammar.q5.c13",
+          "grammar.q5.c14",
+          "grammar.q5.c15",
+          "grammar.q5.c16",
+          "grammar.q5.c17",
+          "grammar.q5.c18",
+          "grammar.q5.c19",
+          "grammar.q5.c20",
+          "grammar.q5.b01",
+          "grammar.q5.b02",
+          "grammar.q5.b04",
+          "grammar.q5.b05",
+          "grammar.q5.b06"
+        ]
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "sbry-n1-2010.12-文法-5-32",
+        "sbry-n1-2022.12-文法-5-30",
+        "sbry-n1-2017.07-文法-5-35",
+        "markdown-2025.07-language-29",
+        "sbry-n1-2012.07-文法-5-27",
+        "sbry-n1-2021.12-文法-5-27",
+        "sbry-n1-2022.12-文法-5-33",
+        "sbry-n1-2012.12-文法-5-26",
+        "sbry-n1-2012.12-文法-5-28",
+        "sbry-n1-2021.07-文法-5-28"
+      ],
+      "shuffleOptions": false,
+      "optionOrders": {}
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 8,
+    "percentage": 80,
+    "durationSeconds": 380,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2010.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b05",
+          "grammar.q5.b04"
+        ],
+        "id": "sbry-n1-2010.12-文法-5-32",
+        "number": 32,
+        "selected": [
+          3
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "地球温暖化抑制への貢献が、ここ１０年あまりの間に、優良企業の条件の一つ()ようだ。",
+        "options": [
+          "としうる",
+          "となりうる",
+          "としつつある",
+          "となりつつある"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2022.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c03",
+          "grammar.q5.b02"
+        ],
+        "id": "sbry-n1-2022.12-文法-5-30",
+        "number": 30,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(ホームページで)\n当店では、商品に欠陥がある()、返品及び交換はお受けできませんので、あらかじめご了承ください。",
+        "options": [
+          "点に加えて",
+          "点を除いて",
+          "場合に加えて",
+          "場合を除いて"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c13"
+        ],
+        "id": "sbry-n1-2017.07-文法-5-35",
+        "number": 35,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "先々週、妹が図書館で分厚い本を１０冊も借りてきた。「２週間しか借りられないんだから、そんなに絶対()」と思ったが、全部読んで返したらしい。",
+        "options": [
+          "読みかけなのか",
+          "読みっぱなしだろう",
+          "読みきれっこない",
+          "読んでもいないくせに"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2025.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b02",
+          "grammar.q5.c09"
+        ],
+        "id": "markdown-2025.07-language-29",
+        "number": 29,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "今日だけは遅刻できない( )、なぜか電車が遅れる。",
+        "options": [
+          "ときに限って",
+          "ことに反して",
+          "というときに限って",
+          "ということに反して"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2012.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c09"
+        ],
+        "id": "sbry-n1-2012.07-文法-5-27",
+        "number": 27,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "昔から「毒も()薬になる」と言われている。",
+        "options": [
+          "使うとなると",
+          "使おうものなら",
+          "使わんばかりに",
+          "使いようによっては"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2021.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01",
+          "grammar.q5.c17"
+        ],
+        "id": "sbry-n1-2021.12-文法-5-27",
+        "number": 27,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "A社は、製品の成分表示に誤りがあったことについて謝罪したが、品質には()問題はないと強調した。",
+        "options": [
+          "かりに",
+          "なんら",
+          "なかなか",
+          "あまりにも"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2022.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c16",
+          "grammar.q5.b05"
+        ],
+        "id": "sbry-n1-2022.12-文法-5-33",
+        "number": 33,
+        "selected": [
+          4
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "自転車の鍵が見当たらないと思ったら、昨日はいていたズボンのポケットに()。",
+        "options": [
+          "入れたつもり",
+          "入れっぱなしだった",
+          "入れっこなかった",
+          "入れるべきではなかった"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2012.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c05"
+        ],
+        "id": "sbry-n1-2012.12-文法-5-26",
+        "number": 26,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "A国では、急激な経済成長()、エネルギー消費量がこの１０年で約３倍に増加している。",
+        "options": [
+          "に沿って",
+          "に基づき",
+          "にともなって",
+          "にこたえて"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2012.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01",
+          "grammar.q5.c19"
+        ],
+        "id": "sbry-n1-2012.12-文法-5-28",
+        "number": 28,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "「なるほど。それでけんかになったのか。もちろん悪いのは冗談を言った彼だけど、それくらいのことで怒った君()君だよ」",
+        "options": [
+          "も",
+          "で",
+          "でも",
+          "まで"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2021.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c02"
+        ],
+        "id": "sbry-n1-2021.07-文法-5-28",
+        "number": 28,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "新作ゲ一ム機の発売イベントは、今週末に東京で()、全国を巡回していく予定だ。",
+        "options": [
+          "開催されるのを皮切りに",
+          "開催されるや否や",
+          "開催されたとたんに",
+          "開催されて以来"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}

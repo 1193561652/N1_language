@@ -1,0 +1,417 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791196921030-gog2ru",
+    "submittedAt": "2026-10-05T10:42:01.030Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "sbry-n1-2016.07-文法-5-34",
+        "jlpt4you-2024.12-grammar-5-4",
+        "sbry-n1-2010.12-文法-5-33",
+        "sbry-n1-2021.12-文法-5-32",
+        "sbry-n1-2014.07-文法-5-30",
+        "sbry-n1-2016.12-文法-5-31",
+        "sbry-n1-2013.12-文法-5-28",
+        "sbry-n1-2015.07-文法-5-35",
+        "sbry-n1-2019.12-文法-5-26",
+        "jlpt4you-2023.12-grammar-5-10"
+      ],
+      "shuffleOptions": false,
+      "optionOrders": {}
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 6,
+    "percentage": 60,
+    "durationSeconds": 858,
+    "reasonCount": 1,
+    "optionReasonCount": 6,
+    "details": [
+      {
+        "sourceYear": "2016.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c13",
+          "grammar.q5.b03"
+        ],
+        "id": "sbry-n1-2016.07-文法-5-34",
+        "number": 34,
+        "selected": [
+          3
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {
+          "main:1": "决定用自己的力量努力",
+          "main:2": "只用自己的力量为我努力",
+          "main:3": "用自己的力量不能努力也不是",
+          "main:4": "到了用自己的力量努力的地步"
+        },
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "弟は就職活動がうまくいかず大変そうだが、私が代わることもできないので、自分の力で()。",
+        "options": [
+          "頑張れるに決まっている",
+          "頑張ってもらうしかない",
+          "頑張れないこともない",
+          "頑張ってしまうところがある"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c12",
+          "grammar.q5.b06"
+        ],
+        "id": "jlpt4you-2024.12-grammar-5-4",
+        "number": 29,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "ウェブサイトごとに異なるパスワードを設定するのは面倒だが、第三者が不正にアクセスされる（ ）、やむを得ない。",
+        "options": [
+          "しかない以上",
+          "しかない反面",
+          "恐れがある以上",
+          "恐れがある反面"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2010.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c09",
+          "grammar.q5.b04"
+        ],
+        "id": "sbry-n1-2010.12-文法-5-33",
+        "number": 33,
+        "selected": [
+          1
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "如果被刺就麻烦了，所以选たら，没有转折的意思，所以不选でも",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "子ども「お母さん、来週の日曜日、さくら山に行ってもいい？」\n母親「だめよ。今の季節、あの山にはハチがたくさん出るのよ。万が一、()大変でしょ。」",
+        "options": [
+          "刺されさえしたら",
+          "刺されでもしたら",
+          "刺させるなどしても",
+          "刺させるくらいしても"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2021.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c13"
+        ],
+        "id": "sbry-n1-2021.12-文法-5-32",
+        "number": 32,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "仕事が忙しくて、今年は旅行()。",
+        "options": [
+          "に過ぎない",
+          "どころではない",
+          "にほかならない",
+          "といっても過言ではない"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2014.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2014.07-文法-5-30",
+        "number": 30,
+        "selected": [
+          4
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "母「たかし、宿題は終わったの？」\nたかし「まだ終わってない。今日の宿題、難しくて、全然()。」",
+        "options": [
+          "わかんないんだもん",
+          "わかんないもんか",
+          "わかんないんだっけ",
+          "わかんないからって"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2016.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c09"
+        ],
+        "id": "sbry-n1-2016.12-文法-5-31",
+        "number": 31,
+        "selected": [
+          2
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(お知らせで)\n水道管破裂による断水のため、8月12日まで市民プールの営業を休止します。復旧状況()、営業再開が遅れる可能性がありますので、ご了承ください。",
+        "options": [
+          "次第には",
+          "次第に",
+          "次第では",
+          "次第"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2013.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c17",
+          "grammar.q5.b02"
+        ],
+        "id": "sbry-n1-2013.12-文法-5-28",
+        "number": 28,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "３０００ｍを超える冬山に、十分な装備もなく単独で登るのは、()極まりない行為だ。",
+        "options": [
+          "危険",
+          "危険の",
+          "危険な",
+          "危険に"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2015.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03"
+        ],
+        "id": "sbry-n1-2015.07-文法-5-35",
+        "number": 35,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "田中「部長、先日提出した書類なんですが、あれで大丈夫でしょうか。」\n部長「あ、ごめん。まだ見てない。」\n田中「そうですか。すみませんが、なるべく早く()。」",
+        "options": [
+          "見ていただけると助かるんですが",
+          "見ていただくんでしょうか",
+          "見ていだだいたと思うんですが",
+          "見ていただいてはいかがでしょうか"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01",
+          "grammar.q5.b04"
+        ],
+        "id": "sbry-n1-2019.12-文法-5-26",
+        "number": 26,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "不況の影響で、多くの企業が事業の縮小や延期、さらには事業からの撤退()余儀なくされている。",
+        "options": [
+          "を",
+          "で",
+          "と",
+          "に"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c18",
+          "grammar.q5.b06"
+        ],
+        "id": "jlpt4you-2023.12-grammar-5-10",
+        "number": 35,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {
+          "main:1": "不应该不能有miss",
+          "main:2": "应该不能有miss"
+        },
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "仕事において、ミスは（ ）。しかし、人間である以上、ミスは避けられないものだ。",
+        "options": [
+          "してはいけないわけがない",
+          "してはいけないはずだった",
+          "しないほうがいいとは限らない",
+          "しないほうがいいに決まっている"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}

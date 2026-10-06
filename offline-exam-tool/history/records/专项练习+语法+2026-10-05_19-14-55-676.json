@@ -1,0 +1,407 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791198895676-a6drzx",
+    "submittedAt": "2026-10-05T11:14:55.676Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "sbry-n1-2019.12-文法-5-26",
+        "sbry-n1-2011.12-文法-5-31",
+        "markdown-2025.12-language-35",
+        "sbry-n1-2015.07-文法-5-31",
+        "sbry-n1-2013.07-文法-5-30",
+        "sbry-n1-2013.12-文法-5-33",
+        "sbry-n1-2014.07-文法-5-28",
+        "sbry-n1-2010.12-文法-5-26",
+        "sbry-n1-2015.12-文法-5-31",
+        "jlpt4you-2024.07-grammar-5-6"
+      ],
+      "shuffleOptions": false,
+      "optionOrders": {}
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 5,
+    "percentage": 50,
+    "durationSeconds": 478,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01",
+          "grammar.q5.b04"
+        ],
+        "id": "sbry-n1-2019.12-文法-5-26",
+        "number": 26,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "不況の影響で、多くの企業が事業の縮小や延期、さらには事業からの撤退()余儀なくされている。",
+        "options": [
+          "を",
+          "で",
+          "と",
+          "に"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2011.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2011.12-文法-5-31",
+        "number": 31,
+        "selected": [
+          4
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "彼の論文は、構成にはまだ少し問題がある気が()、内容自体はだいぶよくなったと思う｡",
+        "options": [
+          "することはないが",
+          "しないでもないが",
+          "するよりほかないが",
+          "しないのではないが"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2025.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c13"
+        ],
+        "id": "markdown-2025.12-language-35",
+        "number": 35,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "もう1か月近く雨が降っていない。晴れの日が続くのはうれしいが、水不足などの問題を考えると(  )。",
+        "options": [
+          "喜んだだけにすぎない",
+          "喜んでばかりもいられない",
+          "喜んでしまうところだった",
+          "喜んでいないのではないか"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2015.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c01",
+          "grammar.q5.c09"
+        ],
+        "id": "sbry-n1-2015.07-文法-5-31",
+        "number": 31,
+        "selected": [
+          2
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "日本近海で海水の酸性化が認められたという。海の生態系に大きな影響が()遅い。早急な対策が求められる。",
+        "options": [
+          "出たせいなのかは",
+          "出てしまうかは",
+          "出たばかりでは",
+          "出てからでは"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2013.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b05",
+          "grammar.q5.b02"
+        ],
+        "id": "sbry-n1-2013.07-文法-5-30",
+        "number": 30,
+        "selected": [
+          4
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(会社で)\nＡ「あ、その資料はあしたまた使うから、捨てないで()。」\nＢ「わかった。じゃあ、ファイルに保管するね。」",
+        "options": [
+          "取れるって",
+          "取っといて",
+          "取っちゃわないって",
+          "取っとけなくて"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2013.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c17"
+        ],
+        "id": "sbry-n1-2013.12-文法-5-33",
+        "number": 33,
+        "selected": [
+          4
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "企画立案というのは苦しい作業だが、自分の案が採用されたときのうれしさ()。",
+        "options": [
+          "といったらない",
+          "にすぎない",
+          "ほどのことではない",
+          "ともかぎらない"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2014.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c02"
+        ],
+        "id": "sbry-n1-2014.07-文法-5-28",
+        "number": 28,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "テニスの木村健一選手は、おととしの全日本大会優勝()、競技から離れていたが、昨日、正式に引退を表明した。",
+        "options": [
+          "を最後に",
+          "を皮切りに",
+          "にあたって",
+          "に沿って"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2010.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c01"
+        ],
+        "id": "sbry-n1-2010.12-文法-5-26",
+        "number": 26,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "山川鉄道は、３月で開業９０周年を迎えるの()最新型車両を導入し、１５日から運営運転を開始する。",
+        "options": [
+          "を限りに",
+          "を皮切りに",
+          "をよそに",
+          "を機に"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2015.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c09",
+          "grammar.q5.c13"
+        ],
+        "id": "sbry-n1-2015.12-文法-5-31",
+        "number": 31,
+        "selected": [
+          3
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "来週、歯医者で歯を抜くことになった。()そうしたいが、もうほかに方法がないらしい。",
+        "options": [
+          "抜かずにいると",
+          "抜かずにいることで",
+          "抜かずに済むのだから",
+          "抜かずに済むものなら"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c16"
+        ],
+        "id": "jlpt4you-2024.07-grammar-5-6",
+        "number": 31,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "今日はさんざんな一日だった。自転車はパンクするし、財布はなくすし、しまいには大雨に降られてずぶぬれになる（ ）。",
+        "options": [
+          "始末だった",
+          "最中だった",
+          "思いだった",
+          "限りだった"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}

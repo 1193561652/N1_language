@@ -1,0 +1,408 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791198224716-lzhnp3",
+    "submittedAt": "2026-10-05T11:03:44.716Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "sbry-n1-2013.12-文法-5-32",
+        "jlpt4you-2024.07-grammar-5-10",
+        "sbry-n1-2013.12-文法-5-27",
+        "sbry-n1-2012.12-文法-5-35",
+        "sbry-n1-2021.12-文法-5-26",
+        "sbry-n1-2010.12-文法-5-31",
+        "jlpt4you-2024.07-grammar-5-3",
+        "sbry-n1-2020.12-文法-5-29",
+        "jlpt4you-2023.07-grammar-5-10",
+        "sbry-n1-2022.12-文法-5-33"
+      ],
+      "shuffleOptions": false,
+      "optionOrders": {}
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 5,
+    "percentage": 50,
+    "durationSeconds": 287,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2013.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c08"
+        ],
+        "id": "sbry-n1-2013.12-文法-5-32",
+        "number": 32,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "昨日行ったそば屋は、たくさん人が並んでいたので()、意外にすぐに席に案内された。",
+        "options": [
+          "待たされたかと思えば",
+          "待たされることと思い",
+          "待たされるかと思いきや",
+          "待たされたことと思うが"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06",
+          "grammar.q5.b02"
+        ],
+        "id": "jlpt4you-2024.07-grammar-5-10",
+        "number": 35,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "（育児の本で） 歳前後の子供は、「なぜ?」 「どうして?」と何でも（ ）。周囲の大人はめんどうくさがらずに、そういった質問に向き合ってあげましょう。",
+        "options": [
+          "知りたがるものです",
+          "知りたそうなもので",
+          "知りたがることです",
+          "知りそうなことです"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2013.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c03",
+          "grammar.q5.b01"
+        ],
+        "id": "sbry-n1-2013.12-文法-5-27",
+        "number": 27,
+        "selected": [
+          3
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "北川市では、良好な景観形成を計画的()具体的に進めるために、「北川市景観形成基本方針」を定めています。",
+        "options": [
+          "かつ",
+          "むしろ",
+          "ついては",
+          "かえって"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2012.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2012.12-文法-5-35",
+        "number": 35,
+        "selected": [
+          1
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "A「西川先生のデザインは、どういうところが魅力ですか。」\nB「そうですね。私にとって先生のデザインは、見ているだけでほっとする()、そんな温かい雰囲気があって、好きなんです。」",
+        "options": [
+          "というでしょうから",
+          "といいませんか",
+          "というでしょうが",
+          "といいましょうか"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2021.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c10"
+        ],
+        "id": "sbry-n1-2021.12-文法-5-26",
+        "number": 26,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "政治評論家の山田氏は「方法()、現状を打開する必要がある」と説く。",
+        "options": [
+          "としても",
+          "だけでなく",
+          "はどうであれ",
+          "にかわって"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2010.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2010.12-文法-5-31",
+        "number": 31,
+        "selected": [
+          4
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "上司「君、困る()！資料にミスがあったぞ。君のせいで大恥をかいたよ。」\n部下「すみません。うっかりしておりまして……」",
+        "options": [
+          "じゃないか",
+          "のではないか",
+          "じゃないのか",
+          "のではないのか"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03",
+          "grammar.q5.c01"
+        ],
+        "id": "jlpt4you-2024.07-grammar-5-3",
+        "number": 28,
+        "selected": [
+          1
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "（ホームページで） 当センターの相談窓口に（ ）、事前にご連絡をお願いいたします。",
+        "options": [
+          "伺って以来",
+          "伺う際は",
+          "お越しになって以来",
+          "お越しになる際は"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2020.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c11"
+        ],
+        "id": "sbry-n1-2020.12-文法-5-29",
+        "number": 29,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "X自動車の新社長に就任した山下春好氏は、会見で「私が持つノウハウ()、早期の黒字化が図れると確信している。」と述べた。",
+        "options": [
+          "とあってか",
+          "にあってさえ",
+          "にとってみれば",
+          "をもってすれば"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c12",
+          "grammar.q5.b06"
+        ],
+        "id": "jlpt4you-2023.07-grammar-5-10",
+        "number": 35,
+        "selected": [
+          2
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "（図書館で） 娘: 「図書館っていいね。だって、自分で買わなくてもこんなにたくさんの本が（ ）。」 母:「そうだね。」",
+        "options": [
+          "読めるんだもん",
+          "読めるもんか",
+          "読みたいんだもん",
+          "読みたいもんか"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2022.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c16",
+          "grammar.q5.b05"
+        ],
+        "id": "sbry-n1-2022.12-文法-5-33",
+        "number": 33,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "自転車の鍵が見当たらないと思ったら、昨日はいていたズボンのポケットに()。",
+        "options": [
+          "入れたつもり",
+          "入れっぱなしだった",
+          "入れっこなかった",
+          "入れるべきではなかった"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}

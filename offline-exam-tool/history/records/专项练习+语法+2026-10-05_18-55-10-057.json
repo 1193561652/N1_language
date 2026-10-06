@@ -1,0 +1,407 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791197710057-8gh7x4",
+    "submittedAt": "2026-10-05T10:55:10.057Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "sbry-n1-2014.07-文法-5-35",
+        "sbry-n1-2017.07-文法-5-29",
+        "sbry-n1-2010.07-文法-5-34",
+        "sbry-n1-2016.12-文法-5-34",
+        "sbry-n1-2020.12-文法-5-29",
+        "sbry-n1-2013.07-文法-5-31",
+        "sbry-n1-2017.07-文法-5-32",
+        "sbry-n1-2015.07-文法-5-35",
+        "jlpt4you-2024.07-grammar-5-10",
+        "jlpt4you-2023.12-grammar-5-8"
+      ],
+      "shuffleOptions": false,
+      "optionOrders": {}
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 5,
+    "percentage": 50,
+    "durationSeconds": 437,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2014.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c18",
+          "grammar.q5.c13"
+        ],
+        "id": "sbry-n1-2014.07-文法-5-35",
+        "number": 35,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "今回の最優秀作品に対して、審査員たちは、「こんな瞬間を写真に収めることができたなんて、まさに奇跡()」と絶賛している。",
+        "options": [
+          "とでも言えばいい",
+          "とすら言おうとしない",
+          "としか言いようがない",
+          "と言ってもしかたがない"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c18"
+        ],
+        "id": "sbry-n1-2017.07-文法-5-29",
+        "number": 29,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "今年35歳になるサッカー日本代表の森選手について、監督は、｢確かに体力が落ちてきた()が、高い技術力に期待している。｣と述べた。",
+        "options": [
+          "はずだった",
+          "とおりだった",
+          "ことは否めない",
+          "に越したことはない"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2010.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2010.07-文法-5-34",
+        "number": 34,
+        "selected": [
+          3
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "もう二度と恋()と固く心に誓ったはずだったが、知らず知らずのうちに彼女のことが好きになっていた。",
+        "options": [
+          "こそするものか",
+          "などするものか",
+          "こそするものなのか",
+          "などするものなのか"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2016.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06",
+          "grammar.q5.b04"
+        ],
+        "id": "sbry-n1-2016.12-文法-5-34",
+        "number": 34,
+        "selected": [
+          4
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "現在、潜水調査船を用いた調査研究が進展中であり、いずれ近いうちに海底のより詳細な地質構造が明らかに()。",
+        "options": [
+          "なるものと思われる",
+          "するという思いがある",
+          "なったかに思える",
+          "するだろうと思う"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2020.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c11"
+        ],
+        "id": "sbry-n1-2020.12-文法-5-29",
+        "number": 29,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "X自動車の新社長に就任した山下春好氏は、会見で「私が持つノウハウ()、早期の黒字化が図れると確信している。」と述べた。",
+        "options": [
+          "とあってか",
+          "にあってさえ",
+          "にとってみれば",
+          "をもってすれば"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2013.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c01",
+          "grammar.q5.b03"
+        ],
+        "id": "sbry-n1-2013.07-文法-5-31",
+        "number": 31,
+        "selected": [
+          1
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "本サービスを利用される方は、利用規約を()、お申し込みください。",
+        "options": [
+          "ご覧の結果",
+          "ご覧になった結果",
+          "ご覧になった上で",
+          "ご覧くださった上に"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c16"
+        ],
+        "id": "sbry-n1-2017.07-文法-5-32",
+        "number": 32,
+        "selected": [
+          2
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "全国高校テニス大会決勝で、西山選手は、持ち前の精神力の強さで相手の厳しい攻撃に()、見事勝利を収めた。",
+        "options": [
+          "耐えかねたほど",
+          "耐えかねた末に",
+          "耐えぬいたほど",
+          "耐えぬいた末に"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2015.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03"
+        ],
+        "id": "sbry-n1-2015.07-文法-5-35",
+        "number": 35,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "田中「部長、先日提出した書類なんですが、あれで大丈夫でしょうか。」\n部長「あ、ごめん。まだ見てない。」\n田中「そうですか。すみませんが、なるべく早く()。」",
+        "options": [
+          "見ていただけると助かるんですが",
+          "見ていただくんでしょうか",
+          "見ていだだいたと思うんですが",
+          "見ていただいてはいかがでしょうか"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06",
+          "grammar.q5.b02"
+        ],
+        "id": "jlpt4you-2024.07-grammar-5-10",
+        "number": 35,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "（育児の本で） 歳前後の子供は、「なぜ?」 「どうして?」と何でも（ ）。周囲の大人はめんどうくさがらずに、そういった質問に向き合ってあげましょう。",
+        "options": [
+          "知りたがるものです",
+          "知りたそうなもので",
+          "知りたがることです",
+          "知りそうなことです"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03"
+        ],
+        "id": "jlpt4you-2023.12-grammar-5-8",
+        "number": 33,
+        "selected": [
+          1
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "（会社で） 林: 「部長、ABC銀行の山下さんが（ ）。応接室でお待ちです。」 部長: 「わかりました。」",
+        "options": [
+          "参りました",
+          "見えました",
+          "うかがいました",
+          "お目にかかりました"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}

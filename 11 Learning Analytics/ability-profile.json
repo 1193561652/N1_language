@@ -6,11 +6,11 @@
   "evidence": {
     "firstDate": "2026-08-28",
     "lastDate": "2026-10-05",
-    "attempts": 64,
-    "totalQuestions": 1959,
-    "answeredQuestions": 1954,
-    "recordedCorrectAnswers": 1669,
-    "adjudicatedCorrectAnswers": 1669,
+    "attempts": 70,
+    "totalQuestions": 2019,
+    "answeredQuestions": 2014,
+    "recordedCorrectAnswers": 1707,
+    "adjudicatedCorrectAnswers": 1707,
     "coverage": [
       "文字・词汇",
       "语法（历史八期及新增跨期句子语法专项）"
@@ -21,11 +21,11 @@
       "阅读与听力基线"
     ],
     "rawRecordAudit": {
-      "totalFiles": 65,
-      "uniqueRecordIds": 65,
-      "allRecordsQuestions": 1965,
-      "allRecordsAnswered": 1960,
-      "allRecordsRecordedCorrect": 1670,
+      "totalFiles": 71,
+      "uniqueRecordIds": 71,
+      "allRecordsQuestions": 2025,
+      "allRecordsAnswered": 2020,
+      "allRecordsRecordedCorrect": 1708,
       "pendingRecordId": "1787920512509-g71xbx",
       "pendingReason": "沿用历史待核查状态：8/28 20:35六题25秒全选1；未擅自认定为试用或正式测验。"
     }
@@ -60,14 +60,18 @@
       "description": "仍是最稳定题型，但本场的本場、秘める说明词义对象限制需要单独追踪。"
     },
     "sentenceGrammar": {
-      "latestCorrect": 35,
-      "total": 50,
-      "answered": 50,
-      "latestRate": 0.7,
+      "latestCorrect": 9,
+      "total": 10,
+      "answered": 10,
+      "latestRate": 0.9,
       "previousFamiliarSetCorrect": 10,
       "previousFamiliarSetTotal": 10,
       "confidence": "medium-high",
-      "description": "跨期混合专项35/50；16熟题15对、34首次记录题20对；敬语持续错，固定连接与关系功能缺口明显，不与旧单套10/10直接比较。"
+      "description": "10/5晚间六轮句子语法38/60，末轮9/10；22错中2题后续恢复、20题末次仍错。16:05五旧错纠正，两个敬语题均累计连续三错。6选项标注3认可2错1待核实；1理由误把でもしたら当转折。末轮熟题7/7，首次记录2/3，不外推整体。",
+      "batchCorrect": 38,
+      "batchTotal": 60,
+      "dayCorrect": 73,
+      "dayTotal": 110
     },
     "sentenceOrdering": {
       "latestRecordedCorrect": 5,
@@ -127,7 +131,8 @@
         "お越しになる/伺う",
         "見える/伺う",
         "といたしましては/におかれましては",
-        "10/5お越しになる際は持续错；もらってやってください本轮正确，局部能力分化。"
+        "10/5お越しになる際は持续错；もらってやってください本轮正确，局部能力分化。",
+        "10/5 19:03お越しになる際は第三次连续错；18:55見えました第三次连续错，尊敬／自谦主体优先。"
       ],
       "diagnosis": "动作主体、助词和くださる/いただく视角尚未自动联动；对应教材第3部第6课。"
     },
@@ -139,7 +144,8 @@
         "ものを",
         "ばこそ",
         "とはいえ连续两错",
-        "10/5雨だろうと雪だろうと两错后纠正；ものの／ものを、时间边界／无条件让步仍错。"
+        "10/5雨だろうと雪だろうと两错后纠正；ものの／ものを、时间边界／无条件让步仍错。",
+        "18:42理由明确将でもしたら的でも当转折；状況次第では误成次第に。"
       ],
       "diagnosis": "需要区分无条件让步、遗憾逆接、原因强调、能力/禁止和程度；对应教材第1部第8、10、12、13课。"
     },
@@ -149,7 +155,8 @@
         "戻すことにしていこう连续两错",
         "入学したとたん回退",
         "思ったのである回退",
-        "言っておいて的逆预期责备"
+        "言っておいて的逆预期责备",
+        "17:49となりつつある错；18:55明らかになるものと思われる错后19:23恢复；んだもん与もんか混淆。"
       ],
       "diagnosis": "熟题仍忽略实际/假设、过去回忆/未来决定；对应教材第3部第1、4、11、12课。"
     },
@@ -201,8 +208,8 @@
     "2024.12熟题的完整排序结构复原"
   ],
   "currentPriorities": [
-    "语法15错：敬语主体＋際／以来、固定连接与名词化、让步／伴随／原因／时点功能",
-    "动词裁く／暴く、蓄える／携える回退；名词把握、興奮、本筋、手際保持待纠正",
+    "敬语主体：お越しになる／伺う、見える／参る均连续三错；新例句验证",
+    "句型功能：でもしたら、んだもん／もんか、次第では／次第に、耐えかねる／耐えぬく；复核6条标注",
     "篇章连接词的方向：因果、追加、强反转、承认后逆接",
     "反事实条件、かのように与だって的精确义项",
     "敬语主体、助词与授受视角联动",
@@ -555,26 +562,37 @@
   ],
   "latestPractice": {
     "date": "2026-10-05",
-    "localTime": "16:05",
-    "recordId": "1791187543359-uhhd47",
-    "focus": "問題5 句子语法",
-    "latestCorrect": 35,
-    "latestTotal": 50,
-    "rate": 0.7,
-    "durationSeconds": 2323,
+    "localTime": "19:23",
+    "recordId": "1791199403011-f67i79",
+    "focus": "問題5句子语法",
+    "latestCorrect": 9,
+    "latestTotal": 10,
+    "rate": 0.9,
+    "durationSeconds": 279,
     "optionNotes": 0,
     "reasonCount": 0,
     "shuffleOptions": false,
-    "comparison": {
-      "familiarQuestions": 16,
-      "previousCorrect": 13,
-      "currentCorrect": 15,
-      "firstRecordedQuestions": 34,
-      "firstRecordedCorrect": 20
+    "batchRecordIds": [
+      "1791193745692-upl716",
+      "1791196921030-gog2ru",
+      "1791197710057-8gh7x4",
+      "1791198224716-lzhnp3",
+      "1791198895676-a6drzx",
+      "1791199403011-f67i79"
+    ],
+    "batchCorrect": 38,
+    "batchTotal": 60,
+    "annotationAudit": {
+      "batchOptionNotes": 6,
+      "accepted": 3,
+      "errors": 2,
+      "pending": 1,
+      "adjudicatedRate": 0.6,
+      "reasonErrors": 1
     },
-    "masteryJudgment": "新增动词45/47（裁く、蓄える回退）与句子语法35/50。语法按题干＋选项修正跨ID同题后：16熟题15对，34首次记录题20对；雨だろうと与泣かせる已纠正，お越しになる際は持续错。",
-    "report": "daily/2026-10-05-1605.md",
-    "optionAudit": "daily/2026-10-05-1605-option-audit.md"
+    "masteryJudgment": "10/5晚间六轮句子语法38/60，末轮9/10；22错中2题后续恢复、20题末次仍错。16:05五旧错纠正，两个敬语题均累计连续三错。6选项标注3认可2错1待核实；1理由误把でもしたら当转折。",
+    "report": "daily/2026-10-05-1923.md",
+    "optionAudit": "daily/2026-10-05-1923-option-audit.md"
   },
   "annotationPolicy": {
     "updatedAt": "2026-09-29",
@@ -655,5 +673,29 @@
     "masteryJudgment": "10/5新增九轮418/450，末轮50/50；125题ID、121词。31个错词27个同日恢复，四个最后仍错：把握、興奮、本筋、手際，均未入末轮。13:50十错均纠正；此前11旧错除把握均已有正确证据。",
     "report": "daily/2026-10-05-1514.md",
     "optionAudit": "daily/2026-10-05-1514-option-audit.md"
+  },
+  "analysisUpdatedAt": "2026-10-06",
+  "previousGrammarPractice": {
+    "date": "2026-10-05",
+    "localTime": "16:05",
+    "recordId": "1791187543359-uhhd47",
+    "focus": "問題5 句子语法",
+    "latestCorrect": 35,
+    "latestTotal": 50,
+    "rate": 0.7,
+    "durationSeconds": 2323,
+    "optionNotes": 0,
+    "reasonCount": 0,
+    "shuffleOptions": false,
+    "comparison": {
+      "familiarQuestions": 16,
+      "previousCorrect": 13,
+      "currentCorrect": 15,
+      "firstRecordedQuestions": 34,
+      "firstRecordedCorrect": 20
+    },
+    "masteryJudgment": "新增动词45/47（裁く、蓄える回退）与句子语法35/50。语法按题干＋选项修正跨ID同题后：16熟题15对，34首次记录题20对；雨だろうと与泣かせる已纠正，お越しになる際は持续错。",
+    "report": "daily/2026-10-05-1605.md",
+    "optionAudit": "daily/2026-10-05-1605-option-audit.md"
   }
 }

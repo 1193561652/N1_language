@@ -964,7 +964,7 @@
         "expected": false,
         "note": "",
         "priority": "建议辨析一次",
-        "explanation": "双重否定接近必须做，反向"
+        "explanation": "否定禁止：不可能不准犯错；不等于必须犯错，与题干所需常识让步不合"
       },
       {
         "question": 3,

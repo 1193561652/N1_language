@@ -1,0 +1,406 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791199403011-f67i79",
+    "submittedAt": "2026-10-05T11:23:23.011Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "sbry-n1-2011.07-文法-5-35",
+        "sbry-n1-2019.07-文法-5-31",
+        "sbry-n1-2016.07-文法-5-30",
+        "sbry-n1-2011.07-文法-5-32",
+        "sbry-n1-2011.07-文法-5-26",
+        "sbry-n1-2013.12-文法-5-35",
+        "sbry-n1-2016.12-文法-5-34",
+        "sbry-n1-2012.12-文法-5-32",
+        "jlpt4you-2023.12-grammar-5-9",
+        "sbry-n1-2013.12-文法-5-32"
+      ],
+      "shuffleOptions": false,
+      "optionOrders": {}
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 9,
+    "percentage": 90,
+    "durationSeconds": 279,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2011.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2011.07-文法-5-35",
+        "number": 35,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(宇宙飛行士)山田太郎さんへのインタビューで\n山田「実は、初めから宇宙飛行士になる()、そうじゃないんです。大学を出たら、医者になろうと思っていましたから。」\n記者「では、何がきっかけで、宇宙飛行士になりたいと思ったんですか。」",
+        "options": [
+          "つもりだったかっていうと",
+          "つもりなのかっていわれたら",
+          "つもりじゃなかったのかっていわれたら",
+          "つもりがなかったかっていうと"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c12"
+        ],
+        "id": "sbry-n1-2019.07-文法-5-31",
+        "number": 31,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "駅前のうどん屋「やまむら」は、最近テレビで紹介された()、毎日店の前に長い行列ができている。",
+        "options": [
+          "とかで",
+          "とかなら",
+          "というのが",
+          "というのも"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2016.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2016.07-文法-5-30",
+        "number": 30,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "昨日初めてハンバーグを作ったが、家族にあまりおいしくないと言われてしまった。今度は絶対おいしく()。",
+        "options": [
+          "作るものか",
+          "作る始末だ",
+          "作ってみせる",
+          "作りつつある"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2011.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c03",
+          "grammar.q5.b01"
+        ],
+        "id": "sbry-n1-2011.07-文法-5-32",
+        "number": 32,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "留学するまで、私は自分が見ている世界がすべてだと思っていた。実はそれが世界のほんの小さな一部分()気付いていなかった。",
+        "options": [
+          "でないことにしか",
+          "でしかないことに",
+          "にないことでしか",
+          "にしかないことで"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2011.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c12"
+        ],
+        "id": "sbry-n1-2011.07-文法-5-26",
+        "number": 26,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "人気作家A氏の講演会が無料()、多くのファンが詰めかけた。",
+        "options": [
+          "にして",
+          "にあって",
+          "として",
+          "とあって"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2013.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2013.12-文法-5-35",
+        "number": 35,
+        "selected": [
+          4
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "友人からコンサートのチケットをもらったが、仕事で忙しく、行けそうにないので、()と悩んでいる。",
+        "options": [
+          "どうなったのか",
+          "どうしたものか",
+          "どうなっているか",
+          "どうしていることか"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2016.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06",
+          "grammar.q5.b04"
+        ],
+        "id": "sbry-n1-2016.12-文法-5-34",
+        "number": 34,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "現在、潜水調査船を用いた調査研究が進展中であり、いずれ近いうちに海底のより詳細な地質構造が明らかに()。",
+        "options": [
+          "なるものと思われる",
+          "するという思いがある",
+          "なったかに思える",
+          "するだろうと思う"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2012.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c08",
+          "grammar.q5.c13"
+        ],
+        "id": "sbry-n1-2012.12-文法-5-32",
+        "number": 32,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "彼の政治家としての能力は()、首相になるにはまだ早い。",
+        "options": [
+          "疑いようがないものを",
+          "疑いようがないものの",
+          "疑わないことはないものを",
+          "疑わないことはないものの"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b05"
+        ],
+        "id": "jlpt4you-2023.12-grammar-5-9",
+        "number": 34,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "今日から12月だ。早いもので、今年ももうすぐ（ ）。",
+        "options": [
+          "終わろうとする",
+          "終わろうとしている",
+          "終わるようにする",
+          "終わるようにしている"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2013.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c08"
+        ],
+        "id": "sbry-n1-2013.12-文法-5-32",
+        "number": 32,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "昨日行ったそば屋は、たくさん人が並んでいたので()、意外にすぐに席に案内された。",
+        "options": [
+          "待たされたかと思えば",
+          "待たされることと思い",
+          "待たされるかと思いきや",
+          "待たされたことと思うが"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}
