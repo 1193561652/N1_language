@@ -1,0 +1,408 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791267449323-tnfsdq",
+    "submittedAt": "2026-10-06T06:17:29.323Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": true,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "sbry-n1-2021.12-文法-5-30",
+        "jlpt4you-2024.07-grammar-5-3",
+        "sbry-n1-2013.07-文法-5-27",
+        "sbry-n1-2015.07-文法-5-26",
+        "sbry-n1-2021.12-文法-5-32",
+        "sbry-n1-2017.07-文法-5-28",
+        "sbry-n1-2017.12-文法-5-26",
+        "sbry-n1-2018.12-文法-5-27",
+        "sbry-n1-2022.07-文法-5-32",
+        "sbry-n1-2019.07-文法-5-33"
+      ],
+      "shuffleOptions": false,
+      "optionOrders": {},
+      "showFurigana": true
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 9,
+    "percentage": 90,
+    "durationSeconds": 526,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2021.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b05",
+          "grammar.q5.c08"
+        ],
+        "id": "sbry-n1-2021.12-文法-5-30",
+        "number": 30,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "妹「来月の私の誕生日、財布を買ってくれるんだよね?」\n兄「え?そんなこと言ったっけ？」\n妹「言ったよ。自分から()忘れるなんて信じられない。」",
+        "options": [
+          "言えたけど",
+          "言っといて",
+          "言ったせいで",
+          "言ったとすると"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03",
+          "grammar.q5.c01"
+        ],
+        "id": "jlpt4you-2024.07-grammar-5-3",
+        "number": 28,
+        "selected": [
+          2
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "（ホームページで） 当センターの相談窓口に（ ）、事前にご連絡をお願いいたします。",
+        "options": [
+          "伺って以来",
+          "伺う際は",
+          "お越しになって以来",
+          "お越しになる際は"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2013.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c03",
+          "grammar.q5.b01"
+        ],
+        "id": "sbry-n1-2013.07-文法-5-27",
+        "number": 27,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(ニュースで)\n北川動物園では、連日の猛暑で元気のないペンギンに、せめて気分()南極を感じてもらおうと氷の塊がプレゼントされました。",
+        "options": [
+          "のみも",
+          "だけでも",
+          "ですらも",
+          "くらいも"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2015.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01"
+        ],
+        "id": "sbry-n1-2015.07-文法-5-26",
+        "number": 26,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "世間はオリンピックの話題で盛り上がっているが、私はオリンピックには()興味がない。",
+        "options": [
+          "とうとう",
+          "まるで",
+          "二度と",
+          "たとえ"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2021.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c13"
+        ],
+        "id": "sbry-n1-2021.12-文法-5-32",
+        "number": 32,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "仕事が忙しくて、今年は旅行()。",
+        "options": [
+          "に過ぎない",
+          "どころではない",
+          "にほかならない",
+          "といっても過言ではない"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01"
+        ],
+        "id": "sbry-n1-2017.07-文法-5-28",
+        "number": 28,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "A社は、製品の成分表示に誤りがあったことについて謝罪したが、品質には()問題はないと強調した。",
+        "options": [
+          "かりに",
+          "なんら",
+          "なかなか",
+          "あまりにも"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c01"
+        ],
+        "id": "sbry-n1-2017.12-文法-5-26",
+        "number": 26,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "X陶芸美術館が25日、Y市に開館する。同美術館ではこれ()、23日に関係者を招いて記念式典を行った。",
+        "options": [
+          "に先立ち",
+          "に次ぎ",
+          "につけ",
+          "につれ"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c19"
+        ],
+        "id": "sbry-n1-2018.12-文法-5-27",
+        "number": 27,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "大波海岸に面している夏原町では、海の町()新鮮な魚料理が楽しめます。",
+        "options": [
+          "なり",
+          "なくして",
+          "ながらに",
+          "ならではの"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2022.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2022.07-文法-5-32",
+        "number": 32,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "ABC遊園地はオープンからまもなく1年を迎える。総来場者数は、先月末の時点で850万人に上り、一周年となる来月には1000万人を超える()という。",
+        "options": [
+          "限りだ",
+          "最中だ",
+          "見込みだ",
+          "一方だ"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c04"
+        ],
+        "id": "sbry-n1-2019.07-文法-5-33",
+        "number": 33,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "小林「ねえ、今日のダンスの練習、山口さんも来るんだよね?」\n森「どうだろう。あの人、来るって言ってても、()だから……。」",
+        "options": [
+          "来ても来なくても",
+          "来るか来ないか",
+          "来たり来なかったり",
+          "来るのも来ないのも"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}

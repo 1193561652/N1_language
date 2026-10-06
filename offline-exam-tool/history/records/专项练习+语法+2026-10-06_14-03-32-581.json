@@ -1,0 +1,413 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791266612581-o5lin4",
+    "submittedAt": "2026-10-06T06:03:32.581Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": true,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "markdown-2025.07-language-34",
+        "sbry-n1-2021.12-文法-5-34",
+        "sbry-n1-2011.07-文法-5-35",
+        "sbry-n1-2016.07-文法-5-26",
+        "sbry-n1-2014.12-文法-5-35",
+        "sbry-n1-2018.12-文法-5-32",
+        "sbry-n1-2013.07-文法-5-34",
+        "sbry-n1-2018.12-文法-5-27",
+        "markdown-2025.12-language-33",
+        "sbry-n1-2021.12-文法-5-28"
+      ],
+      "shuffleOptions": false,
+      "optionOrders": {},
+      "showFurigana": true
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 8,
+    "percentage": 80,
+    "durationSeconds": 952,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2025.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c09",
+          "grammar.q5.b05",
+          "grammar.q5.b06"
+        ],
+        "id": "markdown-2025.07-language-34",
+        "number": 34,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "友人の田中(たなか)が起業した会社が順調だという。あのとき、「うちの会社に来ないか」という彼の誘いを断らなければ、今ごろ部長くらいには(  )。",
+        "options": [
+          "なってきたようだ",
+          "なっていたかもしれない",
+          "なってほしいようだ",
+          "なっていくかもしれない"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2021.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c20",
+          "grammar.q5.c17"
+        ],
+        "id": "sbry-n1-2021.12-文法-5-34",
+        "number": 34,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "私の夢を応援してくれた人たちに心から感謝している。特に、いつも支えてくれた両親にはどんなに()。",
+        "options": [
+          "感謝してもしきれない",
+          "感謝しようにもできない",
+          "感謝しすぎることはない",
+          "感謝したくてたまらない"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2011.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2011.07-文法-5-35",
+        "number": 35,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(宇宙飛行士)山田太郎さんへのインタビューで\n山田「実は、初めから宇宙飛行士になる()、そうじゃないんです。大学を出たら、医者になろうと思っていましたから。」\n記者「では、何がきっかけで、宇宙飛行士になりたいと思ったんですか。」",
+        "options": [
+          "つもりだったかっていうと",
+          "つもりなのかっていわれたら",
+          "つもりじゃなかったのかっていわれたら",
+          "つもりがなかったかっていうと"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2016.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2016.07-文法-5-26",
+        "number": 26,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "アナウンサー「次の試合は優勝候補同士の対決です。()どちらが勝つのでしょ うか。」",
+        "options": [
+          "ついに",
+          "まさか",
+          "どうやら",
+          "果たして"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2014.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c13",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2014.12-文法-5-35",
+        "number": 35,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "夫「見て。実家から米が届いたよ。」\n妻「わあ、すごい。これだけたくさんあれば、私たち、当分お米は()ね。」",
+        "options": [
+          "買ってきてはないんだ",
+          "買ったきりになってる",
+          "買わなくて済みそうだ",
+          "買うつもりじゃなかった"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c16",
+          "grammar.q5.b04"
+        ],
+        "id": "sbry-n1-2018.12-文法-5-32",
+        "number": 32,
+        "selected": [
+          1
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "西清さんは元銀行員。支店長を()、夢であった和菓子職人を目指し、45歳で退職。その10年後、大ヒット商品の「七色だんご」を生み出した。",
+        "options": [
+          "任されたまでは",
+          "任されたくらいでは",
+          "任されるまでになったが",
+          "任されるくらいになれば"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2013.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b04",
+          "grammar.q5.b03"
+        ],
+        "id": "sbry-n1-2013.07-文法-5-34",
+        "number": 34,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この曲は、失恋で落ち込んで泣いていた私に、また新しい恋をしようと()曲です。",
+        "options": [
+          "思われていた",
+          "思わせてくれた",
+          "思わせられた",
+          "思われてならなかった"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c19"
+        ],
+        "id": "sbry-n1-2018.12-文法-5-27",
+        "number": 27,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "大波海岸に面している夏原町では、海の町()新鮮な魚料理が楽しめます。",
+        "options": [
+          "なり",
+          "なくして",
+          "ながらに",
+          "ならではの"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2025.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03",
+          "grammar.q5.b06"
+        ],
+        "id": "markdown-2025.12-language-33",
+        "number": 33,
+        "selected": [
+          4
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "けんか中の父と母を仲直りさせられそうだったのに、姉が話を蒸し返したせいで、うまくいかなくなってしまった。まったく、余計なことを(  )。",
+        "options": [
+          "してくれたものだ",
+          "しかねないものだ",
+          "してくれたはずだ",
+          "しかねないはずだ"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2021.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c08"
+        ],
+        "id": "sbry-n1-2021.12-文法-5-28",
+        "number": 28,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "あの時すぐに治療しておけばよかった()、ほうっておくからあっかしてしまったんだ。",
+        "options": [
+          "ばかりに",
+          "ことを",
+          "ために",
+          "ものを"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}

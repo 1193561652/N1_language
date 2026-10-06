@@ -1,0 +1,411 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791269436030-2ua8ht",
+    "submittedAt": "2026-10-06T06:50:36.030Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": true,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "sbry-n1-2015.12-文法-5-32",
+        "sbry-n1-2012.12-文法-5-29",
+        "sbry-n1-2022.07-文法-5-35",
+        "sbry-n1-2017.07-文法-5-30",
+        "sbry-n1-2013.12-文法-5-35",
+        "sbry-n1-2015.07-文法-5-31",
+        "markdown-2025.07-language-34",
+        "jlpt4you-2023.12-grammar-5-8",
+        "sbry-n1-2018.07-文法-5-31",
+        "sbry-n1-2021.07-文法-5-33"
+      ],
+      "shuffleOptions": false,
+      "optionOrders": {},
+      "showFurigana": true
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 6,
+    "percentage": 60,
+    "durationSeconds": 696,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2015.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c18",
+          "grammar.q5.b04"
+        ],
+        "id": "sbry-n1-2015.12-文法-5-32",
+        "number": 32,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "彼は最近忙しいので、頼んでも、無理だと()が、一度は頼んでみようと思う。",
+        "options": [
+          "言わせる始末だ",
+          "言わせるということだ",
+          "言われるに決まっている",
+          "言われるまでになる"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2012.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c11"
+        ],
+        "id": "sbry-n1-2012.12-文法-5-29",
+        "number": 29,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "デートの約束がある日は、急いで()業務をこなしていても、なぜか急な会議が入ったりして、結局残業で遅れてしまう。",
+        "options": [
+          "帰るべし",
+          "帰るべき",
+          "帰るべく",
+          "帰るべからず"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2022.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b04",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2022.07-文法-5-35",
+        "number": 35,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "私としては()のだが、妻は私の一言に感動したらしく、泣かれてしまった。",
+        "options": [
+          "泣くつもりはなかった",
+          "泣かせるつもりはなかった",
+          "泣きたくてたまらなかった",
+          "泣かせたくてたまらなかった"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03"
+        ],
+        "id": "sbry-n1-2017.07-文法-5-30",
+        "number": 30,
+        "selected": [
+          1
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "田中部長「ねえ、山下くん、今度の会議でこの企画の説明をするのは鈴木課長だっけ？」\n山下「はい、課長がご説明()。」",
+        "options": [
+          "申します",
+          "いただきます",
+          "願います",
+          "なさいます"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2013.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2013.12-文法-5-35",
+        "number": 35,
+        "selected": [
+          4
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "友人からコンサートのチケットをもらったが、仕事で忙しく、行けそうにないので、()と悩んでいる。",
+        "options": [
+          "どうなったのか",
+          "どうしたものか",
+          "どうなっているか",
+          "どうしていることか"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2015.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c01",
+          "grammar.q5.c09"
+        ],
+        "id": "sbry-n1-2015.07-文法-5-31",
+        "number": 31,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "日本近海で海水の酸性化が認められたという。海の生態系に大きな影響が()遅い。早急な対策が求められる。",
+        "options": [
+          "出たせいなのかは",
+          "出てしまうかは",
+          "出たばかりでは",
+          "出てからでは"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2025.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c09",
+          "grammar.q5.b05",
+          "grammar.q5.b06"
+        ],
+        "id": "markdown-2025.07-language-34",
+        "number": 34,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "友人の田中(たなか)が起業した会社が順調だという。あのとき、「うちの会社に来ないか」という彼の誘いを断らなければ、今ごろ部長くらいには(  )。",
+        "options": [
+          "なってきたようだ",
+          "なっていたかもしれない",
+          "なってほしいようだ",
+          "なっていくかもしれない"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03"
+        ],
+        "id": "jlpt4you-2023.12-grammar-5-8",
+        "number": 33,
+        "selected": [
+          1
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "（会社で） 林: 「部長、ABC銀行の山下さんが（ ）。応接室でお待ちです。」 部長: 「わかりました。」",
+        "options": [
+          "参りました",
+          "見えました",
+          "うかがいました",
+          "お目にかかりました"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c01"
+        ],
+        "id": "sbry-n1-2018.07-文法-5-31",
+        "number": 31,
+        "selected": [
+          3
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "うちの猫は、突然甘えてきたり、()、呼んでも無視してどこかに行ってしまったりする。本当に気まぐれだ。",
+        "options": [
+          "そうだと思って",
+          "そうかと思えば",
+          "こうだと見て",
+          "こうかと見れば"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2021.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06",
+          "grammar.q5.c16"
+        ],
+        "id": "sbry-n1-2021.07-文法-5-33",
+        "number": 33,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "就職先は慎重に選ばないと「こんなはずではなかった」()。",
+        "options": [
+          "といったようにはしかねる",
+          "といったようにならない",
+          "ということになりかねない",
+          "ということにはありえない"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}

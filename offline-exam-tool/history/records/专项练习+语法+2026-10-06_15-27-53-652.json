@@ -1,0 +1,409 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791271673652-81inff",
+    "submittedAt": "2026-10-06T07:27:53.652Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": true,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "sbry-n1-2022.12-文法-5-30",
+        "sbry-n1-2013.12-文法-5-34",
+        "sbry-n1-2015.12-文法-5-28",
+        "markdown-2025.07-language-27",
+        "sbry-n1-2018.12-文法-5-27",
+        "sbry-n1-2013.07-文法-5-28",
+        "jlpt4you-2024.07-grammar-5-2",
+        "markdown-2025.12-language-27",
+        "sbry-n1-2022.12-文法-5-35",
+        "sbry-n1-2018.12-文法-5-31"
+      ],
+      "shuffleOptions": false,
+      "optionOrders": {},
+      "showFurigana": true
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 7,
+    "percentage": 70,
+    "durationSeconds": 231,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2022.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c03",
+          "grammar.q5.b02"
+        ],
+        "id": "sbry-n1-2022.12-文法-5-30",
+        "number": 30,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(ホームページで)\n当店では、商品に欠陥がある()、返品及び交換はお受けできませんので、あらかじめご了承ください。",
+        "options": [
+          "点に加えて",
+          "点を除いて",
+          "場合に加えて",
+          "場合を除いて"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2013.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03"
+        ],
+        "id": "sbry-n1-2013.12-文法-5-34",
+        "number": 34,
+        "selected": [
+          1
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "店員「アルバイトの大田さんのことなんですが、仕事中におしゃべりが多くて困っているんです。店長から一言()。」\n店長「わかった。後で注意しておくよ」",
+        "options": [
+          "伺いたいのですが",
+          "お聞きになるでしょうか",
+          "申し上げてもよろしいですか",
+          "おっしゃってくださいませんか"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2015.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01"
+        ],
+        "id": "sbry-n1-2015.12-文法-5-28",
+        "number": 28,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "私の会社では、どんな理由があろうと、業務に関するデータや資料を社外に持ち出すことは、()認められていない。",
+        "options": [
+          "いっさい",
+          "むしろ",
+          "かならず",
+          "どうしても"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2025.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c08",
+          "grammar.q5.b01"
+        ],
+        "id": "markdown-2025.07-language-27",
+        "number": 27,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "脳科学の研究が進んだ現代( )、人が夢を見るメカニズムについては解明できていない部分が多いという。",
+        "options": [
+          "にあっても",
+          "に至っては",
+          "をめぐって",
+          "を踏まえて"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c19"
+        ],
+        "id": "sbry-n1-2018.12-文法-5-27",
+        "number": 27,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "大波海岸に面している夏原町では、海の町()新鮮な魚料理が楽しめます。",
+        "options": [
+          "なり",
+          "なくして",
+          "ながらに",
+          "ならではの"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2013.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2013.07-文法-5-28",
+        "number": 28,
+        "selected": [
+          2
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "近年、子どもの読書離れが指摘されているが、()子どもの読書量は本当に減っているのだろうか。",
+        "options": [
+          "かりに",
+          "どうやら",
+          "おそらく",
+          "はたして"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c17"
+        ],
+        "id": "jlpt4you-2024.07-grammar-5-2",
+        "number": 27,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "彼はわずか 27 歳（ ）市長となった。",
+        "options": [
+          "にして",
+          "にあたって",
+          "に際して",
+          "に先立って"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2025.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c09"
+        ],
+        "id": "markdown-2025.12-language-27",
+        "number": 27,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "今回のプロジェクトは、地域住民の協力(  )実現しなかったであろう。",
+        "options": [
+          "をはじめ",
+          "なくしては",
+          "とあって",
+          "のみならず"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2022.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b05",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2022.12-文法-5-35",
+        "number": 35,
+        "selected": [
+          2
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "私は昔からバイクが大好きだ。小さい頃は、よく父のバイクの後ろに()。",
+        "options": [
+          "乗りたかったものだ",
+          "乗りたかったところだ",
+          "乗って欲しかったものだ",
+          "乗って欲しかったところだ"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c13"
+        ],
+        "id": "sbry-n1-2018.12-文法-5-31",
+        "number": 31,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "会社の先輩は、「わからないことがあったら、何でも聞いて。」と言ってくれるが、会議や外出でほとんど席にいないので、()聞けない。",
+        "options": [
+          "聞いては",
+          "聞くには",
+          "聞こうにも",
+          "聞かずとも"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}

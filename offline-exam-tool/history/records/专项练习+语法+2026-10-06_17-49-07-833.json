@@ -1,0 +1,410 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791280147833-5sh63j",
+    "submittedAt": "2026-10-06T09:49:07.833Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": true,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "sbry-n1-2014.07-文法-5-35",
+        "sbry-n1-2016.07-文法-5-35",
+        "sbry-n1-2019.12-文法-5-26",
+        "sbry-n1-2010.07-文法-5-30",
+        "sbry-n1-2017.12-文法-5-28",
+        "jlpt4you-2023.07-grammar-5-1",
+        "jlpt4you-2023.07-grammar-5-7",
+        "sbry-n1-2018.07-文法-5-31",
+        "sbry-n1-2015.07-文法-5-28",
+        "sbry-n1-2013.12-文法-5-29"
+      ],
+      "shuffleOptions": false,
+      "optionOrders": {},
+      "showFurigana": true
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 9,
+    "percentage": 90,
+    "durationSeconds": 367,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2014.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c18",
+          "grammar.q5.c13"
+        ],
+        "id": "sbry-n1-2014.07-文法-5-35",
+        "number": 35,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "今回の最優秀作品に対して、審査員たちは、「こんな瞬間を写真に収めることができたなんて、まさに奇跡()」と絶賛している。",
+        "options": [
+          "とでも言えばいい",
+          "とすら言おうとしない",
+          "としか言いようがない",
+          "と言ってもしかたがない"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2016.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2016.07-文法-5-35",
+        "number": 35,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(メールで)\n風邪の具合はいかがですか。今年の風邪は長引くみたいですから、どうぞお気をつけください。一日も早く回復()。",
+        "options": [
+          "されますように",
+          "願ってはどうですか",
+          "いたしたく思います",
+          "していらっしゃるでしょうか"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01",
+          "grammar.q5.b04"
+        ],
+        "id": "sbry-n1-2019.12-文法-5-26",
+        "number": 26,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "不況の影響で、多くの企業が事業の縮小や延期、さらには事業からの撤退()余儀なくされている。",
+        "options": [
+          "を",
+          "で",
+          "と",
+          "に"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2010.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c17"
+        ],
+        "id": "sbry-n1-2010.07-文法-5-30",
+        "number": 30,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "間違い電話をかけてきて謝りもしないとは、失礼()。",
+        "options": [
+          "でならない",
+          "ではいられない",
+          "極まりない",
+          "に越したことはない"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c09"
+        ],
+        "id": "sbry-n1-2017.12-文法-5-28",
+        "number": 28,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "姉「あれ?出かけるの?」\n妹「うん、ちょっと新宿(しんじゅく)まで。」\n姉「あ、新宿(しんじゅく)に()、帰りにみるく屋のチーズケーキ、買ってきてくれない?」\n妹「うん、いいよ。」",
+        "options": [
+          "行くと",
+          "行けば",
+          "行ってたら",
+          "行くんなら"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01"
+        ],
+        "id": "jlpt4you-2023.07-grammar-5-1",
+        "number": 26,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "努力して夢を叶えた弟のことを兄として誇り（ ）思う。",
+        "options": [
+          "を",
+          "で",
+          "が",
+          "に"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c13",
+          "grammar.q5.b06"
+        ],
+        "id": "jlpt4you-2023.07-grammar-5-7",
+        "number": 32,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "いつも駅から大学までバスを使っているが、2キロほどなので、歩こうと思えば（ ）。",
+        "options": [
+          "歩くほかない",
+          "歩けなくもない",
+          "歩いてはいられない",
+          "歩けるわけがない"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c01"
+        ],
+        "id": "sbry-n1-2018.07-文法-5-31",
+        "number": 31,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "うちの猫は、突然甘えてきたり、()、呼んでも無視してどこかに行ってしまったりする。本当に気まぐれだ。",
+        "options": [
+          "そうだと思って",
+          "そうかと思えば",
+          "こうだと見て",
+          "こうかと見れば"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2015.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c09",
+          "grammar.q5.b05"
+        ],
+        "id": "sbry-n1-2015.07-文法-5-28",
+        "number": 28,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(女優に対するインタビューで)\nA「女優になろうと思われたきっかけは何だったんですか。」\nB「高校生のときに初めて見たお芝居に感動して、女優になろうと決めたんです。あのときあのお芝居を()、女優になることはなかったと思います。」",
+        "options": [
+          "見たとしたら",
+          "見ようが",
+          "見なかったにしろ",
+          "見ていなければ"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2013.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b04"
+        ],
+        "id": "sbry-n1-2013.12-文法-5-29",
+        "number": 29,
+        "selected": [
+          2
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "景気は徐々に回復してきていると言われるが、私には一時的な現象のように()。",
+        "options": [
+          "思う",
+          "思っている",
+          "思われる",
+          "思わせる"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,409 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791281312320-a8jxr2",
+    "submittedAt": "2026-10-06T10:08:32.320Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": true,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "sbry-n1-2019.07-文法-5-30",
+        "sbry-n1-2011.07-文法-5-26",
+        "sbry-n1-2016.12-文法-5-28",
+        "sbry-n1-2019.07-文法-5-33",
+        "sbry-n1-2011.07-文法-5-30",
+        "sbry-n1-2013.12-文法-5-30",
+        "sbry-n1-2013.07-文法-5-26",
+        "sbry-n1-2019.12-文法-5-33",
+        "jlpt4you-2024.12-grammar-5-7",
+        "sbry-n1-2016.12-文法-5-34"
+      ],
+      "shuffleOptions": false,
+      "optionOrders": {},
+      "showFurigana": true
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 7,
+    "percentage": 70,
+    "durationSeconds": 729,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2019.07-文法-5-30",
+        "number": 30,
+        "selected": [
+          2
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "先生「木村くん、このレポート読んだよ。うまくまとめられなかったって言ってたけど、けっこうよく()。」\n木村「ありがとうごさいます。」",
+        "options": [
+          "書けてなきゃ",
+          "書けてたらいいね",
+          "書けてるじゃない",
+          "書けてるかどうかだね"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2011.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c12"
+        ],
+        "id": "sbry-n1-2011.07-文法-5-26",
+        "number": 26,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "人気作家A氏の講演会が無料()、多くのファンが詰めかけた。",
+        "options": [
+          "にして",
+          "にあって",
+          "として",
+          "とあって"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2016.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c08",
+          "grammar.q5.b01"
+        ],
+        "id": "sbry-n1-2016.12-文法-5-28",
+        "number": 28,
+        "selected": [
+          2
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(卒業生へのインタビューで)\n聞き手「学生時代にやったことで、今の仕事に役立っていることは何でしょうか。」\n田中「ラグビー部での経験ですね。チームワークの大切さを痛感しました。()、それは去年企画チームのリーダーになって始めて気づいたことですが。」",
+        "options": [
+          "要するに",
+          "あるいは",
+          "もっとも",
+          "ついては"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c04"
+        ],
+        "id": "sbry-n1-2019.07-文法-5-33",
+        "number": 33,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "小林「ねえ、今日のダンスの練習、山口さんも来るんだよね?」\n森「どうだろう。あの人、来るって言ってても、()だから……。」",
+        "options": [
+          "来ても来なくても",
+          "来るか来ないか",
+          "来たり来なかったり",
+          "来るのも来ないのも"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2011.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2011.07-文法-5-30",
+        "number": 30,
+        "selected": [
+          4
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "その日、私はホームに入ってきた電車に飛び乗った。ところが、電車は反対方向に走り始めた()。私は電車の行き先を確かめなかったことを後悔した。",
+        "options": [
+          "ではない",
+          "ではないか",
+          "のではない",
+          "のではないか"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2013.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c09",
+          "grammar.q5.c12"
+        ],
+        "id": "sbry-n1-2013.12-文法-5-30",
+        "number": 30,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "新幹線の新型車両が初めて一般に公開される()、鉄道ファンの私としては、見に行かないわけにはいかない。",
+        "options": [
+          "にあってか",
+          "とあっては",
+          "になっては",
+          "となってか"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2013.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c02"
+        ],
+        "id": "sbry-n1-2013.07-文法-5-26",
+        "number": 26,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "乗客の減少が続いていた竹山鉄道が、今年の３月31日()廃止された。",
+        "options": [
+          "を受けて",
+          "を皮切りに",
+          "をピークに",
+          "をもって"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c12",
+          "grammar.q5.c13"
+        ],
+        "id": "sbry-n1-2019.12-文法-5-33",
+        "number": 33,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この映画は主役の演技が良くない。ほかの俳優については()、実にもったいない。",
+        "options": [
+          "文句のつけようがないのか",
+          "文句のつけようがないだけに",
+          "文句をつけずにはいられないのか",
+          "文句をつけずにはいられないだけに"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "jlpt4you-2024.12-grammar-5-7",
+        "number": 32,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "驚いたことに、その小学生は、高校レベルの数学の問題をすらすらと（ ）。",
+        "options": [
+          "解けるとは",
+          "解けるものなら",
+          "解いたまでだ",
+          "解いてみせた"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2016.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06",
+          "grammar.q5.b04"
+        ],
+        "id": "sbry-n1-2016.12-文法-5-34",
+        "number": 34,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "現在、潜水調査船を用いた調査研究が進展中であり、いずれ近いうちに海底のより詳細な地質構造が明らかに()。",
+        "options": [
+          "なるものと思われる",
+          "するという思いがある",
+          "なったかに思える",
+          "するだろうと思う"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,413 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791262815807-1hlnzn",
+    "submittedAt": "2026-10-06T05:00:15.807Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": true,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "sbry-n1-2019.07-文法-5-32",
+        "sbry-n1-2014.07-文法-5-29",
+        "jlpt4you-2024.12-grammar-5-4",
+        "sbry-n1-2013.07-文法-5-27",
+        "sbry-n1-2017.12-文法-5-26",
+        "sbry-n1-2013.12-文法-5-27",
+        "sbry-n1-2018.12-文法-5-30",
+        "markdown-2025.07-language-34",
+        "sbry-n1-2013.12-文法-5-26",
+        "sbry-n1-2017.12-文法-5-28"
+      ],
+      "shuffleOptions": false,
+      "optionOrders": {},
+      "showFurigana": true
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 7,
+    "percentage": 70,
+    "durationSeconds": 341,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c17",
+          "grammar.q5.b01"
+        ],
+        "id": "sbry-n1-2019.07-文法-5-32",
+        "number": 32,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "今回の事故について社長が会見を行ったが、あれでは何の説明()、わが社の信用が失われるだけだ。",
+        "options": [
+          "になっておらず",
+          "にもなっておらず",
+          "になっているのではなく",
+          "にもなっているのではなく"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2014.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c08",
+          "grammar.q5.b01"
+        ],
+        "id": "sbry-n1-2014.07-文法-5-29",
+        "number": 29,
+        "selected": [
+          3
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "部下「課長、W社から納期を一週間早めてほしいという連絡があったんですが。」\n課長「え、納期の日程を設定したのはあっちだろう。()、納期まで２週間の今になって、早めろと言うなんて勝手過ぎる。どういうことなんだ。」",
+        "options": [
+          "実は",
+          "というのは",
+          "ただし",
+          "それを"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c12",
+          "grammar.q5.b06"
+        ],
+        "id": "jlpt4you-2024.12-grammar-5-4",
+        "number": 29,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "ウェブサイトごとに異なるパスワードを設定するのは面倒だが、第三者が不正にアクセスされる（ ）、やむを得ない。",
+        "options": [
+          "しかない以上",
+          "しかない反面",
+          "恐れがある以上",
+          "恐れがある反面"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2013.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c03",
+          "grammar.q5.b01"
+        ],
+        "id": "sbry-n1-2013.07-文法-5-27",
+        "number": 27,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(ニュースで)\n北川動物園では、連日の猛暑で元気のないペンギンに、せめて気分()南極を感じてもらおうと氷の塊がプレゼントされました。",
+        "options": [
+          "のみも",
+          "だけでも",
+          "ですらも",
+          "くらいも"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c01"
+        ],
+        "id": "sbry-n1-2017.12-文法-5-26",
+        "number": 26,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "X陶芸美術館が25日、Y市に開館する。同美術館ではこれ()、23日に関係者を招いて記念式典を行った。",
+        "options": [
+          "に先立ち",
+          "に次ぎ",
+          "につけ",
+          "につれ"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2013.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c03",
+          "grammar.q5.b01"
+        ],
+        "id": "sbry-n1-2013.12-文法-5-27",
+        "number": 27,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "北川市では、良好な景観形成を計画的()具体的に進めるために、「北川市景観形成基本方針」を定めています。",
+        "options": [
+          "かつ",
+          "むしろ",
+          "ついては",
+          "かえって"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2018.12-文法-5-30",
+        "number": 30,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "最近、多くの地域で和紙職人の高齢化が進んでおり、このままでは、せっかくの伝統技術が()。",
+        "options": [
+          "失われたようだ",
+          "失われかけている",
+          "失われかねない",
+          "失われてはならない"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2025.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c09",
+          "grammar.q5.b05",
+          "grammar.q5.b06"
+        ],
+        "id": "markdown-2025.07-language-34",
+        "number": 34,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "友人の田中(たなか)が起業した会社が順調だという。あのとき、「うちの会社に来ないか」という彼の誘いを断らなければ、今ごろ部長くらいには(  )。",
+        "options": [
+          "なってきたようだ",
+          "なっていたかもしれない",
+          "なってほしいようだ",
+          "なっていくかもしれない"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2013.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c12",
+          "grammar.q5.b01"
+        ],
+        "id": "sbry-n1-2013.12-文法-5-26",
+        "number": 26,
+        "selected": [
+          1
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "夏休みに水族館にいったら、時期()時期だけに親子連れで混雑していた。",
+        "options": [
+          "で",
+          "に",
+          "は",
+          "が"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c09"
+        ],
+        "id": "sbry-n1-2017.12-文法-5-28",
+        "number": 28,
+        "selected": [
+          2
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "姉「あれ?出かけるの?」\n妹「うん、ちょっと新宿(しんじゅく)まで。」\n姉「あ、新宿(しんじゅく)に()、帰りにみるく屋のチーズケーキ、買ってきてくれない?」\n妹「うん、いいよ。」",
+        "options": [
+          "行くと",
+          "行けば",
+          "行ってたら",
+          "行くんなら"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}

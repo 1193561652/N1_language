@@ -1,0 +1,411 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791265534269-s8pju4",
+    "submittedAt": "2026-10-06T05:45:34.269Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": true,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "jlpt4you-2024.12-grammar-5-3",
+        "jlpt4you-2023.12-grammar-5-7",
+        "sbry-n1-2018.12-文法-5-30",
+        "sbry-n1-2014.12-文法-5-34",
+        "sbry-n1-2020.12-文法-5-28",
+        "sbry-n1-2012.07-文法-5-28",
+        "sbry-n1-2015.07-文法-5-28",
+        "sbry-n1-2019.12-文法-5-28",
+        "sbry-n1-2018.07-文法-5-34",
+        "sbry-n1-2010.12-文法-5-31"
+      ],
+      "shuffleOptions": false,
+      "optionOrders": {},
+      "showFurigana": true
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 8,
+    "percentage": 80,
+    "durationSeconds": 875,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c01",
+          "grammar.q5.b02"
+        ],
+        "id": "jlpt4you-2024.12-grammar-5-3",
+        "number": 28,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "息子はサッカーの練習でよほど疲れていたのか、家に（ ）食事もとらず、寝てしまった。",
+        "options": [
+          "帰り次第",
+          "帰るなり",
+          "帰ったなり",
+          "帰るとなれば"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b02",
+          "grammar.q5.c19"
+        ],
+        "id": "jlpt4you-2023.12-grammar-5-7",
+        "number": 32,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "先日、レストランに行ったとき、店員の失礼な態度に大変（ ）。",
+        "options": [
+          "不快な思いをした",
+          "不快極まりない",
+          "不快だったことか",
+          "不快にもほどがある"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2018.12-文法-5-30",
+        "number": 30,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "最近、多くの地域で和紙職人の高齢化が進んでおり、このままでは、せっかくの伝統技術が()。",
+        "options": [
+          "失われたようだ",
+          "失われかけている",
+          "失われかねない",
+          "失われてはならない"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2014.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c20",
+          "grammar.q5.b04"
+        ],
+        "id": "sbry-n1-2014.12-文法-5-34",
+        "number": 34,
+        "selected": [
+          3
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "試合後、木村選手は、「絶対に勝ちたい相手だっただけに、大事な場面でのミスが()」とコメントした。",
+        "options": [
+          "悔やまないようにする",
+          "悔やんでばかりだ",
+          "悔やむべきではない",
+          "悔やまれてならない"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2020.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c08",
+          "grammar.q5.b01"
+        ],
+        "id": "sbry-n1-2020.12-文法-5-28",
+        "number": 28,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "これまで森さんのことなど何とも思っていなかった。()最近、なぜか急に恋愛対象として意識するようになってしまった。",
+        "options": [
+          "それは",
+          "それも",
+          "それか",
+          "それが"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2012.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b02"
+        ],
+        "id": "sbry-n1-2012.07-文法-5-28",
+        "number": 28,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "映画『ブラック』は評判通りの面白さで、特に、主人公が()ざる敵におびえる場面は圧巻だった。",
+        "options": [
+          "見て",
+          "見え",
+          "見る",
+          "見える"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2015.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c09",
+          "grammar.q5.b05"
+        ],
+        "id": "sbry-n1-2015.07-文法-5-28",
+        "number": 28,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(女優に対するインタビューで)\nA「女優になろうと思われたきっかけは何だったんですか。」\nB「高校生のときに初めて見たお芝居に感動して、女優になろうと決めたんです。あのときあのお芝居を()、女優になることはなかったと思います。」",
+        "options": [
+          "見たとしたら",
+          "見ようが",
+          "見なかったにしろ",
+          "見ていなければ"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c01"
+        ],
+        "id": "sbry-n1-2019.12-文法-5-28",
+        "number": 28,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "半年後に大学受験()、アイドルの西田アキは現在活動を休止している。",
+        "options": [
+          "を基にして",
+          "を控えて",
+          "をもって",
+          "をめぐって"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c13",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2018.07-文法-5-34",
+        "number": 34,
+        "selected": [
+          3
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "条件の折り合いがつかず、すぐに契約を結ぶのが難しい現状では、A社とは、時間はかかっても、根気よく交渉を重ねていく()。",
+        "options": [
+          "どころではなかろう",
+          "しかあるまい",
+          "などあるものか",
+          "ことすらない"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2010.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2010.12-文法-5-31",
+        "number": 31,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "上司「君、困る()！資料にミスがあったぞ。君のせいで大恥をかいたよ。」\n部下「すみません。うっかりしておりまして……」",
+        "options": [
+          "じゃないか",
+          "のではないか",
+          "じゃないのか",
+          "のではないのか"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}

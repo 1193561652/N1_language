@@ -1,0 +1,408 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791263329462-4xwuh6",
+    "submittedAt": "2026-10-06T05:08:49.462Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": true,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "jlpt4you-2024.12-grammar-5-4",
+        "sbry-n1-2011.07-文法-5-35",
+        "jlpt4you-2024.07-grammar-5-7",
+        "sbry-n1-2014.12-文法-5-27",
+        "sbry-n1-2013.07-文法-5-35",
+        "sbry-n1-2015.07-文法-5-34",
+        "sbry-n1-2019.07-文法-5-35",
+        "jlpt4you-2023.12-grammar-5-2",
+        "sbry-n1-2018.12-文法-5-27",
+        "sbry-n1-2012.07-文法-5-35"
+      ],
+      "shuffleOptions": false,
+      "optionOrders": {},
+      "showFurigana": true
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 7,
+    "percentage": 70,
+    "durationSeconds": 389,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c12",
+          "grammar.q5.b06"
+        ],
+        "id": "jlpt4you-2024.12-grammar-5-4",
+        "number": 29,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "ウェブサイトごとに異なるパスワードを設定するのは面倒だが、第三者が不正にアクセスされる（ ）、やむを得ない。",
+        "options": [
+          "しかない以上",
+          "しかない反面",
+          "恐れがある以上",
+          "恐れがある反面"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2011.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2011.07-文法-5-35",
+        "number": 35,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(宇宙飛行士)山田太郎さんへのインタビューで\n山田「実は、初めから宇宙飛行士になる()、そうじゃないんです。大学を出たら、医者になろうと思っていましたから。」\n記者「では、何がきっかけで、宇宙飛行士になりたいと思ったんですか。」",
+        "options": [
+          "つもりだったかっていうと",
+          "つもりなのかっていわれたら",
+          "つもりじゃなかったのかっていわれたら",
+          "つもりがなかったかっていうと"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c18"
+        ],
+        "id": "jlpt4you-2024.07-grammar-5-7",
+        "number": 32,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "森選手の予選敗退は、けがが原因だと言われているが、本人は 「けがは関係ない。単に実力が足りなかった（ ）」とコメントしている。",
+        "options": [
+          "だけある",
+          "ものがある",
+          "だけのことだ",
+          "ようなものだ"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2014.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2014.12-文法-5-27",
+        "number": 27,
+        "selected": [
+          2
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "うちの猫は、カメラを向けると逃げてしまう。()カメラのレンズが怖いようだ。",
+        "options": [
+          "まさか",
+          "なんて",
+          "どうやら",
+          "かえって"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2013.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c19"
+        ],
+        "id": "sbry-n1-2013.07-文法-5-35",
+        "number": 35,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "中村「山田さんは本当に猫が好きなんだね。今日のバッグも猫の絵柄だし。」\n山田「うん。でも、あんまり持ち物が猫柄ばかりなんで、家族から『猫好き()だろう。』って言われたりする。」",
+        "options": [
+          "のかぎりではない",
+          "のことにかぎる",
+          "にもほどがある",
+          "にあるほどでもない"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2015.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b05",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2015.07-文法-5-34",
+        "number": 34,
+        "selected": [
+          1
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(レストランで)\n妻「ねえ、森さんは30分くらい遅れるんだって。」\n夫「じゃあ、先に食べ物、()。お腹がすいててさ。」\n妻「そうだね。食べながら森さん待とう。」\n夫「うん。」",
+        "options": [
+          "頼んどけないよ",
+          "頼んじゃわないか",
+          "頼んどかないで",
+          "頼んじゃうんじゃないよね"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2019.07-文法-5-35",
+        "number": 35,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "高橋「林さん、ギター教室探してるって聞いたけど、見つかった?」\n林「いえ、まだなんです。」\n高橋「よかったら、私が通ってるギター教室、見学してみない?見学したからって、()し、どう?」",
+        "options": [
+          "入りたがるだけじゃない",
+          "入らせないわけにはいかない",
+          "入りたくないだけかもしれない",
+          "入らなきゃいけないってわけじゃない"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c17"
+        ],
+        "id": "jlpt4you-2023.12-grammar-5-2",
+        "number": 27,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "経営者は、会社は社員（ ）ものであるということを忘れてはいけない。",
+        "options": [
+          "たる",
+          "における",
+          "あっての",
+          "ならではの"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c19"
+        ],
+        "id": "sbry-n1-2018.12-文法-5-27",
+        "number": 27,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "大波海岸に面している夏原町では、海の町()新鮮な魚料理が楽しめます。",
+        "options": [
+          "なり",
+          "なくして",
+          "ながらに",
+          "ならではの"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2012.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03"
+        ],
+        "id": "sbry-n1-2012.07-文法-5-35",
+        "number": 35,
+        "selected": [
+          1
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "川村「石田さん、ギターがほしいって言っていましたよね。わたしの弟が使っていたギターがあるんですが、よければどうですか。」\n石田「いいんですか。」\n川村「はい。弟に聞いたら、弾いてくれる方がいるなら、ぜひと言っていましたので、どうぞもらって()。」",
+        "options": [
+          "やりませんか",
+          "やってください",
+          "いただきませんか",
+          "いただいてください"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}

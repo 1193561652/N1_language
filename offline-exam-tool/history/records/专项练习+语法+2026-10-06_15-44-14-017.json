@@ -1,0 +1,409 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791272654017-rbua49",
+    "submittedAt": "2026-10-06T07:44:14.017Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": true,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "markdown-2025.12-language-26",
+        "sbry-n1-2016.12-文法-5-29",
+        "sbry-n1-2010.12-文法-5-35",
+        "sbry-n1-2014.12-文法-5-31",
+        "sbry-n1-2018.07-文法-5-32",
+        "sbry-n1-2016.07-文法-5-32",
+        "sbry-n1-2010.07-文法-5-35",
+        "sbry-n1-2022.07-文法-5-35",
+        "sbry-n1-2014.07-文法-5-31",
+        "sbry-n1-2018.12-文法-5-31"
+      ],
+      "shuffleOptions": false,
+      "optionOrders": {},
+      "showFurigana": true
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 6,
+    "percentage": 60,
+    "durationSeconds": 897,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2025.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01",
+          "grammar.q5.c13"
+        ],
+        "id": "markdown-2025.12-language-26",
+        "number": 26,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "庭の草取りを始めたが、思っていたよりも大変で、一日では(  )終わりそうにない。",
+        "options": [
+          "仮に",
+          "今にも",
+          "とても",
+          "まもなく"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2016.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03"
+        ],
+        "id": "sbry-n1-2016.12-文法-5-29",
+        "number": 29,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "村の郷土史をまとめるにあたり、今年90歳になる元村長の東山さんにお話を伺った。村に初めて汽車が走ったときのことを鮮明に覚えて()、その記憶力に驚いた。",
+        "options": [
+          "おいでになり",
+          "差し上げ",
+          "まいり",
+          "申し上げ"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2010.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2010.12-文法-5-35",
+        "number": 35,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "「いくら注意しても、後輩が同じ失敗を繰り返します。私は注意し続けるべきでしょうか。それとも本人が気づくまで、もう何も言う()。」",
+        "options": [
+          "べきでしょうか",
+          "べきなのでしょうか",
+          "べきではないのでしょうか",
+          "べきなのではないでしょう"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2014.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c08"
+        ],
+        "id": "sbry-n1-2014.12-文法-5-31",
+        "number": 31,
+        "selected": [
+          2
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "悪いと思うなら素直に「ごめん」と()、弟はそれができなくて、すぐ言い訳する。",
+        "options": [
+          "謝ろうとしないのだから",
+          "謝っているところに",
+          "謝ればいいものを",
+          "謝らないかぎりは"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c12"
+        ],
+        "id": "sbry-n1-2018.07-文法-5-32",
+        "number": 32,
+        "selected": [
+          3
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "一人暮らしを始めてからは、誰にも何も言われない()、だらしない生活をするようになってしまった。",
+        "options": [
+          "のをいいことに",
+          "のがよければ",
+          "といいものだから",
+          "とよさそうなのに"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2016.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c12"
+        ],
+        "id": "sbry-n1-2016.07-文法-5-32",
+        "number": 32,
+        "selected": [
+          3
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "数々の名曲を生み出し、天才作曲家と呼ばれる山川氏だが、天才()苦悩もあったという。",
+        "options": [
+          "とし得る",
+          "であるがごとき",
+          "とせざるを得ない",
+          "であるがゆえの"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2010.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c03",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2010.07-文法-5-35",
+        "number": 35,
+        "selected": [
+          4
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "先日提出した私の意見書は、単に決定に至るプロセスの問題点を指摘()、決定そのものに反対するものではありません。",
+        "options": [
+          "しそうになったにすぎず",
+          "しそうになったほどで",
+          "しようとしたにすぎず",
+          "しようとしたほどで"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2022.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b04",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2022.07-文法-5-35",
+        "number": 35,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "私としては()のだが、妻は私の一言に感動したらしく、泣かれてしまった。",
+        "options": [
+          "泣くつもりはなかった",
+          "泣かせるつもりはなかった",
+          "泣きたくてたまらなかった",
+          "泣かせたくてたまらなかった"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2014.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03",
+          "grammar.q5.b05"
+        ],
+        "id": "sbry-n1-2014.07-文法-5-31",
+        "number": 31,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "新市長に当選した上田氏は「選挙中に掲げた政策を、市長として私自らが先頭に立って実行して()。」と決意を述べた。",
+        "options": [
+          "まいります",
+          "願います",
+          "いたします",
+          "頂戴します"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c13"
+        ],
+        "id": "sbry-n1-2018.12-文法-5-31",
+        "number": 31,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "会社の先輩は、「わからないことがあったら、何でも聞いて。」と言ってくれるが、会議や外出でほとんど席にいないので、()聞けない。",
+        "options": [
+          "聞いては",
+          "聞くには",
+          "聞こうにも",
+          "聞かずとも"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}

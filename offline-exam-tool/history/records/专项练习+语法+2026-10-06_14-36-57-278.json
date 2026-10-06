@@ -1,0 +1,410 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791268617278-z185br",
+    "submittedAt": "2026-10-06T06:36:57.278Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": true,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "jlpt4you-2024.12-grammar-5-1",
+        "sbry-n1-2018.07-文法-5-35",
+        "sbry-n1-2021.12-文法-5-34",
+        "sbry-n1-2016.07-文法-5-35",
+        "sbry-n1-2015.07-文法-5-35",
+        "sbry-n1-2015.07-文法-5-28",
+        "sbry-n1-2014.12-文法-5-26",
+        "sbry-n1-2021.07-文法-5-31",
+        "sbry-n1-2014.07-文法-5-33",
+        "sbry-n1-2015.07-文法-5-30"
+      ],
+      "shuffleOptions": false,
+      "optionOrders": {},
+      "showFurigana": true
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 7,
+    "percentage": 70,
+    "durationSeconds": 418,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01",
+          "grammar.q5.c19"
+        ],
+        "id": "jlpt4you-2024.12-grammar-5-1",
+        "number": 26,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "宝くじ売り場があるよ、買ってみない? どうせ当たらないんだから、買う（ ）無駄だったよ。",
+        "options": [
+          "より",
+          "のみ",
+          "には",
+          "だけ"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2018.07-文法-5-35",
+        "number": 35,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "A「ねえ、昨日、ABCデパートにいたでしょう？見かけたよ。」\nB「ええ！気づいたなら声をかけて()。」",
+        "options": [
+          "くれたと思ったんだね",
+          "もらったと思ったのに",
+          "くれればよかったのに",
+          "もらえばよかったんだね"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2021.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c20",
+          "grammar.q5.c17"
+        ],
+        "id": "sbry-n1-2021.12-文法-5-34",
+        "number": 34,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "私の夢を応援してくれた人たちに心から感謝している。特に、いつも支えてくれた両親にはどんなに()。",
+        "options": [
+          "感謝してもしきれない",
+          "感謝しようにもできない",
+          "感謝しすぎることはない",
+          "感謝したくてたまらない"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2016.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2016.07-文法-5-35",
+        "number": 35,
+        "selected": [
+          4
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(メールで)\n風邪の具合はいかがですか。今年の風邪は長引くみたいですから、どうぞお気をつけください。一日も早く回復()。",
+        "options": [
+          "されますように",
+          "願ってはどうですか",
+          "いたしたく思います",
+          "していらっしゃるでしょうか"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2015.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03"
+        ],
+        "id": "sbry-n1-2015.07-文法-5-35",
+        "number": 35,
+        "selected": [
+          3
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "田中「部長、先日提出した書類なんですが、あれで大丈夫でしょうか。」\n部長「あ、ごめん。まだ見てない。」\n田中「そうですか。すみませんが、なるべく早く()。」",
+        "options": [
+          "見ていただけると助かるんですが",
+          "見ていただくんでしょうか",
+          "見ていだだいたと思うんですが",
+          "見ていただいてはいかがでしょうか"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2015.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c09",
+          "grammar.q5.b05"
+        ],
+        "id": "sbry-n1-2015.07-文法-5-28",
+        "number": 28,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(女優に対するインタビューで)\nA「女優になろうと思われたきっかけは何だったんですか。」\nB「高校生のときに初めて見たお芝居に感動して、女優になろうと決めたんです。あのときあのお芝居を()、女優になることはなかったと思います。」",
+        "options": [
+          "見たとしたら",
+          "見ようが",
+          "見なかったにしろ",
+          "見ていなければ"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2014.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c17"
+        ],
+        "id": "sbry-n1-2014.12-文法-5-26",
+        "number": 26,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この島では、春になると、花()花が一斉に咲いて、島全体を埋め尽くします。",
+        "options": [
+          "だの",
+          "との",
+          "なり",
+          "という"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2021.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c12"
+        ],
+        "id": "sbry-n1-2021.07-文法-5-31",
+        "number": 31,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "歯医者「歯を磨くときに、汚れを()、強い力で磨いてしまいがちですが、力を入れすぎると、歯を傷つけてしまいます。優しく磨きましょう。」",
+        "options": [
+          "落とそうとするあまり",
+          "落とそうとしたわりに",
+          "落とせばいいのであれば",
+          "落とせばいいかというと"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2014.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c09"
+        ],
+        "id": "sbry-n1-2014.07-文法-5-33",
+        "number": 33,
+        "selected": [
+          1
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "課題の締め切り前になると、もっと時間があればと思うが、()、きっと遊んでしまうのだろうとも思う。",
+        "options": [
+          "あるにはあるが",
+          "あったらあったで",
+          "あるとないとでは",
+          "あったりなかったりで"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2015.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b04"
+        ],
+        "id": "sbry-n1-2015.07-文法-5-30",
+        "number": 30,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "学生時代によく通ったこの喫茶店に来ると、あのころのことが昨日のことのように()。",
+        "options": [
+          "思い出される",
+          "思い出す",
+          "思い出すだろう",
+          "思い出させた"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}

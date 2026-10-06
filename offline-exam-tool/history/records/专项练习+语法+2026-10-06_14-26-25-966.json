@@ -1,0 +1,409 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791267985966-1sy4r5",
+    "submittedAt": "2026-10-06T06:26:25.966Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": true,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "sbry-n1-2017.07-文法-5-26",
+        "sbry-n1-2022.12-文法-5-30",
+        "markdown-2025.07-language-27",
+        "sbry-n1-2015.07-文法-5-30",
+        "sbry-n1-2014.07-文法-5-30",
+        "sbry-n1-2017.07-文法-5-29",
+        "sbry-n1-2020.12-文法-5-29",
+        "sbry-n1-2012.12-文法-5-30",
+        "markdown-2025.07-language-30",
+        "markdown-2025.12-language-26"
+      ],
+      "shuffleOptions": false,
+      "optionOrders": {},
+      "showFurigana": true
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 9,
+    "percentage": 90,
+    "durationSeconds": 474,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2017.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c09"
+        ],
+        "id": "sbry-n1-2017.07-文法-5-26",
+        "number": 26,
+        "selected": [
+          4
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "今年歌手生活40周年を迎えた山川みつ子は、引退のうわさを否定して、「応援してくれるファンが一人でも()、歌い続けます。」と語った。",
+        "options": [
+          "いた上",
+          "いる限り",
+          "いながら",
+          "いるだけあって"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2022.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c03",
+          "grammar.q5.b02"
+        ],
+        "id": "sbry-n1-2022.12-文法-5-30",
+        "number": 30,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(ホームページで)\n当店では、商品に欠陥がある()、返品及び交換はお受けできませんので、あらかじめご了承ください。",
+        "options": [
+          "点に加えて",
+          "点を除いて",
+          "場合に加えて",
+          "場合を除いて"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2025.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c08",
+          "grammar.q5.b01"
+        ],
+        "id": "markdown-2025.07-language-27",
+        "number": 27,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "脳科学の研究が進んだ現代( )、人が夢を見るメカニズムについては解明できていない部分が多いという。",
+        "options": [
+          "にあっても",
+          "に至っては",
+          "をめぐって",
+          "を踏まえて"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2015.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b04"
+        ],
+        "id": "sbry-n1-2015.07-文法-5-30",
+        "number": 30,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "学生時代によく通ったこの喫茶店に来ると、あのころのことが昨日のことのように()。",
+        "options": [
+          "思い出される",
+          "思い出す",
+          "思い出すだろう",
+          "思い出させた"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2014.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2014.07-文法-5-30",
+        "number": 30,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "母「たかし、宿題は終わったの？」\nたかし「まだ終わってない。今日の宿題、難しくて、全然()。」",
+        "options": [
+          "わかんないんだもん",
+          "わかんないもんか",
+          "わかんないんだっけ",
+          "わかんないからって"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c18"
+        ],
+        "id": "sbry-n1-2017.07-文法-5-29",
+        "number": 29,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "今年35歳になるサッカー日本代表の森選手について、監督は、｢確かに体力が落ちてきた()が、高い技術力に期待している。｣と述べた。",
+        "options": [
+          "はずだった",
+          "とおりだった",
+          "ことは否めない",
+          "に越したことはない"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2020.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c11"
+        ],
+        "id": "sbry-n1-2020.12-文法-5-29",
+        "number": 29,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "X自動車の新社長に就任した山下春好氏は、会見で「私が持つノウハウ()、早期の黒字化が図れると確信している。」と述べた。",
+        "options": [
+          "とあってか",
+          "にあってさえ",
+          "にとってみれば",
+          "をもってすれば"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2012.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c10"
+        ],
+        "id": "sbry-n1-2012.12-文法-5-30",
+        "number": 30,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "彼は自転車がよほど好きらしい。()、毎日楽しそうに自転車で通勤してくる。",
+        "options": [
+          "雨とも雪とも",
+          "雨でもなく雪でもなく",
+          "雨というか雪というか",
+          "雨だろうと雪だろうと"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2025.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01",
+          "grammar.q5.c08"
+        ],
+        "id": "markdown-2025.07-language-30",
+        "number": 30,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この小説は、政界の権力争いを題材( )、描かれているのは家族のきずなであり、多くの人の心に響く感動の物語となっている。",
+        "options": [
+          "であることで",
+          "とすることで",
+          "でありながらも",
+          "としながらも"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2025.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01",
+          "grammar.q5.c13"
+        ],
+        "id": "markdown-2025.12-language-26",
+        "number": 26,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "次の文の(  )に入れるのに最もよいものを、1・2・3・4から一つ選びなさい。\n庭の草取りを始めたが、思っていたよりも大変で、一日では(  )終わりそうにない。",
+        "options": [
+          "仮に",
+          "今にも",
+          "とても",
+          "まもなく"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}

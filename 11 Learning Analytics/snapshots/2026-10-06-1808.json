@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-06",
+  "localTime": "18:08",
+  "newRecords": 13,
+  "newRecordIds": [
+    "1791262815807-1hlnzn",
+    "1791263329462-4xwuh6",
+    "1791265534269-s8pju4",
+    "1791266612581-o5lin4",
+    "1791267449323-tnfsdq",
+    "1791267985966-1sy4r5",
+    "1791268617278-z185br",
+    "1791269436030-2ua8ht",
+    "1791269902193-vqcknh",
+    "1791271673652-81inff",
+    "1791272654017-rbua49",
+    "1791280147833-5sh63j",
+    "1791281312320-a8jxr2"
+  ],
+  "summary": {
+    "correct": 98,
+    "total": 130,
+    "durationSeconds": 7243,
+    "optionNotes": 0
+  },
+  "dayTotal": {
+    "correct": 192,
+    "total": 227,
+    "durationSeconds": 7695
+  },
+  "cumulative": {
+    "attempts": 85,
+    "totalQuestions": 2246,
+    "answeredQuestions": 2241,
+    "adjudicatedCorrectAnswers": 1899
+  },
+  "interpretation": "10/6新增13轮句子语法98/130，最新18:08为7/10；32错中3题后续纠正、29题末次仍错。两个敬语题均连续四错，お越し题时间部分改善但主体仍错；7个昨天末次错误本批纠正。"
+}
