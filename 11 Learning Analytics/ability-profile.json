@@ -6,11 +6,11 @@
   "evidence": {
     "firstDate": "2026-08-28",
     "lastDate": "2026-10-07",
-    "attempts": 88,
-    "totalQuestions": 2353,
-    "answeredQuestions": 2348,
-    "recordedCorrectAnswers": 2002,
-    "adjudicatedCorrectAnswers": 2002,
+    "attempts": 91,
+    "totalQuestions": 2383,
+    "answeredQuestions": 2378,
+    "recordedCorrectAnswers": 2027,
+    "adjudicatedCorrectAnswers": 2027,
     "coverage": [
       "文字・词汇",
       "语法（历史八期及新增跨期句子语法专项）"
@@ -21,11 +21,11 @@
       "阅读与听力基线"
     ],
     "rawRecordAudit": {
-      "totalFiles": 89,
-      "uniqueRecordIds": 89,
-      "allRecordsQuestions": 2359,
-      "allRecordsAnswered": 2354,
-      "allRecordsRecordedCorrect": 2003,
+      "totalFiles": 92,
+      "uniqueRecordIds": 92,
+      "allRecordsQuestions": 2389,
+      "allRecordsAnswered": 2384,
+      "allRecordsRecordedCorrect": 2028,
       "pendingRecordId": "1787920512509-g71xbx",
       "pendingReason": "沿用历史待核查状态：8/28 20:35六题25秒全选1；未擅自认定为试用或正式测验。"
     }
@@ -60,18 +60,18 @@
       "description": "仍是最稳定题型，但本场的本場、秘める说明词义对象限制需要单独追踪。"
     },
     "sentenceGrammar": {
-      "latestCorrect": 8,
+      "latestCorrect": 9,
       "total": 10,
       "answered": 10,
-      "latestRate": 0.8,
+      "latestRate": 0.9,
       "previousFamiliarSetCorrect": 10,
       "previousFamiliarSetTotal": 10,
       "confidence": "medium-high",
-      "description": "10/7动词47/47、名词48/50、语法8/10。巧妙、繁殖回退；人脈、需要恢复；裁く、蓄える继续保持。语法熟题7/7、首次ID1/3；がたい／ずにすまない与ようとも／ようにも未辨清。しようとしたにすぎず恢复，困るじゃないか跨天保持。无新标注；旧错注不解除。",
-      "batchCorrect": 8,
-      "batchTotal": 10,
-      "dayCorrect": 8,
-      "dayTotal": 10
+      "description": "10/7下午新增三轮语法7/10、9/10、9/10，共25/30。已出现题次23/24，首次ID2/6；七个末次旧错恢复，にあっても由两次正确回退。ようにする／ようとする／ようになる、自他动词及时体、AにBにと列举需优先辨析。",
+      "batchCorrect": 25,
+      "batchTotal": 30,
+      "dayCorrect": 33,
+      "dayTotal": 40
     },
     "sentenceOrdering": {
       "latestRecordedCorrect": 5,
@@ -136,7 +136,8 @@
         "10/5 19:03お越しになる際は第三次连续错；18:55見えました第三次连续错，尊敬／自谦主体优先。",
         "10/6お越しになる際は／見えました四连错；なさいます、我方立场といたしましては及请求功能多处失分。"
       ],
-      "diagnosis": "动作主体、助词和くださる/いただく视角尚未自动联动；对应教材第3部第6课。"
+      "diagnosis": "动作主体、助词和くださる/いただく视角尚未自动联动；对应教材第3部第6课。",
+      "latestEvidence20261007Afternoon": "10/7下午新增三轮语法7/10、9/10、9/10，共25/30。已出现题次23/24，首次ID2/6；七个末次旧错恢复，にあっても由两次正确回退。ようにする／ようとする／ようになる、自他动词及时体、AにBにと列举需优先辨析。"
     },
     "concessionConditionAndDegree": {
       "status": "priority-weakness",
@@ -150,7 +151,8 @@
         "18:42理由明确将でもしたら的でも当转折；状況次第では误成次第に。"
       ],
       "diagnosis": "需要区分无条件让步、遗憾逆接、原因强调、能力/禁止和程度；对应教材第1部第8、10、12、13课。",
-      "latestEvidence20261007": "10/7动词47/47、名词48/50、语法8/10。巧妙、繁殖回退；人脈、需要恢复；裁く、蓄える继续保持。语法熟题7/7、首次ID1/3；がたい／ずにすまない与ようとも／ようにも未辨清。しようとしたにすぎず恢复，困るじゃないか跨天保持。无新标注；旧错注不解除。"
+      "latestEvidence20261007": "10/7动词47/47、名词48/50、语法8/10。巧妙、繁殖回退；人脈、需要恢复；裁く、蓄える继续保持。语法熟题7/7、首次ID1/3；がたい／ずにすまない与ようとも／ようにも未辨清。しようとしたにすぎず恢复，困るじゃないか跨天保持。无新标注；旧错注不解除。",
+      "latestEvidence20261007Afternoon": "10/7下午新增三轮语法7/10、9/10、9/10，共25/30。已出现题次23/24，首次ID2/6；七个末次旧错恢复，にあっても由两次正确回退。ようにする／ようとする／ようになる、自他动词及时体、AにBにと列举需优先辨析。"
     },
     "aspectTimeAndSpeakerStance": {
       "status": "priority-weakness",
@@ -163,7 +165,8 @@
         "10/6最新書けてるじゃない、もっとも、ではないか三错，已发生评价与希望、补充与选择、发现与推断混淆。"
       ],
       "diagnosis": "熟题仍忽略实际/假设、过去回忆/未来决定；对应教材第3部第1、4、11、12课。",
-      "latestEvidence20261007": "10/7动词47/47、名词48/50、语法8/10。巧妙、繁殖回退；人脈、需要恢复；裁く、蓄える继续保持。语法熟题7/7、首次ID1/3；がたい／ずにすまない与ようとも／ようにも未辨清。しようとしたにすぎず恢复，困るじゃないか跨天保持。无新标注；旧错注不解除。"
+      "latestEvidence20261007": "10/7动词47/47、名词48/50、语法8/10。巧妙、繁殖回退；人脈、需要恢复；裁く、蓄える继续保持。语法熟题7/7、首次ID1/3；がたい／ずにすまない与ようとも／ようにも未辨清。しようとしたにすぎず恢复，困るじゃないか跨天保持。无新标注；旧错注不解除。",
+      "latestEvidence20261007Afternoon": "10/7下午新增三轮语法7/10、9/10、9/10，共25/30。已出现题次23/24，首次ID2/6；七个末次旧错恢复，にあっても由两次正确回退。ようにする／ようとする／ようになる、自他动词及时体、AにBにと列举需优先辨析。"
     },
     "modifierDependencyAndOrdering": {
       "status": "improving-needs-new-item-validation",
@@ -213,8 +216,8 @@
     "2024.12熟题的完整排序结构复原"
   ],
   "currentPriorities": [
-    "敬语主体与授受请求：两道来访题四连错，本次未测",
-    "区分がたい／ずにすまない、ようとも／ようにも；保持にすぎず与じゃない的纠正",
+    "ようにする／ようとする／ようになる，结合つもりが、あげく区分意图与结果",
+    "にあっても让步、高まる／高める与つつある／見込み、AにBにと列举；七个恢复项间隔复测，来访敬语补测",
     "读音纠正巧妙、繁殖，复测人脈、需要，补测克服、把握、興奮、本筋；旧动词错注须直接纠正",
     "篇章连接词的方向：因果、追加、强反转、承认后逆接",
     "反事实条件、かのように与だって的精确义项",
@@ -570,25 +573,24 @@
   ],
   "latestPractice": {
     "date": "2026-10-07",
-    "localTime": "13:39",
-    "recordId": "1791351599986-anqiz1",
-    "focus": "句子语法",
-    "latestCorrect": 8,
+    "localTime": "14:42",
+    "recordId": "1791355376735-xejv69",
+    "latestCorrect": 9,
     "latestTotal": 10,
-    "rate": 0.8,
-    "durationSeconds": 1648,
+    "rate": 0.9,
+    "durationSeconds": 481,
     "optionNotes": 0,
     "reasonCount": 0,
     "batchRecordIds": [
-      "1791349384394-a0l6s2",
-      "1791349802027-n9s1rt",
-      "1791351599986-anqiz1"
+      "1791353675070-etm2ji",
+      "1791354540404-4uummr",
+      "1791355376735-xejv69"
     ],
-    "batchCorrect": 103,
-    "batchTotal": 107,
-    "masteryJudgment": "10/7动词47/47、名词48/50、语法8/10。巧妙、繁殖回退；人脈、需要恢复；裁く、蓄える继续保持。语法熟题7/7、首次ID1/3；がたい／ずにすまない与ようとも／ようにも未辨清。しようとしたにすぎず恢复，困るじゃないか跨天保持。无新标注；旧错注不解除。",
-    "report": "daily/2026-10-07.md",
-    "optionAudit": "daily/2026-10-07-option-audit.md"
+    "batchCorrect": 25,
+    "batchTotal": 30,
+    "masteryJudgment": "10/7下午新增三轮语法7/10、9/10、9/10，共25/30。已出现题次23/24，首次ID2/6；七个末次旧错恢复，にあっても由两次正确回退。ようにする／ようとする／ようになる、自他动词及时体、AにBにと列举需优先辨析。",
+    "report": "daily/2026-10-07-1442.md",
+    "optionAudit": "daily/2026-10-07-1442-option-audit.md"
   },
   "annotationPolicy": {
     "updatedAt": "2026-09-29",
@@ -643,37 +645,25 @@
   },
   "analysisUpdatedAt": "2026-10-07",
   "previousGrammarPractice": {
-    "date": "2026-10-06",
-    "localTime": "18:08",
-    "recordId": "1791281312320-a8jxr2",
-    "focus": "問題5句子语法",
-    "latestCorrect": 7,
+    "date": "2026-10-07",
+    "localTime": "13:39",
+    "recordId": "1791351599986-anqiz1",
+    "focus": "句子语法",
+    "latestCorrect": 8,
     "latestTotal": 10,
-    "rate": 0.7,
-    "durationSeconds": 729,
+    "rate": 0.8,
+    "durationSeconds": 1648,
     "optionNotes": 0,
     "reasonCount": 0,
-    "shuffleOptions": false,
     "batchRecordIds": [
-      "1791262815807-1hlnzn",
-      "1791263329462-4xwuh6",
-      "1791265534269-s8pju4",
-      "1791266612581-o5lin4",
-      "1791267449323-tnfsdq",
-      "1791267985966-1sy4r5",
-      "1791268617278-z185br",
-      "1791269436030-2ua8ht",
-      "1791269902193-vqcknh",
-      "1791271673652-81inff",
-      "1791272654017-rbua49",
-      "1791280147833-5sh63j",
-      "1791281312320-a8jxr2"
+      "1791349384394-a0l6s2",
+      "1791349802027-n9s1rt",
+      "1791351599986-anqiz1"
     ],
-    "batchCorrect": 98,
-    "batchTotal": 130,
-    "unresolvedCount": 29,
-    "masteryJudgment": "10/6新增13轮句子语法98/130，最新18:08为7/10；32错中3题后续纠正、29题末次仍错。两个敬语题均连续四错，お越し题时间部分改善但主体仍错；7个昨天末次错误本批纠正。",
-    "report": "daily/2026-10-06-1808.md",
-    "optionAudit": "daily/2026-10-06-1808-option-audit.md"
+    "batchCorrect": 103,
+    "batchTotal": 107,
+    "masteryJudgment": "10/7动词47/47、名词48/50、语法8/10。巧妙、繁殖回退；人脈、需要恢复；裁く、蓄える继续保持。语法熟题7/7、首次ID1/3；がたい／ずにすまない与ようとも／ようにも未辨清。しようとしたにすぎず恢复，困るじゃないか跨天保持。无新标注；旧错注不解除。",
+    "report": "daily/2026-10-07.md",
+    "optionAudit": "daily/2026-10-07-option-audit.md"
   }
 }

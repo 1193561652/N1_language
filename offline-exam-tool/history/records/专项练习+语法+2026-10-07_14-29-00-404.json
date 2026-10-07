@@ -1,0 +1,414 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791354540404-4uummr",
+    "submittedAt": "2026-10-07T06:29:00.404Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": true,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "jlpt4you-2024.12-grammar-5-10",
+        "sbry-n1-2019.12-文法-5-31",
+        "jlpt4you-2023.12-grammar-5-5",
+        "sbry-n1-2011.12-文法-5-27",
+        "jlpt4you-2023.07-grammar-5-4",
+        "jlpt4you-2023.07-grammar-5-9",
+        "sbry-n1-2018.07-文法-5-34",
+        "jlpt4you-2024.12-grammar-5-9",
+        "jlpt4you-2023.12-grammar-5-3",
+        "sbry-n1-2016.07-文法-5-35"
+      ],
+      "shuffleOptions": false,
+      "optionOrders": {},
+      "showFurigana": true
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 9,
+    "percentage": 90,
+    "durationSeconds": 441,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01",
+          "grammar.q5.b06"
+        ],
+        "id": "jlpt4you-2024.12-grammar-5-10",
+        "number": 35,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "（大学で）先生 「青木さん、今度の報告誌のモデルを青木さんにお願いできたらと思うんだけど、どうかな」 青木 「やりたいです。でも、私（ ）」 先生 「もちろん」",
+        "options": [
+          "だったらいいんですか",
+          "なんかでいいんですか",
+          "だったらいいんでしょう",
+          "なんかでいいんでしょうか"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c01",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2019.12-文法-5-31",
+        "number": 31,
+        "selected": [
+          1
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "駐車場に着いて、車から()、ざっと大粒の雨が降ってきた。",
+        "options": [
+          "出るようにしたとたんに",
+          "出ようとしたとたんに",
+          "出るようにするについて",
+          "出ようとするにつれて"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03",
+          "grammar.q5.c14"
+        ],
+        "id": "jlpt4you-2023.12-grammar-5-5",
+        "number": 30,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "（会議で） 委員長「北駅周辺の再開発計画について、皆さんのご意見をお聞かせください。」 委員「私個人（ ）その必要性を感じておりますが、市民の皆さんは納得しにくいのではないかと思います。」",
+        "options": [
+          "によりますと",
+          "といいますと",
+          "におかれましては",
+          "といたしましては"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2011.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2011.12-文法-5-27",
+        "number": 27,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "本日結論が出なかった問題については、次回、改めて検討すること()致します。",
+        "options": [
+          "の",
+          "で",
+          "が",
+          "と"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c01"
+        ],
+        "id": "jlpt4you-2023.07-grammar-5-4",
+        "number": 29,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "同僚の山下さんは、最初はおとなしい人だと思っていたが、一緒に仕事を（ ）実はよくしゃべる人だということがわかった。",
+        "options": [
+          "する間",
+          "する限り",
+          "するうちに",
+          "するとしたら"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06",
+          "grammar.q5.b05"
+        ],
+        "id": "jlpt4you-2023.07-grammar-5-9",
+        "number": 34,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この辺りの町並みは外国のような雰囲気で、ここを訪れるだけで海外を旅行（ ）。",
+        "options": [
+          "するつもりでいる",
+          "してくるつもりだ",
+          "したつもりになれる",
+          "するつもりになっていた"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c13",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2018.07-文法-5-34",
+        "number": 34,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "条件の折り合いがつかず、すぐに契約を結ぶのが難しい現状では、A社とは、時間はかかっても、根気よく交渉を重ねていく()。",
+        "options": [
+          "どころではなかろう",
+          "しかあるまい",
+          "などあるものか",
+          "ことすらない"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c13",
+          "grammar.q5.b02"
+        ],
+        "id": "jlpt4you-2024.12-grammar-5-9",
+        "number": 34,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "子どもは生まれてくる家庭環境を選べない。だからこそ、親の経済状況によって、子どもの教育機会が奪われること（ ）。",
+        "options": [
+          "があるわけではない",
+          "であるわけではない",
+          "があってはならない",
+          "であってはならない"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b05",
+          "grammar.q5.b01"
+        ],
+        "id": "jlpt4you-2023.12-grammar-5-3",
+        "number": 28,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "私はこの漫画が大好きで、つらいときに（ ）元気をもらっている。",
+        "options": [
+          "読み返すべく",
+          "読み返すならば",
+          "読み返しては",
+          "読み返してこそ"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2016.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2016.07-文法-5-35",
+        "number": 35,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(メールで)\n風邪の具合はいかがですか。今年の風邪は長引くみたいですから、どうぞお気をつけください。一日も早く回復()。",
+        "options": [
+          "されますように",
+          "願ってはどうですか",
+          "いたしたく思います",
+          "していらっしゃるでしょうか"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}

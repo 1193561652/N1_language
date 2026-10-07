@@ -1,0 +1,411 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791353675070-etm2ji",
+    "submittedAt": "2026-10-07T06:14:35.070Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": true,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "markdown-2025.07-language-27",
+        "sbry-n1-2012.07-文法-5-35",
+        "sbry-n1-2017.07-文法-5-33",
+        "jlpt4you-2023.12-grammar-5-7",
+        "sbry-n1-2011.12-文法-5-26",
+        "sbry-n1-2022.07-文法-5-29",
+        "sbry-n1-2018.12-文法-5-32",
+        "markdown-2025.07-language-30",
+        "sbry-n1-2017.12-文法-5-34",
+        "sbry-n1-2012.12-文法-5-30"
+      ],
+      "shuffleOptions": false,
+      "optionOrders": {},
+      "showFurigana": true
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 7,
+    "percentage": 70,
+    "durationSeconds": 1255,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2025.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c08",
+          "grammar.q5.b01"
+        ],
+        "id": "markdown-2025.07-language-27",
+        "number": 27,
+        "selected": [
+          2
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "脳科学の研究が進んだ現代( )、人が夢を見るメカニズムについては解明できていない部分が多いという。",
+        "options": [
+          "にあっても",
+          "に至っては",
+          "をめぐって",
+          "を踏まえて"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2012.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03"
+        ],
+        "id": "sbry-n1-2012.07-文法-5-35",
+        "number": 35,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "川村「石田さん、ギターがほしいって言っていましたよね。わたしの弟が使っていたギターがあるんですが、よければどうですか。」\n石田「いいんですか。」\n川村「はい。弟に聞いたら、弾いてくれる方がいるなら、ぜひと言っていましたので、どうぞもらって()。」",
+        "options": [
+          "やりませんか",
+          "やってください",
+          "いただきませんか",
+          "いただいてください"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c08",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2017.07-文法-5-33",
+        "number": 33,
+        "selected": [
+          3
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "昨日の新入生歓迎会に失敗だった。私たち上級生がたくさん質問をして、新入生が話しやすい()、逆に緊張させてしまったようだ。",
+        "options": [
+          "ようにしたあげく",
+          "ようにしたつもりが",
+          "ようになったものを",
+          "ようになったばかりか"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b02",
+          "grammar.q5.c19"
+        ],
+        "id": "jlpt4you-2023.12-grammar-5-7",
+        "number": 32,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "先日、レストランに行ったとき、店員の失礼な態度に大変（ ）。",
+        "options": [
+          "不快な思いをした",
+          "不快極まりない",
+          "不快だったことか",
+          "不快にもほどがある"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2011.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c12"
+        ],
+        "id": "sbry-n1-2011.12-文法-5-26",
+        "number": 26,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "燃料価格の高騰()、複数の航空会社が運賃を値上げした。",
+        "options": [
+          "を受けて",
+          "に沿って",
+          "にわたって",
+          "を通じて"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2022.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c13",
+          "grammar.q5.b02"
+        ],
+        "id": "sbry-n1-2022.07-文法-5-29",
+        "number": 29,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "マラソン大会から帰るとき、電車はすいていたが、一度座ったら()疲れていたので、ずっと立っていた。",
+        "options": [
+          "立ち上がってはいけないなんて",
+          "立ち上がれそうにないなんて",
+          "立ち上がってはいけないぐらい",
+          "立ち上がれそうにないぐらい"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c16",
+          "grammar.q5.b04"
+        ],
+        "id": "sbry-n1-2018.12-文法-5-32",
+        "number": 32,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "西清さんは元銀行員。支店長を()、夢であった和菓子職人を目指し、45歳で退職。その10年後、大ヒット商品の「七色だんご」を生み出した。",
+        "options": [
+          "任されたまでは",
+          "任されたくらいでは",
+          "任されるまでになったが",
+          "任されるくらいになれば"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2025.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01",
+          "grammar.q5.c08"
+        ],
+        "id": "markdown-2025.07-language-30",
+        "number": 30,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この小説は、政界の権力争いを題材( )、描かれているのは家族のきずなであり、多くの人の心に響く感動の物語となっている。",
+        "options": [
+          "であることで",
+          "とすることで",
+          "でありながらも",
+          "としながらも"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b05"
+        ],
+        "id": "sbry-n1-2017.12-文法-5-34",
+        "number": 34,
+        "selected": [
+          2
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "近年、世界的な人口増加により、将来の水不足への関心は急激に()。",
+        "options": [
+          "高まりつつある",
+          "高める見込みだ",
+          "高まるケースだ",
+          "高めることを余儀なくさせた"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2012.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c10"
+        ],
+        "id": "sbry-n1-2012.12-文法-5-30",
+        "number": 30,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "彼は自転車がよほど好きらしい。()、毎日楽しそうに自転車で通勤してくる。",
+        "options": [
+          "雨とも雪とも",
+          "雨でもなく雪でもなく",
+          "雨というか雪というか",
+          "雨だろうと雪だろうと"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}

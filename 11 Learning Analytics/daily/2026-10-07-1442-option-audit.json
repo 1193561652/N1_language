@@ -1,0 +1,2544 @@
+{
+  "date": "2026-10-07",
+  "localTime": "14:42",
+  "recordIds": [
+    "1791353675070-etm2ji",
+    "1791354540404-4uummr",
+    "1791355376735-xejv69"
+  ],
+  "correct": 25,
+  "total": 30,
+  "durationSeconds": 2177,
+  "uniqueQuestionIds": 29,
+  "familiarAttempts": 24,
+  "familiarCorrect": 23,
+  "firstIdAttempts": 6,
+  "firstIdCorrect": 2,
+  "optionNotes": 0,
+  "reasonCount": 0,
+  "annotationAccuracy": null,
+  "blankOptions": 120,
+  "blankDistractors": 90,
+  "priorities": {
+    "优先补": 20,
+    "验证纠正": 28,
+    "复用或抽查已有证据": 64,
+    "建议辨析一次": 8
+  },
+  "resolved": [
+    "やってください",
+    "立ち上がれそうにないぐらい",
+    "任されるまでになったが",
+    "といたしましては",
+    "と",
+    "しかあるまい",
+    "見ていただけると助かるんですが"
+  ],
+  "questions": [
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "markdown-2025.07-language-27",
+      "question": 1,
+      "text": "脳科学の研究が進んだ現代( )、人が夢を見るメカニズムについては解明できていない部分が多いという。",
+      "correct": false,
+      "status": "正确后回退",
+      "history": [
+        {
+          "recordId": "1791267985966-1sy4r5",
+          "time": "2026-10-06T06:26:25.966Z",
+          "correct": true,
+          "selected": [
+            1
+          ],
+          "expected": [
+            1
+          ]
+        },
+        {
+          "recordId": "1791271673652-81inff",
+          "time": "2026-10-06T07:27:53.652Z",
+          "correct": true,
+          "selected": [
+            1
+          ],
+          "expected": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "sbry-n1-2012.07-文法-5-35",
+      "question": 2,
+      "text": "川村「石田さん、ギターがほしいって言っていましたよね。わたしの弟が使っていたギターがあるんですが、よければどうですか。」\n石田「いいんですか。」\n川村「はい。弟に聞いたら、弾いてくれる方がいるなら、ぜひと言っていましたので、どうぞもらって()。」",
+      "correct": true,
+      "status": "本次恢复",
+      "history": [
+        {
+          "recordId": "1791187543359-uhhd47",
+          "time": "2026-10-05T08:05:43.359Z",
+          "correct": true,
+          "selected": [
+            2
+          ],
+          "expected": [
+            2
+          ]
+        },
+        {
+          "recordId": "1791263329462-4xwuh6",
+          "time": "2026-10-06T05:08:49.462Z",
+          "correct": false,
+          "selected": [
+            1
+          ],
+          "expected": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "sbry-n1-2017.07-文法-5-33",
+      "question": 3,
+      "text": "昨日の新入生歓迎会に失敗だった。私たち上級生がたくさん質問をして、新入生が話しやすい()、逆に緊張させてしまったようだ。",
+      "correct": false,
+      "status": "首次记录错误",
+      "history": []
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "jlpt4you-2023.12-grammar-5-7",
+      "question": 4,
+      "text": "先日、レストランに行ったとき、店員の失礼な態度に大変（ ）。",
+      "correct": true,
+      "status": "保持正确",
+      "history": [
+        {
+          "recordId": "1788266100097-viw30w",
+          "time": "2026-09-01T12:35:00.097Z",
+          "correct": true,
+          "selected": [
+            1
+          ],
+          "expected": [
+            1
+          ]
+        },
+        {
+          "recordId": "1788614922944-7wbxyg",
+          "time": "2026-09-05T13:28:42.944Z",
+          "correct": true,
+          "selected": [
+            1
+          ],
+          "expected": [
+            1
+          ]
+        },
+        {
+          "recordId": "1791265534269-s8pju4",
+          "time": "2026-10-06T05:45:34.269Z",
+          "correct": true,
+          "selected": [
+            1
+          ],
+          "expected": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "sbry-n1-2011.12-文法-5-26",
+      "question": 5,
+      "text": "燃料価格の高騰()、複数の航空会社が運賃を値上げした。",
+      "correct": true,
+      "status": "首次记录正确",
+      "history": []
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "sbry-n1-2022.07-文法-5-29",
+      "question": 6,
+      "text": "マラソン大会から帰るとき、電車はすいていたが、一度座ったら()疲れていたので、ずっと立っていた。",
+      "correct": true,
+      "status": "本次恢复",
+      "history": [
+        {
+          "recordId": "1788784062659-cao081",
+          "time": "2026-09-07T12:27:42.659Z",
+          "correct": false,
+          "selected": [
+            2
+          ],
+          "expected": [
+            4
+          ]
+        },
+        {
+          "recordId": "1789306564853-6ut794",
+          "time": "2026-09-13T13:36:04.853Z",
+          "correct": false,
+          "selected": [
+            3
+          ],
+          "expected": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "sbry-n1-2018.12-文法-5-32",
+      "question": 7,
+      "text": "西清さんは元銀行員。支店長を()、夢であった和菓子職人を目指し、45歳で退職。その10年後、大ヒット商品の「七色だんご」を生み出した。",
+      "correct": true,
+      "status": "本次恢复",
+      "history": [
+        {
+          "recordId": "1791266612581-o5lin4",
+          "time": "2026-10-06T06:03:32.581Z",
+          "correct": false,
+          "selected": [
+            1
+          ],
+          "expected": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "markdown-2025.07-language-30",
+      "question": 8,
+      "text": "この小説は、政界の権力争いを題材( )、描かれているのは家族のきずなであり、多くの人の心に響く感動の物語となっている。",
+      "correct": true,
+      "status": "保持正确",
+      "history": [
+        {
+          "recordId": "1791267985966-1sy4r5",
+          "time": "2026-10-06T06:26:25.966Z",
+          "correct": true,
+          "selected": [
+            4
+          ],
+          "expected": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "sbry-n1-2017.12-文法-5-34",
+      "question": 9,
+      "text": "近年、世界的な人口増加により、将来の水不足への関心は急激に()。",
+      "correct": false,
+      "status": "首次记录错误",
+      "history": []
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "sbry-n1-2012.12-文法-5-30",
+      "question": 10,
+      "text": "彼は自転車がよほど好きらしい。()、毎日楽しそうに自転車で通勤してくる。",
+      "correct": true,
+      "status": "保持正确",
+      "history": [
+        {
+          "recordId": "1791187543359-uhhd47",
+          "time": "2026-10-05T08:05:43.359Z",
+          "correct": true,
+          "selected": [
+            4
+          ],
+          "expected": [
+            4
+          ]
+        },
+        {
+          "recordId": "1791267985966-1sy4r5",
+          "time": "2026-10-06T06:26:25.966Z",
+          "correct": true,
+          "selected": [
+            4
+          ],
+          "expected": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "jlpt4you-2024.12-grammar-5-10",
+      "question": 1,
+      "text": "（大学で）先生 「青木さん、今度の報告誌のモデルを青木さんにお願いできたらと思うんだけど、どうかな」 青木 「やりたいです。でも、私（ ）」 先生 「もちろん」",
+      "correct": true,
+      "status": "保持正确",
+      "history": [
+        {
+          "recordId": "1788010021857-excm5q",
+          "time": "2026-08-29T13:27:01.856Z",
+          "correct": true,
+          "selected": [
+            2
+          ],
+          "expected": [
+            2
+          ]
+        },
+        {
+          "recordId": "1788102598475-z6kr4l",
+          "time": "2026-08-30T15:09:58.475Z",
+          "correct": true,
+          "selected": [
+            2
+          ],
+          "expected": [
+            2
+          ]
+        },
+        {
+          "recordId": "1788613416895-h77r25",
+          "time": "2026-09-05T13:03:36.895Z",
+          "correct": true,
+          "selected": [
+            2
+          ],
+          "expected": [
+            2
+          ]
+        },
+        {
+          "recordId": "1789394764951-zrpp7r",
+          "time": "2026-09-14T14:06:04.951Z",
+          "correct": true,
+          "selected": [
+            2
+          ],
+          "expected": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "sbry-n1-2019.12-文法-5-31",
+      "question": 2,
+      "text": "駐車場に着いて、車から()、ざっと大粒の雨が降ってきた。",
+      "correct": false,
+      "status": "首次记录错误",
+      "history": []
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "jlpt4you-2023.12-grammar-5-5",
+      "question": 3,
+      "text": "（会議で） 委員長「北駅周辺の再開発計画について、皆さんのご意見をお聞かせください。」 委員「私個人（ ）その必要性を感じておりますが、市民の皆さんは納得しにくいのではないかと思います。」",
+      "correct": true,
+      "status": "本次恢复",
+      "history": [
+        {
+          "recordId": "1788266100097-viw30w",
+          "time": "2026-09-01T12:35:00.097Z",
+          "correct": true,
+          "selected": [
+            4
+          ],
+          "expected": [
+            4
+          ]
+        },
+        {
+          "recordId": "1788614922944-7wbxyg",
+          "time": "2026-09-05T13:28:42.944Z",
+          "correct": false,
+          "selected": [
+            3
+          ],
+          "expected": [
+            4
+          ]
+        },
+        {
+          "recordId": "1791269902193-vqcknh",
+          "time": "2026-10-06T06:58:22.193Z",
+          "correct": false,
+          "selected": [
+            3
+          ],
+          "expected": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "sbry-n1-2011.12-文法-5-27",
+      "question": 4,
+      "text": "本日結論が出なかった問題については、次回、改めて検討すること()致します。",
+      "correct": true,
+      "status": "本次恢复",
+      "history": [
+        {
+          "recordId": "1791187543359-uhhd47",
+          "time": "2026-10-05T08:05:43.359Z",
+          "correct": false,
+          "selected": [
+            3
+          ],
+          "expected": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "jlpt4you-2023.07-grammar-5-4",
+      "question": 5,
+      "text": "同僚の山下さんは、最初はおとなしい人だと思っていたが、一緒に仕事を（ ）実はよくしゃべる人だということがわかった。",
+      "correct": true,
+      "status": "保持正确",
+      "history": [
+        {
+          "recordId": "1788357421400-hf7055",
+          "time": "2026-09-02T13:57:01.400Z",
+          "correct": true,
+          "selected": [
+            3
+          ],
+          "expected": [
+            3
+          ]
+        },
+        {
+          "recordId": "1788615828292-c4ic3r",
+          "time": "2026-09-05T13:43:48.292Z",
+          "correct": true,
+          "selected": [
+            3
+          ],
+          "expected": [
+            3
+          ]
+        },
+        {
+          "recordId": "1791187543359-uhhd47",
+          "time": "2026-10-05T08:05:43.359Z",
+          "correct": true,
+          "selected": [
+            3
+          ],
+          "expected": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "jlpt4you-2023.07-grammar-5-9",
+      "question": 6,
+      "text": "この辺りの町並みは外国のような雰囲気で、ここを訪れるだけで海外を旅行（ ）。",
+      "correct": true,
+      "status": "保持正确",
+      "history": [
+        {
+          "recordId": "1788357421400-hf7055",
+          "time": "2026-09-02T13:57:01.400Z",
+          "correct": true,
+          "selected": [
+            3
+          ],
+          "expected": [
+            3
+          ]
+        },
+        {
+          "recordId": "1788615828292-c4ic3r",
+          "time": "2026-09-05T13:43:48.292Z",
+          "correct": true,
+          "selected": [
+            3
+          ],
+          "expected": [
+            3
+          ]
+        },
+        {
+          "recordId": "1791351599986-anqiz1",
+          "time": "2026-10-07T05:39:59.986Z",
+          "correct": true,
+          "selected": [
+            3
+          ],
+          "expected": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "sbry-n1-2018.07-文法-5-34",
+      "question": 7,
+      "text": "条件の折り合いがつかず、すぐに契約を結ぶのが難しい現状では、A社とは、時間はかかっても、根気よく交渉を重ねていく()。",
+      "correct": true,
+      "status": "本次恢复",
+      "history": [
+        {
+          "recordId": "1791265534269-s8pju4",
+          "time": "2026-10-06T05:45:34.269Z",
+          "correct": false,
+          "selected": [
+            3
+          ],
+          "expected": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "jlpt4you-2024.12-grammar-5-9",
+      "question": 8,
+      "text": "子どもは生まれてくる家庭環境を選べない。だからこそ、親の経済状況によって、子どもの教育機会が奪われること（ ）。",
+      "correct": true,
+      "status": "保持正确",
+      "history": [
+        {
+          "recordId": "1788010021857-excm5q",
+          "time": "2026-08-29T13:27:01.856Z",
+          "correct": false,
+          "selected": [
+            2
+          ],
+          "expected": [
+            3
+          ]
+        },
+        {
+          "recordId": "1788102598475-z6kr4l",
+          "time": "2026-08-30T15:09:58.475Z",
+          "correct": false,
+          "selected": [
+            2
+          ],
+          "expected": [
+            3
+          ]
+        },
+        {
+          "recordId": "1788613416895-h77r25",
+          "time": "2026-09-05T13:03:36.895Z",
+          "correct": true,
+          "selected": [
+            3
+          ],
+          "expected": [
+            3
+          ]
+        },
+        {
+          "recordId": "1789394764951-zrpp7r",
+          "time": "2026-09-14T14:06:04.951Z",
+          "correct": true,
+          "selected": [
+            3
+          ],
+          "expected": [
+            3
+          ]
+        },
+        {
+          "recordId": "1791269902193-vqcknh",
+          "time": "2026-10-06T06:58:22.193Z",
+          "correct": true,
+          "selected": [
+            3
+          ],
+          "expected": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "jlpt4you-2023.12-grammar-5-3",
+      "question": 9,
+      "text": "私はこの漫画が大好きで、つらいときに（ ）元気をもらっている。",
+      "correct": true,
+      "status": "保持正确",
+      "history": [
+        {
+          "recordId": "1788266100097-viw30w",
+          "time": "2026-09-01T12:35:00.097Z",
+          "correct": false,
+          "selected": [
+            2
+          ],
+          "expected": [
+            3
+          ]
+        },
+        {
+          "recordId": "1788614922944-7wbxyg",
+          "time": "2026-09-05T13:28:42.944Z",
+          "correct": true,
+          "selected": [
+            3
+          ],
+          "expected": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "sbry-n1-2016.07-文法-5-35",
+      "question": 10,
+      "text": "(メールで)\n風邪の具合はいかがですか。今年の風邪は長引くみたいですから、どうぞお気をつけください。一日も早く回復()。",
+      "correct": true,
+      "status": "保持正确",
+      "history": [
+        {
+          "recordId": "1791268617278-z185br",
+          "time": "2026-10-06T06:36:57.278Z",
+          "correct": false,
+          "selected": [
+            4
+          ],
+          "expected": [
+            1
+          ]
+        },
+        {
+          "recordId": "1791280147833-5sh63j",
+          "time": "2026-10-06T09:49:07.833Z",
+          "correct": true,
+          "selected": [
+            1
+          ],
+          "expected": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "sbry-n1-2011.07-文法-5-28",
+      "question": 1,
+      "text": "この鍋は、いため物に、揚げ物に()何にでも使えて便利です。",
+      "correct": false,
+      "status": "首次记录错误",
+      "history": []
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "sbry-n1-2021.12-文法-5-28",
+      "question": 2,
+      "text": "あの時すぐに治療しておけばよかった()、ほうっておくからあっかしてしまったんだ。",
+      "correct": true,
+      "status": "保持正确",
+      "history": [
+        {
+          "recordId": "1788872767020-6lqrci",
+          "time": "2026-09-08T13:06:07.020Z",
+          "correct": true,
+          "selected": [
+            4
+          ],
+          "expected": [
+            4
+          ]
+        },
+        {
+          "recordId": "1789307875495-ao3x7g",
+          "time": "2026-09-13T13:57:55.495Z",
+          "correct": false,
+          "selected": [
+            1
+          ],
+          "expected": [
+            4
+          ]
+        },
+        {
+          "recordId": "1791266612581-o5lin4",
+          "time": "2026-10-06T06:03:32.581Z",
+          "correct": true,
+          "selected": [
+            4
+          ],
+          "expected": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "sbry-n1-2014.07-文法-5-26",
+      "question": 3,
+      "text": "父は仕事が生きがいで、定年後も()かぎりは働きたいと言っている。",
+      "correct": true,
+      "status": "保持正确",
+      "history": [
+        {
+          "recordId": "1791269902193-vqcknh",
+          "time": "2026-10-06T06:58:22.193Z",
+          "correct": true,
+          "selected": [
+            4
+          ],
+          "expected": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "sbry-n1-2013.07-文法-5-27",
+      "question": 4,
+      "text": "(ニュースで)\n北川動物園では、連日の猛暑で元気のないペンギンに、せめて気分()南極を感じてもらおうと氷の塊がプレゼントされました。",
+      "correct": true,
+      "status": "保持正确",
+      "history": [
+        {
+          "recordId": "1791262815807-1hlnzn",
+          "time": "2026-10-06T05:00:15.807Z",
+          "correct": true,
+          "selected": [
+            2
+          ],
+          "expected": [
+            2
+          ]
+        },
+        {
+          "recordId": "1791267449323-tnfsdq",
+          "time": "2026-10-06T06:17:29.323Z",
+          "correct": true,
+          "selected": [
+            2
+          ],
+          "expected": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "jlpt4you-2024.12-grammar-5-9",
+      "question": 5,
+      "text": "子どもは生まれてくる家庭環境を選べない。だからこそ、親の経済状況によって、子どもの教育機会が奪われること（ ）。",
+      "correct": true,
+      "status": "保持正确",
+      "history": [
+        {
+          "recordId": "1788010021857-excm5q",
+          "time": "2026-08-29T13:27:01.856Z",
+          "correct": false,
+          "selected": [
+            2
+          ],
+          "expected": [
+            3
+          ]
+        },
+        {
+          "recordId": "1788102598475-z6kr4l",
+          "time": "2026-08-30T15:09:58.475Z",
+          "correct": false,
+          "selected": [
+            2
+          ],
+          "expected": [
+            3
+          ]
+        },
+        {
+          "recordId": "1788613416895-h77r25",
+          "time": "2026-09-05T13:03:36.895Z",
+          "correct": true,
+          "selected": [
+            3
+          ],
+          "expected": [
+            3
+          ]
+        },
+        {
+          "recordId": "1789394764951-zrpp7r",
+          "time": "2026-09-14T14:06:04.951Z",
+          "correct": true,
+          "selected": [
+            3
+          ],
+          "expected": [
+            3
+          ]
+        },
+        {
+          "recordId": "1791269902193-vqcknh",
+          "time": "2026-10-06T06:58:22.193Z",
+          "correct": true,
+          "selected": [
+            3
+          ],
+          "expected": [
+            3
+          ]
+        },
+        {
+          "recordId": "1791354540404-4uummr",
+          "time": "2026-10-07T06:29:00.404Z",
+          "correct": true,
+          "selected": [
+            3
+          ],
+          "expected": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "sbry-n1-2017.07-文法-5-29",
+      "question": 6,
+      "text": "今年35歳になるサッカー日本代表の森選手について、監督は、｢確かに体力が落ちてきた()が、高い技術力に期待している。｣と述べた。",
+      "correct": true,
+      "status": "保持正确",
+      "history": [
+        {
+          "recordId": "1791187543359-uhhd47",
+          "time": "2026-10-05T08:05:43.359Z",
+          "correct": true,
+          "selected": [
+            3
+          ],
+          "expected": [
+            3
+          ]
+        },
+        {
+          "recordId": "1791197710057-8gh7x4",
+          "time": "2026-10-05T10:55:10.057Z",
+          "correct": true,
+          "selected": [
+            3
+          ],
+          "expected": [
+            3
+          ]
+        },
+        {
+          "recordId": "1791267985966-1sy4r5",
+          "time": "2026-10-06T06:26:25.966Z",
+          "correct": true,
+          "selected": [
+            3
+          ],
+          "expected": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "jlpt4you-2024.07-grammar-5-4",
+      "question": 7,
+      "text": "6歳の息子は、将来私と同じ消防士になりたいと言っている。実際に（ ）、そんなことを言ってくれたことがうれしい。",
+      "correct": true,
+      "status": "保持正确",
+      "history": [
+        {
+          "recordId": "1788185884453-ez8n1e",
+          "time": "2026-08-31T14:18:04.453Z",
+          "correct": true,
+          "selected": [
+            2
+          ],
+          "expected": [
+            2
+          ]
+        },
+        {
+          "recordId": "1788614119408-mi0b5w",
+          "time": "2026-09-05T13:15:19.408Z",
+          "correct": true,
+          "selected": [
+            2
+          ],
+          "expected": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "sbry-n1-2017.07-文法-5-27",
+      "question": 8,
+      "text": "今度のプロジェクトのリーダーは石川さんだと予想していたが、違うようだ。石川さんでない()、誰なのだろう。",
+      "correct": true,
+      "status": "首次记录正确",
+      "history": []
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "sbry-n1-2015.07-文法-5-35",
+      "question": 9,
+      "text": "田中「部長、先日提出した書類なんですが、あれで大丈夫でしょうか。」\n部長「あ、ごめん。まだ見てない。」\n田中「そうですか。すみませんが、なるべく早く()。」",
+      "correct": true,
+      "status": "本次恢复",
+      "history": [
+        {
+          "recordId": "1791196921030-gog2ru",
+          "time": "2026-10-05T10:42:01.030Z",
+          "correct": true,
+          "selected": [
+            1
+          ],
+          "expected": [
+            1
+          ]
+        },
+        {
+          "recordId": "1791197710057-8gh7x4",
+          "time": "2026-10-05T10:55:10.057Z",
+          "correct": true,
+          "selected": [
+            1
+          ],
+          "expected": [
+            1
+          ]
+        },
+        {
+          "recordId": "1791268617278-z185br",
+          "time": "2026-10-06T06:36:57.278Z",
+          "correct": false,
+          "selected": [
+            3
+          ],
+          "expected": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "sbry-n1-2015.12-文法-5-28",
+      "question": 10,
+      "text": "私の会社では、どんな理由があろうと、業務に関するデータや資料を社外に持ち出すことは、()認められていない。",
+      "correct": true,
+      "status": "保持正确",
+      "history": [
+        {
+          "recordId": "1791187543359-uhhd47",
+          "time": "2026-10-05T08:05:43.359Z",
+          "correct": true,
+          "selected": [
+            1
+          ],
+          "expected": [
+            1
+          ]
+        },
+        {
+          "recordId": "1791271673652-81inff",
+          "time": "2026-10-06T07:27:53.652Z",
+          "correct": true,
+          "selected": [
+            1
+          ],
+          "expected": [
+            1
+          ]
+        }
+      ]
+    }
+  ],
+  "rows": [
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "markdown-2025.07-language-27",
+      "question": 1,
+      "option": 1,
+      "optionText": "にあっても",
+      "selected": false,
+      "expected": true,
+      "note": "",
+      "previousNote": "",
+      "priority": "优先补",
+      "explanation": "即使处于研究已进步的现代仍然如此；も让步"
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "markdown-2025.07-language-27",
+      "question": 1,
+      "option": 2,
+      "optionText": "に至っては",
+      "selected": true,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "优先补",
+      "explanation": "至于某突出例子／到达阶段，不等于に至っても；本题需要即使仍然"
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "markdown-2025.07-language-27",
+      "question": 1,
+      "option": 3,
+      "optionText": "をめぐって",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "优先补",
+      "explanation": "围绕议题；此处会连接現代，非梦的机制"
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "markdown-2025.07-language-27",
+      "question": 1,
+      "option": 4,
+      "optionText": "を踏まえて",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "优先补",
+      "explanation": "以事实成果为依据；非让步"
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "sbry-n1-2012.07-文法-5-35",
+      "question": 2,
+      "option": 1,
+      "optionText": "やりませんか",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "验证纠正",
+      "explanation": "邀请对方一起给予，非请对方收下"
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "sbry-n1-2012.07-文法-5-35",
+      "question": 2,
+      "option": 2,
+      "optionText": "やってください",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "previousNote": "",
+      "priority": "验证纠正",
+      "explanation": "请你收下，视为让弟弟高兴／帮弟弟，授受视角正确"
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "sbry-n1-2012.07-文法-5-35",
+      "question": 2,
+      "option": 3,
+      "optionText": "いただきませんか",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "验证纠正",
+      "explanation": "请对方一起承蒙，主体视角不合"
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "sbry-n1-2012.07-文法-5-35",
+      "question": 2,
+      "option": 4,
+      "optionText": "いただいてください",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "验证纠正",
+      "explanation": "让对方从尊敬对象领受，不合此对话中的我方弟弟"
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "sbry-n1-2017.07-文法-5-33",
+      "question": 3,
+      "option": 1,
+      "optionText": "ようにしたあげく",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "优先补",
+      "explanation": "做了安排之后，最终……；あげく强调经过一番过程后的结局，不能仅因后项坏就选它"
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "sbry-n1-2017.07-文法-5-33",
+      "question": 3,
+      "option": 2,
+      "optionText": "ようにしたつもりが",
+      "selected": false,
+      "expected": true,
+      "note": "",
+      "previousNote": "",
+      "priority": "优先补",
+      "explanation": "自以为已经设法让对方容易开口，却适得其反；ようにした＋つもり＋が"
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "sbry-n1-2017.07-文法-5-33",
+      "question": 3,
+      "option": 3,
+      "optionText": "ようになったものを",
+      "selected": true,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "优先补",
+      "explanation": "已经变得容易开口了，本来却……；ようになった把变化当成已发生，与反而使其紧张不合"
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "sbry-n1-2017.07-文法-5-33",
+      "question": 3,
+      "option": 4,
+      "optionText": "ようになったばかりか",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "优先补",
+      "explanation": "不仅已变得容易开口；ばかりか追加事实，不合意图与结果相反"
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "jlpt4you-2023.12-grammar-5-7",
+      "question": 4,
+      "option": 1,
+      "optionText": "不快な思いをした",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "非常不愉快的经历，完整谓语"
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "jlpt4you-2023.12-grammar-5-7",
+      "question": 4,
+      "option": 2,
+      "optionText": "不快極まりない",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "极まりない已极端，与大変叠用不如1且未述经历"
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "jlpt4you-2023.12-grammar-5-7",
+      "question": 4,
+      "option": 3,
+      "optionText": "不快だったことか",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "ことか通常有感叹呼应，非此句"
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "jlpt4you-2023.12-grammar-5-7",
+      "question": 4,
+      "option": 4,
+      "optionText": "不快にもほどがある",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "ほどがある为批评超过限度，非述个人感受"
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "sbry-n1-2011.12-文法-5-26",
+      "question": 5,
+      "option": 1,
+      "optionText": "を受けて",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "previousNote": "",
+      "priority": "建议辨析一次",
+      "explanation": "受到价格上涨影响而回应、涨价"
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "sbry-n1-2011.12-文法-5-26",
+      "question": 5,
+      "option": 2,
+      "optionText": "に沿って",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "建议辨析一次",
+      "explanation": "沿着路线／遵循方针；不是受价格变动影响"
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "sbry-n1-2011.12-文法-5-26",
+      "question": 5,
+      "option": 3,
+      "optionText": "にわたって",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "建议辨析一次",
+      "explanation": "遍及时间或范围"
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "sbry-n1-2011.12-文法-5-26",
+      "question": 5,
+      "option": 4,
+      "optionText": "を通じて",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "建议辨析一次",
+      "explanation": "通过某媒介／贯穿期间；非因应涨价"
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "sbry-n1-2022.07-文法-5-29",
+      "question": 6,
+      "option": 1,
+      "optionText": "立ち上がってはいけないなんて",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "验证纠正",
+      "explanation": "禁止站起＋なんて惊讶；本题是疲劳程度"
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "sbry-n1-2022.07-文法-5-29",
+      "question": 6,
+      "option": 2,
+      "optionText": "立ち上がれそうにないなんて",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "验证纠正",
+      "explanation": "可能站不起来正确，但なんて不能连接程度修饰疲れていた"
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "sbry-n1-2022.07-文法-5-29",
+      "question": 6,
+      "option": 3,
+      "optionText": "立ち上がってはいけないぐらい",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "验证纠正",
+      "explanation": "ぐらい表程度正确，但禁止站起不合体力不足"
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "sbry-n1-2022.07-文法-5-29",
+      "question": 6,
+      "option": 4,
+      "optionText": "立ち上がれそうにないぐらい",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "previousNote": "",
+      "priority": "验证纠正",
+      "explanation": "累到一坐下就似乎再也站不起来；可能否定＋程度"
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "sbry-n1-2018.12-文法-5-32",
+      "question": 7,
+      "option": 1,
+      "optionText": "任されたまでは",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "验证纠正",
+      "explanation": "直到被委任为止，后文结构未展开"
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "sbry-n1-2018.12-文法-5-32",
+      "question": 7,
+      "option": 2,
+      "optionText": "任されたくらいでは",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "验证纠正",
+      "explanation": "仅被委任还不足，非履历转折"
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "sbry-n1-2018.12-文法-5-32",
+      "question": 7,
+      "option": 3,
+      "optionText": "任されるまでになったが",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "previousNote": "",
+      "priority": "验证纠正",
+      "explanation": "做到被任命支店长的程度，但辞职"
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "sbry-n1-2018.12-文法-5-32",
+      "question": 7,
+      "option": 4,
+      "optionText": "任されるくらいになれば",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "验证纠正",
+      "explanation": "如果达到…，题干是已发生履历"
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "markdown-2025.07-language-30",
+      "question": 8,
+      "option": 1,
+      "optionText": "であることで",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "小说是题材不合"
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "markdown-2025.07-language-30",
+      "question": 8,
+      "option": 2,
+      "optionText": "とすることで",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "以此为题材的手段，不突出反差"
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "markdown-2025.07-language-30",
+      "question": 8,
+      "option": 3,
+      "optionText": "でありながらも",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "小说是题材不合"
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "markdown-2025.07-language-30",
+      "question": 8,
+      "option": 4,
+      "optionText": "としながらも",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "题材とする＋ながらも：虽以争权为题材"
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "sbry-n1-2017.12-文法-5-34",
+      "question": 9,
+      "option": 1,
+      "optionText": "高まりつつある",
+      "selected": false,
+      "expected": true,
+      "note": "",
+      "previousNote": "",
+      "priority": "优先补",
+      "explanation": "関心が高まる自动词；つつある表示近年正在增强的趋势"
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "sbry-n1-2017.12-文法-5-34",
+      "question": 9,
+      "option": 2,
+      "optionText": "高める見込みだ",
+      "selected": true,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "优先补",
+      "explanation": "高める是他动词；見込み表预期，本题主语和当前趋势均不合"
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "sbry-n1-2017.12-文法-5-34",
+      "question": 9,
+      "option": 3,
+      "optionText": "高まるケースだ",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "优先补",
+      "explanation": "高まる为自动词，但ケース指案例，不表达持续增强趋势"
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "sbry-n1-2017.12-文法-5-34",
+      "question": 9,
+      "option": 4,
+      "optionText": "高めることを余儀なくさせた",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "优先补",
+      "explanation": "高める他动词＋余儀なくさせた迫使某人提高，缺少相应使役对象且时态不合"
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "sbry-n1-2012.12-文法-5-30",
+      "question": 10,
+      "option": 1,
+      "optionText": "雨とも雪とも",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "无法构成无论雨雪的完整让步"
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "sbry-n1-2012.12-文法-5-30",
+      "question": 10,
+      "option": 2,
+      "optionText": "雨でもなく雪でもなく",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "既不是雨也不是雪"
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "sbry-n1-2012.12-文法-5-30",
+      "question": 10,
+      "option": 3,
+      "optionText": "雨というか雪というか",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "说是雨还是雪，纠正或犹疑"
+    },
+    {
+      "recordId": "1791353675070-etm2ji",
+      "questionId": "sbry-n1-2012.12-文法-5-30",
+      "question": 10,
+      "option": 4,
+      "optionText": "雨だろうと雪だろうと",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "无论雨雪，仍骑车"
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "jlpt4you-2024.12-grammar-5-10",
+      "question": 1,
+      "option": 1,
+      "optionText": "だったらいいんですか",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "如果是我就可以吗；条件表达而非自谦确认"
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "jlpt4you-2024.12-grammar-5-10",
+      "question": 1,
+      "option": 2,
+      "optionText": "なんかでいいんですか",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "像我这样的人也可以吗；なんか自谦，向老师直接确认"
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "jlpt4you-2024.12-grammar-5-10",
+      "question": 1,
+      "option": 3,
+      "optionText": "だったらいいんでしょう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "如果是我大概可以吧；不合自谦询问"
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "jlpt4you-2024.12-grammar-5-10",
+      "question": 1,
+      "option": 4,
+      "optionText": "なんかでいいんでしょうか",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "像我这样的人可以吗；でしょうか也是成立的礼貌疑问，不能一概判语法错误。本地答案键取②；两者语用差别不足以硬判④绝对不可，保留辨析边界"
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "sbry-n1-2019.12-文法-5-31",
+      "question": 2,
+      "option": 1,
+      "optionText": "出るようにしたとたんに",
+      "selected": true,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "优先补",
+      "explanation": "设法／安排要出去之后；ようにする不是当下正要做的结构"
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "sbry-n1-2019.12-文法-5-31",
+      "question": 2,
+      "option": 2,
+      "optionText": "出ようとしたとたんに",
+      "selected": false,
+      "expected": true,
+      "note": "",
+      "previousNote": "",
+      "priority": "优先补",
+      "explanation": "正要下车的那一刻，突然下雨；意志形＋とする，たとたんに紧接突发"
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "sbry-n1-2019.12-文法-5-31",
+      "question": 2,
+      "option": 3,
+      "optionText": "出るようにするについて",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "优先补",
+      "explanation": "ようにする表安排；について前接本形式不成立，需名词化等结构"
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "sbry-n1-2019.12-文法-5-31",
+      "question": 2,
+      "option": 4,
+      "optionText": "出ようとするにつれて",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "优先补",
+      "explanation": "正要做＋につれて随变化发展；一次突发下雨不合渐进联动"
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "jlpt4you-2023.12-grammar-5-5",
+      "question": 3,
+      "option": 1,
+      "optionText": "によりますと",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "验证纠正",
+      "explanation": "据个人所说，非表达本人立场"
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "jlpt4you-2023.12-grammar-5-5",
+      "question": 3,
+      "option": 2,
+      "optionText": "といいますと",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "验证纠正",
+      "explanation": "提起我个人，非立场"
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "jlpt4you-2023.12-grammar-5-5",
+      "question": 3,
+      "option": 3,
+      "optionText": "におかれましては",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "验证纠正",
+      "explanation": "尊敬对方用语，不用于我个人"
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "jlpt4you-2023.12-grammar-5-5",
+      "question": 3,
+      "option": 4,
+      "optionText": "といたしましては",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "previousNote": "",
+      "priority": "验证纠正",
+      "explanation": "作为我个人，我的立场，自谦郑重"
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "sbry-n1-2011.12-文法-5-27",
+      "question": 4,
+      "option": 1,
+      "optionText": "の",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "验证纠正",
+      "explanation": "ことの致します不能构成决定表达"
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "sbry-n1-2011.12-文法-5-27",
+      "question": 4,
+      "option": 2,
+      "optionText": "で",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "验证纠正",
+      "explanation": "ことでする不构成本题決定结构"
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "sbry-n1-2011.12-文法-5-27",
+      "question": 4,
+      "option": 3,
+      "optionText": "が",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "验证纠正",
+      "explanation": "ことが致します主谓结构不合"
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "sbry-n1-2011.12-文法-5-27",
+      "question": 4,
+      "option": 4,
+      "optionText": "と",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "previousNote": "",
+      "priority": "验证纠正",
+      "explanation": "検討することと致します＝决定另行讨论；こととする的谦逊郑重说法"
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "jlpt4you-2023.07-grammar-5-4",
+      "question": 5,
+      "option": 1,
+      "optionText": "する間",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "在工作期间；する間不能自然突出过程中逐渐发现，間に更能定位期间某时"
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "jlpt4you-2023.07-grammar-5-4",
+      "question": 5,
+      "option": 2,
+      "optionText": "する限り",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "只要继续工作就；条件保持非认知变化"
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "jlpt4you-2023.07-grammar-5-4",
+      "question": 5,
+      "option": 3,
+      "optionText": "するうちに",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "在共事过程中逐渐发现；うちに"
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "jlpt4you-2023.07-grammar-5-4",
+      "question": 5,
+      "option": 4,
+      "optionText": "するとしたら",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "假如一起工作；与已发现的事实不合"
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "jlpt4you-2023.07-grammar-5-9",
+      "question": 6,
+      "option": 1,
+      "optionText": "するつもりでいる",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "打算旅行；实际计划不合此处的体验感"
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "jlpt4you-2023.07-grammar-5-9",
+      "question": 6,
+      "option": 2,
+      "optionText": "してくるつもりだ",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "打算去旅行再回来；实际计划"
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "jlpt4you-2023.07-grammar-5-9",
+      "question": 6,
+      "option": 3,
+      "optionText": "したつもりになれる",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "能产生仿佛已经旅行过的感觉；たつもり与るつもり区别"
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "jlpt4you-2023.07-grammar-5-9",
+      "question": 6,
+      "option": 4,
+      "optionText": "するつもりになっていた",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "过去进入打算旅行的状态，与当前体验不合"
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "sbry-n1-2018.07-文法-5-34",
+      "question": 7,
+      "option": 1,
+      "optionText": "どころではなかろう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "验证纠正",
+      "explanation": "无暇交涉，反向"
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "sbry-n1-2018.07-文法-5-34",
+      "question": 7,
+      "option": 2,
+      "optionText": "しかあるまい",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "previousNote": "",
+      "priority": "验证纠正",
+      "explanation": "しかあるまい＝只能如此"
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "sbry-n1-2018.07-文法-5-34",
+      "question": 7,
+      "option": 3,
+      "optionText": "などあるものか",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "验证纠正",
+      "explanation": "怎么会交涉，反向"
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "sbry-n1-2018.07-文法-5-34",
+      "question": 7,
+      "option": 4,
+      "optionText": "ことすらない",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "验证纠正",
+      "explanation": "连交涉都没有，反向"
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "jlpt4you-2024.12-grammar-5-9",
+      "question": 8,
+      "option": 1,
+      "optionText": "があるわけではない",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "并非有这种事，否定事实不是禁止"
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "jlpt4you-2024.12-grammar-5-9",
+      "question": 8,
+      "option": 2,
+      "optionText": "であるわけではない",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "である不接事件发生"
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "jlpt4you-2024.12-grammar-5-9",
+      "question": 8,
+      "option": 3,
+      "optionText": "があってはならない",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "绝不能发生剥夺机会的事"
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "jlpt4you-2024.12-grammar-5-9",
+      "question": 8,
+      "option": 4,
+      "optionText": "であってはならない",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "存在事件需ある，不是名词断定である"
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "jlpt4you-2023.12-grammar-5-3",
+      "question": 9,
+      "option": 1,
+      "optionText": "読み返すべく",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "为了重读；目的，不是反复行为"
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "jlpt4you-2023.12-grammar-5-3",
+      "question": 9,
+      "option": 2,
+      "optionText": "読み返すならば",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "如果重读；假设，不是已反复获得鼓励"
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "jlpt4you-2023.12-grammar-5-3",
+      "question": 9,
+      "option": 3,
+      "optionText": "読み返しては",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "每次重读就获得鼓励；ては表反复"
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "jlpt4you-2023.12-grammar-5-3",
+      "question": 9,
+      "option": 4,
+      "optionText": "読み返してこそ",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "正因重读才；强调关键条件，不突出反复"
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "sbry-n1-2016.07-文法-5-35",
+      "question": 10,
+      "option": 1,
+      "optionText": "されますように",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "祝愿对方早日康复，尊敬语"
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "sbry-n1-2016.07-文法-5-35",
+      "question": 10,
+      "option": 2,
+      "optionText": "願ってはどうですか",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "建议对方祈祷，非祝愿"
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "sbry-n1-2016.07-文法-5-35",
+      "question": 10,
+      "option": 3,
+      "optionText": "いたしたく思います",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "我想康复，主体错"
+    },
+    {
+      "recordId": "1791354540404-4uummr",
+      "questionId": "sbry-n1-2016.07-文法-5-35",
+      "question": 10,
+      "option": 4,
+      "optionText": "していらっしゃるでしょうか",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "询问是否正在康复，非祝愿"
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "sbry-n1-2011.07-文法-5-28",
+      "question": 1,
+      "option": 1,
+      "optionText": "は",
+      "selected": true,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "优先补",
+      "explanation": "に＋は突出用途或对比，不把前面两个例子归拢为列举"
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "sbry-n1-2011.07-文法-5-28",
+      "question": 1,
+      "option": 2,
+      "optionText": "と",
+      "selected": false,
+      "expected": true,
+      "note": "",
+      "previousNote": "",
+      "priority": "优先补",
+      "explanation": "Aに、Bにと：列举多种用途后收束，引出何にでも"
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "sbry-n1-2011.07-文法-5-28",
+      "question": 1,
+      "option": 3,
+      "optionText": "や",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "优先补",
+      "explanation": "や通常直接连接名词；AにBにや不构成本题列举结构"
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "sbry-n1-2011.07-文法-5-28",
+      "question": 1,
+      "option": 4,
+      "optionText": "か",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "优先补",
+      "explanation": "か表示疑问／选择；不合泛举用途"
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "sbry-n1-2021.12-文法-5-28",
+      "question": 2,
+      "option": 1,
+      "optionText": "ばかりに",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "仅因…导致，非未做的遗憾"
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "sbry-n1-2021.12-文法-5-28",
+      "question": 2,
+      "option": 2,
+      "optionText": "ことを",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "ことを不成此逆接式"
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "sbry-n1-2021.12-文法-5-28",
+      "question": 2,
+      "option": 3,
+      "optionText": "ために",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "因为，非未做的遗憾"
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "sbry-n1-2021.12-文法-5-28",
+      "question": 2,
+      "option": 4,
+      "optionText": "ものを",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "本来及时治疗就好了却没做，遗憾责备"
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "sbry-n1-2014.07-文法-5-26",
+      "question": 3,
+      "option": 1,
+      "optionText": "働けず",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "不工作，反向且接续不合"
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "sbry-n1-2014.07-文法-5-26",
+      "question": 3,
+      "option": 2,
+      "optionText": "働いた",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "已经工作，非能力持续条件"
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "sbry-n1-2014.07-文法-5-26",
+      "question": 3,
+      "option": 3,
+      "optionText": "働こう",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "意志形不接此限り"
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "sbry-n1-2014.07-文法-5-26",
+      "question": 3,
+      "option": 4,
+      "optionText": "働ける",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "只要还能工作就想继续"
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "sbry-n1-2013.07-文法-5-27",
+      "question": 4,
+      "option": 1,
+      "optionText": "のみも",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "のみも接续不自然"
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "sbry-n1-2013.07-文法-5-27",
+      "question": 4,
+      "option": 2,
+      "optionText": "だけでも",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "至少心情上也能感受南极"
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "sbry-n1-2013.07-文法-5-27",
+      "question": 4,
+      "option": 3,
+      "optionText": "ですらも",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "连心情都，非最低愿望"
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "sbry-n1-2013.07-文法-5-27",
+      "question": 4,
+      "option": 4,
+      "optionText": "くらいも",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "くらいも非此限定结构"
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "jlpt4you-2024.12-grammar-5-9",
+      "question": 5,
+      "option": 1,
+      "optionText": "があるわけではない",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "并非有这种事，否定事实不是禁止"
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "jlpt4you-2024.12-grammar-5-9",
+      "question": 5,
+      "option": 2,
+      "optionText": "であるわけではない",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "である不接事件发生"
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "jlpt4you-2024.12-grammar-5-9",
+      "question": 5,
+      "option": 3,
+      "optionText": "があってはならない",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "绝不能发生剥夺机会的事"
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "jlpt4you-2024.12-grammar-5-9",
+      "question": 5,
+      "option": 4,
+      "optionText": "であってはならない",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "存在事件需ある，不是名词断定である"
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "sbry-n1-2017.07-文法-5-29",
+      "question": 6,
+      "option": 1,
+      "optionText": "はずだった",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "本来理应，非承认事实"
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "sbry-n1-2017.07-文法-5-29",
+      "question": 6,
+      "option": 2,
+      "optionText": "とおりだった",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "正如原样，非承认事实"
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "sbry-n1-2017.07-文法-5-29",
+      "question": 6,
+      "option": 3,
+      "optionText": "ことは否めない",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "无法否认体力下降，但仍期待技术"
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "sbry-n1-2017.07-文法-5-29",
+      "question": 6,
+      "option": 4,
+      "optionText": "に越したことはない",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "最好不过，非无法否认"
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "jlpt4you-2024.07-grammar-5-4",
+      "question": 7,
+      "option": 1,
+      "optionText": "なるかどうかに限らず",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "に限らず＝不只限于某范围；不是暂且不论是否实现"
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "jlpt4you-2024.07-grammar-5-4",
+      "question": 7,
+      "option": 2,
+      "optionText": "なるかどうかはともかく",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "是否真的成为消防员暂且不论，表达愿望本身已令人高兴"
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "jlpt4you-2024.07-grammar-5-4",
+      "question": 7,
+      "option": 3,
+      "optionText": "ならざるを得ないとしても",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "不得不成为消防员，即使如此；把愿望错改成被迫"
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "jlpt4you-2024.07-grammar-5-4",
+      "question": 7,
+      "option": 4,
+      "optionText": "ならざるを得ないばかりか",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "不仅不得不成为；被迫＋追加，不合"
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "sbry-n1-2017.07-文法-5-27",
+      "question": 8,
+      "option": 1,
+      "optionText": "とすれば",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "previousNote": "",
+      "priority": "建议辨析一次",
+      "explanation": "如果不是石川的话，那么是谁；假设推断"
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "sbry-n1-2017.07-文法-5-27",
+      "question": 8,
+      "option": 2,
+      "optionText": "とあって",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "建议辨析一次",
+      "explanation": "因为不是石川；特殊情况导致结果，非这里的设问推断"
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "sbry-n1-2017.07-文法-5-27",
+      "question": 8,
+      "option": 3,
+      "optionText": "というより",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "建议辨析一次",
+      "explanation": "与其说不是石川；需要后项改称，不合"
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "sbry-n1-2017.07-文法-5-27",
+      "question": 8,
+      "option": 4,
+      "optionText": "と思っても",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "建议辨析一次",
+      "explanation": "即使认为不是石川；不合根据新信息推断"
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "sbry-n1-2015.07-文法-5-35",
+      "question": 9,
+      "option": 1,
+      "optionText": "見ていただけると助かるんですが",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "previousNote": "",
+      "priority": "验证纠正",
+      "explanation": "如果能请您看一下就帮大忙了，委婉请求"
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "sbry-n1-2015.07-文法-5-35",
+      "question": 9,
+      "option": 2,
+      "optionText": "見ていただくんでしょうか",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "验证纠正",
+      "explanation": "确认是否让对方看，并非请求尽快看"
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "sbry-n1-2015.07-文法-5-35",
+      "question": 9,
+      "option": 3,
+      "optionText": "見ていだだいたと思うんですが",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "验证纠正",
+      "explanation": "原选项いだだいた有表记问题；即使按いただいた也成过去已看，与尚未看矛盾"
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "sbry-n1-2015.07-文法-5-35",
+      "question": 9,
+      "option": 4,
+      "optionText": "見ていただいてはいかがでしょうか",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "验证纠正",
+      "explanation": "向部长建议承蒙别人看，视角错"
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "sbry-n1-2015.12-文法-5-28",
+      "question": 10,
+      "option": 1,
+      "optionText": "いっさい",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "完全不，与否定呼应"
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "sbry-n1-2015.12-文法-5-28",
+      "question": 10,
+      "option": 2,
+      "optionText": "むしろ",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "反而，非禁止程度"
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "sbry-n1-2015.12-文法-5-28",
+      "question": 10,
+      "option": 3,
+      "optionText": "かならず",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "一定，非全盘否定"
+    },
+    {
+      "recordId": "1791355376735-xejv69",
+      "questionId": "sbry-n1-2015.12-文法-5-28",
+      "question": 10,
+      "option": 4,
+      "optionText": "どうしても",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "previousNote": "",
+      "priority": "复用或抽查已有证据",
+      "explanation": "无论如何，非规章中的一概不许可"
+    }
+  ]
+}
