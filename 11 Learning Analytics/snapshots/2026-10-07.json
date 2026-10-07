@@ -1,0 +1,713 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-07",
+  "newRecordIds": [
+    "1791349384394-a0l6s2",
+    "1791349802027-n9s1rt",
+    "1791351599986-anqiz1"
+  ],
+  "summary": "10/7动词47/47、名词48/50、语法8/10。巧妙、繁殖回退；人脈、需要恢复；裁く、蓄える继续保持。语法熟题7/7、首次ID1/3；がたい／ずにすまない与ようとも／ようにも未辨清。しようとしたにすぎず恢复，困るじゃないか跨天保持。无新标注；旧错注不解除。",
+  "profile": {
+    "schemaVersion": 1,
+    "updatedThrough": "2026-10-07",
+    "timezone": "Asia/Shanghai",
+    "analysisPolicy": "题型用于统计；诊断、能力追踪和计划以跨题型考点为主。同一题可标注多个考点。语法考点须映射《新完全マスター文法N1》的部—课—条目；没有精确条目时只标对应能力章节。",
+    "evidence": {
+      "firstDate": "2026-08-28",
+      "lastDate": "2026-10-07",
+      "attempts": 88,
+      "totalQuestions": 2353,
+      "answeredQuestions": 2348,
+      "recordedCorrectAnswers": 2002,
+      "adjudicatedCorrectAnswers": 2002,
+      "coverage": [
+        "文字・词汇",
+        "语法（历史八期及新增跨期句子语法专项）"
+      ],
+      "missingCoverage": [
+        "阅读",
+        "听力",
+        "阅读与听力基线"
+      ],
+      "rawRecordAudit": {
+        "totalFiles": 89,
+        "uniqueRecordIds": 89,
+        "allRecordsQuestions": 2359,
+        "allRecordsAnswered": 2354,
+        "allRecordsRecordedCorrect": 2003,
+        "pendingRecordId": "1787920512509-g71xbx",
+        "pendingReason": "沿用历史待核查状态：8/28 20:35六题25秒全选1；未擅自认定为试用或正式测验。"
+      }
+    },
+    "abilities": {
+      "kanjiReading": {
+        "correct": 1187,
+        "total": 1294,
+        "rate": 0.9173,
+        "confidence": "high",
+        "description": "10/7动词47/47、名词48/50、语法8/10。巧妙、繁殖回退；人脈、需要恢复；裁く、蓄える继续保持。全部熟题，独立提取待验证。"
+      },
+      "contextVocabulary": {
+        "correct": 114,
+        "total": 133,
+        "rate": 0.8571,
+        "confidence": "high",
+        "description": "整体较强；固定搭配、惯用动词和外来语辨析仍会回退。"
+      },
+      "paraphrase": {
+        "correct": 90,
+        "total": 114,
+        "rate": 0.7895,
+        "confidence": "high",
+        "description": "词汇内部明确短板；ろくに、スケール、寄与已三次错误，ずれ込む出现纠正后回退。"
+      },
+      "wordUsage": {
+        "correct": 102,
+        "total": 114,
+        "rate": 0.8947,
+        "confidence": "high",
+        "description": "仍是最稳定题型，但本场的本場、秘める说明词义对象限制需要单独追踪。"
+      },
+      "sentenceGrammar": {
+        "latestCorrect": 8,
+        "total": 10,
+        "answered": 10,
+        "latestRate": 0.8,
+        "previousFamiliarSetCorrect": 10,
+        "previousFamiliarSetTotal": 10,
+        "confidence": "medium-high",
+        "description": "10/7动词47/47、名词48/50、语法8/10。巧妙、繁殖回退；人脈、需要恢复；裁く、蓄える继续保持。语法熟题7/7、首次ID1/3；がたい／ずにすまない与ようとも／ようにも未辨清。しようとしたにすぎず恢复，困るじゃないか跨天保持。无新标注；旧错注不解除。",
+        "batchCorrect": 8,
+        "batchTotal": 10,
+        "dayCorrect": 8,
+        "dayTotal": 10
+      },
+      "sentenceOrdering": {
+        "latestRecordedCorrect": 5,
+        "latestAdjudicatedCorrect": 5,
+        "latestFullOrderCorrect": 5,
+        "total": 5,
+        "answered": 5,
+        "latestAdjudicatedRate": 1.0,
+        "latestFullOrderRate": 1.0,
+        "firstAttemptCorrect": 3,
+        "confidence": "medium-high",
+        "description": "2024.12熟题完整排序5/5，较9月5日同套4/5提高；固定块、关系从句与时间线在本套稳定，仍需新题验证迁移。"
+      },
+      "textGrammar": {
+        "latestCorrect": 0,
+        "total": 4,
+        "answered": 4,
+        "latestRate": 0.0,
+        "previousCompleteAttemptCorrect": 1,
+        "confidence": "medium-high",
+        "description": "2024.12熟题篇章0/4，较9月5日同套1/4继续下降；使役方向、逆接、反事实条件和口语举例全部失分。"
+      },
+      "reading": {
+        "confidence": "none",
+        "description": "无作答记录。"
+      },
+      "listening": {
+        "confidence": "none",
+        "description": "无作答记录。"
+      }
+    },
+    "knowledgePoints": {
+      "orthographicReading": {
+        "status": "cross-day-recognition-improving-with-regressions",
+        "evidence": [
+          "10/6动词47/47，裁く、蓄える恢复；名词47/50，手際纠正，人脈、克服、需要回退。合併新增跨天保持；把握、興奮、本筋未测，语法与三条动词错注无新增纠正证据。",
+          "名词按各题最近历史结果49/50→47/50，不是同一轮对比",
+          "动词三条旧错注仍空白，语法错注本批未测"
+        ],
+        "diagnosis": "区分跨天纠正、跨天保持和新回退；用无选项与新语境验证。",
+        "latestEvidence20261007": "10/7动词47/47、名词48/50、语法8/10。巧妙、繁殖回退；人脈、需要恢复；裁く、蓄える继续保持。语法熟题7/7、首次ID1/3；がたい／ずにすまない与ようとも／ようにも未辨清。しようとしたにすぎず恢复，困るじゃないか跨天保持。无新标注；旧错注不解除。"
+      },
+      "lexicalScopeAndCollocation": {
+        "status": "priority-weakness",
+        "evidence": [
+          "ろくに/大して/全く三错",
+          "スケール=規模三错",
+          "寄与=貢献三错",
+          "話がこじれる两错",
+          "本場与秘める两错"
+        ],
+        "diagnosis": "近义强度、抽象关系和适用对象不精确；熟题继续重复，必须转为无选项提取。"
+      },
+      "honorificAndBenefactivePerspective": {
+        "status": "priority-weakness",
+        "evidence": [
+          "先生においでいただく连续两错",
+          "お越しになる/伺う",
+          "見える/伺う",
+          "といたしましては/におかれましては",
+          "10/5お越しになる際は持续错；もらってやってください本轮正确，局部能力分化。",
+          "10/5 19:03お越しになる際は第三次连续错；18:55見えました第三次连续错，尊敬／自谦主体优先。",
+          "10/6お越しになる際は／見えました四连错；なさいます、我方立场といたしましては及请求功能多处失分。"
+        ],
+        "diagnosis": "动作主体、助词和くださる/いただく视角尚未自动联动；对应教材第3部第6课。"
+      },
+      "concessionConditionAndDegree": {
+        "status": "priority-weakness",
+        "evidence": [
+          "雨だろうと雪だろうと连续两错",
+          "立ち上がれそうにないぐらい连续两错",
+          "ものを",
+          "ばこそ",
+          "とはいえ连续两错",
+          "10/5雨だろうと雪だろうと两错后纠正；ものの／ものを、时间边界／无条件让步仍错。",
+          "18:42理由明确将でもしたら的でも当转折；状況次第では误成次第に。"
+        ],
+        "diagnosis": "需要区分无条件让步、遗憾逆接、原因强调、能力/禁止和程度；对应教材第1部第8、10、12、13课。",
+        "latestEvidence20261007": "10/7动词47/47、名词48/50、语法8/10。巧妙、繁殖回退；人脈、需要恢复；裁く、蓄える继续保持。语法熟题7/7、首次ID1/3；がたい／ずにすまない与ようとも／ようにも未辨清。しようとしたにすぎず恢复，困るじゃないか跨天保持。无新标注；旧错注不解除。"
+      },
+      "aspectTimeAndSpeakerStance": {
+        "status": "priority-weakness",
+        "evidence": [
+          "戻すことにしていこう连续两错",
+          "入学したとたん回退",
+          "思ったのである回退",
+          "言っておいて的逆预期责备",
+          "17:49となりつつある错；18:55明らかになるものと思われる错后19:23恢复；んだもん与もんか混淆。",
+          "10/6最新書けてるじゃない、もっとも、ではないか三错，已发生评价与希望、补充与选择、发现与推断混淆。"
+        ],
+        "diagnosis": "熟题仍忽略实际/假设、过去回忆/未来决定；对应教材第3部第1、4、11、12课。",
+        "latestEvidence20261007": "10/7动词47/47、名词48/50、语法8/10。巧妙、繁殖回退；人脈、需要恢复；裁く、蓄える继续保持。语法熟题7/7、首次ID1/3；がたい／ずにすまない与ようとも／ようにも未辨清。しようとしたにすぎず恢复，困るじゃないか跨天保持。无新标注；旧错注不解除。"
+      },
+      "modifierDependencyAndOrdering": {
+        "status": "improving-needs-new-item-validation",
+        "evidence": [
+          "9月13日三套熟题完整顺序10/15，与首次相同",
+          "9月14日2024.12单套完整顺序5/5",
+          "ばこそ说明框架",
+          "授受目的+关系从句",
+          "冗談だってこと",
+          "嵌入疑问与回指",
+          "10/5句子语法固定连接、名词化＋に気付く错误；未新增排序验证。"
+        ],
+        "diagnosis": "本套从4/5提高到5/5，但此前跨套复测未改善；继续用教材第2部第1—3课训练，并用新题验证。"
+      },
+      "discourseCoherence": {
+        "status": "priority-weakness",
+        "evidence": [
+          "三套熟题篇章由首次9/12降至4/12",
+          "2024.12熟题篇章由9月5日1/4降至0/4",
+          "Q41、Q42、Q44四次作答均错",
+          "そうした指示",
+          "ただ与とはいえ接续",
+          "时制和文体",
+          "话语流程"
+        ],
+        "diagnosis": "显著保持崩落已持续；用户理由还显示连接词和样态表达存在明确义项误解。优先复习第3部第9、12、2、5课。"
+      }
+    },
+    "textbookMapping": {
+      "book": "新完全マスター文法 日本語能力試験N1",
+      "source": "https://www.3anet.co.jp/np/books/3600/",
+      "locatorFormat": "部—课—条目；不使用页码",
+      "currentPriority": [
+        "第3部第9课 接续表达",
+        "第3部第12课 考虑话语流程",
+        "第2部第1—3课 句子组装",
+        "第3部第5—6课 使役/被动与授受视点",
+        "第1部第8课 逆说",
+        "第1部第12课第1项 ～ばこそ",
+        "第1部第4课第2项 ～であろうと…であろうと"
+      ]
+    },
+    "currentStrengths": [
+      "文字词汇整体识别速度",
+      "词语用法与对象判断的整体正确率",
+      "句子语法在熟题复测中的保持与改善",
+      "2024.12熟题的完整排序结构复原"
+    ],
+    "currentPriorities": [
+      "敬语主体与授受请求：两道来访题四连错，本次未测",
+      "区分がたい／ずにすまない、ようとも／ようにも；保持にすぎず与じゃない的纠正",
+      "读音纠正巧妙、繁殖，复测人脈、需要，补测克服、把握、興奮、本筋；旧动词错注须直接纠正",
+      "篇章连接词的方向：因果、追加、强反转、承认后逆接",
+      "反事实条件、かのように与だって的精确义项",
+      "敬语主体、助词与授受视角联动",
+      "让步、条件与程度功能辨析",
+      "固定连接块和修饰依存",
+      "词义适用对象与固定搭配",
+      "汉字读音映射和近音训读",
+      "保持篇章时间轴与说话人立场判断",
+      "建立阅读与听力基线"
+    ],
+    "repeatedErrors": [
+      {
+        "item": "派生",
+        "expected": "はせい",
+        "observedWrong": "はっせい",
+        "occurrences": 3,
+        "dates": [
+          "2026-08-28",
+          "2026-08-29",
+          "2026-09-03"
+        ]
+      },
+      {
+        "item": "Vることがあってはならない",
+        "expected": "绝不能发生 V 这样的事",
+        "observedWrong": "误用であるわけではない，并把わけではない理解为不应该",
+        "occurrences": 2,
+        "dates": [
+          "2026-08-29",
+          "2026-08-30"
+        ]
+      },
+      {
+        "item": "2024.12语法Q38固定搭配排序",
+        "expected": "3→1→4★→2",
+        "observedWrong": "连续选择抵抗がある人にも，而非★位置的ビジネス書に",
+        "occurrences": 2,
+        "dates": [
+          "2026-08-29",
+          "2026-08-30"
+        ]
+      },
+      {
+        "item": "誇張",
+        "expected": "こちょう",
+        "observedWrong": "先后误选こうちょう、ごちょう，首字音与长音未固定",
+        "occurrences": 2,
+        "dates": [
+          "2026-08-29",
+          "2026-09-01"
+        ]
+      },
+      {
+        "item": "見返りを求める",
+        "expected": "索求回报、报偿",
+        "observedWrong": "连续与仕返し（报复）混淆",
+        "occurrences": 2,
+        "dates": [
+          "2026-08-29",
+          "2026-09-01"
+        ]
+      },
+      {
+        "item": "秩序",
+        "expected": "ちつじょ",
+        "observedWrong": "连续误选しつじょう",
+        "occurrences": 2,
+        "dates": [
+          "2026-08-29",
+          "2026-09-02"
+        ]
+      },
+      {
+        "item": "振興",
+        "expected": "しんこう",
+        "observedWrong": "先后误选しんきょう、じんこう",
+        "occurrences": 2,
+        "dates": [
+          "2026-08-29",
+          "2026-09-02"
+        ]
+      },
+      {
+        "item": "ネックになる",
+        "expected": "成为瓶颈或障碍",
+        "observedWrong": "先后与ロック、タブー混淆",
+        "occurrences": 2,
+        "dates": [
+          "2026-08-29",
+          "2026-09-02"
+        ]
+      },
+      {
+        "item": "行き届く",
+        "expected": "照顾或管理遍及细节",
+        "observedWrong": "先后与行き着く、行き詰まる混淆",
+        "occurrences": 2,
+        "dates": [
+          "2026-08-29",
+          "2026-09-02"
+        ]
+      },
+      {
+        "item": "念願の～",
+        "expected": "长期愿望中的～；念願のマイホーム",
+        "observedWrong": "连续与欲求混淆",
+        "occurrences": 3,
+        "dates": [
+          "2026-08-29",
+          "2026-09-03",
+          "2026-09-05"
+        ]
+      },
+      {
+        "item": "ピントを合わせる",
+        "expected": "调焦、对焦",
+        "observedWrong": "先后误选ポーズ、テンポ，未建立相机与聚焦语义",
+        "occurrences": 3,
+        "dates": [
+          "2026-08-29",
+          "2026-09-03",
+          "2026-09-05"
+        ]
+      },
+      {
+        "item": "風当たり",
+        "expected": "来自周围的批评、敌意或压力",
+        "observedWrong": "连续误解为要求",
+        "occurrences": 2,
+        "dates": [
+          "2026-08-29",
+          "2026-09-03"
+        ]
+      },
+      {
+        "item": "あどけない",
+        "expected": "天真稚气的、無邪気な",
+        "observedWrong": "连续误解为真剣な",
+        "occurrences": 2,
+        "dates": [
+          "2026-08-29",
+          "2026-09-03"
+        ]
+      },
+      {
+        "item": "騒然",
+        "expected": "そうぜん",
+        "observedWrong": "连续误选そぜん，长音未固定",
+        "occurrences": 2,
+        "dates": [
+          "2026-09-02",
+          "2026-09-05"
+        ]
+      },
+      {
+        "item": "ろくに～ない",
+        "expected": "不充分、不像样地；近义为大して～ない",
+        "observedWrong": "连续误选全く～ない，把不充分扩大为完全没有",
+        "occurrences": 3,
+        "dates": [
+          "2026-08-29",
+          "2026-09-09",
+          "2026-09-13"
+        ]
+      },
+      {
+        "item": "スケール",
+        "expected": "規模、尺度",
+        "observedWrong": "连续误选方針",
+        "occurrences": 3,
+        "dates": [
+          "2026-08-29",
+          "2026-09-09",
+          "2026-09-13"
+        ]
+      },
+      {
+        "item": "寄与",
+        "expected": "貢献；对成果或发展产生积极作用",
+        "observedWrong": "连续误选援助",
+        "occurrences": 3,
+        "dates": [
+          "2026-08-29",
+          "2026-09-09",
+          "2026-09-13"
+        ]
+      },
+      {
+        "item": "話がこじれる",
+        "expected": "谈话、交涉或问题复杂化、恶化",
+        "observedWrong": "连续误选しびれる",
+        "occurrences": 2,
+        "dates": [
+          "2026-09-08",
+          "2026-09-13"
+        ]
+      },
+      {
+        "item": "本場",
+        "expected": "某文化、产品或技艺的正宗中心地",
+        "observedWrong": "与現地混淆",
+        "occurrences": 2,
+        "dates": [
+          "2026-09-08",
+          "2026-09-13"
+        ]
+      },
+      {
+        "item": "秘める",
+        "expected": "把情感、潜力等含藏于内",
+        "observedWrong": "与隠す、こらえる、抑える的对象范围混淆",
+        "occurrences": 2,
+        "dates": [
+          "2026-09-08",
+          "2026-09-13"
+        ]
+      },
+      {
+        "item": "雨だろうと雪だろうと",
+        "expected": "无论下雨还是下雪，结果不变",
+        "observedWrong": "连续误选雨とも雪とも",
+        "occurrences": 2,
+        "dates": [
+          "2026-09-09",
+          "2026-09-13"
+        ],
+        "latestStatus": "10/5、10/6跨ID同题正确；10/7原ID继续正确",
+        "lastVerifiedDate": "2026-10-07"
+      },
+      {
+        "item": "先生においでいただくからには",
+        "expected": "我方承蒙老师前来；先生に与いただく联动",
+        "observedWrong": "连续误选おいでくださるにしては",
+        "occurrences": 2,
+        "dates": [
+          "2026-09-08",
+          "2026-09-13"
+        ]
+      },
+      {
+        "item": "戻すことにしていこう",
+        "expected": "从现在起作为持续方针把东西放回去",
+        "observedWrong": "连续误选戻せてよかった，把未来决定理解成过去结果评价",
+        "occurrences": 2,
+        "dates": [
+          "2026-09-08",
+          "2026-09-13"
+        ]
+      },
+      {
+        "item": "2024.12篇章Q41 気を使わせられはしない",
+        "expected": "作者不能让编辑们为自己费心；使役＋可能否定＋は强调",
+        "observedWrong": "四次忽略使役层，把动作方向理解为作者自己不能费心",
+        "occurrences": 4,
+        "dates": [
+          "2026-08-29",
+          "2026-08-30",
+          "2026-09-05",
+          "2026-09-14"
+        ]
+      },
+      {
+        "item": "2024.12篇章Q42 それにもかかわらず",
+        "expected": "承认补订不难，却仍异常失落",
+        "observedWrong": "四次未识别承认前项后的逆接；最新理由误解为与此无关",
+        "occurrences": 4,
+        "dates": [
+          "2026-08-29",
+          "2026-08-30",
+          "2026-09-05",
+          "2026-09-14"
+        ]
+      },
+      {
+        "item": "2024.12篇章Q43 承知していれば",
+        "expected": "如果从一开始知道自己粗心，就不会如此失落",
+        "observedWrong": "两次错；最新把かのように误解为可能/应该，而非仿佛",
+        "occurrences": 2,
+        "dates": [
+          "2026-08-29",
+          "2026-09-14"
+        ]
+      },
+      {
+        "item": "2024.12篇章Q44 ピアスだって",
+        "expected": "耳环也/就连耳环也不例外；口语举例兼让步",
+        "observedWrong": "四次未识别だって义项，最新误选といっても",
+        "occurrences": 4,
+        "dates": [
+          "2026-08-29",
+          "2026-08-30",
+          "2026-09-05",
+          "2026-09-14"
+        ]
+      },
+      {
+        "item": "費やす",
+        "expected": "ついやす／費やした＝ついやした",
+        "observedWrong": "ひやした、ひやした、つやした",
+        "occurrences": 3,
+        "dates": [
+          "2026-09-22",
+          "2026-09-26",
+          "2026-09-28"
+        ]
+      },
+      {
+        "item": "遮る",
+        "expected": "さえぎる",
+        "observedWrong": "へだてる、へだてる、さまたげる",
+        "occurrences": 3,
+        "dates": [
+          "2026-09-22",
+          "2026-09-26",
+          "2026-09-28"
+        ]
+      }
+    ],
+    "answerKeyAdjudications": [
+      {
+        "questionId": "jlpt4you-2024.12-grammar-6-2",
+        "questionNumber": 37,
+        "localExpected": 4,
+        "adjudicatedExpected": 2,
+        "correctOrder": [
+          1,
+          3,
+          2,
+          4
+        ],
+        "reason": "本地答案键与多份公开参考答案冲突；完整句法支持真面目すぎるがゆえに→トラブルが絶えない→男。",
+        "appliedToDate": "2026-08-30"
+      }
+    ],
+    "presentationAdjudications": [
+      {
+        "questionId": "jlpt4you-2024.07-grammar-6-1",
+        "questionNumber": 36,
+        "originalStarPosition": 2,
+        "displayedStarPosition": 3,
+        "correctOrder": [
+          3,
+          2,
+          4,
+          1
+        ],
+        "recordedSelected": 4,
+        "adjudicatedExpected": 2,
+        "reason": "原卷★位于第2空；离线排序控件当时将所有排序题硬编码为第3空。用户完整排序正确，系统从错误显示的位置取出片段4而误判。",
+        "appliedToDate": "2026-08-31"
+      }
+    ],
+    "latestPractice": {
+      "date": "2026-10-07",
+      "localTime": "13:39",
+      "recordId": "1791351599986-anqiz1",
+      "focus": "句子语法",
+      "latestCorrect": 8,
+      "latestTotal": 10,
+      "rate": 0.8,
+      "durationSeconds": 1648,
+      "optionNotes": 0,
+      "reasonCount": 0,
+      "batchRecordIds": [
+        "1791349384394-a0l6s2",
+        "1791349802027-n9s1rt",
+        "1791351599986-anqiz1"
+      ],
+      "batchCorrect": 103,
+      "batchTotal": 107,
+      "masteryJudgment": "10/7动词47/47、名词48/50、语法8/10。巧妙、繁殖回退；人脈、需要恢复；裁く、蓄える继续保持。语法熟题7/7、首次ID1/3；がたい／ずにすまない与ようとも／ようにも未辨清。しようとしたにすぎず恢复，困るじゃないか跨天保持。无新标注；旧错注不解除。",
+      "report": "daily/2026-10-07.md",
+      "optionAudit": "daily/2026-10-07-option-audit.md"
+    },
+    "annotationPolicy": {
+      "updatedAt": "2026-09-29",
+      "userConstraint": "用户只能输入中文，汉字基本一致即可算对。",
+      "evaluation": "中文简写或对应义项成立即认可；不扣日文表记、简繁、送假名分；缺少完整义项不直接算错；未标注不等于不会。",
+      "acceptedExamples": [
+        "炼→練る",
+        "里切→裏切る",
+        "念→唸る",
+        "贿→賄う",
+        "愈→癒す",
+        "恼→悩む"
+      ],
+      "historicalComparability": "旧报告对简写和部分真实义项判定过严，未重算旧标注分母，不与本轮标注正确率作同口径差值比较。"
+    },
+    "previousVerbPractice": {
+      "date": "2026-10-07",
+      "recordId": "1791349384394-a0l6s2",
+      "correct": 47,
+      "total": 47,
+      "durationSeconds": 236,
+      "maintained": [
+        "裁く",
+        "蓄える"
+      ],
+      "unresolvedAnnotationMappings": [
+        "まかされた→贿",
+        "こぼれやすい→拒",
+        "いたわって→伪"
+      ]
+    },
+    "previousNounPractice": {
+      "date": "2026-10-07",
+      "recordId": "1791349802027-n9s1rt",
+      "latestCorrect": 48,
+      "latestTotal": 50,
+      "durationSeconds": 412,
+      "fixed": [
+        "人脈",
+        "需要"
+      ],
+      "regressed": [
+        "巧妙",
+        "繁殖"
+      ],
+      "unresolvedNotRetested": [
+        "克服",
+        "把握",
+        "興奮",
+        "本筋"
+      ]
+    },
+    "analysisUpdatedAt": "2026-10-07",
+    "previousGrammarPractice": {
+      "date": "2026-10-06",
+      "localTime": "18:08",
+      "recordId": "1791281312320-a8jxr2",
+      "focus": "問題5句子语法",
+      "latestCorrect": 7,
+      "latestTotal": 10,
+      "rate": 0.7,
+      "durationSeconds": 729,
+      "optionNotes": 0,
+      "reasonCount": 0,
+      "shuffleOptions": false,
+      "batchRecordIds": [
+        "1791262815807-1hlnzn",
+        "1791263329462-4xwuh6",
+        "1791265534269-s8pju4",
+        "1791266612581-o5lin4",
+        "1791267449323-tnfsdq",
+        "1791267985966-1sy4r5",
+        "1791268617278-z185br",
+        "1791269436030-2ua8ht",
+        "1791269902193-vqcknh",
+        "1791271673652-81inff",
+        "1791272654017-rbua49",
+        "1791280147833-5sh63j",
+        "1791281312320-a8jxr2"
+      ],
+      "batchCorrect": 98,
+      "batchTotal": 130,
+      "unresolvedCount": 29,
+      "masteryJudgment": "10/6新增13轮句子语法98/130，最新18:08为7/10；32错中3题后续纠正、29题末次仍错。两个敬语题均连续四错，お越し题时间部分改善但主体仍错；7个昨天末次错误本批纠正。",
+      "report": "daily/2026-10-06-1808.md",
+      "optionAudit": "daily/2026-10-06-1808-option-audit.md"
+    }
+  },
+  "auditSummary": {
+    "date": "2026-10-07",
+    "recordIds": [
+      "1791349384394-a0l6s2",
+      "1791349802027-n9s1rt",
+      "1791351599986-anqiz1"
+    ],
+    "correct": 103,
+    "total": 107,
+    "durationSeconds": 2296,
+    "optionNotes": 0,
+    "reasonCount": 0,
+    "annotationAccuracy": null,
+    "blankOptions": 428,
+    "blankDistractors": 321,
+    "priorities": {
+      "抽查已有证据": 93,
+      "复用已有标注": 123,
+      "优先补": 35,
+      "可不标": 95,
+      "建议辨析一次": 80,
+      "验证纠正": 2
+    }
+  }
+}

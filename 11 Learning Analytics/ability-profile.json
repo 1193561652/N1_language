@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "updatedThrough": "2026-10-06",
+  "updatedThrough": "2026-10-07",
   "timezone": "Asia/Shanghai",
   "analysisPolicy": "题型用于统计；诊断、能力追踪和计划以跨题型考点为主。同一题可标注多个考点。语法考点须映射《新完全マスター文法N1》的部—课—条目；没有精确条目时只标对应能力章节。",
   "evidence": {
     "firstDate": "2026-08-28",
-    "lastDate": "2026-10-06",
-    "attempts": 85,
-    "totalQuestions": 2246,
-    "answeredQuestions": 2241,
-    "recordedCorrectAnswers": 1899,
-    "adjudicatedCorrectAnswers": 1899,
+    "lastDate": "2026-10-07",
+    "attempts": 88,
+    "totalQuestions": 2353,
+    "answeredQuestions": 2348,
+    "recordedCorrectAnswers": 2002,
+    "adjudicatedCorrectAnswers": 2002,
     "coverage": [
       "文字・词汇",
       "语法（历史八期及新增跨期句子语法专项）"
@@ -21,22 +21,22 @@
       "阅读与听力基线"
     ],
     "rawRecordAudit": {
-      "totalFiles": 86,
-      "uniqueRecordIds": 86,
-      "allRecordsQuestions": 2252,
-      "allRecordsAnswered": 2247,
-      "allRecordsRecordedCorrect": 1900,
+      "totalFiles": 89,
+      "uniqueRecordIds": 89,
+      "allRecordsQuestions": 2359,
+      "allRecordsAnswered": 2354,
+      "allRecordsRecordedCorrect": 2003,
       "pendingRecordId": "1787920512509-g71xbx",
       "pendingReason": "沿用历史待核查状态：8/28 20:35六题25秒全选1；未擅自认定为试用或正式测验。"
     }
   },
   "abilities": {
     "kanjiReading": {
-      "correct": 1092,
-      "total": 1197,
-      "rate": 0.9123,
+      "correct": 1187,
+      "total": 1294,
+      "rate": 0.9173,
       "confidence": "high",
-      "description": "10/6动词47/47，裁く、蓄える恢复；名词47/50，手際纠正，人脈、克服、需要回退。合併新增跨天保持；把握、興奮、本筋未测，语法与三条动词错注无新增纠正证据。全部熟题，主动提取及新题迁移待验证。"
+      "description": "10/7动词47/47、名词48/50、语法8/10。巧妙、繁殖回退；人脈、需要恢复；裁く、蓄える继续保持。全部熟题，独立提取待验证。"
     },
     "contextVocabulary": {
       "correct": 114,
@@ -60,18 +60,18 @@
       "description": "仍是最稳定题型，但本场的本場、秘める说明词义对象限制需要单独追踪。"
     },
     "sentenceGrammar": {
-      "latestCorrect": 7,
+      "latestCorrect": 8,
       "total": 10,
       "answered": 10,
-      "latestRate": 0.7,
+      "latestRate": 0.8,
       "previousFamiliarSetCorrect": 10,
       "previousFamiliarSetTotal": 10,
       "confidence": "medium-high",
-      "description": "10/6新增13轮句子语法98/130，最新18:08为7/10；32错中3题后续纠正、29题末次仍错。两个敬语题均连续四错，お越し题时间部分改善但主体仍错；7个昨天末次错误本批纠正。按ID已出现76题次67对，首次54题31对；不等同不同题数量或标准测验。",
-      "batchCorrect": 98,
-      "batchTotal": 130,
-      "dayCorrect": 98,
-      "dayTotal": 130
+      "description": "10/7动词47/47、名词48/50、语法8/10。巧妙、繁殖回退；人脈、需要恢复；裁く、蓄える继续保持。语法熟题7/7、首次ID1/3；がたい／ずにすまない与ようとも／ようにも未辨清。しようとしたにすぎず恢复，困るじゃないか跨天保持。无新标注；旧错注不解除。",
+      "batchCorrect": 8,
+      "batchTotal": 10,
+      "dayCorrect": 8,
+      "dayTotal": 10
     },
     "sentenceOrdering": {
       "latestRecordedCorrect": 5,
@@ -111,7 +111,8 @@
         "名词按各题最近历史结果49/50→47/50，不是同一轮对比",
         "动词三条旧错注仍空白，语法错注本批未测"
       ],
-      "diagnosis": "区分跨天纠正、跨天保持和新回退；用无选项与新语境验证。"
+      "diagnosis": "区分跨天纠正、跨天保持和新回退；用无选项与新语境验证。",
+      "latestEvidence20261007": "10/7动词47/47、名词48/50、语法8/10。巧妙、繁殖回退；人脈、需要恢复；裁く、蓄える继续保持。语法熟题7/7、首次ID1/3；がたい／ずにすまない与ようとも／ようにも未辨清。しようとしたにすぎず恢复，困るじゃないか跨天保持。无新标注；旧错注不解除。"
     },
     "lexicalScopeAndCollocation": {
       "status": "priority-weakness",
@@ -148,7 +149,8 @@
         "10/5雨だろうと雪だろうと两错后纠正；ものの／ものを、时间边界／无条件让步仍错。",
         "18:42理由明确将でもしたら的でも当转折；状況次第では误成次第に。"
       ],
-      "diagnosis": "需要区分无条件让步、遗憾逆接、原因强调、能力/禁止和程度；对应教材第1部第8、10、12、13课。"
+      "diagnosis": "需要区分无条件让步、遗憾逆接、原因强调、能力/禁止和程度；对应教材第1部第8、10、12、13课。",
+      "latestEvidence20261007": "10/7动词47/47、名词48/50、语法8/10。巧妙、繁殖回退；人脈、需要恢复；裁く、蓄える继续保持。语法熟题7/7、首次ID1/3；がたい／ずにすまない与ようとも／ようにも未辨清。しようとしたにすぎず恢复，困るじゃないか跨天保持。无新标注；旧错注不解除。"
     },
     "aspectTimeAndSpeakerStance": {
       "status": "priority-weakness",
@@ -160,7 +162,8 @@
         "17:49となりつつある错；18:55明らかになるものと思われる错后19:23恢复；んだもん与もんか混淆。",
         "10/6最新書けてるじゃない、もっとも、ではないか三错，已发生评价与希望、补充与选择、发现与推断混淆。"
       ],
-      "diagnosis": "熟题仍忽略实际/假设、过去回忆/未来决定；对应教材第3部第1、4、11、12课。"
+      "diagnosis": "熟题仍忽略实际/假设、过去回忆/未来决定；对应教材第3部第1、4、11、12课。",
+      "latestEvidence20261007": "10/7动词47/47、名词48/50、语法8/10。巧妙、繁殖回退；人脈、需要恢复；裁く、蓄える继续保持。语法熟题7/7、首次ID1/3；がたい／ずにすまない与ようとも／ようにも未辨清。しようとしたにすぎず恢复，困るじゃないか跨天保持。无新标注；旧错注不解除。"
     },
     "modifierDependencyAndOrdering": {
       "status": "improving-needs-new-item-validation",
@@ -210,9 +213,9 @@
     "2024.12熟题的完整排序结构复原"
   ],
   "currentPriorities": [
-    "敬语主体与授受请求：两个来访题四连错；なさる／申す、おっしゃる／伺う、我方立场表达",
-    "语气功能与缩约：じゃない／ではないか／のではないか、もっとも、頼んじゃわないか、しかあるまい；29个末次错题先辨析",
-    "读音短时修复人脈、克服、需要；裁く、蓄える、手際转保持；补测把握、興奮、本筋，减少同池整套重刷。",
+    "敬语主体与授受请求：两道来访题四连错，本次未测",
+    "区分がたい／ずにすまない、ようとも／ようにも；保持にすぎず与じゃない的纠正",
+    "读音纠正巧妙、繁殖，复测人脈、需要，补测克服、把握、興奮、本筋；旧动词错注须直接纠正",
     "篇章连接词的方向：因果、追加、强反转、承认后逆接",
     "反事实条件、かのように与だって的精确义项",
     "敬语主体、助词与授受视角联动",
@@ -438,7 +441,9 @@
       "dates": [
         "2026-09-09",
         "2026-09-13"
-      ]
+      ],
+      "latestStatus": "10/5、10/6跨ID同题正确；10/7原ID继续正确",
+      "lastVerifiedDate": "2026-10-07"
     },
     {
       "item": "先生においでいただくからには",
@@ -564,6 +569,80 @@
     }
   ],
   "latestPractice": {
+    "date": "2026-10-07",
+    "localTime": "13:39",
+    "recordId": "1791351599986-anqiz1",
+    "focus": "句子语法",
+    "latestCorrect": 8,
+    "latestTotal": 10,
+    "rate": 0.8,
+    "durationSeconds": 1648,
+    "optionNotes": 0,
+    "reasonCount": 0,
+    "batchRecordIds": [
+      "1791349384394-a0l6s2",
+      "1791349802027-n9s1rt",
+      "1791351599986-anqiz1"
+    ],
+    "batchCorrect": 103,
+    "batchTotal": 107,
+    "masteryJudgment": "10/7动词47/47、名词48/50、语法8/10。巧妙、繁殖回退；人脈、需要恢复；裁く、蓄える继续保持。语法熟题7/7、首次ID1/3；がたい／ずにすまない与ようとも／ようにも未辨清。しようとしたにすぎず恢复，困るじゃないか跨天保持。无新标注；旧错注不解除。",
+    "report": "daily/2026-10-07.md",
+    "optionAudit": "daily/2026-10-07-option-audit.md"
+  },
+  "annotationPolicy": {
+    "updatedAt": "2026-09-29",
+    "userConstraint": "用户只能输入中文，汉字基本一致即可算对。",
+    "evaluation": "中文简写或对应义项成立即认可；不扣日文表记、简繁、送假名分；缺少完整义项不直接算错；未标注不等于不会。",
+    "acceptedExamples": [
+      "炼→練る",
+      "里切→裏切る",
+      "念→唸る",
+      "贿→賄う",
+      "愈→癒す",
+      "恼→悩む"
+    ],
+    "historicalComparability": "旧报告对简写和部分真实义项判定过严，未重算旧标注分母，不与本轮标注正确率作同口径差值比较。"
+  },
+  "previousVerbPractice": {
+    "date": "2026-10-07",
+    "recordId": "1791349384394-a0l6s2",
+    "correct": 47,
+    "total": 47,
+    "durationSeconds": 236,
+    "maintained": [
+      "裁く",
+      "蓄える"
+    ],
+    "unresolvedAnnotationMappings": [
+      "まかされた→贿",
+      "こぼれやすい→拒",
+      "いたわって→伪"
+    ]
+  },
+  "previousNounPractice": {
+    "date": "2026-10-07",
+    "recordId": "1791349802027-n9s1rt",
+    "latestCorrect": 48,
+    "latestTotal": 50,
+    "durationSeconds": 412,
+    "fixed": [
+      "人脈",
+      "需要"
+    ],
+    "regressed": [
+      "巧妙",
+      "繁殖"
+    ],
+    "unresolvedNotRetested": [
+      "克服",
+      "把握",
+      "興奮",
+      "本筋"
+    ]
+  },
+  "analysisUpdatedAt": "2026-10-07",
+  "previousGrammarPractice": {
     "date": "2026-10-06",
     "localTime": "18:08",
     "recordId": "1791281312320-a8jxr2",
@@ -596,106 +675,5 @@
     "masteryJudgment": "10/6新增13轮句子语法98/130，最新18:08为7/10；32错中3题后续纠正、29题末次仍错。两个敬语题均连续四错，お越し题时间部分改善但主体仍错；7个昨天末次错误本批纠正。",
     "report": "daily/2026-10-06-1808.md",
     "optionAudit": "daily/2026-10-06-1808-option-audit.md"
-  },
-  "annotationPolicy": {
-    "updatedAt": "2026-09-29",
-    "userConstraint": "用户只能输入中文，汉字基本一致即可算对。",
-    "evaluation": "中文简写或对应义项成立即认可；不扣日文表记、简繁、送假名分；缺少完整义项不直接算错；未标注不等于不会。",
-    "acceptedExamples": [
-      "炼→練る",
-      "里切→裏切る",
-      "念→唸る",
-      "贿→賄う",
-      "愈→癒す",
-      "恼→悩む"
-    ],
-    "historicalComparability": "旧报告对简写和部分真实义项判定过严，未重算旧标注分母，不与本轮标注正确率作同口径差值比较。"
-  },
-  "previousVerbPractice": {
-    "date": "2026-10-06",
-    "localTime": "12:47",
-    "recordId": "1791262069893-sw8w24",
-    "correct": 47,
-    "total": 47,
-    "durationSeconds": 193,
-    "optionNotes": 0,
-    "fixed": [
-      "裁く",
-      "蓄える"
-    ],
-    "unresolvedAnnotationMappings": [
-      "まかされた→贿",
-      "こぼれやすい→拒",
-      "いたわって→伪"
-    ]
-  },
-  "previousNounPractice": {
-    "date": "2026-10-06",
-    "localTime": "12:52",
-    "recordId": "1791262336592-9p9nko",
-    "focus": "問題1名词读音",
-    "latestCorrect": 47,
-    "latestTotal": 50,
-    "rate": 0.94,
-    "durationSeconds": 259,
-    "optionNotes": 0,
-    "reasonCount": 0,
-    "shuffleOptions": false,
-    "fixed": [
-      "手際"
-    ],
-    "regressed": [
-      "人脈",
-      "克服",
-      "需要"
-    ],
-    "unresolvedNotRetested": [
-      "把握",
-      "興奮",
-      "本筋"
-    ],
-    "comparison": {
-      "sameQuestions": 50,
-      "previousCorrect": 49,
-      "currentCorrect": 47
-    },
-    "masteryJudgment": "10/6动词47/47，裁く、蓄える恢复；名词47/50，手際纠正，人脈、克服、需要回退。合併新增跨天保持；把握、興奮、本筋未测，语法与三条动词错注无新增纠正证据。",
-    "report": "daily/2026-10-06.md",
-    "optionAudit": "daily/2026-10-06-option-audit.md"
-  },
-  "analysisUpdatedAt": "2026-10-06",
-  "previousGrammarPractice": {
-    "date": "2026-10-05",
-    "localTime": "19:23",
-    "recordId": "1791199403011-f67i79",
-    "focus": "問題5句子语法",
-    "latestCorrect": 9,
-    "latestTotal": 10,
-    "rate": 0.9,
-    "durationSeconds": 279,
-    "optionNotes": 0,
-    "reasonCount": 0,
-    "shuffleOptions": false,
-    "batchRecordIds": [
-      "1791193745692-upl716",
-      "1791196921030-gog2ru",
-      "1791197710057-8gh7x4",
-      "1791198224716-lzhnp3",
-      "1791198895676-a6drzx",
-      "1791199403011-f67i79"
-    ],
-    "batchCorrect": 38,
-    "batchTotal": 60,
-    "annotationAudit": {
-      "batchOptionNotes": 6,
-      "accepted": 3,
-      "errors": 2,
-      "pending": 1,
-      "adjudicatedRate": 0.6,
-      "reasonErrors": 1
-    },
-    "masteryJudgment": "10/5晚间六轮句子语法38/60，末轮9/10；22错中2题后续恢复、20题末次仍错。16:05五旧错纠正，两个敬语题均累计连续三错。6选项标注3认可2错1待核实；1理由误把でもしたら当转折。",
-    "report": "daily/2026-10-05-1923.md",
-    "optionAudit": "daily/2026-10-05-1923-option-audit.md"
   }
 }

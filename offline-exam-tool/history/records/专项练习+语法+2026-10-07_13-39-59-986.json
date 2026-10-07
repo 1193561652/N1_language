@@ -1,0 +1,411 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791351599986-anqiz1",
+    "submittedAt": "2026-10-07T05:39:59.986Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": true,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "sbry-n1-2010.07-文法-5-35",
+        "jlpt4you-2023.07-grammar-5-9",
+        "jlpt4you-2024.07-grammar-5-2",
+        "sbry-n1-2011.12-文法-5-35",
+        "sbry-n1-2021.12-文法-5-29",
+        "sbry-n1-2014.07-文法-5-27",
+        "sbry-n1-2021.07-文法-5-29",
+        "jlpt4you-2024.07-grammar-5-9",
+        "sbry-n1-2010.12-文法-5-34",
+        "sbry-n1-2010.12-文法-5-31"
+      ],
+      "shuffleOptions": false,
+      "optionOrders": {},
+      "showFurigana": true
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 8,
+    "percentage": 80,
+    "durationSeconds": 1648,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2010.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c03",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2010.07-文法-5-35",
+        "number": 35,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "先日提出した私の意見書は、単に決定に至るプロセスの問題点を指摘()、決定そのものに反対するものではありません。",
+        "options": [
+          "しそうになったにすぎず",
+          "しそうになったほどで",
+          "しようとしたにすぎず",
+          "しようとしたほどで"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06",
+          "grammar.q5.b05"
+        ],
+        "id": "jlpt4you-2023.07-grammar-5-9",
+        "number": 34,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この辺りの町並みは外国のような雰囲気で、ここを訪れるだけで海外を旅行（ ）。",
+        "options": [
+          "するつもりでいる",
+          "してくるつもりだ",
+          "したつもりになれる",
+          "するつもりになっていた"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c17"
+        ],
+        "id": "jlpt4you-2024.07-grammar-5-2",
+        "number": 27,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "彼はわずか 27 歳（ ）市長となった。",
+        "options": [
+          "にして",
+          "にあたって",
+          "に際して",
+          "に先立って"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2011.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c13"
+        ],
+        "id": "sbry-n1-2011.12-文法-5-35",
+        "number": 35,
+        "selected": [
+          1
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "駅前の再開発の意義は理解できても、長年そこで商売をしてきた人達にとっては閉店や立ち退きは不本意で、すぐには()と思われる｡",
+        "options": [
+          "受け入れずにすまないのではないか",
+          "受け入れないにかぎるではないか",
+          "受け入れがたいのではないか",
+          "受け入れないではないか"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2021.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c08",
+          "grammar.q5.b05"
+        ],
+        "id": "sbry-n1-2021.12-文法-5-29",
+        "number": 29,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "昨日行ったそば屋は、たくさん人が並んでいたので()、意外にもすぐに席に案内された。",
+        "options": [
+          "待たされたかと思えば",
+          "待たされることと思い",
+          "待たされるかと思いきや",
+          "待たされたことと思うが"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2014.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c10"
+        ],
+        "id": "sbry-n1-2014.07-文法-5-27",
+        "number": 27,
+        "selected": [
+          4
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "周囲からどのような批判を()、自らの考えを最後まで貫くべきだ。",
+        "options": [
+          "浴びたといえば",
+          "浴びたにもかかわらず",
+          "浴びようとも",
+          "浴びようにも"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2021.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c04",
+          "grammar.q5.c10"
+        ],
+        "id": "sbry-n1-2021.07-文法-5-29",
+        "number": 29,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "彼は自転車がよほど好きらしい。()毎日楽しそうに自転車で通勤してくる。",
+        "options": [
+          "雨とも雪とも",
+          "雨でもなく雪でもなく",
+          "雨というか雪というか",
+          "雨だろうと雪だろうと"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b04",
+          "grammar.q5.b06",
+          "grammar.q5.b05"
+        ],
+        "id": "jlpt4you-2024.07-grammar-5-9",
+        "number": 34,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "（天気予報で） 「明日は低気圧の発達に伴い、西日本を中心に風雨が（ ）。」",
+        "options": [
+          "強めつつあります",
+          "強める見込みです",
+          "強まりつつあります",
+          "強まる見込みです"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2010.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c19"
+        ],
+        "id": "sbry-n1-2010.12-文法-5-34",
+        "number": 34,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "自慢する()が、私は入社以来１０年、一度も遅刻をしたことがない。",
+        "options": [
+          "だけのことではない",
+          "ほどのことではない",
+          "だけのことに過ぎない",
+          "ほどのことに過ぎない"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2010.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2010.12-文法-5-31",
+        "number": 31,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "上司「君、困る()！資料にミスがあったぞ。君のせいで大恥をかいたよ。」\n部下「すみません。うっかりしておりまして……」",
+        "options": [
+          "じゃないか",
+          "のではないか",
+          "じゃないのか",
+          "のではないのか"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}
