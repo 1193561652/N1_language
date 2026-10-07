@@ -27,6 +27,38 @@
     .replaceAll("【AI 生成解析】", '<span class="ai-analysis-label">AI 生成解析</span>')
     .replaceAll("【AI 点评】", '<span class="ai-comment-label">AI 点评</span>');
   const textBlock = (value, className = "") => value ? `<div class="content-block ${className}">${formatExamText(value)}</div>` : "";
+  function hasGrammarFurigana(question) {
+    return (PRACTICE.byId.get(question.id)?.category || state.category) === "语法"
+      && Number(question.groupNumber) === 5;
+  }
+  function orderingText(question, value) {
+    if (!hasGrammarFurigana(question)) return formatExamText(value);
+    return `<span data-ordering-text="${escapeHtml(value)}">${window.OrderingFurigana.render(question.id, value, state.showFurigana || state.submitted, formatExamText)}</span>`;
+  }
+  function orderingTextBlock(question, value) {
+    return value ? `<div class="content-block">${orderingText(question, value)}</div>` : "";
+  }
+  function refreshOrderingFurigana(question, card) {
+    if (!state.submitted || !hasGrammarFurigana(question)) return;
+    card.classList.add('furigana-active');
+    card.querySelectorAll('[data-ordering-text]').forEach((node) => {
+      node.innerHTML = window.OrderingFurigana.render(question.id, node.dataset.orderingText, true, formatExamText);
+    });
+    if (!card.querySelector('.ordering-ruby') || card.querySelector('[data-toggle-furigana]')) return;
+    const button = document.createElement('button');
+    button.type = 'button';
+    button.className = 'text-button';
+    button.dataset.toggleFurigana = '';
+    card.classList.toggle('furigana-hidden', !state.showFurigana);
+    button.textContent = state.showFurigana ? '隐藏假名' : '显示假名';
+    button.setAttribute('aria-pressed', String(state.showFurigana));
+    button.addEventListener('click', () => {
+      const hidden = card.classList.toggle('furigana-hidden');
+      button.textContent = hidden ? '显示假名' : '隐藏假名';
+      button.setAttribute('aria-pressed', String(!hidden));
+    });
+    card.querySelector('.question-meta').append(button);
+  }
   const formatDuration = (seconds) => `${String(Math.floor(seconds / 60)).padStart(2, "0")}:${String(seconds % 60).padStart(2, "0")}`;
   const formatDate = (iso) => new Intl.DateTimeFormat("zh-CN", { dateStyle: "medium", timeStyle: "medium" }).format(new Date(iso));
 
@@ -104,6 +136,8 @@
       specialFilters: specialFilters(),
       specialCount: $("#special-count").value,
       specialShuffleOptions: $("#special-shuffle-options").checked,
+      specialShowFurigana: $("#special-show-furigana").checked,
+      showFurigana: $("#show-furigana").checked,
       historyYear: $("#history-year-filter")?.value || "",
       historyCategory: $("#history-category-filter")?.value || "",
       examActive,
@@ -114,6 +148,7 @@
       questionId: examActive ? currentQuestionId() : null,
       draft: examActive && !state.replayMode ? {
         practice: state.practice,
+        showFurigana: state.showFurigana,
         answers: state.answers,
         reasons: state.reasons,
         optionReasons: state.optionReasons,
@@ -260,7 +295,8 @@
   }
 
   function specialFilters() {
-    return { subject: $("#special-subject").value, problem: $("#special-problem").value, tag: $("#special-tag").value };
+    return { subject: $("#special-subject").value, problem: $("#special-problem").value,
+      tags: $$('#special-tag input:checked').map((input) => input.value) };
   }
 
   function optionsFor(select, entries, selected = select.value) {
@@ -280,7 +316,7 @@
   function updateSpecialTags() {
     const { subject, problem } = specialFilters();
     const tags = PRACTICE.tags.filter((tag) => (!subject || tag.subject === subject) && (!problem || String(tag.problemNumber) === problem));
-    optionsFor($("#special-tag"), tags.map((tag) => [tag.id, `${problem ? "" : `問題${tag.problemNumber} · `}${tag.name}`]));
+    $("#special-tag").innerHTML = tags.map((tag) => `<label class="special-tag-option"><input type="checkbox" value="${escapeHtml(tag.id)}"><span>${escapeHtml(`${problem ? "" : `問題${tag.problemNumber} · `}${tag.name}`)}</span></label>`).join("");
     updateSpecialSummary();
   }
 
@@ -300,15 +336,17 @@
     updateSpecialProblems();
     $("#special-problem").value = filters.problem || "";
     updateSpecialTags();
-    $("#special-tag").value = filters.tag || "";
+    const selectedTags = new Set(Array.isArray(filters.tags) ? filters.tags : filters.tag ? [filters.tag] : []);
+    $$('#special-tag input').forEach((input) => { input.checked = selectedTags.has(input.value); });
     updateSpecialSummary();
   }
 
   function practiceTitle(practice) {
     const filters = practice?.filters || {};
-    const tag = PRACTICE.tagById.get(filters.tag);
+    const tags = (Array.isArray(filters.tags) ? filters.tags : filters.tag ? [filters.tag] : [])
+      .map((id) => PRACTICE.tagById.get(id)).filter(Boolean);
     const group = PRACTICE.tags.find((item) => String(item.problemNumber) === String(filters.problem));
-    return ["专项练习", filters.subject || "文字・词汇＋语法", tag ? `問題${tag.problemNumber} · ${tag.name}` : group ? `問題${group.problemNumber} · ${group.problemName}` : "全部考点"].join(" · ");
+    return ["专项练习", filters.subject || "文字・词汇＋语法", tags.length ? tags.map((tag) => `問題${tag.problemNumber} · ${tag.name}`).join("、") : group ? `問題${group.problemNumber} · ${group.problemName}` : "全部考点"].join(" · ");
   }
 
   function startSpecialExam() {
@@ -321,7 +359,8 @@
       const shuffleOptions = $("#special-shuffle-options").checked;
       const optionOrders = shuffleOptions ? Object.fromEntries(questionIds.map((id) =>
         [id, window.SpecialPractice.shuffleOptionOrder(PRACTICE.question(id))])) : {};
-      startExam(null, { filters, requestedCount, questionIds, shuffleOptions, optionOrders });
+      const showFurigana = $("#special-show-furigana").checked;
+      startExam(null, { filters, requestedCount, questionIds, shuffleOptions, optionOrders, showFurigana });
       switchView("practice");
     } catch (error) {
       $("#special-error").textContent = error.message;
@@ -334,16 +373,16 @@
     updateSpecialTags();
     $("#special-subject").addEventListener("change", () => {
       $("#special-problem").value = "";
-      $("#special-tag").value = "";
       updateSpecialProblems(); updateSpecialTags(); saveUiState();
     });
     $("#special-problem").addEventListener("change", () => {
-      $("#special-tag").value = "";
       updateSpecialTags(); saveUiState();
     });
     $("#special-tag").addEventListener("change", () => { updateSpecialSummary(); saveUiState(); });
     $("#special-count").addEventListener("input", () => { updateSpecialSummary(); saveUiState(); });
     $("#special-shuffle-options").addEventListener("change", saveUiState);
+    $("#special-show-furigana").addEventListener("change", saveUiState);
+    $("#show-furigana").addEventListener("change", saveUiState);
     $("#special-start").addEventListener("click", startSpecialExam);
     $$('[data-go-special]').forEach((button) => button.addEventListener("click", () => switchView("special")));
     $("#tag-insights").addEventListener("click", (event) => {
@@ -462,7 +501,7 @@
       <div class="option-with-reason">
         <label class="option" data-option="${number}">
           <input type="radio" name="${name}" value="${number}" data-question="${question.id}" ${subIndex === null ? "" : `data-sub="${subIndex}"`}>
-          <span><strong>${index + 1}.</strong> ${formatExamText(options[number - 1])}</span>
+          <span><strong>${index + 1}.</strong> ${orderingText(question, options[number - 1])}</span>
         </label>
         <textarea class="option-reason" data-option-reason-question="${question.id}" data-option-reason-key="${scope}:${number}" maxlength="1200" placeholder="为什么选择或排除此项（可选）"></textarea>
       </div>`).join("")}</div>`;
@@ -476,7 +515,7 @@
       <div class="order-slots" aria-label="当前排列"></div>
       <div class="ordering-options">${displayedOptionOrder(question).map((number, index) => `
         <div class="ordering-option-row">
-          <button type="button" class="order-choice" data-order-add="${number}"><span class="order-choice-number">${index + 1}</span><span>${formatExamText(question.options[number - 1])}</span><small></small></button>
+          <button type="button" class="order-choice" data-order-add="${number}"><span class="order-choice-number">${index + 1}</span><span>${orderingText(question, question.options[number - 1])}</span><small></small></button>
           <textarea class="option-reason" data-option-reason-question="${question.id}" data-option-reason-key="main:${number}" maxlength="1200" placeholder="为什么把此项放在这个位置（可选）"></textarea>
         </div>`).join("")}</div>
       <button type="button" class="order-reset" data-order-reset>清空排序</button>
@@ -491,7 +530,7 @@
     const origin = PRACTICE.byId.get(question.id);
     const periodLabel = state.practice && origin ? `${escapeHtml(origin.year)} · ${escapeHtml(PRACTICE.subjectOf(origin.category))} · ` : "";
     const sourceLabel = question.source ? ` · ${escapeHtml(question.source)}` : "";
-    return `<article class="question-card" id="question-${question.id}" data-id="${question.id}">
+    return `<article class="question-card ${hasGrammarFurigana(question) && state.showFurigana ? 'furigana-active' : ''}" id="question-${question.id}" data-id="${question.id}">
       <div class="question-main">
       <div class="question-meta">
         <span class="question-number">第 ${index + 1} 题${combined ? "（含两问）" : ""}</span>
@@ -501,7 +540,7 @@
       </div>
       ${textBlock(question.groupTitle, "group-title")}
       ${showPassage ? textBlock(question.passage, "passage") : ""}
-      ${textBlock(question.title)}${textBlock(question.question)}${textBlock(question.subQuestion)}
+      ${orderingTextBlock(question, question.title)}${orderingTextBlock(question, question.question)}${orderingTextBlock(question, question.subQuestion)}
       ${question.images.map((path) => `<img class="question-image" src="${encodeURI(path)}" alt="题目图片" loading="lazy">`).join("")}
       ${question.audio ? `<audio controls preload="metadata" src="${encodeURI(question.audio)}">浏览器不支持音频播放。</audio>` : ""}
       ${isOrderingQuestion(question) ? orderingMarkup(question) : combined ? `
@@ -517,6 +556,7 @@
   }
 
   function startExam(savedDraft = null, practice = savedDraft?.practice || null) {
+    state.showFurigana = savedDraft?.showFurigana ?? practice?.showFurigana ?? $("#show-furigana").checked;
     closeAiDrawer();
     state.practice = practice;
     state.year = practice ? "专项练习" : $("#year-select").value;
@@ -629,7 +669,7 @@
       const label = optionNumber ? question.options[optionNumber - 1] : "等待选择";
       return `<div class="order-slot ${optionNumber ? "filled" : ""} ${star ? "star-slot" : ""}">
         <span class="order-position">${star ? "★" : position + 1}</span>
-        <span class="order-fragment">${optionNumber ? `<b>${displayedOptionNumber(question, optionNumber)}.</b> ${formatExamText(label)}` : label}</span>
+        <span class="order-fragment">${optionNumber ? `<b>${displayedOptionNumber(question, optionNumber)}.</b> ${orderingText(question, label)}` : label}</span>
         ${optionNumber && !state.submitted ? `<span class="order-actions"><button type="button" data-order-move="-1" data-order-index="${position}" aria-label="向左移动" ${position === 0 ? "disabled" : ""}>←</button><button type="button" data-order-move="1" data-order-index="${position}" aria-label="向右移动" ${position === order.length - 1 ? "disabled" : ""}>→</button><button type="button" data-order-remove="${position}" aria-label="移除此项">×</button></span>` : ""}
       </div>`;
     }).join("");
@@ -940,6 +980,7 @@
       ? `<p class="option-numbering-note">以下解析沿用原题编号：${optionOrder.map((number, index) => `本次 ${index + 1}＝原题 ${number}`).join("；")}。</p>` : "";
     explanation.innerHTML = `${orderSummary}<div class="single-check-result ${resultClass}">${resultText}</div><strong>正确答案：${expected.map((number) => displayedOptionNumber(question, number)).join("、")}</strong>${numberingNote}${question.analysis ? `<br><br>${formatAnalysisHtml(question.analysis)}` : ""}${question.analysisSource ? `<small>解析来源：${escapeHtml(question.analysisSource)}</small>` : ""}`;
     explanation.hidden = false;
+    refreshOrderingFurigana(question, card);
 
     const checkButton = card.querySelector("button[data-check-question]");
     if (checkButton) {
@@ -1011,6 +1052,7 @@
       submittedAt,
       timezoneOffsetMinutes: new Date().getTimezoneOffset(),
       mode: state.practice ? "special" : "period",
+      showFurigana: state.showFurigana,
       practice: state.practice,
       year: state.year,
       category: state.category,
@@ -1317,6 +1359,7 @@
     }
 
     state.practice = record.mode === "special" ? record.practice || { filters: {}, questionIds: pairs.map(({ question }) => question.id) } : null;
+    state.showFurigana = record.showFurigana ?? record.practice?.showFurigana ?? true;
     state.year = record.year;
     state.category = normalizedHistoryCategory(record.category);
     state.questions = pairs.map((pair) => pair.question);
@@ -1393,6 +1436,8 @@
     restoreSpecialFilters(saved.specialFilters || {});
     $("#special-count").value = saved.specialCount || "10";
     $("#special-shuffle-options").checked = saved.specialShuffleOptions === true;
+    $("#special-show-furigana").checked = saved.specialShowFurigana === true;
+    $("#show-furigana").checked = saved.showFurigana === true;
     updateSpecialSummary();
 
     if (saved.historyYear) $("#history-year-filter").value = saved.historyYear;

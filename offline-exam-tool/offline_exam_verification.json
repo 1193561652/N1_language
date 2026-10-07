@@ -1,5 +1,5 @@
 {
-  "status": "pass",
+  "status": "fail",
   "version": 2,
   "level": "N1",
   "periodCount": 31,
@@ -350,6 +350,34 @@
       "generated": 0
     }
   },
-  "errors": [],
+  "errors": [
+    "markdown-2025.12-language-28: option 1 explanation missing",
+    "markdown-2025.12-language-28: option 1 explanation is not on its own line",
+    "markdown-2025.12-language-28: option 2 explanation missing",
+    "markdown-2025.12-language-28: option 2 explanation is not on its own line",
+    "markdown-2025.12-language-28: option 3 explanation missing",
+    "markdown-2025.12-language-28: option 3 explanation is not on its own line",
+    "markdown-2025.12-language-28: option 4 explanation missing",
+    "markdown-2025.12-language-28: option 4 explanation is not on its own line",
+    "markdown-2025.12-language-28: grammar alternatives lack concrete error analysis",
+    "markdown-2025.07-language-26: option 1 explanation missing",
+    "markdown-2025.07-language-26: option 1 explanation is not on its own line",
+    "markdown-2025.07-language-26: option 2 explanation missing",
+    "markdown-2025.07-language-26: option 2 explanation is not on its own line",
+    "markdown-2025.07-language-26: option 3 explanation missing",
+    "markdown-2025.07-language-26: option 3 explanation is not on its own line",
+    "markdown-2025.07-language-26: option 4 explanation missing",
+    "markdown-2025.07-language-26: option 4 explanation is not on its own line",
+    "markdown-2025.07-language-26: grammar alternatives lack concrete error analysis",
+    "markdown-2025.07-language-29: option 1 explanation missing",
+    "markdown-2025.07-language-29: option 1 explanation is not on its own line",
+    "markdown-2025.07-language-29: option 2 explanation missing",
+    "markdown-2025.07-language-29: option 2 explanation is not on its own line",
+    "markdown-2025.07-language-29: option 3 explanation missing",
+    "markdown-2025.07-language-29: option 3 explanation is not on its own line",
+    "markdown-2025.07-language-29: option 4 explanation missing",
+    "markdown-2025.07-language-29: option 4 explanation is not on its own line",
+    "markdown-2025.07-language-29: grammar alternatives lack concrete error analysis"
+  ],
   "warnings": []
 }

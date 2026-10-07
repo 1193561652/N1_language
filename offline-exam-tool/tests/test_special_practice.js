@@ -43,6 +43,28 @@ assert.equal(practice.sample({}, 10).length, 10);
 assert.notDeepEqual(Array.from(practice.sample({}, 10, () => 0)), Array.from(practice.sample({}, 10, () => .99)));
 for (const count of [0, -1, 1.5, NaN, Infinity, Number.MAX_SAFE_INTEGER + 1]) assert.throws(() => practice.sample({}, count));
 assert.equal(practice.sample({ tag: 'missing' }, 10).length, 0);
+// Multi-select uses the union of tag pools, including overlapping and cross-subject tags.
+const overlapId = practice.pool.find((id) => catalog.questions[id].tags.length > 1);
+const selectedTags = [...catalog.questions[overlapId].tags,
+  ...practice.subjects.map((subject) => practice.tags.find((tag) => tag.subject === subject).id)];
+const union = new Set(selectedTags.flatMap((tag) => Array.from(practice.eligible({ tag }))));
+const multi = practice.sample({ tags: selectedTags }, 99999);
+assert.equal(multi.length, union.size);
+assert.equal(new Set(multi).size, multi.length);
+assert(multi.every((id) => union.has(id)));
+assert(multi.includes(overlapId));
+assert.deepEqual(Array.from(practice.eligible({ tags: [] })), Array.from(practice.eligible({})));
+assert.equal(practice.sample({ tags: ['missing'] }, 10).length, 0);
+assert.equal(practice.sample({ tags: selectedTags }, 5).length, 5);
+// Persisted multi-select filters keep their pool after a save/restore round trip.
+assert.deepEqual(Array.from(practice.eligible(JSON.parse(JSON.stringify({ tags: selectedTags })))),
+  Array.from(practice.eligible({ tags: selectedTags })));
+for (const tag of practice.tags.slice(0, 3)) {
+  assert.deepEqual(Array.from(practice.eligible({ tags: [tag.id] })), Array.from(practice.eligible({ tag: tag.id })));
+  const scoped = practice.eligible({ subject: tag.subject, problem: String(tag.problemNumber), tags: selectedTags });
+  assert(scoped.every((id) => union.has(id) && catalog.questions[id].subject === tag.subject
+    && catalog.questions[id].problemNumber === tag.problemNumber));
+}
 const discourse = practice.eligible({ subject: '语法', problem: '7' });
 assert(discourse.length);
 for (const id of discourse) {

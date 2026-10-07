@@ -14,9 +14,10 @@
     const pool = Object.keys(annotations).filter((id) => byId.has(id) && annotations[id].tags.length);
     const subjectOf = (category) => ["文字", "词汇", "文字・词汇"].includes(category) ? "文字・词汇" : category;
     function matches(meta, filter = {}) {
+      const selectedTags = Array.isArray(filter.tags) ? filter.tags : filter.tag ? [filter.tag] : [];
       return (!filter.subject || meta.subject === filter.subject)
         && (!filter.problem || String(meta.problemNumber) === String(filter.problem))
-        && (!filter.tag || meta.tags.includes(filter.tag));
+        && (!selectedTags.length || selectedTags.some((tag) => meta.tags.includes(tag)));
     }
     function eligible(filter) { return pool.filter((id) => matches(annotations[id], filter)); }
     function sample(filter, count, random = Math.random) {

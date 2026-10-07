@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import html
+import argparse
 import json
 import re
 from build_practice_data import build_practice_data
@@ -396,6 +397,10 @@ def split_language_questions(text: str) -> list[tuple[int, int, str, list[str]]]
             pages_to_next = list(PAGE_RE.finditer(segment[start:next_pos]))
             if pages_to_next:
                 next_pos = start + pages_to_next[0].start()
+            if problem == 5:
+                # Section instructions contain a sample blank, not a question blank.
+                # Preserve other prefix content (for example page metadata).
+                prefix = re.sub(r"(?m)^\s*次の文[^\n]*選びなさい[。.]?\s*$", "", prefix)
             body, options = option_parts(prefix + segment[start:next_pos])
             result.append((problem, number, body, options))
     return result
@@ -504,18 +509,30 @@ def build() -> dict[str, Any]:
 
 
 if __name__ == "__main__":
-    data = build()
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--bundle-only', action='store_true', help='Repackage current data.js and practice-data.js without rebuilding or changing question content')
+    args = parser.parse_args()
+    if args.bundle_only:
+        source = OUTPUT.read_text(encoding='utf-8')
+        data = json.loads(source[source.index('{'):].strip().rstrip(';'))
+    else:
+        data = build()
     payload = json.dumps(data, ensure_ascii=False, separators=(",", ":"))
-    practice_payload = json.dumps(build_practice_data(data, ROOT), ensure_ascii=False, separators=(",", ":"))
-    (TOOL_DIR / "practice-data.js").write_text(f"window.PRACTICE_DATA={practice_payload};\n", encoding="utf-8")
-    OUTPUT.write_text(f"window.EXAM_DATA={payload};\n", encoding="utf-8")
+    if args.bundle_only:
+        source = (TOOL_DIR / 'practice-data.js').read_text(encoding='utf-8')
+        practice_payload = json.dumps(json.loads(source[source.index('{'):].strip().rstrip(';')), ensure_ascii=False, separators=(',', ':'))
+    else:
+        practice_payload = json.dumps(build_practice_data(data, ROOT), ensure_ascii=False, separators=(",", ":"))
+        (TOOL_DIR / "practice-data.js").write_text(f"window.PRACTICE_DATA={practice_payload};\n", encoding="utf-8")
+        OUTPUT.write_text(f"window.EXAM_DATA={payload};\n", encoding="utf-8")
     template = INDEX_TEMPLATE.read_text(encoding="utf-8")
     direct_html = (
         template.replace("__STYLE__", STYLE_SOURCE.read_text(encoding="utf-8"))
         .replace("__DATA__", payload.replace("</", "<\\/"))
         .replace("__PRACTICE_DATA__", practice_payload.replace("</", "<\\/"))
-        .replace("__APP__", (TOOL_DIR / "special-practice.js").read_text(encoding="utf-8") + "\n" + APP_SOURCE.read_text(encoding="utf-8"))
+        .replace("__APP__", 'window.ORDERING_FURIGANA=' + json.dumps(json.loads((TOOL_DIR / 'ordering-furigana.json').read_text(encoding='utf-8')), ensure_ascii=False, separators=(',', ':')).replace('</', '<\\/') + ';\n' + (TOOL_DIR / 'ordering-furigana.js').read_text(encoding='utf-8') + '\n' + (TOOL_DIR / "special-practice.js").read_text(encoding="utf-8") + "\n" + APP_SOURCE.read_text(encoding="utf-8"))
     )
     INDEX_OUTPUT.write_text(direct_html, encoding="utf-8")
-    print(f"saved {OUTPUT} ({OUTPUT.stat().st_size:,} bytes)")
+    if not args.bundle_only:
+        print(f"saved {OUTPUT} ({OUTPUT.stat().st_size:,} bytes)")
     print(f"saved {INDEX_OUTPUT} ({INDEX_OUTPUT.stat().st_size:,} bytes, direct-open mode)")

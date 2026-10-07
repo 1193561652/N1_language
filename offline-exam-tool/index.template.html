@@ -37,6 +37,7 @@ __STYLE__
             <span id="media-summary">无媒体</span>
             <span>提交后立即判分</span>
           </div>
+          <label class="special-shuffle"><input id="show-furigana" type="checkbox">显示注音（仅语法·句子语法／問題5）</label>
           <button id="start-button" class="primary-button">开始答题</button>
         </div>
         <section id="home-insights" class="home-insights" aria-live="polite"></section>
@@ -68,16 +69,17 @@ __STYLE__
 
     <section id="special-view" class="view" hidden>
       <div class="setup-card">
-        <p class="section-kicker">专项练习</p><h2>围绕一个考点，跨期练习</h2>
-        <p class="muted">“－”表示全部。仅从已有标签的真题中抽取，每批不重复，保留原题与解析。</p>
+        <p class="section-kicker">专项练习</p><h2>勾选多个考点，跨期练习</h2>
+        <p class="muted">科目和问题的“－”表示全部。可勾选多个考点，从符合任一考点的真题中随机抽取，每批不重复，保留原题与解析。</p>
         <div class="selectors special-selectors">
           <label>1. 科目<select id="special-subject"></select></label>
           <label>2. 问题<select id="special-problem"></select></label>
-          <label>3. 考点<select id="special-tag"></select></label>
+          <fieldset class="special-tag-field"><legend>3. 考点（可多选）</legend><p id="special-tag-help" class="muted">不勾选表示当前范围的全部考点。</p><div id="special-tag" aria-describedby="special-tag-help"></div></fieldset>
         </div>
         <div class="special-actions">
           <label>生成题数<input id="special-count" type="number" min="1" step="1" value="10" inputmode="numeric" aria-describedby="special-summary"></label>
           <label class="special-shuffle"><input id="special-shuffle-options" type="checkbox">随机调换选项顺序</label>
+          <label class="special-shuffle"><input id="special-show-furigana" type="checkbox">显示注音（仅语法·句子语法／問題5）</label>
           <button id="special-start" class="primary-button">随机生成并开始</button>
         </div>
         <p id="special-summary" class="muted" aria-live="polite"></p>
