@@ -1,0 +1,410 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791437042655-k0iny5",
+    "submittedAt": "2026-10-08T05:24:02.655Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": false,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "sbry-n1-2012.12-文法-5-27",
+        "sbry-n1-2019.07-文法-5-34",
+        "sbry-n1-2021.12-文法-5-27",
+        "sbry-n1-2017.07-文法-5-34",
+        "sbry-n1-2012.07-文法-5-33",
+        "jlpt4you-2024.12-grammar-5-4",
+        "markdown-2025.12-language-35",
+        "sbry-n1-2018.12-文法-5-33",
+        "sbry-n1-2019.07-文法-5-33",
+        "sbry-n1-2022.07-文法-5-28"
+      ],
+      "shuffleOptions": false,
+      "optionOrders": {},
+      "showFurigana": false
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 9,
+    "percentage": 90,
+    "durationSeconds": 471,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2012.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03"
+        ],
+        "id": "sbry-n1-2012.12-文法-5-27",
+        "number": 27,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(電話で)\nA「ご注文の品をお届けに()たいのですが、明日のご都合はいかがでしょうか。」\nB「そうですね。３時以降なら家にいます。」",
+        "options": [
+          "上がり",
+          "差しあげ",
+          "願い",
+          "見え"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b04",
+          "grammar.q5.c01"
+        ],
+        "id": "sbry-n1-2019.07-文法-5-34",
+        "number": 34,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "昨日大学で声をかけられたサークルの勧誘には困った。強引に話を進められて、危うく入会()。",
+        "options": [
+          "させられるところだった",
+          "されようがなかった",
+          "させなかったのかと思った",
+          "しなかったことにした"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2021.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01",
+          "grammar.q5.c17"
+        ],
+        "id": "sbry-n1-2021.12-文法-5-27",
+        "number": 27,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "A社は、製品の成分表示に誤りがあったことについて謝罪したが、品質には()問題はないと強調した。",
+        "options": [
+          "かりに",
+          "なんら",
+          "なかなか",
+          "あまりにも"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c16"
+        ],
+        "id": "sbry-n1-2017.07-文法-5-34",
+        "number": 34,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "楽しみにしていた初めての海外旅行。搭乗手続きも出国審査も終わり、あとは出発を()。",
+        "options": [
+          "待つばかりとなった",
+          "待つこともあるはずだ",
+          "待てなくなってしまった",
+          "待てそうにないみたいだ"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2012.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c12",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2012.07-文法-5-33",
+        "number": 33,
+        "selected": [
+          1
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "他人の口座から不正に現金を()、３５歳の男が逮捕された。",
+        "options": [
+          "引き出したとするとして",
+          "引き出したとするのに対して",
+          "引き出そうとしたとして",
+          "引き出そうとしたのに対して"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c12",
+          "grammar.q5.b06"
+        ],
+        "id": "jlpt4you-2024.12-grammar-5-4",
+        "number": 29,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "ウェブサイトごとに異なるパスワードを設定するのは面倒だが、第三者が不正にアクセスされる（ ）、やむを得ない。",
+        "options": [
+          "しかない以上",
+          "しかない反面",
+          "恐れがある以上",
+          "恐れがある反面"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2025.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c13"
+        ],
+        "id": "markdown-2025.12-language-35",
+        "number": 35,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "もう1か月近く雨が降っていない。晴れの日が続くのはうれしいが、水不足などの問題を考えると(  )。",
+        "options": [
+          "喜んだだけにすぎない",
+          "喜んでばかりもいられない",
+          "喜んでしまうところだった",
+          "喜んでいないのではないか"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c09"
+        ],
+        "id": "sbry-n1-2018.12-文法-5-33",
+        "number": 33,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "母「ねえ、たけしの次の対戦相手、去年優勝してるんだって。勝つのは難しいかな。」\n父「そんなの()わかんないよ。」",
+        "options": [
+          "やってるって",
+          "やってみなきゃ",
+          "やっちゃうのが",
+          "やっちゃおうと"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c04"
+        ],
+        "id": "sbry-n1-2019.07-文法-5-33",
+        "number": 33,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "小林「ねえ、今日のダンスの練習、山口さんも来るんだよね?」\n森「どうだろう。あの人、来るって言ってても、()だから……。」",
+        "options": [
+          "来ても来なくても",
+          "来るか来ないか",
+          "来たり来なかったり",
+          "来るのも来ないのも"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2022.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c01",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2022.07-文法-5-28",
+        "number": 28,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "ふるさとの美しい海を見る()、この美しい海がいつまでもこのままであってほしいと思う。",
+        "options": [
+          "につけ",
+          "にせよ",
+          "とはいえ",
+          "というのは"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}

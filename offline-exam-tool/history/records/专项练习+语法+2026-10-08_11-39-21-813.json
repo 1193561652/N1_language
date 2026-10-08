@@ -1,0 +1,408 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791430761813-vbia8d",
+    "submittedAt": "2026-10-08T03:39:21.813Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": false,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "sbry-n1-2020.12-文法-5-26",
+        "sbry-n1-2012.12-文法-5-30",
+        "sbry-n1-2021.12-文法-5-28",
+        "sbry-n1-2011.12-文法-5-30",
+        "sbry-n1-2015.12-文法-5-28",
+        "sbry-n1-2022.12-文法-5-30",
+        "sbry-n1-2016.07-文法-5-27",
+        "sbry-n1-2014.07-文法-5-34",
+        "sbry-n1-2010.07-文法-5-32",
+        "sbry-n1-2013.12-文法-5-27"
+      ],
+      "shuffleOptions": false,
+      "optionOrders": {},
+      "showFurigana": false
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 10,
+    "percentage": 100,
+    "durationSeconds": 494,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2020.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c19"
+        ],
+        "id": "sbry-n1-2020.12-文法-5-26",
+        "number": 26,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "100年の伝統を誇るこの旅館のサービスは、老舗旅館()細やかな心遣いが感じられる。",
+        "options": [
+          "ごときの",
+          "がらみの",
+          "ほどまでの",
+          "ならではの"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2012.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c10"
+        ],
+        "id": "sbry-n1-2012.12-文法-5-30",
+        "number": 30,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "彼は自転車がよほど好きらしい。()、毎日楽しそうに自転車で通勤してくる。",
+        "options": [
+          "雨とも雪とも",
+          "雨でもなく雪でもなく",
+          "雨というか雪というか",
+          "雨だろうと雪だろうと"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2021.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c08"
+        ],
+        "id": "sbry-n1-2021.12-文法-5-28",
+        "number": 28,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "あの時すぐに治療しておけばよかった()、ほうっておくからあっかしてしまったんだ。",
+        "options": [
+          "ばかりに",
+          "ことを",
+          "ために",
+          "ものを"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2011.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c19"
+        ],
+        "id": "sbry-n1-2011.12-文法-5-30",
+        "number": 30,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "１００年の伝統を誇るこの旅館のサービスには、老舗旅館()細やかな心遣いが感じられる。",
+        "options": [
+          "ごときの",
+          "がらみの",
+          "ほどまでの",
+          "ならではの"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2015.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01"
+        ],
+        "id": "sbry-n1-2015.12-文法-5-28",
+        "number": 28,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "私の会社では、どんな理由があろうと、業務に関するデータや資料を社外に持ち出すことは、()認められていない。",
+        "options": [
+          "いっさい",
+          "むしろ",
+          "かならず",
+          "どうしても"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2022.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c03",
+          "grammar.q5.b02"
+        ],
+        "id": "sbry-n1-2022.12-文法-5-30",
+        "number": 30,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(ホームページで)\n当店では、商品に欠陥がある()、返品及び交換はお受けできませんので、あらかじめご了承ください。",
+        "options": [
+          "点に加えて",
+          "点を除いて",
+          "場合に加えて",
+          "場合を除いて"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2016.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c10"
+        ],
+        "id": "sbry-n1-2016.07-文法-5-27",
+        "number": 27,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "相手の意見に対して、どんな反論を()自由だが、自分の考えを一方的に押し付けるのはよくないと思う。",
+        "options": [
+          "する以上",
+          "しつつも",
+          "しようと",
+          "している限りは"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2014.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b04",
+          "grammar.q5.b05"
+        ],
+        "id": "sbry-n1-2014.07-文法-5-34",
+        "number": 34,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "子供サッカー教室に、プロサッカー選手の上田幸太が参加した。上田選手が来ることは参加者には()、突然の登場にみんな驚いていた。",
+        "options": [
+          "知られつつも",
+          "知らされておらず",
+          "知らされていないと",
+          "知られたためか"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2010.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c10"
+        ],
+        "id": "sbry-n1-2010.07-文法-5-32",
+        "number": 32,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "今回の事件で山田氏の政治的影響力が完全に失われる()、弱まることは間違いないだろう。",
+        "options": [
+          "ことはないにしても",
+          "ことはないにもかかわらず",
+          "ほかはないにしても",
+          "ほかはないにもかかわらず"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2013.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c03",
+          "grammar.q5.b01"
+        ],
+        "id": "sbry-n1-2013.12-文法-5-27",
+        "number": 27,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "北川市では、良好な景観形成を計画的()具体的に進めるために、「北川市景観形成基本方針」を定めています。",
+        "options": [
+          "かつ",
+          "むしろ",
+          "ついては",
+          "かえって"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}

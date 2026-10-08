@@ -1,0 +1,409 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791441772158-q3xpqk",
+    "submittedAt": "2026-10-08T06:42:52.158Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": false,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "sbry-n1-2016.07-文法-5-29",
+        "sbry-n1-2011.07-文法-5-29",
+        "sbry-n1-2015.12-文法-5-29",
+        "sbry-n1-2022.07-文法-5-34",
+        "sbry-n1-2016.12-文法-5-33",
+        "sbry-n1-2017.12-文法-5-35",
+        "sbry-n1-2015.12-文法-5-32",
+        "sbry-n1-2012.12-文法-5-27",
+        "sbry-n1-2012.07-文法-5-33",
+        "sbry-n1-2011.12-文法-5-33"
+      ],
+      "shuffleOptions": false,
+      "optionOrders": {},
+      "showFurigana": false
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 5,
+    "percentage": 50,
+    "durationSeconds": 931,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2016.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c09"
+        ],
+        "id": "sbry-n1-2016.07-文法-5-29",
+        "number": 29,
+        "selected": [
+          2
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "「このプロジェクトが成功()、リーダーの君にかかっている。」と課長に言われ、やる気が高まった。",
+        "options": [
+          "するもしないも",
+          "するやらしないやら",
+          "するなりしないなり",
+          "するというかしないというか"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2011.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b04",
+          "grammar.q5.c16"
+        ],
+        "id": "sbry-n1-2011.07-文法-5-29",
+        "number": 29,
+        "selected": [
+          1
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "プリンターの調子が悪くなり、製造会社に電話で問い合わせたら、向こうの担当者に、あれこれ質問に答え()あげく、対応できないと言われた。",
+        "options": [
+          "させた",
+          "させられる",
+          "させる",
+          "させられた"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2015.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c14"
+        ],
+        "id": "sbry-n1-2015.12-文法-5-29",
+        "number": 29,
+        "selected": [
+          1
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "旅行先で、きれいな海に感動して写真を何枚も撮っていたら、地元の人に不思議そうな顔をされた。あんなにきれいな海も、地元の人()日常の風景なのだろう。",
+        "options": [
+          "からして",
+          "といっても",
+          "にしてみれば",
+          "はともかくとして"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2022.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06",
+          "grammar.q5.b02"
+        ],
+        "id": "sbry-n1-2022.07-文法-5-34",
+        "number": 34,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "A「あれ、ぜいたくのぜいって、漢字でどう()?」\nB「え、私も思い出せない」",
+        "options": [
+          "書くんだよね",
+          "書くんだっけ",
+          "書けるんだよね",
+          "書けるんだっけ"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2016.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c18"
+        ],
+        "id": "sbry-n1-2016.12-文法-5-33",
+        "number": 33,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "仕事は、決められた時間内に、いかに成果を上げるかが大切であり、単に時間をかけて()と私は思う。",
+        "options": [
+          "がんばることだといってもおかしくない",
+          "がんばればいいというものではない",
+          "がんばることでしかない",
+          "がんばりようがない"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2017.12-文法-5-35",
+        "number": 35,
+        "selected": [
+          4
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "昨日午後2時ごろ、X市の一部地域で、約400世帯が停電した。ABC電力は、工事中のクレーン車が電線に接触したのが原因()。",
+        "options": [
+          "になっている",
+          "としている",
+          "にある",
+          "とある"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2015.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c18",
+          "grammar.q5.b04"
+        ],
+        "id": "sbry-n1-2015.12-文法-5-32",
+        "number": 32,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "彼は最近忙しいので、頼んでも、無理だと()が、一度は頼んでみようと思う。",
+        "options": [
+          "言わせる始末だ",
+          "言わせるということだ",
+          "言われるに決まっている",
+          "言われるまでになる"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2012.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03"
+        ],
+        "id": "sbry-n1-2012.12-文法-5-27",
+        "number": 27,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(電話で)\nA「ご注文の品をお届けに()たいのですが、明日のご都合はいかがでしょうか。」\nB「そうですね。３時以降なら家にいます。」",
+        "options": [
+          "上がり",
+          "差しあげ",
+          "願い",
+          "見え"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2012.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c12",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2012.07-文法-5-33",
+        "number": 33,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "他人の口座から不正に現金を()、３５歳の男が逮捕された。",
+        "options": [
+          "引き出したとするとして",
+          "引き出したとするのに対して",
+          "引き出そうとしたとして",
+          "引き出そうとしたのに対して"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2011.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03"
+        ],
+        "id": "sbry-n1-2011.12-文法-5-33",
+        "number": 33,
+        "selected": [
+          1
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(インタビューで)\n記者「田中監督、優勝おめでとうございます。田中監督ご自身の今のお気持ちを()。」\n監督「はい。優勝できて本当にうれしいです。」",
+        "options": [
+          "お聞きいただけませんか",
+          "お聞かせ願えますか",
+          "お話しになるでしょうか",
+          "お話し申し上げましょうか"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,410 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791443656622-lfzf8p",
+    "submittedAt": "2026-10-08T07:14:16.622Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": false,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "sbry-n1-2018.12-文法-5-29",
+        "sbry-n1-2016.12-文法-5-33",
+        "markdown-2025.12-language-27",
+        "sbry-n1-2017.07-文法-5-35",
+        "sbry-n1-2015.07-文法-5-33",
+        "sbry-n1-2015.12-文法-5-35",
+        "sbry-n1-2010.07-文法-5-33",
+        "sbry-n1-2013.07-文法-5-31",
+        "sbry-n1-2022.12-文法-5-34",
+        "sbry-n1-2017.07-文法-5-33"
+      ],
+      "shuffleOptions": false,
+      "optionOrders": {},
+      "showFurigana": false
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 7,
+    "percentage": 70,
+    "durationSeconds": 1236,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c01",
+          "grammar.q5.b05"
+        ],
+        "id": "sbry-n1-2018.12-文法-5-29",
+        "number": 29,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(メールで)映画の情報、ありがとうございます。教えてもらわなかったら、()ところでした。明日早速見に行きます。",
+        "options": [
+          "見逃す",
+          "見逃さなかった",
+          "見逃せる",
+          "見逃せなかった"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2016.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c18"
+        ],
+        "id": "sbry-n1-2016.12-文法-5-33",
+        "number": 33,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "仕事は、決められた時間内に、いかに成果を上げるかが大切であり、単に時間をかけて()と私は思う。",
+        "options": [
+          "がんばることだといってもおかしくない",
+          "がんばればいいというものではない",
+          "がんばることでしかない",
+          "がんばりようがない"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2025.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c09"
+        ],
+        "id": "markdown-2025.12-language-27",
+        "number": 27,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "今回のプロジェクトは、地域住民の協力(  )実現しなかったであろう。",
+        "options": [
+          "をはじめ",
+          "なくしては",
+          "とあって",
+          "のみならず"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c13"
+        ],
+        "id": "sbry-n1-2017.07-文法-5-35",
+        "number": 35,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "先々週、妹が図書館で分厚い本を１０冊も借りてきた。「２週間しか借りられないんだから、そんなに絶対()」と思ったが、全部読んで返したらしい。",
+        "options": [
+          "読みかけなのか",
+          "読みっぱなしだろう",
+          "読みきれっこない",
+          "読んでもいないくせに"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2015.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c19",
+          "grammar.q5.c13"
+        ],
+        "id": "sbry-n1-2015.07-文法-5-33",
+        "number": 33,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "初めて自分でみそを作った。実際に作ってみて、時間はかかるが、意外と簡単に()と思った。",
+        "options": [
+          "作るまでだ",
+          "作るに限る",
+          "作れるものだ",
+          "作っただけのことはある"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2015.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c18"
+        ],
+        "id": "sbry-n1-2015.12-文法-5-35",
+        "number": 35,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "先月、自分のミスで試合に負けてしまい、落ち込んでしばらく練習に集中できなかった。だが、()と思い、また練習を一生懸命やることにした。",
+        "options": [
+          "落ち込みもしない",
+          "落ち込むわけではない",
+          "落ち込んでいたことは否めない",
+          "落ち込んでばかりいても始まらない"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2010.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2010.07-文法-5-33",
+        "number": 33,
+        "selected": [
+          4
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "「３歳までの育児は母親がすべきだ」と言う人もいるが、子育てをするのが母親で()、必ずしもそうではないと思う。",
+        "options": [
+          "なくてはならないからといって",
+          "なくてはならないかというと",
+          "あるわけにはいかないからといって",
+          "あるわけにはいかないかというと"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2013.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c01",
+          "grammar.q5.b03"
+        ],
+        "id": "sbry-n1-2013.07-文法-5-31",
+        "number": 31,
+        "selected": [
+          1
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "本サービスを利用される方は、利用規約を()、お申し込みください。",
+        "options": [
+          "ご覧の結果",
+          "ご覧になった結果",
+          "ご覧になった上で",
+          "ご覧くださった上に"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2022.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c17",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2022.12-文法-5-34",
+        "number": 34,
+        "selected": [
+          3
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "A「ねえねえ、北市にできた動物園、いったんでしょう?あそこ、相当広いらしいね」\nB「()、1日じゃ全部回れなかったよ」",
+        "options": [
+          "広くないはずなんだよ",
+          "広いなんてことはないよ",
+          "広くないわけじゃないんだよ",
+          "広いなんてもんじゃないよ"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c08",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2017.07-文法-5-33",
+        "number": 33,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "昨日の新入生歓迎会に失敗だった。私たち上級生がたくさん質問をして、新入生が話しやすい()、逆に緊張させてしまったようだ。",
+        "options": [
+          "ようにしたあげく",
+          "ようにしたつもりが",
+          "ようになったものを",
+          "ようになったばかりか"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}

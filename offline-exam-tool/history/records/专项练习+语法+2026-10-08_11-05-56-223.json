@@ -1,0 +1,411 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791428756223-e0masj",
+    "submittedAt": "2026-10-08T03:05:56.223Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": false,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "jlpt4you-2024.12-grammar-5-5",
+        "sbry-n1-2019.07-文法-5-29",
+        "markdown-2025.07-language-34",
+        "sbry-n1-2015.07-文法-5-32",
+        "markdown-2025.12-language-32",
+        "sbry-n1-2020.12-文法-5-34",
+        "sbry-n1-2014.12-文法-5-33",
+        "sbry-n1-2019.07-文法-5-32",
+        "sbry-n1-2020.12-文法-5-26",
+        "sbry-n1-2020.12-文法-5-27"
+      ],
+      "shuffleOptions": false,
+      "optionOrders": {},
+      "showFurigana": false
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 8,
+    "percentage": 80,
+    "durationSeconds": 989,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c13",
+          "grammar.q5.b02"
+        ],
+        "id": "jlpt4you-2024.12-grammar-5-5",
+        "number": 30,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "昨日行った美術館は、一日では（ ）作品が展示されていた。",
+        "options": [
+          "見きれないほどの",
+          "見ずにはいられないほどの",
+          "見きれないといった",
+          "見ずにはいられないといった"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c20"
+        ],
+        "id": "sbry-n1-2019.07-文法-5-29",
+        "number": 29,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "このレストランは、料理はおいしいのだが、皿が安っぽい。もう少し良いものを使えない()と思う。",
+        "options": [
+          "ものか",
+          "ものの",
+          "ものだ",
+          "ものを"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2025.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c09",
+          "grammar.q5.b05",
+          "grammar.q5.b06"
+        ],
+        "id": "markdown-2025.07-language-34",
+        "number": 34,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "友人の田中(たなか)が起業した会社が順調だという。あのとき、「うちの会社に来ないか」という彼の誘いを断らなければ、今ごろ部長くらいには(  )。",
+        "options": [
+          "なってきたようだ",
+          "なっていたかもしれない",
+          "なってほしいようだ",
+          "なっていくかもしれない"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2015.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c19"
+        ],
+        "id": "sbry-n1-2015.07-文法-5-32",
+        "number": 32,
+        "selected": [
+          3
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "高さ700メートルを超すこの超高層ビルは、高成長を続けるA国の象徴()存在となっている。",
+        "options": [
+          "にするべく",
+          "とでもいうべき",
+          "があるらしい",
+          "でもなるような"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2025.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b05",
+          "grammar.q5.c09"
+        ],
+        "id": "markdown-2025.12-language-32",
+        "number": 32,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(車の中で)\nA「ああ、こんなに道が渋滞していなければ、今頃とっくに遊園地に着いて(  )のに。」\nB「そうだね。」",
+        "options": [
+          "遊んだ",
+          "遊びたかった",
+          "遊んでいた",
+          "遊んでいたかった"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2020.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c13"
+        ],
+        "id": "sbry-n1-2020.12-文法-5-34",
+        "number": 34,
+        "selected": [
+          1
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "ゆうベは、せっかく北山まで夜景を見に行ったのに、ものすごい強風と寒さで、夜景を()。",
+        "options": [
+          "楽しまずにはいられなかった",
+          "たのしめないことはなかった",
+          "楽しむどころではなかった",
+          "楽しむつもりはなかった"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2014.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c08",
+          "grammar.q5.b04"
+        ],
+        "id": "sbry-n1-2014.12-文法-5-33",
+        "number": 33,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "バスの窓から大きな虹が見えたので写真を撮った。山道を走るバスに()けっこう良く撮れていた。",
+        "options": [
+          "揺られながらにしては",
+          "揺られながらとなれば",
+          "揺られっぱなしなのか",
+          "揺られっぱなしだとは"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c17",
+          "grammar.q5.b01"
+        ],
+        "id": "sbry-n1-2019.07-文法-5-32",
+        "number": 32,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "今回の事故について社長が会見を行ったが、あれでは何の説明()、わが社の信用が失われるだけだ。",
+        "options": [
+          "になっておらず",
+          "にもなっておらず",
+          "になっているのではなく",
+          "にもなっているのではなく"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2020.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c19"
+        ],
+        "id": "sbry-n1-2020.12-文法-5-26",
+        "number": 26,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "100年の伝統を誇るこの旅館のサービスは、老舗旅館()細やかな心遣いが感じられる。",
+        "options": [
+          "ごときの",
+          "がらみの",
+          "ほどまでの",
+          "ならではの"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2020.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c12"
+        ],
+        "id": "sbry-n1-2020.12-文法-5-27",
+        "number": 27,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "新入社員のころ、取引先の担当者の名前を間違えた()、契約してもらえなかったことがある。",
+        "options": [
+          "なんて",
+          "以上は",
+          "ばかりに",
+          "かと思うと"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}

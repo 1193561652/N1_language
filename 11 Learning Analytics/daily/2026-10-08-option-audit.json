@@ -1,0 +1,876 @@
+{
+  "date": "2026-10-08",
+  "recordId": "1791430761813-vbia8d",
+  "scope": "最新11:39一轮，10题40选项；其他三轮仅在主报告汇总及比较",
+  "source": "offline-exam-tool/history/records/专项练习+语法+2026-10-08_11-39-21-813.json",
+  "summary": {
+    "questions": 10,
+    "options": 40,
+    "annotated": 0,
+    "blankCorrectOptions": 10,
+    "blankDistractors": 30,
+    "annotationAccuracy": null,
+    "priorities": {
+      "可不标": 7,
+      "建议补一次": 25,
+      "优先补": 8
+    }
+  },
+  "questions": [
+    {
+      "displayQuestion": 1,
+      "id": "sbry-n1-2020.12-文法-5-26",
+      "questionText": "100年の伝統を誇るこの旅館のサービスは、老舗旅館()細やかな心遣いが感じられる。",
+      "history": [
+        {
+          "recordId": "1791187543359-uhhd47",
+          "submittedAt": "2026-10-05T08:05:43.359Z",
+          "selected": [
+            4
+          ],
+          "results": [
+            true
+          ],
+          "reason": "",
+          "optionReasons": {},
+          "source": "offline-exam-tool/history/records/专项练习+语法+2026-10-05_16-05-43-359.json"
+        },
+        {
+          "recordId": "1791428756223-e0masj",
+          "submittedAt": "2026-10-08T03:05:56.223Z",
+          "selected": [
+            4
+          ],
+          "results": [
+            true
+          ],
+          "reason": "",
+          "optionReasons": {},
+          "source": "offline-exam-tool/history/records/专项练习+语法+2026-10-08_11-05-56-223.json"
+        }
+      ]
+    },
+    {
+      "displayQuestion": 2,
+      "id": "sbry-n1-2012.12-文法-5-30",
+      "questionText": "彼は自転車がよほど好きらしい。()、毎日楽しそうに自転車で通勤してくる。",
+      "history": [
+        {
+          "recordId": "1791187543359-uhhd47",
+          "submittedAt": "2026-10-05T08:05:43.359Z",
+          "selected": [
+            4
+          ],
+          "results": [
+            true
+          ],
+          "reason": "",
+          "optionReasons": {},
+          "source": "offline-exam-tool/history/records/专项练习+语法+2026-10-05_16-05-43-359.json"
+        },
+        {
+          "recordId": "1791267985966-1sy4r5",
+          "submittedAt": "2026-10-06T06:26:25.966Z",
+          "selected": [
+            4
+          ],
+          "results": [
+            true
+          ],
+          "reason": "",
+          "optionReasons": {},
+          "source": "offline-exam-tool/history/records/专项练习+语法+2026-10-06_14-26-25-966.json"
+        },
+        {
+          "recordId": "1791353675070-etm2ji",
+          "submittedAt": "2026-10-07T06:14:35.070Z",
+          "selected": [
+            4
+          ],
+          "results": [
+            true
+          ],
+          "reason": "",
+          "optionReasons": {},
+          "source": "offline-exam-tool/history/records/专项练习+语法+2026-10-07_14-14-35-070.json"
+        }
+      ]
+    },
+    {
+      "displayQuestion": 3,
+      "id": "sbry-n1-2021.12-文法-5-28",
+      "questionText": "あの時すぐに治療しておけばよかった()、ほうっておくからあっかしてしまったんだ。",
+      "history": [
+        {
+          "recordId": "1788872767020-6lqrci",
+          "submittedAt": "2026-09-08T13:06:07.020Z",
+          "selected": [
+            4
+          ],
+          "results": [
+            true
+          ],
+          "reason": "",
+          "optionReasons": {},
+          "source": "offline-exam-tool/history/records/2021.12+语法+2026-09-08_21-06-07-020.json"
+        },
+        {
+          "recordId": "1789307875495-ao3x7g",
+          "submittedAt": "2026-09-13T13:57:55.495Z",
+          "selected": [
+            1
+          ],
+          "results": [
+            false
+          ],
+          "reason": "",
+          "optionReasons": {},
+          "source": "offline-exam-tool/history/records/2021.12+语法+2026-09-13_21-57-55-495.json"
+        },
+        {
+          "recordId": "1791266612581-o5lin4",
+          "submittedAt": "2026-10-06T06:03:32.581Z",
+          "selected": [
+            4
+          ],
+          "results": [
+            true
+          ],
+          "reason": "",
+          "optionReasons": {},
+          "source": "offline-exam-tool/history/records/专项练习+语法+2026-10-06_14-03-32-581.json"
+        },
+        {
+          "recordId": "1791355376735-xejv69",
+          "submittedAt": "2026-10-07T06:42:56.735Z",
+          "selected": [
+            4
+          ],
+          "results": [
+            true
+          ],
+          "reason": "",
+          "optionReasons": {},
+          "source": "offline-exam-tool/history/records/专项练习+语法+2026-10-07_14-42-56-735.json"
+        }
+      ]
+    },
+    {
+      "displayQuestion": 4,
+      "id": "sbry-n1-2011.12-文法-5-30",
+      "questionText": "１００年の伝統を誇るこの旅館のサービスには、老舗旅館()細やかな心遣いが感じられる。",
+      "history": []
+    },
+    {
+      "displayQuestion": 5,
+      "id": "sbry-n1-2015.12-文法-5-28",
+      "questionText": "私の会社では、どんな理由があろうと、業務に関するデータや資料を社外に持ち出すことは、()認められていない。",
+      "history": [
+        {
+          "recordId": "1791187543359-uhhd47",
+          "submittedAt": "2026-10-05T08:05:43.359Z",
+          "selected": [
+            1
+          ],
+          "results": [
+            true
+          ],
+          "reason": "",
+          "optionReasons": {},
+          "source": "offline-exam-tool/history/records/专项练习+语法+2026-10-05_16-05-43-359.json"
+        },
+        {
+          "recordId": "1791271673652-81inff",
+          "submittedAt": "2026-10-06T07:27:53.652Z",
+          "selected": [
+            1
+          ],
+          "results": [
+            true
+          ],
+          "reason": "",
+          "optionReasons": {},
+          "source": "offline-exam-tool/history/records/专项练习+语法+2026-10-06_15-27-53-652.json"
+        },
+        {
+          "recordId": "1791355376735-xejv69",
+          "submittedAt": "2026-10-07T06:42:56.735Z",
+          "selected": [
+            1
+          ],
+          "results": [
+            true
+          ],
+          "reason": "",
+          "optionReasons": {},
+          "source": "offline-exam-tool/history/records/专项练习+语法+2026-10-07_14-42-56-735.json"
+        }
+      ]
+    },
+    {
+      "displayQuestion": 6,
+      "id": "sbry-n1-2022.12-文法-5-30",
+      "questionText": "(ホームページで)\n当店では、商品に欠陥がある()、返品及び交換はお受けできませんので、あらかじめご了承ください。",
+      "history": [
+        {
+          "recordId": "1788445588302-2w8xs9",
+          "submittedAt": "2026-09-03T14:26:28.302Z",
+          "selected": [
+            4
+          ],
+          "results": [
+            true
+          ],
+          "reason": "",
+          "optionReasons": {},
+          "source": "offline-exam-tool/history/records/2022.12+语法+2026-09-03_22-26-28-302.json"
+        },
+        {
+          "recordId": "1788616288743-au81cx",
+          "submittedAt": "2026-09-05T13:51:28.743Z",
+          "selected": [
+            4
+          ],
+          "results": [
+            true
+          ],
+          "reason": "",
+          "optionReasons": {},
+          "source": "offline-exam-tool/history/records/2022.12+语法+2026-09-05_21-51-28-743.json"
+        },
+        {
+          "recordId": "1791187543359-uhhd47",
+          "submittedAt": "2026-10-05T08:05:43.359Z",
+          "selected": [
+            4
+          ],
+          "results": [
+            true
+          ],
+          "reason": "",
+          "optionReasons": {},
+          "source": "offline-exam-tool/history/records/专项练习+语法+2026-10-05_16-05-43-359.json"
+        },
+        {
+          "recordId": "1791193745692-upl716",
+          "submittedAt": "2026-10-05T09:49:05.692Z",
+          "selected": [
+            4
+          ],
+          "results": [
+            true
+          ],
+          "reason": "",
+          "optionReasons": {},
+          "source": "offline-exam-tool/history/records/专项练习+语法+2026-10-05_17-49-05-692.json"
+        },
+        {
+          "recordId": "1791267985966-1sy4r5",
+          "submittedAt": "2026-10-06T06:26:25.966Z",
+          "selected": [
+            4
+          ],
+          "results": [
+            true
+          ],
+          "reason": "",
+          "optionReasons": {},
+          "source": "offline-exam-tool/history/records/专项练习+语法+2026-10-06_14-26-25-966.json"
+        },
+        {
+          "recordId": "1791271673652-81inff",
+          "submittedAt": "2026-10-06T07:27:53.652Z",
+          "selected": [
+            4
+          ],
+          "results": [
+            true
+          ],
+          "reason": "",
+          "optionReasons": {},
+          "source": "offline-exam-tool/history/records/专项练习+语法+2026-10-06_15-27-53-652.json"
+        }
+      ]
+    },
+    {
+      "displayQuestion": 7,
+      "id": "sbry-n1-2016.07-文法-5-27",
+      "questionText": "相手の意見に対して、どんな反論を()自由だが、自分の考えを一方的に押し付けるのはよくないと思う。",
+      "history": []
+    },
+    {
+      "displayQuestion": 8,
+      "id": "sbry-n1-2014.07-文法-5-34",
+      "questionText": "子供サッカー教室に、プロサッカー選手の上田幸太が参加した。上田選手が来ることは参加者には()、突然の登場にみんな驚いていた。",
+      "history": []
+    },
+    {
+      "displayQuestion": 9,
+      "id": "sbry-n1-2010.07-文法-5-32",
+      "questionText": "今回の事件で山田氏の政治的影響力が完全に失われる()、弱まることは間違いないだろう。",
+      "history": []
+    },
+    {
+      "displayQuestion": 10,
+      "id": "sbry-n1-2013.12-文法-5-27",
+      "questionText": "北川市では、良好な景観形成を計画的()具体的に進めるために、「北川市景観形成基本方針」を定めています。",
+      "history": [
+        {
+          "recordId": "1791198224716-lzhnp3",
+          "submittedAt": "2026-10-05T11:03:44.716Z",
+          "selected": [
+            3
+          ],
+          "results": [
+            false
+          ],
+          "reason": "",
+          "optionReasons": {},
+          "source": "offline-exam-tool/history/records/专项练习+语法+2026-10-05_19-03-44-716.json"
+        },
+        {
+          "recordId": "1791262815807-1hlnzn",
+          "submittedAt": "2026-10-06T05:00:15.807Z",
+          "selected": [
+            1
+          ],
+          "results": [
+            true
+          ],
+          "reason": "",
+          "optionReasons": {},
+          "source": "offline-exam-tool/history/records/专项练习+语法+2026-10-06_13-00-15-807.json"
+        }
+      ]
+    }
+  ],
+  "options": [
+    {
+      "displayQuestion": 1,
+      "questionId": "sbry-n1-2020.12-文法-5-26",
+      "originalOptionNumber": 1,
+      "displayOptionNumber": 1,
+      "option": "ごときの",
+      "isCorrectOption": false,
+      "originalAnnotation": "",
+      "annotationVerdict": "无标注，不判对错",
+      "priority": "可不标",
+      "suggestedAnnotation": "ごとき有比喻、轻视等用法；本题ごときの接续与赞赏语境不合，不必强配词义。",
+      "sourceRecord": "offline-exam-tool/history/records/专项练习+语法+2026-10-08_11-39-21-813.json"
+    },
+    {
+      "displayQuestion": 1,
+      "questionId": "sbry-n1-2020.12-文法-5-26",
+      "originalOptionNumber": 2,
+      "displayOptionNumber": 2,
+      "option": "がらみの",
+      "isCorrectOption": false,
+      "originalAnnotation": "",
+      "annotationVerdict": "无标注，不判对错",
+      "priority": "建议补一次",
+      "suggestedAnnotation": "がらみ＝与……相关／牵涉……，不表达老店独有的优点。",
+      "sourceRecord": "offline-exam-tool/history/records/专项练习+语法+2026-10-08_11-39-21-813.json"
+    },
+    {
+      "displayQuestion": 1,
+      "questionId": "sbry-n1-2020.12-文法-5-26",
+      "originalOptionNumber": 3,
+      "displayOptionNumber": 3,
+      "option": "ほどまでの",
+      "isCorrectOption": false,
+      "originalAnnotation": "",
+      "annotationVerdict": "无标注，不判对错",
+      "priority": "可不标",
+      "suggestedAnnotation": "ほど表示程度；这里ほどまでの无法表达老店特有的细致服务。",
+      "sourceRecord": "offline-exam-tool/history/records/专项练习+语法+2026-10-08_11-39-21-813.json"
+    },
+    {
+      "displayQuestion": 1,
+      "questionId": "sbry-n1-2020.12-文法-5-26",
+      "originalOptionNumber": 4,
+      "displayOptionNumber": 4,
+      "option": "ならではの",
+      "isCorrectOption": true,
+      "originalAnnotation": "",
+      "annotationVerdict": "无标注，不判对错",
+      "priority": "建议补一次",
+      "suggestedAnnotation": "ならではの＝唯有……才有／……独有。已多次选对，补一次中文或口述即可。",
+      "sourceRecord": "offline-exam-tool/history/records/专项练习+语法+2026-10-08_11-39-21-813.json"
+    },
+    {
+      "displayQuestion": 2,
+      "questionId": "sbry-n1-2012.12-文法-5-30",
+      "originalOptionNumber": 1,
+      "displayOptionNumber": 1,
+      "option": "雨とも雪とも",
+      "isCorrectOption": false,
+      "originalAnnotation": "",
+      "annotationVerdict": "无标注，不判对错",
+      "priority": "优先补",
+      "suggestedAnnotation": "雨とも雪とも通常还要接判断等谓语；不等于无论雨雪。曾在跨ID同题两次误选此项。",
+      "sourceRecord": "offline-exam-tool/history/records/专项练习+语法+2026-10-08_11-39-21-813.json"
+    },
+    {
+      "displayQuestion": 2,
+      "questionId": "sbry-n1-2012.12-文法-5-30",
+      "originalOptionNumber": 2,
+      "displayOptionNumber": 2,
+      "option": "雨でもなく雪でもなく",
+      "isCorrectOption": false,
+      "originalAnnotation": "",
+      "annotationVerdict": "无标注，不判对错",
+      "priority": "建议补一次",
+      "suggestedAnnotation": "既不是雨也不是雪：否定两者，与不论天气都骑车不同。",
+      "sourceRecord": "offline-exam-tool/history/records/专项练习+语法+2026-10-08_11-39-21-813.json"
+    },
+    {
+      "displayQuestion": 2,
+      "questionId": "sbry-n1-2012.12-文法-5-30",
+      "originalOptionNumber": 3,
+      "displayOptionNumber": 3,
+      "option": "雨というか雪というか",
+      "isCorrectOption": false,
+      "originalAnnotation": "",
+      "annotationVerdict": "无标注，不判对错",
+      "priority": "建议补一次",
+      "suggestedAnnotation": "说是雨还是雪／或者说：修正、犹豫表达，不是无条件让步。",
+      "sourceRecord": "offline-exam-tool/history/records/专项练习+语法+2026-10-08_11-39-21-813.json"
+    },
+    {
+      "displayQuestion": 2,
+      "questionId": "sbry-n1-2012.12-文法-5-30",
+      "originalOptionNumber": 4,
+      "displayOptionNumber": 4,
+      "option": "雨だろうと雪だろうと",
+      "isCorrectOption": true,
+      "originalAnnotation": "",
+      "annotationVerdict": "无标注，不判对错",
+      "priority": "优先补",
+      "suggestedAnnotation": "无论下雨还是下雪都……。虽已连续纠正，仍建议脱离选项复述一次，区分とも。",
+      "sourceRecord": "offline-exam-tool/history/records/专项练习+语法+2026-10-08_11-39-21-813.json"
+    },
+    {
+      "displayQuestion": 3,
+      "questionId": "sbry-n1-2021.12-文法-5-28",
+      "originalOptionNumber": 1,
+      "displayOptionNumber": 1,
+      "option": "ばかりに",
+      "isCorrectOption": false,
+      "originalAnnotation": "",
+      "annotationVerdict": "无标注，不判对错",
+      "priority": "优先补",
+      "suggestedAnnotation": "ばかりに＝正因为……而招致坏结果；本题是本来应治疗却没治的遗憾，不是治疗导致恶化。9/13曾误选此项。",
+      "sourceRecord": "offline-exam-tool/history/records/专项练习+语法+2026-10-08_11-39-21-813.json"
+    },
+    {
+      "displayQuestion": 3,
+      "questionId": "sbry-n1-2021.12-文法-5-28",
+      "originalOptionNumber": 2,
+      "displayOptionNumber": 2,
+      "option": "ことを",
+      "isCorrectOption": false,
+      "originalAnnotation": "",
+      "annotationVerdict": "无标注，不判对错",
+      "priority": "建议补一次",
+      "suggestedAnnotation": "ことを不是这里表达遗憾逆接的连接形式。不要把它机械等同于ものを。",
+      "sourceRecord": "offline-exam-tool/history/records/专项练习+语法+2026-10-08_11-39-21-813.json"
+    },
+    {
+      "displayQuestion": 3,
+      "questionId": "sbry-n1-2021.12-文法-5-28",
+      "originalOptionNumber": 3,
+      "displayOptionNumber": 3,
+      "option": "ために",
+      "isCorrectOption": false,
+      "originalAnnotation": "",
+      "annotationVerdict": "无标注，不判对错",
+      "priority": "建议补一次",
+      "suggestedAnnotation": "ために表示原因／目的；这里不能把“早治就好了”接成恶化原因。",
+      "sourceRecord": "offline-exam-tool/history/records/专项练习+语法+2026-10-08_11-39-21-813.json"
+    },
+    {
+      "displayQuestion": 3,
+      "questionId": "sbry-n1-2021.12-文法-5-28",
+      "originalOptionNumber": 4,
+      "displayOptionNumber": 4,
+      "option": "ものを",
+      "isCorrectOption": true,
+      "originalAnnotation": "",
+      "annotationVerdict": "无标注，不判对错",
+      "priority": "优先补",
+      "suggestedAnnotation": "ものを＝本来……就好了，可偏偏……；遗憾、责备。连续三次纠正后，用中文说明为何不是原因即可。",
+      "sourceRecord": "offline-exam-tool/history/records/专项练习+语法+2026-10-08_11-39-21-813.json"
+    },
+    {
+      "displayQuestion": 4,
+      "questionId": "sbry-n1-2011.12-文法-5-30",
+      "originalOptionNumber": 1,
+      "displayOptionNumber": 1,
+      "option": "ごときの",
+      "isCorrectOption": false,
+      "originalAnnotation": "",
+      "annotationVerdict": "无标注，不判对错",
+      "priority": "可不标",
+      "suggestedAnnotation": "与本轮第1题相同选项和近乎相同题干；复用第1题的接续说明，不必重写。",
+      "sourceRecord": "offline-exam-tool/history/records/专项练习+语法+2026-10-08_11-39-21-813.json"
+    },
+    {
+      "displayQuestion": 4,
+      "questionId": "sbry-n1-2011.12-文法-5-30",
+      "originalOptionNumber": 2,
+      "displayOptionNumber": 2,
+      "option": "がらみの",
+      "isCorrectOption": false,
+      "originalAnnotation": "",
+      "annotationVerdict": "无标注，不判对错",
+      "priority": "可不标",
+      "suggestedAnnotation": "与第1题重复；若需要补义项，在第1题写一次即可。",
+      "sourceRecord": "offline-exam-tool/history/records/专项练习+语法+2026-10-08_11-39-21-813.json"
+    },
+    {
+      "displayQuestion": 4,
+      "questionId": "sbry-n1-2011.12-文法-5-30",
+      "originalOptionNumber": 3,
+      "displayOptionNumber": 3,
+      "option": "ほどまでの",
+      "isCorrectOption": false,
+      "originalAnnotation": "",
+      "annotationVerdict": "无标注，不判对错",
+      "priority": "可不标",
+      "suggestedAnnotation": "与第1题重复，不要求重复标注。",
+      "sourceRecord": "offline-exam-tool/history/records/专项练习+语法+2026-10-08_11-39-21-813.json"
+    },
+    {
+      "displayQuestion": 4,
+      "questionId": "sbry-n1-2011.12-文法-5-30",
+      "originalOptionNumber": 4,
+      "displayOptionNumber": 4,
+      "option": "ならではの",
+      "isCorrectOption": true,
+      "originalAnnotation": "",
+      "annotationVerdict": "无标注，不判对错",
+      "priority": "可不标",
+      "suggestedAnnotation": "与第1题同一ならではの语境；不能把第二次出现计为独立新语境掌握。",
+      "sourceRecord": "offline-exam-tool/history/records/专项练习+语法+2026-10-08_11-39-21-813.json"
+    },
+    {
+      "displayQuestion": 5,
+      "questionId": "sbry-n1-2015.12-文法-5-28",
+      "originalOptionNumber": 1,
+      "displayOptionNumber": 1,
+      "option": "いっさい",
+      "isCorrectOption": true,
+      "originalAnnotation": "",
+      "annotationVerdict": "无标注，不判对错",
+      "priority": "建议补一次",
+      "suggestedAnnotation": "いっさい～ない＝一概／完全不允许；与どんな理由があろうと呼应。连续四次正确，可口述代替标注。",
+      "sourceRecord": "offline-exam-tool/history/records/专项练习+语法+2026-10-08_11-39-21-813.json"
+    },
+    {
+      "displayQuestion": 5,
+      "questionId": "sbry-n1-2015.12-文法-5-28",
+      "originalOptionNumber": 2,
+      "displayOptionNumber": 2,
+      "option": "むしろ",
+      "isCorrectOption": false,
+      "originalAnnotation": "",
+      "annotationVerdict": "无标注，不判对错",
+      "priority": "建议补一次",
+      "suggestedAnnotation": "むしろ＝与其说前者，不如说后者／反而更……，需要比较或修正。",
+      "sourceRecord": "offline-exam-tool/history/records/专项练习+语法+2026-10-08_11-39-21-813.json"
+    },
+    {
+      "displayQuestion": 5,
+      "questionId": "sbry-n1-2015.12-文法-5-28",
+      "originalOptionNumber": 3,
+      "displayOptionNumber": 3,
+      "option": "かならず",
+      "isCorrectOption": false,
+      "originalAnnotation": "",
+      "annotationVerdict": "无标注，不判对错",
+      "priority": "建议补一次",
+      "suggestedAnnotation": "かならず＝一定、必定；区分必ずしも～ない＝未必。这里强调一律禁止。",
+      "sourceRecord": "offline-exam-tool/history/records/专项练习+语法+2026-10-08_11-39-21-813.json"
+    },
+    {
+      "displayQuestion": 5,
+      "questionId": "sbry-n1-2015.12-文法-5-28",
+      "originalOptionNumber": 4,
+      "displayOptionNumber": 4,
+      "option": "どうしても",
+      "isCorrectOption": false,
+      "originalAnnotation": "",
+      "annotationVerdict": "无标注，不判对错",
+      "priority": "建议补一次",
+      "suggestedAnnotation": "どうしても～ない＝无论如何也不能；这里是制度一律不许，不是尝试后无法实现。",
+      "sourceRecord": "offline-exam-tool/history/records/专项练习+语法+2026-10-08_11-39-21-813.json"
+    },
+    {
+      "displayQuestion": 6,
+      "questionId": "sbry-n1-2022.12-文法-5-30",
+      "originalOptionNumber": 1,
+      "displayOptionNumber": 1,
+      "option": "点に加えて",
+      "isCorrectOption": false,
+      "originalAnnotation": "",
+      "annotationVerdict": "无标注，不判对错",
+      "priority": "建议补一次",
+      "suggestedAnnotation": "点＝方面；に加えて＝再加上。这里要设例外而非追加。",
+      "sourceRecord": "offline-exam-tool/history/records/专项练习+语法+2026-10-08_11-39-21-813.json"
+    },
+    {
+      "displayQuestion": 6,
+      "questionId": "sbry-n1-2022.12-文法-5-30",
+      "originalOptionNumber": 2,
+      "displayOptionNumber": 2,
+      "option": "点を除いて",
+      "isCorrectOption": false,
+      "originalAnnotation": "",
+      "annotationVerdict": "无标注，不判对错",
+      "priority": "建议补一次",
+      "suggestedAnnotation": "点を除いて＝除了某一点／方面；这里是商品有缺陷这一条件下可退换，不是排除产品的一项特点。",
+      "sourceRecord": "offline-exam-tool/history/records/专项练习+语法+2026-10-08_11-39-21-813.json"
+    },
+    {
+      "displayQuestion": 6,
+      "questionId": "sbry-n1-2022.12-文法-5-30",
+      "originalOptionNumber": 3,
+      "displayOptionNumber": 3,
+      "option": "場合に加えて",
+      "isCorrectOption": false,
+      "originalAnnotation": "",
+      "annotationVerdict": "无标注，不判对错",
+      "priority": "建议补一次",
+      "suggestedAnnotation": "場合に加えて＝除某种情况还加上其他情况；与只允许例外的逻辑不合。",
+      "sourceRecord": "offline-exam-tool/history/records/专项练习+语法+2026-10-08_11-39-21-813.json"
+    },
+    {
+      "displayQuestion": 6,
+      "questionId": "sbry-n1-2022.12-文法-5-30",
+      "originalOptionNumber": 4,
+      "displayOptionNumber": 4,
+      "option": "場合を除いて",
+      "isCorrectOption": true,
+      "originalAnnotation": "",
+      "annotationVerdict": "无标注，不判对错",
+      "priority": "可不标",
+      "suggestedAnnotation": "場合を除いて＝除非商品有缺陷，否则不接受退换。该ID已七次全对，可口述核验而不机械抄写。",
+      "sourceRecord": "offline-exam-tool/history/records/专项练习+语法+2026-10-08_11-39-21-813.json"
+    },
+    {
+      "displayQuestion": 7,
+      "questionId": "sbry-n1-2016.07-文法-5-27",
+      "originalOptionNumber": 1,
+      "displayOptionNumber": 1,
+      "option": "する以上",
+      "isCorrectOption": false,
+      "originalAnnotation": "",
+      "annotationVerdict": "无标注，不判对错",
+      "priority": "优先补",
+      "suggestedAnnotation": "する以上＝既然要反驳，就……；会引出责任／判断，不表达不论怎样反驳都自由。",
+      "sourceRecord": "offline-exam-tool/history/records/专项练习+语法+2026-10-08_11-39-21-813.json"
+    },
+    {
+      "displayQuestion": 7,
+      "questionId": "sbry-n1-2016.07-文法-5-27",
+      "originalOptionNumber": 2,
+      "displayOptionNumber": 2,
+      "option": "しつつも",
+      "isCorrectOption": false,
+      "originalAnnotation": "",
+      "annotationVerdict": "无标注，不判对错",
+      "priority": "建议补一次",
+      "suggestedAnnotation": "しつつも＝一边／虽然……却……，不构成本题どんな～ても式让步。",
+      "sourceRecord": "offline-exam-tool/history/records/专项练习+语法+2026-10-08_11-39-21-813.json"
+    },
+    {
+      "displayQuestion": 7,
+      "questionId": "sbry-n1-2016.07-文法-5-27",
+      "originalOptionNumber": 3,
+      "displayOptionNumber": 3,
+      "option": "しようと",
+      "isCorrectOption": true,
+      "originalAnnotation": "",
+      "annotationVerdict": "无标注，不判对错",
+      "priority": "优先补",
+      "suggestedAnnotation": "どんな反論をしようと＝无论提出怎样的反驳。意志形＋と在此是让步，不是しようとする的尝试。",
+      "sourceRecord": "offline-exam-tool/history/records/专项练习+语法+2026-10-08_11-39-21-813.json"
+    },
+    {
+      "displayQuestion": 7,
+      "questionId": "sbry-n1-2016.07-文法-5-27",
+      "originalOptionNumber": 4,
+      "displayOptionNumber": 4,
+      "option": "している限りは",
+      "isCorrectOption": false,
+      "originalAnnotation": "",
+      "annotationVerdict": "无标注，不判对错",
+      "priority": "建议补一次",
+      "suggestedAnnotation": "している限りは＝只要仍在反驳／在这个范围内；条件范围不同于无论如何。",
+      "sourceRecord": "offline-exam-tool/history/records/专项练习+语法+2026-10-08_11-39-21-813.json"
+    },
+    {
+      "displayQuestion": 8,
+      "questionId": "sbry-n1-2014.07-文法-5-34",
+      "originalOptionNumber": 1,
+      "displayOptionNumber": 1,
+      "option": "知られつつも",
+      "isCorrectOption": false,
+      "originalAnnotation": "",
+      "annotationVerdict": "无标注，不判对错",
+      "priority": "建议补一次",
+      "suggestedAnnotation": "知られつつも＝虽被知晓却……；但后文惊讶的原因是参加者事先不知。",
+      "sourceRecord": "offline-exam-tool/history/records/专项练习+语法+2026-10-08_11-39-21-813.json"
+    },
+    {
+      "displayQuestion": 8,
+      "questionId": "sbry-n1-2014.07-文法-5-34",
+      "originalOptionNumber": 2,
+      "displayOptionNumber": 2,
+      "option": "知らされておらず",
+      "isCorrectOption": true,
+      "originalAnnotation": "",
+      "annotationVerdict": "无标注，不判对错",
+      "priority": "建议补一次",
+      "suggestedAnnotation": "知らされておらず＝事先未被告知；知らせる的被动＋ておる否定连用。不是知られる，也不是使役。",
+      "sourceRecord": "offline-exam-tool/history/records/专项练习+语法+2026-10-08_11-39-21-813.json"
+    },
+    {
+      "displayQuestion": 8,
+      "questionId": "sbry-n1-2014.07-文法-5-34",
+      "originalOptionNumber": 3,
+      "displayOptionNumber": 3,
+      "option": "知らされていないと",
+      "isCorrectOption": false,
+      "originalAnnotation": "",
+      "annotationVerdict": "无标注，不判对错",
+      "priority": "建议补一次",
+      "suggestedAnnotation": "知らされていないと＝如果未被告知……；と条件与本句回述既成原因不合。",
+      "sourceRecord": "offline-exam-tool/history/records/专项练习+语法+2026-10-08_11-39-21-813.json"
+    },
+    {
+      "displayQuestion": 8,
+      "questionId": "sbry-n1-2014.07-文法-5-34",
+      "originalOptionNumber": 4,
+      "displayOptionNumber": 4,
+      "option": "知られたためか",
+      "isCorrectOption": false,
+      "originalAnnotation": "",
+      "annotationVerdict": "无标注，不判对错",
+      "priority": "建议补一次",
+      "suggestedAnnotation": "知られたためか＝也许因为已被知晓；与突然登场、大家吃惊的因果相反。",
+      "sourceRecord": "offline-exam-tool/history/records/专项练习+语法+2026-10-08_11-39-21-813.json"
+    },
+    {
+      "displayQuestion": 9,
+      "questionId": "sbry-n1-2010.07-文法-5-32",
+      "originalOptionNumber": 1,
+      "displayOptionNumber": 1,
+      "option": "ことはないにしても",
+      "isCorrectOption": true,
+      "originalAnnotation": "",
+      "annotationVerdict": "无标注，不判对错",
+      "priority": "建议补一次",
+      "suggestedAnnotation": "ことはないにしても＝即使不至于完全失去，也必然减弱。不是ここで“不必失去”的义务义。",
+      "sourceRecord": "offline-exam-tool/history/records/专项练习+语法+2026-10-08_11-39-21-813.json"
+    },
+    {
+      "displayQuestion": 9,
+      "questionId": "sbry-n1-2010.07-文法-5-32",
+      "originalOptionNumber": 2,
+      "displayOptionNumber": 2,
+      "option": "ことはないにもかかわらず",
+      "isCorrectOption": false,
+      "originalAnnotation": "",
+      "annotationVerdict": "无标注，不判对错",
+      "priority": "建议补一次",
+      "suggestedAnnotation": "にもかかわらず＝尽管某个既定事实……；此处先让步假设“不至于完全失去”，再断定减弱。",
+      "sourceRecord": "offline-exam-tool/history/records/专项练习+语法+2026-10-08_11-39-21-813.json"
+    },
+    {
+      "displayQuestion": 9,
+      "questionId": "sbry-n1-2010.07-文法-5-32",
+      "originalOptionNumber": 3,
+      "displayOptionNumber": 3,
+      "option": "ほかはないにしても",
+      "isCorrectOption": false,
+      "originalAnnotation": "",
+      "annotationVerdict": "无标注，不判对错",
+      "priority": "建议补一次",
+      "suggestedAnnotation": "ほかはない＝只能／别无选择；失去影响力不是这里要表达的唯一办法。",
+      "sourceRecord": "offline-exam-tool/history/records/专项练习+语法+2026-10-08_11-39-21-813.json"
+    },
+    {
+      "displayQuestion": 9,
+      "questionId": "sbry-n1-2010.07-文法-5-32",
+      "originalOptionNumber": 4,
+      "displayOptionNumber": 4,
+      "option": "ほかはないにもかかわらず",
+      "isCorrectOption": false,
+      "originalAnnotation": "",
+      "annotationVerdict": "无标注，不判对错",
+      "priority": "建议补一次",
+      "suggestedAnnotation": "ほかはない＋にもかかわらず：同时错在只能的意义和既定事实逆接，不是本题让步假设。",
+      "sourceRecord": "offline-exam-tool/history/records/专项练习+语法+2026-10-08_11-39-21-813.json"
+    },
+    {
+      "displayQuestion": 10,
+      "questionId": "sbry-n1-2013.12-文法-5-27",
+      "originalOptionNumber": 1,
+      "displayOptionNumber": 1,
+      "option": "かつ",
+      "isCorrectOption": true,
+      "originalAnnotation": "",
+      "annotationVerdict": "无标注，不判对错",
+      "priority": "优先补",
+      "suggestedAnnotation": "かつ＝并且；计划性与具体性并列。10/5错后10/6、10/8连续纠正，建议补一次功能。",
+      "sourceRecord": "offline-exam-tool/history/records/专项练习+语法+2026-10-08_11-39-21-813.json"
+    },
+    {
+      "displayQuestion": 10,
+      "questionId": "sbry-n1-2013.12-文法-5-27",
+      "originalOptionNumber": 2,
+      "displayOptionNumber": 2,
+      "option": "むしろ",
+      "isCorrectOption": false,
+      "originalAnnotation": "",
+      "annotationVerdict": "无标注，不判对错",
+      "priority": "建议补一次",
+      "suggestedAnnotation": "むしろ＝宁可／不如说／反而；这里无须否定或修正“有计划地”。可与第5题同一选项一起记一次。",
+      "sourceRecord": "offline-exam-tool/history/records/专项练习+语法+2026-10-08_11-39-21-813.json"
+    },
+    {
+      "displayQuestion": 10,
+      "questionId": "sbry-n1-2013.12-文法-5-27",
+      "originalOptionNumber": 3,
+      "displayOptionNumber": 3,
+      "option": "ついては",
+      "isCorrectOption": false,
+      "originalAnnotation": "",
+      "annotationVerdict": "无标注，不判对错",
+      "priority": "优先补",
+      "suggestedAnnotation": "ついては＝因此／为此，用于接续前文并引出后续请求等；不能直接连接計画的に与具体的に。10/5曾误选。",
+      "sourceRecord": "offline-exam-tool/history/records/专项练习+语法+2026-10-08_11-39-21-813.json"
+    },
+    {
+      "displayQuestion": 10,
+      "questionId": "sbry-n1-2013.12-文法-5-27",
+      "originalOptionNumber": 4,
+      "displayOptionNumber": 4,
+      "option": "かえって",
+      "isCorrectOption": false,
+      "originalAnnotation": "",
+      "annotationVerdict": "无标注，不判对错",
+      "priority": "建议补一次",
+      "suggestedAnnotation": "かえって＝反而，结果违反预期；这里是两个方式并列，不是结果相反。",
+      "sourceRecord": "offline-exam-tool/history/records/专项练习+语法+2026-10-08_11-39-21-813.json"
+    }
+  ],
+  "duplicateContent": {
+    "questionNumbers": [
+      1,
+      4
+    ],
+    "note": "两个ID的题干仅表记及助词细节有差异，选项一致；按同一核心题目计。"
+  }
+}

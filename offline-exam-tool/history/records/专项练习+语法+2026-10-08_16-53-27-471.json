@@ -1,0 +1,411 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791449607471-vnv847",
+    "submittedAt": "2026-10-08T08:53:27.471Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": false,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "sbry-n1-2014.07-文法-5-26",
+        "jlpt4you-2024.12-grammar-5-2",
+        "sbry-n1-2011.07-文法-5-33",
+        "sbry-n1-2021.07-文法-5-31",
+        "jlpt4you-2024.12-grammar-5-10",
+        "markdown-2025.12-language-29",
+        "sbry-n1-2010.12-文法-5-35",
+        "sbry-n1-2013.12-文法-5-33",
+        "jlpt4you-2023.07-grammar-5-5",
+        "sbry-n1-2019.12-文法-5-30"
+      ],
+      "shuffleOptions": false,
+      "optionOrders": {},
+      "showFurigana": false
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 7,
+    "percentage": 70,
+    "durationSeconds": 732,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2014.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c09",
+          "grammar.q5.b02"
+        ],
+        "id": "sbry-n1-2014.07-文法-5-26",
+        "number": 26,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "父は仕事が生きがいで、定年後も()かぎりは働きたいと言っている。",
+        "options": [
+          "働けず",
+          "働いた",
+          "働こう",
+          "働ける"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c12",
+          "grammar.q5.b01"
+        ],
+        "id": "jlpt4you-2024.12-grammar-5-2",
+        "number": 27,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "近年の健康意識の高まり（ ）健康食品は急成長している。",
+        "options": [
+          "に次いで",
+          "にわたって",
+          "を受けて",
+          "をめぐって"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2011.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c02",
+          "grammar.q5.b04"
+        ],
+        "id": "sbry-n1-2011.07-文法-5-33",
+        "number": 33,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(パソコンを使いながら)\nA「ねえ、この前教えた計算機能、使ってみた？」\nB「うん。今まであんなに時間をかけてたのが()簡単に計算できたよ。」\nA「でしょ。パソコンのことならまかせてよ。」",
+        "options": [
+          "ばかばかしい思いをするもので",
+          "ばかばかしく思えるもので",
+          "ばかばかしい思いをするくらい",
+          "ばかばかしく思えるくらい"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2021.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c12"
+        ],
+        "id": "sbry-n1-2021.07-文法-5-31",
+        "number": 31,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "歯医者「歯を磨くときに、汚れを()、強い力で磨いてしまいがちですが、力を入れすぎると、歯を傷つけてしまいます。優しく磨きましょう。」",
+        "options": [
+          "落とそうとするあまり",
+          "落とそうとしたわりに",
+          "落とせばいいのであれば",
+          "落とせばいいかというと"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01",
+          "grammar.q5.b06"
+        ],
+        "id": "jlpt4you-2024.12-grammar-5-10",
+        "number": 35,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "（大学で）先生 「青木さん、今度の報告誌のモデルを青木さんにお願いできたらと思うんだけど、どうかな」 青木 「やりたいです。でも、私（ ）」 先生 「もちろん」",
+        "options": [
+          "だったらいいんですか",
+          "なんかでいいんですか",
+          "だったらいいんでしょう",
+          "なんかでいいんでしょうか"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2025.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01",
+          "grammar.q5.c09"
+        ],
+        "id": "markdown-2025.12-language-29",
+        "number": 29,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この仮説を正しい(  )まだデータ数が十分ではないため、さらなる調査が必要だ。",
+        "options": [
+          "とするには",
+          "となるには",
+          "とするとは",
+          "となるとは"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2010.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2010.12-文法-5-35",
+        "number": 35,
+        "selected": [
+          4
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "「いくら注意しても、後輩が同じ失敗を繰り返します。私は注意し続けるべきでしょうか。それとも本人が気づくまで、もう何も言う()。」",
+        "options": [
+          "べきでしょうか",
+          "べきなのでしょうか",
+          "べきではないのでしょうか",
+          "べきなのではないでしょう"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2013.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c17"
+        ],
+        "id": "sbry-n1-2013.12-文法-5-33",
+        "number": 33,
+        "selected": [
+          4
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "企画立案というのは苦しい作業だが、自分の案が採用されたときのうれしさ()。",
+        "options": [
+          "といったらない",
+          "にすぎない",
+          "ほどのことではない",
+          "ともかぎらない"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c01",
+          "grammar.q5.b05"
+        ],
+        "id": "jlpt4you-2023.07-grammar-5-5",
+        "number": 30,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "忙しくて引っ越しの荷造りが（ ）荷造りを全部やってくれるサービスがあると友人が教えてくれた。",
+        "options": [
+          "できずにいたなら",
+          "できずにいたところ",
+          "できないようにしたら",
+          "できないようにしたところ"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03"
+        ],
+        "id": "sbry-n1-2019.12-文法-5-30",
+        "number": 30,
+        "selected": [
+          1
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(手紙で)\n年末を迎え、お忙しい毎日をお過ごしのことと()が、お変わりありませんでしょうか。",
+        "options": [
+          "いたします",
+          "承ります",
+          "存じます",
+          "申し上げます"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}

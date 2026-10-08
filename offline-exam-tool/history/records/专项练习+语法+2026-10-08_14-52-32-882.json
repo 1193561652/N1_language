@@ -1,0 +1,409 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791442352882-io3fm2",
+    "submittedAt": "2026-10-08T06:52:32.882Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": false,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "sbry-n1-2012.07-文法-5-32",
+        "sbry-n1-2021.12-文法-5-33",
+        "markdown-2025.12-language-31",
+        "sbry-n1-2010.12-文法-5-30",
+        "jlpt4you-2024.12-grammar-5-2",
+        "sbry-n1-2011.12-文法-5-26",
+        "sbry-n1-2021.12-文法-5-32",
+        "sbry-n1-2010.12-文法-5-32",
+        "sbry-n1-2012.12-文法-5-32",
+        "jlpt4you-2024.12-grammar-5-7"
+      ],
+      "shuffleOptions": false,
+      "optionOrders": {},
+      "showFurigana": false
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 9,
+    "percentage": 90,
+    "durationSeconds": 278,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2012.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c13",
+          "grammar.q5.b03"
+        ],
+        "id": "sbry-n1-2012.07-文法-5-32",
+        "number": 32,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "商品ご使用後の返品対応は()ので、ご了承ください。",
+        "options": [
+          "いたしかねます",
+          "いたしかねません",
+          "さしあげかねます",
+          "さしあげかねません"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2021.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c19"
+        ],
+        "id": "sbry-n1-2021.12-文法-5-33",
+        "number": 33,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "中村「山田さんは本当に猫が好きなんだね。今日のバッグも猫の絵柄だし」山田「うん。でも、あんまり持ち物が猫柄ばかりなんで、家族から『猫好き()だろう』って言われたりする」",
+        "options": [
+          "のかぎりではない",
+          "のことにかぎる",
+          "にもほどがある",
+          "にあるほどでもない"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2025.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c19"
+        ],
+        "id": "markdown-2025.12-language-31",
+        "number": 31,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "引っ越しの予定は半年後だからまだまだ先だが、早く準備を始める(  )と思い、少しずつ片付けを進めている。",
+        "options": [
+          "勢いだ",
+          "ことは否めない",
+          "見込みだ",
+          "に越したことはない"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2010.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03"
+        ],
+        "id": "sbry-n1-2010.12-文法-5-30",
+        "number": 30,
+        "selected": [
+          1
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "「このたびは、私どもの商品発送ミスにより、お客様に大変ご迷惑をかけましたことを深く()。申し訳ございませんでした。」",
+        "options": [
+          "わびていただきます",
+          "わびていらっしゃいます",
+          "おわびいただきます",
+          "おわび申し上げます"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c12",
+          "grammar.q5.b01"
+        ],
+        "id": "jlpt4you-2024.12-grammar-5-2",
+        "number": 27,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "近年の健康意識の高まり（ ）健康食品は急成長している。",
+        "options": [
+          "に次いで",
+          "にわたって",
+          "を受けて",
+          "をめぐって"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2011.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c12"
+        ],
+        "id": "sbry-n1-2011.12-文法-5-26",
+        "number": 26,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "燃料価格の高騰()、複数の航空会社が運賃を値上げした。",
+        "options": [
+          "を受けて",
+          "に沿って",
+          "にわたって",
+          "を通じて"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2021.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c13"
+        ],
+        "id": "sbry-n1-2021.12-文法-5-32",
+        "number": 32,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "仕事が忙しくて、今年は旅行()。",
+        "options": [
+          "に過ぎない",
+          "どころではない",
+          "にほかならない",
+          "といっても過言ではない"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2010.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b05",
+          "grammar.q5.b04"
+        ],
+        "id": "sbry-n1-2010.12-文法-5-32",
+        "number": 32,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "地球温暖化抑制への貢献が、ここ１０年あまりの間に、優良企業の条件の一つ()ようだ。",
+        "options": [
+          "としうる",
+          "となりうる",
+          "としつつある",
+          "となりつつある"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2012.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c08",
+          "grammar.q5.c13"
+        ],
+        "id": "sbry-n1-2012.12-文法-5-32",
+        "number": 32,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "彼の政治家としての能力は()、首相になるにはまだ早い。",
+        "options": [
+          "疑いようがないものを",
+          "疑いようがないものの",
+          "疑わないことはないものを",
+          "疑わないことはないものの"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "jlpt4you-2024.12-grammar-5-7",
+        "number": 32,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "驚いたことに、その小学生は、高校レベルの数学の問題をすらすらと（ ）。",
+        "options": [
+          "解けるとは",
+          "解けるものなら",
+          "解いたまでだ",
+          "解いてみせた"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}

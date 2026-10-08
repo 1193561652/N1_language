@@ -1,0 +1,408 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791452115662-uk59bu",
+    "submittedAt": "2026-10-08T09:35:15.662Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": false,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "sbry-n1-2018.12-文法-5-28",
+        "sbry-n1-2010.12-文法-5-28",
+        "sbry-n1-2014.12-文法-5-33",
+        "sbry-n1-2012.12-文法-5-34",
+        "sbry-n1-2015.12-文法-5-27",
+        "sbry-n1-2013.12-文法-5-34",
+        "sbry-n1-2013.07-文法-5-29",
+        "sbry-n1-2019.12-文法-5-34",
+        "sbry-n1-2012.07-文法-5-30",
+        "jlpt4you-2023.12-grammar-5-4"
+      ],
+      "shuffleOptions": false,
+      "optionOrders": {},
+      "showFurigana": false
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 8,
+    "percentage": 80,
+    "durationSeconds": 1529,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01"
+        ],
+        "id": "sbry-n1-2018.12-文法-5-28",
+        "number": 28,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "昨日、水月滝を見に行った。さすが日本有数の水量を誇るだけあって、()見事な滝だった。",
+        "options": [
+          "あえて",
+          "まさか",
+          "なかなか",
+          "かえって"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2010.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01"
+        ],
+        "id": "sbry-n1-2010.12-文法-5-28",
+        "number": 28,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(テレビのコマーシャルで)\n「こちらは添加物を()使用していない、ヘルシーな食用油です。」",
+        "options": [
+          "いっさい",
+          "とても",
+          "きっと",
+          "まさか"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2014.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c08",
+          "grammar.q5.b04"
+        ],
+        "id": "sbry-n1-2014.12-文法-5-33",
+        "number": 33,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "バスの窓から大きな虹が見えたので写真を撮った。山道を走るバスに()けっこう良く撮れていた。",
+        "options": [
+          "揺られながらにしては",
+          "揺られながらとなれば",
+          "揺られっぱなしなのか",
+          "揺られっぱなしだとは"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2012.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c09",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2012.12-文法-5-34",
+        "number": 34,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(携帯電話で)\n夏子「もしもし、友子？ごめん、電車が遅れてて。」\n友子「え、そうなの？映画、７時からだけど。」\n夏子「うん。()、また連絡するね。」",
+        "options": [
+          "間に合いそうになかったら",
+          "間に合いそうになかったから",
+          "間に合っていなかったのだから",
+          "間に合っていなかったのだったら"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2015.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c12"
+        ],
+        "id": "sbry-n1-2015.12-文法-5-27",
+        "number": 27,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "祖母は、昔、幼稚園の先生を()、昔話や童話をたくさん知っている。",
+        "options": [
+          "していたからには",
+          "していたとは",
+          "していたところ",
+          "していただけあって"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2013.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03"
+        ],
+        "id": "sbry-n1-2013.12-文法-5-34",
+        "number": 34,
+        "selected": [
+          1
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "店員「アルバイトの大田さんのことなんですが、仕事中におしゃべりが多くて困っているんです。店長から一言()。」\n店長「わかった。後で注意しておくよ」",
+        "options": [
+          "伺いたいのですが",
+          "お聞きになるでしょうか",
+          "申し上げてもよろしいですか",
+          "おっしゃってくださいませんか"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2013.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03"
+        ],
+        "id": "sbry-n1-2013.07-文法-5-29",
+        "number": 29,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(メールの終わりに)\nそれでは以上の件につき、引き続きご検討いただければ幸いに()。どうかよろしくお願い申し上げます。",
+        "options": [
+          "存じます",
+          "あずかります",
+          "頂戴します",
+          "うけたまわります"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2019.12-文法-5-34",
+        "number": 34,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "こんなに天気が良くなるなら、レインコートなんて、着て()。",
+        "options": [
+          "きたんだった",
+          "くるんだった",
+          "きたんじゃなかった",
+          "くるんじゃなかった"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2012.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03"
+        ],
+        "id": "sbry-n1-2012.07-文法-5-30",
+        "number": 30,
+        "selected": [
+          4
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "お客様、ご希望のホテルが満室でしたので、他のホテルにご変更()のですが……。よろしいでしょうか。",
+        "options": [
+          "ねがいたい",
+          "なさりたい",
+          "くださりたい",
+          "になりたい"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c12",
+          "grammar.q5.b05"
+        ],
+        "id": "jlpt4you-2023.12-grammar-5-4",
+        "number": 29,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "連休中どこにも出かけず、（ ）、今日は朝からどうも体がだるい。",
+        "options": [
+          "寝たことにしたせいか",
+          "寝てばかりいたせいか",
+          "寝たことにしたとすると",
+          "寝てばかりいたとすると"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}

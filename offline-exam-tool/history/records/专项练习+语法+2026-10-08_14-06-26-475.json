@@ -1,0 +1,414 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791439586475-j6hzbc",
+    "submittedAt": "2026-10-08T06:06:26.475Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": false,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "sbry-n1-2021.07-文法-5-32",
+        "sbry-n1-2013.07-文法-5-27",
+        "sbry-n1-2021.07-文法-5-26",
+        "sbry-n1-2021.07-文法-5-35",
+        "sbry-n1-2019.12-文法-5-33",
+        "sbry-n1-2019.12-文法-5-32",
+        "sbry-n1-2014.07-文法-5-34",
+        "sbry-n1-2015.07-文法-5-34",
+        "jlpt4you-2024.07-grammar-5-9",
+        "sbry-n1-2015.12-文法-5-35"
+      ],
+      "shuffleOptions": false,
+      "optionOrders": {},
+      "showFurigana": false
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 8,
+    "percentage": 80,
+    "durationSeconds": 1575,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2021.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c13",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2021.07-文法-5-32",
+        "number": 32,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "河川の清掃活動の指揮を任された山田さんは、「大変な仕事ですが、()と思っています」と語った。",
+        "options": [
+          "やってやることがない",
+          "やってもやるべきではない",
+          "やってもやれるものでもない",
+          "やってやれないことはない"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2013.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c03",
+          "grammar.q5.b01"
+        ],
+        "id": "sbry-n1-2013.07-文法-5-27",
+        "number": 27,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(ニュースで)\n北川動物園では、連日の猛暑で元気のないペンギンに、せめて気分()南極を感じてもらおうと氷の塊がプレゼントされました。",
+        "options": [
+          "のみも",
+          "だけでも",
+          "ですらも",
+          "くらいも"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2021.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c09",
+          "grammar.q5.c15"
+        ],
+        "id": "sbry-n1-2021.07-文法-5-26",
+        "number": 26,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "このカメラは、プロの写真家()、普通の人間には使いこなせないだろう。",
+        "options": [
+          "はおろか",
+          "ならまだしも",
+          "どころではなく",
+          "に比べて"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2021.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c12",
+          "grammar.q5.b03"
+        ],
+        "id": "sbry-n1-2021.07-文法-5-35",
+        "number": 35,
+        "selected": [
+          1
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(メ一ルで)\n初めてご連絡いたします。南市生涯学習課の中為と申します。当市では、来年度、生涯学習をテ一マにした講演会を企画しております。つきましては、林先生にぜひご講演をお願いしたく、()。",
+        "options": [
+          "ご連絡を承りました",
+          "ご連絡した次第です",
+          "ご連絡をくださいました",
+          "ご連絡したことです"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c12",
+          "grammar.q5.c13"
+        ],
+        "id": "sbry-n1-2019.12-文法-5-33",
+        "number": 33,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この映画は主役の演技が良くない。ほかの俳優については()、実にもったいない。",
+        "options": [
+          "文句のつけようがないのか",
+          "文句のつけようがないだけに",
+          "文句をつけずにはいられないのか",
+          "文句をつけずにはいられないだけに"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c08"
+        ],
+        "id": "sbry-n1-2019.12-文法-5-32",
+        "number": 32,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "取引先との打ち合わせで、「御社で」と()、誤って「弊社で」と言ってしまい、相手を混乱させてしまった。",
+        "options": [
+          "言うのにひきかえ",
+          "言ったことにしても",
+          "言うべきところを",
+          "言ったつもりはないのに"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2014.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b04",
+          "grammar.q5.b05"
+        ],
+        "id": "sbry-n1-2014.07-文法-5-34",
+        "number": 34,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "子供サッカー教室に、プロサッカー選手の上田幸太が参加した。上田選手が来ることは参加者には()、突然の登場にみんな驚いていた。",
+        "options": [
+          "知られつつも",
+          "知らされておらず",
+          "知らされていないと",
+          "知られたためか"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2015.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b05",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2015.07-文法-5-34",
+        "number": 34,
+        "selected": [
+          1
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(レストランで)\n妻「ねえ、森さんは30分くらい遅れるんだって。」\n夫「じゃあ、先に食べ物、()。お腹がすいててさ。」\n妻「そうだね。食べながら森さん待とう。」\n夫「うん。」",
+        "options": [
+          "頼んどけないよ",
+          "頼んじゃわないか",
+          "頼んどかないで",
+          "頼んじゃうんじゃないよね"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b04",
+          "grammar.q5.b06",
+          "grammar.q5.b05"
+        ],
+        "id": "jlpt4you-2024.07-grammar-5-9",
+        "number": 34,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "（天気予報で） 「明日は低気圧の発達に伴い、西日本を中心に風雨が（ ）。」",
+        "options": [
+          "強めつつあります",
+          "強める見込みです",
+          "強まりつつあります",
+          "強まる見込みです"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2015.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c18"
+        ],
+        "id": "sbry-n1-2015.12-文法-5-35",
+        "number": 35,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "先月、自分のミスで試合に負けてしまい、落ち込んでしばらく練習に集中できなかった。だが、()と思い、また練習を一生懸命やることにした。",
+        "options": [
+          "落ち込みもしない",
+          "落ち込むわけではない",
+          "落ち込んでいたことは否めない",
+          "落ち込んでばかりいても始まらない"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}

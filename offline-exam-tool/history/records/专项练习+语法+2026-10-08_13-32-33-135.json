@@ -1,0 +1,411 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791437553135-j022es",
+    "submittedAt": "2026-10-08T05:32:33.135Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": false,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "sbry-n1-2014.12-文法-5-31",
+        "markdown-2025.12-language-31",
+        "sbry-n1-2010.12-文法-5-33",
+        "sbry-n1-2017.12-文法-5-33",
+        "sbry-n1-2010.07-文法-5-35",
+        "sbry-n1-2014.07-文法-5-31",
+        "jlpt4you-2023.12-grammar-5-5",
+        "jlpt4you-2024.12-grammar-5-2",
+        "sbry-n1-2022.12-文法-5-32",
+        "sbry-n1-2015.12-文法-5-32"
+      ],
+      "shuffleOptions": false,
+      "optionOrders": {},
+      "showFurigana": false
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 8,
+    "percentage": 80,
+    "durationSeconds": 417,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2014.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c08"
+        ],
+        "id": "sbry-n1-2014.12-文法-5-31",
+        "number": 31,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "悪いと思うなら素直に「ごめん」と()、弟はそれができなくて、すぐ言い訳する。",
+        "options": [
+          "謝ろうとしないのだから",
+          "謝っているところに",
+          "謝ればいいものを",
+          "謝らないかぎりは"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2025.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c19"
+        ],
+        "id": "markdown-2025.12-language-31",
+        "number": 31,
+        "selected": [
+          1
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "引っ越しの予定は半年後だからまだまだ先だが、早く準備を始める(  )と思い、少しずつ片付けを進めている。",
+        "options": [
+          "勢いだ",
+          "ことは否めない",
+          "見込みだ",
+          "に越したことはない"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2010.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c09",
+          "grammar.q5.b04"
+        ],
+        "id": "sbry-n1-2010.12-文法-5-33",
+        "number": 33,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "子ども「お母さん、来週の日曜日、さくら山に行ってもいい？」\n母親「だめよ。今の季節、あの山にはハチがたくさん出るのよ。万が一、()大変でしょ。」",
+        "options": [
+          "刺されさえしたら",
+          "刺されでもしたら",
+          "刺させるなどしても",
+          "刺させるくらいしても"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2017.12-文法-5-33",
+        "number": 33,
+        "selected": [
+          3
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "今日は朝から胃の調子が悪い。夜中にラーメンなんか()。",
+        "options": [
+          "食べるんじゃなかった",
+          "食べられるんじゃなかった",
+          "食べたんじゃなかった",
+          "食べられたんじゃなかった"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2010.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c03",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2010.07-文法-5-35",
+        "number": 35,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "先日提出した私の意見書は、単に決定に至るプロセスの問題点を指摘()、決定そのものに反対するものではありません。",
+        "options": [
+          "しそうになったにすぎず",
+          "しそうになったほどで",
+          "しようとしたにすぎず",
+          "しようとしたほどで"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2014.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03",
+          "grammar.q5.b05"
+        ],
+        "id": "sbry-n1-2014.07-文法-5-31",
+        "number": 31,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "新市長に当選した上田氏は「選挙中に掲げた政策を、市長として私自らが先頭に立って実行して()。」と決意を述べた。",
+        "options": [
+          "まいります",
+          "願います",
+          "いたします",
+          "頂戴します"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03",
+          "grammar.q5.c14"
+        ],
+        "id": "jlpt4you-2023.12-grammar-5-5",
+        "number": 30,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "（会議で） 委員長「北駅周辺の再開発計画について、皆さんのご意見をお聞かせください。」 委員「私個人（ ）その必要性を感じておりますが、市民の皆さんは納得しにくいのではないかと思います。」",
+        "options": [
+          "によりますと",
+          "といいますと",
+          "におかれましては",
+          "といたしましては"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c12",
+          "grammar.q5.b01"
+        ],
+        "id": "jlpt4you-2024.12-grammar-5-2",
+        "number": 27,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "近年の健康意識の高まり（ ）健康食品は急成長している。",
+        "options": [
+          "に次いで",
+          "にわたって",
+          "を受けて",
+          "をめぐって"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2022.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c01"
+        ],
+        "id": "sbry-n1-2022.12-文法-5-32",
+        "number": 32,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "学生時代はずっとサッカーをしていたのだが、社会人に()、運動する機会がすっかり減ってしまった。",
+        "options": [
+          "なってからであっても",
+          "なったばかりなのか",
+          "なってからというもの",
+          "なったばかりだとして"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2015.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c18",
+          "grammar.q5.b04"
+        ],
+        "id": "sbry-n1-2015.12-文法-5-32",
+        "number": 32,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "彼は最近忙しいので、頼んでも、無理だと()が、一度は頼んでみようと思う。",
+        "options": [
+          "言わせる始末だ",
+          "言わせるということだ",
+          "言われるに決まっている",
+          "言われるまでになる"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}

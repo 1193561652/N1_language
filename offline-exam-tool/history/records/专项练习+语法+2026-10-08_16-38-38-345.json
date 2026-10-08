@@ -1,0 +1,413 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791448718345-y7g17k",
+    "submittedAt": "2026-10-08T08:38:38.345Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": false,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "jlpt4you-2024.12-grammar-5-6",
+        "sbry-n1-2020.12-文法-5-30",
+        "markdown-2025.07-language-28",
+        "jlpt4you-2024.12-grammar-5-9",
+        "sbry-n1-2011.07-文法-5-28",
+        "sbry-n1-2010.12-文法-5-32",
+        "jlpt4you-2023.07-grammar-5-8",
+        "sbry-n1-2016.07-文法-5-26",
+        "sbry-n1-2022.07-文法-5-30",
+        "sbry-n1-2016.12-文法-5-29"
+      ],
+      "shuffleOptions": false,
+      "optionOrders": {},
+      "showFurigana": false
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 8,
+    "percentage": 80,
+    "durationSeconds": 487,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c08",
+          "grammar.q5.b06"
+        ],
+        "id": "jlpt4you-2024.12-grammar-5-6",
+        "number": 31,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "引っ越しを控えているので、なるべく余計な出費を（ ）、友人に誘われたスキー旅行に行くことにした。",
+        "options": [
+          "押さえたら抑えたで",
+          "抑えられるものなら",
+          "抑えるには抑えずに",
+          "押さえたいところだが"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2020.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c01"
+        ],
+        "id": "sbry-n1-2020.12-文法-5-30",
+        "number": 30,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "できない理由ばかりを探して、()諦めてしまう人に、成長はない。",
+        "options": [
+          "やってもいないうちから",
+          "やることはないにしろ",
+          "やりようがないにも関わらず",
+          "やってしまってからでないと"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2025.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c10",
+          "grammar.q5.c04"
+        ],
+        "id": "markdown-2025.07-language-28",
+        "number": 28,
+        "selected": [
+          2
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "同僚の山川(やまかわ)さんは、相手が( )、おかしいと思ったことを指摘せずにはいられない性格だ。",
+        "options": [
+          "先輩やら上司やら",
+          "先輩なり上司なり",
+          "先輩というか上司というか",
+          "先輩だろうが上司だろうが"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c13",
+          "grammar.q5.b02"
+        ],
+        "id": "jlpt4you-2024.12-grammar-5-9",
+        "number": 34,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "子どもは生まれてくる家庭環境を選べない。だからこそ、親の経済状況によって、子どもの教育機会が奪われること（ ）。",
+        "options": [
+          "があるわけではない",
+          "であるわけではない",
+          "があってはならない",
+          "であってはならない"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2011.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01",
+          "grammar.q5.c04"
+        ],
+        "id": "sbry-n1-2011.07-文法-5-28",
+        "number": 28,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この鍋は、いため物に、揚げ物に()何にでも使えて便利です。",
+        "options": [
+          "は",
+          "と",
+          "や",
+          "か"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2010.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b05",
+          "grammar.q5.b04"
+        ],
+        "id": "sbry-n1-2010.12-文法-5-32",
+        "number": 32,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "地球温暖化抑制への貢献が、ここ１０年あまりの間に、優良企業の条件の一つ()ようだ。",
+        "options": [
+          "としうる",
+          "となりうる",
+          "としつつある",
+          "となりつつある"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03",
+          "grammar.q5.b01"
+        ],
+        "id": "jlpt4you-2023.07-grammar-5-8",
+        "number": 33,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "（ホームページで） 先日の第 3 回さくら市教育講演会には、たくさんの方が（ ）。",
+        "options": [
+          "おいでくださいました",
+          "お越しいただきました",
+          "ご参加いただきました",
+          "ご覧くださいました"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2016.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2016.07-文法-5-26",
+        "number": 26,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "アナウンサー「次の試合は優勝候補同士の対決です。()どちらが勝つのでしょ うか。」",
+        "options": [
+          "ついに",
+          "まさか",
+          "どうやら",
+          "果たして"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2022.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06",
+          "grammar.q5.c18"
+        ],
+        "id": "sbry-n1-2022.07-文法-5-30",
+        "number": 30,
+        "selected": [
+          3
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "健康的な生活を送るためには睡眠時間を十分にとる必要があるが、ただ長く()、そうではない。時間だけでなく睡眠の質も重要だ。",
+        "options": [
+          "眠ればいいかというと",
+          "眠ればいいというより",
+          "眠ってもいいかというと",
+          "眠ってもいいというより"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2016.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03"
+        ],
+        "id": "sbry-n1-2016.12-文法-5-29",
+        "number": 29,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "村の郷土史をまとめるにあたり、今年90歳になる元村長の東山さんにお話を伺った。村に初めて汽車が走ったときのことを鮮明に覚えて()、その記憶力に驚いた。",
+        "options": [
+          "おいでになり",
+          "差し上げ",
+          "まいり",
+          "申し上げ"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}

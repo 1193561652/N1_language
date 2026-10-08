@@ -1,0 +1,409 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791447428455-c90epe",
+    "submittedAt": "2026-10-08T08:17:08.455Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": false,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "sbry-n1-2011.12-文法-5-31",
+        "sbry-n1-2018.07-文法-5-33",
+        "sbry-n1-2010.12-文法-5-26",
+        "sbry-n1-2016.07-文法-5-28",
+        "jlpt4you-2024.07-grammar-5-4",
+        "sbry-n1-2014.07-文法-5-28",
+        "sbry-n1-2022.07-文法-5-26",
+        "sbry-n1-2022.07-文法-5-34",
+        "sbry-n1-2011.07-文法-5-27",
+        "sbry-n1-2015.07-文法-5-29"
+      ],
+      "shuffleOptions": false,
+      "optionOrders": {},
+      "showFurigana": false
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 7,
+    "percentage": 70,
+    "durationSeconds": 430,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2011.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2011.12-文法-5-31",
+        "number": 31,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "彼の論文は、構成にはまだ少し問題がある気が()、内容自体はだいぶよくなったと思う｡",
+        "options": [
+          "することはないが",
+          "しないでもないが",
+          "するよりほかないが",
+          "しないのではないが"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03",
+          "grammar.q5.b04"
+        ],
+        "id": "sbry-n1-2018.07-文法-5-33",
+        "number": 33,
+        "selected": [
+          1
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(インタビューで)\nA「新聞記者から弁護士に転職しようと思われたのはなぜですか。」\nB「事件の取材で被害者の方のお話を()、大変なご苦労があることを知り、そういう方たちの力になりたいと思うようになったんです。」",
+        "options": [
+          "聞いてくださる一方で",
+          "聞かせてくださる一方で",
+          "聞いていただく中で",
+          "聞かせていただく中で"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2010.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c01"
+        ],
+        "id": "sbry-n1-2010.12-文法-5-26",
+        "number": 26,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "山川鉄道は、３月で開業９０周年を迎えるの()最新型車両を導入し、１５日から運営運転を開始する。",
+        "options": [
+          "を限りに",
+          "を皮切りに",
+          "をよそに",
+          "を機に"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2016.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c09"
+        ],
+        "id": "sbry-n1-2016.07-文法-5-28",
+        "number": 28,
+        "selected": [
+          1
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "A公園ではバーベキューや釣りもできるので、親子で一日楽しめる。週末()、いつも朝から家族連れでいっぱいだ。",
+        "options": [
+          "につき",
+          "を機に",
+          "をもって",
+          "ともなれば"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c05"
+        ],
+        "id": "jlpt4you-2024.07-grammar-5-4",
+        "number": 29,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "6歳の息子は、将来私と同じ消防士になりたいと言っている。実際に（ ）、そんなことを言ってくれたことがうれしい。",
+        "options": [
+          "なるかどうかに限らず",
+          "なるかどうかはともかく",
+          "ならざるを得ないとしても",
+          "ならざるを得ないばかりか"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2014.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c02"
+        ],
+        "id": "sbry-n1-2014.07-文法-5-28",
+        "number": 28,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "テニスの木村健一選手は、おととしの全日本大会優勝()、競技から離れていたが、昨日、正式に引退を表明した。",
+        "options": [
+          "を最後に",
+          "を皮切りに",
+          "にあたって",
+          "に沿って"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2022.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01",
+          "grammar.q5.c17"
+        ],
+        "id": "sbry-n1-2022.07-文法-5-26",
+        "number": 26,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "このお寺は、釘などの金属類は()使わず、木材だけで建てられているそうだ。",
+        "options": [
+          "あまりに",
+          "いっさい",
+          "できれば",
+          "どうしても"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2022.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06",
+          "grammar.q5.b02"
+        ],
+        "id": "sbry-n1-2022.07-文法-5-34",
+        "number": 34,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "A「あれ、ぜいたくのぜいって、漢字でどう()?」\nB「え、私も思い出せない」",
+        "options": [
+          "書くんだよね",
+          "書くんだっけ",
+          "書けるんだよね",
+          "書けるんだっけ"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2011.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c01",
+          "grammar.q5.c20"
+        ],
+        "id": "sbry-n1-2011.07-文法-5-27",
+        "number": 27,
+        "selected": [
+          4
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "都会から田舎に移り住んだ人の話を聞く()、「田舎は人を癒す力を持っている」とつくづく感じる。",
+        "options": [
+          "につけ",
+          "なり",
+          "とは",
+          "にしてみると"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2015.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2015.07-文法-5-29",
+        "number": 29,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "調査の結果、南北川の水質汚染の原因はA社の工場にあることが明らかになったにもかかわらず、A社は決してそれを()。",
+        "options": [
+          "認めるほかはなかった",
+          "認めないでもなかった",
+          "認めようとはしなかった",
+          "認めねばならなかった"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}
