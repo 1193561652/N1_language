@@ -6,11 +6,11 @@
   "evidence": {
     "firstDate": "2026-08-28",
     "lastDate": "2026-10-09",
-    "attempts": 109,
-    "totalQuestions": 2729,
-    "answeredQuestions": 2708,
-    "recordedCorrectAnswers": 2323,
-    "adjudicatedCorrectAnswers": 2323,
+    "attempts": 115,
+    "totalQuestions": 2789,
+    "answeredQuestions": 2768,
+    "recordedCorrectAnswers": 2373,
+    "adjudicatedCorrectAnswers": 2373,
     "coverage": [
       "文字・词汇",
       "语法（历史八期及新增跨期句子语法专项）"
@@ -21,11 +21,11 @@
       "阅读与听力基线"
     ],
     "rawRecordAudit": {
-      "totalFiles": 110,
-      "uniqueRecordIds": 110,
-      "allRecordsQuestions": 2735,
-      "allRecordsAnswered": 2714,
-      "allRecordsRecordedCorrect": 2324,
+      "totalFiles": 116,
+      "uniqueRecordIds": 116,
+      "allRecordsQuestions": 2795,
+      "allRecordsAnswered": 2774,
+      "allRecordsRecordedCorrect": 2374,
       "pendingRecordId": "1787920512509-g71xbx",
       "pendingReason": "沿用历史待核查状态：8/28 20:35六题25秒全选1；未擅自认定为试用或正式测验。"
     }
@@ -66,18 +66,18 @@
       "description": "仍是最稳定题型，但本场的本場、秘める说明词义对象限制需要单独追踪。"
     },
     "sentenceGrammar": {
-      "latestCorrect": 8,
+      "latestCorrect": 9,
       "total": 10,
       "answered": 10,
-      "latestRate": 0.8,
+      "latestRate": 0.9,
       "previousFamiliarSetCorrect": 10,
       "previousFamiliarSetTotal": 10,
       "confidence": "medium-high",
-      "description": "截至10/8 23:16：下午10轮语法76/100，熟题61/69、首次ID15/31；24错2题后续恢复22题末次仍错。",
-      "batchCorrect": 76,
-      "batchTotal": 100,
-      "dayCorrect": 94,
-      "dayTotal": 120
+      "description": "10/9下午新增六轮句子语法50/60（83.3%），最新17:31为9/10。熟题44/48、首次作答6/12；六道旧错恢复，两个回退、两个同错重复，十道错题均无后续原题纠正。无新标注；上午19条标注判定与读音／外来语风险保留。",
+      "batchCorrect": 50,
+      "batchTotal": 60,
+      "dayCorrect": 50,
+      "dayTotal": 60
     },
     "sentenceOrdering": {
       "latestRecordedCorrect": 5,
@@ -148,7 +148,8 @@
       ],
       "diagnosis": "动作主体、助词和くださる/いただく视角尚未自动联动；对应教材第3部第6课。",
       "latestEvidence20261007Afternoon": "10/7下午新增三轮语法7/10、9/10、9/10，共25/30。已出现题次23/24，首次ID2/6；七个末次旧错恢复，にあっても由两次正确回退。ようにする／ようとする／ようになる、自他动词及时体、AにBにと列举需优先辨析。",
-      "latestEvidence20261008Evening": "截至10/8 23:16：下午10轮语法76/100，熟题61/69、首次ID15/31；24错2题后续恢复22题末次仍错。最新外来语22题仅答6题，5对1错，已答83.3%、完成27.3%。キャリア误选ベテラン；ピント在三次历史错误后恢复。未答16题不判不会。"
+      "latestEvidence20261008Evening": "截至10/8 23:16：下午10轮语法76/100，熟题61/69、首次ID15/31；24错2题后续恢复22题末次仍错。最新外来语22题仅答6题，5对1错，已答83.3%、完成27.3%。キャリア误选ベテラン；ピント在三次历史错误后恢复。未答16题不判不会。",
+      "latestEvidence20261009Afternoon": "10/9下午新增六轮句子语法50/60（83.3%），最新17:31为9/10。熟题44/48、首次作答6/12；六道旧错恢复，两个回退、两个同错重复，十道错题均无后续原题纠正。无新标注；上午19条标注判定与读音／外来语风险保留。"
     },
     "concessionConditionAndDegree": {
       "status": "priority-weakness",
@@ -164,7 +165,8 @@
       "diagnosis": "需要区分无条件让步、遗憾逆接、原因强调、能力/禁止和程度；对应教材第1部第8、10、12、13课。",
       "latestEvidence20261007": "10/7动词47/47、名词48/50、语法8/10。巧妙、繁殖回退；人脈、需要恢复；裁く、蓄える继续保持。语法熟题7/7、首次ID1/3；がたい／ずにすまない与ようとも／ようにも未辨清。しようとしたにすぎず恢复，困るじゃないか跨天保持。无新标注；旧错注不解除。",
       "latestEvidence20261007Afternoon": "10/7下午新增三轮语法7/10、9/10、9/10，共25/30。已出现题次23/24，首次ID2/6；七个末次旧错恢复，にあっても由两次正确回退。ようにする／ようとする／ようになる、自他动词及时体、AにBにと列举需优先辨析。",
-      "latestEvidence20261008": "最新语法10/10；6个已见ID、4个首次ID，但其中1题为本轮老店题的跨ID重复，实际约9个独立内容、3个首次内容。ものを三次连续纠正，かつ两次连续纠正；无标注，独立解释仍未验证。今日早轮两道新错未复测。"
+      "latestEvidence20261008": "最新语法10/10；6个已见ID、4个首次ID，但其中1题为本轮老店题的跨ID重复，实际约9个独立内容、3个首次内容。ものを三次连续纠正，かつ两次连续纠正；无标注，独立解释仍未验证。今日早轮两道新错未复测。",
+      "latestEvidence20261009Afternoon": "10/9下午新增六轮句子语法50/60（83.3%），最新17:31为9/10。熟题44/48、首次作答6/12；六道旧错恢复，两个回退、两个同错重复，十道错题均无后续原题纠正。无新标注；上午19条标注判定与读音／外来语风险保留。"
     },
     "aspectTimeAndSpeakerStance": {
       "status": "priority-weakness",
@@ -180,7 +182,8 @@
       "latestEvidence20261007": "10/7动词47/47、名词48/50、语法8/10。巧妙、繁殖回退；人脈、需要恢复；裁く、蓄える继续保持。语法熟题7/7、首次ID1/3；がたい／ずにすまない与ようとも／ようにも未辨清。しようとしたにすぎず恢复，困るじゃないか跨天保持。无新标注；旧错注不解除。",
       "latestEvidence20261007Afternoon": "10/7下午新增三轮语法7/10、9/10、9/10，共25/30。已出现题次23/24，首次ID2/6；七个末次旧错恢复，にあっても由两次正确回退。ようにする／ようとする／ようになる、自他动词及时体、AにBにと列举需优先辨析。",
       "latestEvidence20261008": "早轮误将どころではない选成ずにはいられない；选择上的反推，未填写理由。最新满分轮没有重测该题。",
-      "latestEvidence20261008Evening": "截至10/8 23:16：下午10轮语法76/100，熟题61/69、首次ID15/31；24错2题后续恢复22题末次仍错。最新外来语22题仅答6题，5对1错，已答83.3%、完成27.3%。キャリア误选ベテラン；ピント在三次历史错误后恢复。未答16题不判不会。"
+      "latestEvidence20261008Evening": "截至10/8 23:16：下午10轮语法76/100，熟题61/69、首次ID15/31；24错2题后续恢复22题末次仍错。最新外来语22题仅答6题，5对1错，已答83.3%、完成27.3%。キャリア误选ベテラン；ピント在三次历史错误后恢复。未答16题不判不会。",
+      "latestEvidence20261009Afternoon": "10/9下午新增六轮句子语法50/60（83.3%），最新17:31为9/10。熟题44/48、首次作答6/12；六道旧错恢复，两个回退、两个同错重复，十道错题均无后续原题纠正。无新标注；上午19条标注判定与读音／外来语风险保留。"
     },
     "modifierDependencyAndOrdering": {
       "status": "improving-needs-new-item-validation",
@@ -228,9 +231,9 @@
     "サイクル在历史回退后再次恢复，尚需间隔及独立释义验证。"
   ],
   "currentPriorities": [
-    "リード／アップ、ハードル／ブロック、ニュアンス／キャラクター、ノルマ／チーフ的中文义项和搭配",
-    "纠正キャリア→clear与マッチ→much；补cycle、weight、follow语境义",
-    "貫いた、債務、伴奏无选项读音；旧三条动词错注继续补证",
+    "敬语主体：存じ上げる／知っていただく、なさる／申す；同错重复优先",
+    "まず間違いない、真剣そのもの、をも、なにも～なくてもいい：完整搭配与接续",
+    "くせに／ものの／どころか及ておけばいい的功能辨析；六道恢复项隔天复测，上午词汇读音风险不解除",
     "完成昨晚尚余7个未答外来语题",
     "既有敬语、否定范围、时体与篇章弱项；建立阅读听力基线"
   ],
@@ -578,34 +581,33 @@
   ],
   "latestPractice": {
     "date": "2026-10-09",
-    "localTime": "10:24",
-    "recordId": "1791512671680-4pkp77",
-    "focus": "外来语语境选词",
-    "latestCorrect": 6,
+    "localTime": "17:31",
+    "recordId": "1791538291021-mg6pyn",
+    "focus": "句子语法",
+    "latestCorrect": 9,
     "latestTotal": 10,
     "answered": 10,
-    "unanswered": 0,
-    "rate": 0.6,
-    "answeredRate": 0.6,
-    "completionRate": 1,
-    "durationSeconds": 535,
-    "optionNotes": 19,
+    "rate": 0.9,
+    "durationSeconds": 229,
+    "optionNotes": 0,
     "reasonCount": 0,
     "batchRecordIds": [
-      "1791511680758-m38vc5",
-      "1791512096262-ethauh",
-      "1791512671680-4pkp77"
+      "1791533974130-9d6ytl",
+      "1791534494668-757100",
+      "1791535327080-dxeqia",
+      "1791536374249-tzgjyt",
+      "1791536722803-svvss4",
+      "1791538291021-mg6pyn"
     ],
-    "annotations": {
-      "accepted": 16,
-      "incorrect": 2,
-      "unresolved": 1,
-      "blankCorrectOptions": 6,
-      "blankDistractors": 15
-    },
-    "masteryJudgment": "10/9最新外来语6/10；19条标注16认可、2错、1待核实。ハードル昨日正确后回退，サイクル历史两错后再次恢复；キャリア昨天误选、今天错注，尚未纠正。乱序读音94/97，貫いた、債務、伴奏回退。",
-    "report": "daily/2026-10-09.md",
-    "optionAudit": "daily/2026-10-09-option-audit.md"
+    "batchCorrect": 50,
+    "batchTotal": 60,
+    "familiarAttempts": 48,
+    "familiarCorrect": 44,
+    "firstAttemptCount": 12,
+    "firstAttemptCorrect": 6,
+    "masteryJudgment": "10/9下午新增六轮句子语法50/60（83.3%），最新17:31为9/10。熟题44/48、首次作答6/12；六道旧错恢复，两个回退、两个同错重复，十道错题均无后续原题纠正。无新标注；上午19条标注判定与读音／外来语风险保留。",
+    "report": "daily/2026-10-09-1731.md",
+    "optionAudit": "daily/2026-10-09-1731-option-audit.md"
   },
   "annotationPolicy": {
     "updatedAt": "2026-09-29",
@@ -702,5 +704,36 @@
     "masteryJudgment": "截至10/8 23:16：下午10轮语法76/100，熟题61/69、首次ID15/31；24错2题后续恢复22题末次仍错。最新外来语22题仅答6题，5对1错，已答83.3%、完成27.3%。キャリア误选ベテラン；ピント在三次历史错误后恢复。未答16题不判不会。",
     "report": "daily/2026-10-08-2316.md",
     "optionAudit": "daily/2026-10-08-2316-option-audit.md"
+  },
+  "previousVocabularyPractice": {
+    "date": "2026-10-09",
+    "localTime": "10:24",
+    "recordId": "1791512671680-4pkp77",
+    "focus": "外来语语境选词",
+    "latestCorrect": 6,
+    "latestTotal": 10,
+    "answered": 10,
+    "unanswered": 0,
+    "rate": 0.6,
+    "answeredRate": 0.6,
+    "completionRate": 1,
+    "durationSeconds": 535,
+    "optionNotes": 19,
+    "reasonCount": 0,
+    "batchRecordIds": [
+      "1791511680758-m38vc5",
+      "1791512096262-ethauh",
+      "1791512671680-4pkp77"
+    ],
+    "annotations": {
+      "accepted": 16,
+      "incorrect": 2,
+      "unresolved": 1,
+      "blankCorrectOptions": 6,
+      "blankDistractors": 15
+    },
+    "masteryJudgment": "10/9最新外来语6/10；19条标注16认可、2错、1待核实。ハードル昨日正确后回退，サイクル历史两错后再次恢复；キャリア昨天误选、今天错注，尚未纠正。乱序读音94/97，貫いた、債務、伴奏回退。",
+    "report": "daily/2026-10-09.md",
+    "optionAudit": "daily/2026-10-09-option-audit.md"
   }
 }
