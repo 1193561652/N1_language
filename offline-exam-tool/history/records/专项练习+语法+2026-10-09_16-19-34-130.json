@@ -1,0 +1,409 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791533974130-9d6ytl",
+    "submittedAt": "2026-10-09T08:19:34.130Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": false,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "sbry-n1-2021.07-文法-5-34",
+        "sbry-n1-2022.07-文法-5-34",
+        "sbry-n1-2022.12-文法-5-33",
+        "sbry-n1-2016.12-文法-5-33",
+        "sbry-n1-2021.07-文法-5-28",
+        "sbry-n1-2013.12-文法-5-31",
+        "sbry-n1-2021.07-文法-5-27",
+        "sbry-n1-2014.12-文法-5-32",
+        "jlpt4you-2023.12-grammar-5-9",
+        "jlpt4you-2023.12-grammar-5-2"
+      ],
+      "shuffleOptions": false,
+      "optionOrders": {},
+      "showFurigana": false
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 9,
+    "percentage": 90,
+    "durationSeconds": 313,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2021.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c03"
+        ],
+        "id": "sbry-n1-2021.07-文法-5-34",
+        "number": 34,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "X社は経営に行き詰まっている。今回の成果主義導入も、労働意欲向上のためとはいうが、結局は人件費削減を正当化するための口実()。",
+        "options": [
+          "になどせぬ",
+          "にすぎない",
+          "でかまわぬ",
+          "でもあるまい"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2022.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06",
+          "grammar.q5.b02"
+        ],
+        "id": "sbry-n1-2022.07-文法-5-34",
+        "number": 34,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "A「あれ、ぜいたくのぜいって、漢字でどう()?」\nB「え、私も思い出せない」",
+        "options": [
+          "書くんだよね",
+          "書くんだっけ",
+          "書けるんだよね",
+          "書けるんだっけ"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2022.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c16",
+          "grammar.q5.b05"
+        ],
+        "id": "sbry-n1-2022.12-文法-5-33",
+        "number": 33,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "自転車の鍵が見当たらないと思ったら、昨日はいていたズボンのポケットに()。",
+        "options": [
+          "入れたつもり",
+          "入れっぱなしだった",
+          "入れっこなかった",
+          "入れるべきではなかった"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2016.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c18"
+        ],
+        "id": "sbry-n1-2016.12-文法-5-33",
+        "number": 33,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "仕事は、決められた時間内に、いかに成果を上げるかが大切であり、単に時間をかけて()と私は思う。",
+        "options": [
+          "がんばることだといってもおかしくない",
+          "がんばればいいというものではない",
+          "がんばることでしかない",
+          "がんばりようがない"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2021.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c02"
+        ],
+        "id": "sbry-n1-2021.07-文法-5-28",
+        "number": 28,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "新作ゲ一ム機の発売イベントは、今週末に東京で()、全国を巡回していく予定だ。",
+        "options": [
+          "開催されるのを皮切りに",
+          "開催されるや否や",
+          "開催されたとたんに",
+          "開催されて以来"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2013.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c14",
+          "grammar.q5.b04"
+        ],
+        "id": "sbry-n1-2013.12-文法-5-31",
+        "number": 31,
+        "selected": [
+          2
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "自分ではそんなに短気ではないと思っているが、友達に()、私はけっこう怒りっぽいらしい。",
+        "options": [
+          "言われれば",
+          "言われたら",
+          "言わせると",
+          "言わせて"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2021.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b02",
+          "grammar.q5.c19"
+        ],
+        "id": "sbry-n1-2021.07-文法-5-27",
+        "number": 27,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "3,000Mを超える冬山に、十分な装備もなく単独で登るのは、()極まりない行為だ。",
+        "options": [
+          "危険",
+          "危険の",
+          "危険な",
+          "危険に"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2014.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c01"
+        ],
+        "id": "sbry-n1-2014.12-文法-5-32",
+        "number": 32,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "私が小学校に()のころ、父とどこか大きな川へ釣りに行った記憶がある。",
+        "options": [
+          "入ろうが入るまいが",
+          "入るか入らないか",
+          "入っていてもいなくても",
+          "入るにしても入らないにしても"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b05"
+        ],
+        "id": "jlpt4you-2023.12-grammar-5-9",
+        "number": 34,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "今日から12月だ。早いもので、今年ももうすぐ（ ）。",
+        "options": [
+          "終わろうとする",
+          "終わろうとしている",
+          "終わるようにする",
+          "終わるようにしている"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c17"
+        ],
+        "id": "jlpt4you-2023.12-grammar-5-2",
+        "number": 27,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "経営者は、会社は社員（ ）ものであるということを忘れてはいけない。",
+        "options": [
+          "たる",
+          "における",
+          "あっての",
+          "ならではの"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}

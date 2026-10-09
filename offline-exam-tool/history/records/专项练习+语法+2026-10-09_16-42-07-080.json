@@ -1,0 +1,410 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791535327080-dxeqia",
+    "submittedAt": "2026-10-09T08:42:07.080Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": false,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "markdown-2025.07-language-31",
+        "sbry-n1-2021.07-文法-5-30",
+        "sbry-n1-2019.12-文法-5-28",
+        "sbry-n1-2012.07-文法-5-27",
+        "sbry-n1-2015.12-文法-5-30",
+        "sbry-n1-2022.07-文法-5-26",
+        "sbry-n1-2018.12-文法-5-34",
+        "jlpt4you-2023.07-grammar-5-9",
+        "sbry-n1-2018.07-文法-5-28",
+        "sbry-n1-2022.12-文法-5-32"
+      ],
+      "shuffleOptions": false,
+      "optionOrders": {},
+      "showFurigana": false
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 6,
+    "percentage": 60,
+    "durationSeconds": 751,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2025.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c08",
+          "grammar.q5.c13"
+        ],
+        "id": "markdown-2025.07-language-31",
+        "number": 31,
+        "selected": [
+          2
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "昨日、ジョギング中に足首を痛めてしまった。ちょっとひねっただけなので、病院で( )、今朝もまだ少し痛む。",
+        "options": [
+          "診てもらうほどではないものの",
+          "診てもらうほどではないどころか",
+          "診てもらわなくてはならないものの",
+          "診てもらわなくてはならないどころか"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2021.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c12",
+          "grammar.q5.b05"
+        ],
+        "id": "sbry-n1-2021.07-文法-5-30",
+        "number": 30,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "「口は災いのもと」というのは、余計なことをつい()、自らに災いが降りかかるという意味です。",
+        "options": [
+          "言ってみたばかり",
+          "言ってみたとおり",
+          "言ってしまったばかりに",
+          "言ってしまったとおりに"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c01"
+        ],
+        "id": "sbry-n1-2019.12-文法-5-28",
+        "number": 28,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "半年後に大学受験()、アイドルの西田アキは現在活動を休止している。",
+        "options": [
+          "を基にして",
+          "を控えて",
+          "をもって",
+          "をめぐって"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2012.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c09"
+        ],
+        "id": "sbry-n1-2012.07-文法-5-27",
+        "number": 27,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "昔から「毒も()薬になる」と言われている。",
+        "options": [
+          "使うとなると",
+          "使おうものなら",
+          "使わんばかりに",
+          "使いようによっては"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2015.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03"
+        ],
+        "id": "sbry-n1-2015.12-文法-5-30",
+        "number": 30,
+        "selected": [
+          1
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(パーティーで)\n石川「あ、山下さんはX社にお勤めなんですね。今度、田中さんが社長になるそうで。」\n山下「え、石川さん、田中とお知り合いなんですか。」\n石川「ええ、前に仕事で大変お世話になったことがあって、よく()よ。」",
+        "options": [
+          "知っていただけます",
+          "存じ上げています",
+          "お目にかかれます",
+          "お会いになっています"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2022.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01",
+          "grammar.q5.c17"
+        ],
+        "id": "sbry-n1-2022.07-文法-5-26",
+        "number": 26,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "このお寺は、釘などの金属類は()使わず、木材だけで建てられているそうだ。",
+        "options": [
+          "あまりに",
+          "いっさい",
+          "できれば",
+          "どうしても"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b05",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2018.12-文法-5-34",
+        "number": 34,
+        "selected": [
+          2
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "A「昨日、取引先の人と食事したんだけど、プライベートなことまでいろいろ聞かれて困っちゃった。」\nB「そんなのは、いちいち本当のことを言わずに適当に()。」",
+        "options": [
+          "答えてくれそうだよ",
+          "答えられたせいだよ",
+          "答えただけのことだよ",
+          "答えておけばいいんだよ"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06",
+          "grammar.q5.b05"
+        ],
+        "id": "jlpt4you-2023.07-grammar-5-9",
+        "number": 34,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この辺りの町並みは外国のような雰囲気で、ここを訪れるだけで海外を旅行（ ）。",
+        "options": [
+          "するつもりでいる",
+          "してくるつもりだ",
+          "したつもりになれる",
+          "するつもりになっていた"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01"
+        ],
+        "id": "sbry-n1-2018.07-文法-5-28",
+        "number": 28,
+        "selected": [
+          1
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "A「遅れてごめん」\nB「遅いよ！10分も遅刻するなんて、何考えてるの？」\nA「少し遅れたぐらいで()そんなに怒らなくてもいいだろう.」",
+        "options": [
+          "まるで",
+          "ちっとも",
+          "なにも",
+          "いっさい"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2022.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c01"
+        ],
+        "id": "sbry-n1-2022.12-文法-5-32",
+        "number": 32,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "学生時代はずっとサッカーをしていたのだが、社会人に()、運動する機会がすっかり減ってしまった。",
+        "options": [
+          "なってからであっても",
+          "なったばかりなのか",
+          "なってからというもの",
+          "なったばかりだとして"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}

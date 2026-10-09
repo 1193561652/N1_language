@@ -1,0 +1,434 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791512671680-4pkp77",
+    "submittedAt": "2026-10-09T02:24:31.680Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": false,
+    "practice": {
+      "filters": {
+        "subject": "文字・词汇",
+        "problem": "2",
+        "tags": [
+          "language.q2.katakana"
+        ]
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "markdown-2025.07-language-11",
+        "sbry-n1-2011.12-文字・語彙-2-13",
+        "markdown-2025.12-language-8",
+        "sbry-n1-2012.12-文字・語彙-2-12",
+        "sbry-n1-2014.07-文字・語彙-2-11",
+        "sbry-n1-2012.07-文字・語彙-2-7",
+        "sbry-n1-2010.07-文字・語彙-2-8",
+        "sbry-n1-2011.12-文字・語彙-2-10",
+        "sbry-n1-2014.12-文字・語彙-2-10",
+        "sbry-n1-2022.07-文字・語彙-2-8"
+      ],
+      "shuffleOptions": false,
+      "optionOrders": {},
+      "showFurigana": false
+    },
+    "year": "专项练习",
+    "category": "文字・词汇",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 6,
+    "percentage": 60,
+    "durationSeconds": 535,
+    "reasonCount": 0,
+    "optionReasonCount": 19,
+    "details": [
+      {
+        "sourceYear": "2025.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.katakana"
+        ],
+        "id": "markdown-2025.07-language-11",
+        "number": 11,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "原田(はらだ)さんは育児で何年も(  )があったが、資格を取得し、再就職が決まったそうだ。",
+        "options": [
+          "ブランク",
+          "オフ",
+          "フリー",
+          "ブレイク"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2011.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.katakana"
+        ],
+        "id": "sbry-n1-2011.12-文字・語彙-2-13",
+        "number": 13,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {
+          "main:1": "keep",
+          "main:2": "charg",
+          "main:4": "share"
+        },
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "コピー用紙の()が減ったら、注文しておいてください。",
+        "options": [
+          "キープ",
+          "チャージ",
+          "ストック",
+          "シェア"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2025.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.katakana"
+        ],
+        "id": "markdown-2025.12-language-8",
+        "number": 8,
+        "selected": [
+          2
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {
+          "main:2": "up"
+        },
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "試合の前半はAチームが1点(  )していたが、後半に2点取られて逆転された。",
+        "options": [
+          "プラス",
+          "アップ",
+          "リード",
+          "キャッチ"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2012.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.katakana"
+        ],
+        "id": "sbry-n1-2012.12-文字・語彙-2-12",
+        "number": 12,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "仕事の分担を決める前に、必要な作業をすべて()した。",
+        "options": [
+          "リストアップ",
+          "エントリー",
+          "ストック",
+          "コーディネート"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2014.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.katakana"
+        ],
+        "id": "sbry-n1-2014.07-文字・語彙-2-11",
+        "number": 11,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {
+          "main:2": "top",
+          "main:3": "power",
+          "main:4": "main",
+          "main:1": "weight"
+        },
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "弊社の採用試験では、筆記試験よりも面接に()を置いています。",
+        "options": [
+          "ウェイト",
+          "トップ",
+          "パワー",
+          "メイン"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2012.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.katakana"
+        ],
+        "id": "sbry-n1-2012.07-文字・語彙-2-7",
+        "number": 7,
+        "selected": [
+          2
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {
+          "main:1": "limit",
+          "main:3": "norma",
+          "main:4": "hardle"
+        },
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この本は内容が難しすぎて、初心者には()が高いと思う。",
+        "options": [
+          "リミット",
+          "ブロック",
+          "ノルマ",
+          "ハードル"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2010.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.katakana"
+        ],
+        "id": "sbry-n1-2010.07-文字・語彙-2-8",
+        "number": 8,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {
+          "main:1": "keep",
+          "main:2": "follow",
+          "main:3": "much",
+          "main:4": "up"
+        },
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "会議で質問に答えられなくて困っていたら、課長が()してくれた。",
+        "options": [
+          "キープ",
+          "フォロー",
+          "マッチ",
+          "アップ"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2011.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.katakana"
+        ],
+        "id": "sbry-n1-2011.12-文字・語彙-2-10",
+        "number": 10,
+        "selected": [
+          2
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {
+          "main:1": "sense"
+        },
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この言葉には、やや批判的な()が含まれている。",
+        "options": [
+          "センス",
+          "キャラクター",
+          "ニュアンス",
+          "インスピレーション"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2014.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.katakana"
+        ],
+        "id": "sbry-n1-2014.12-文字・語彙-2-10",
+        "number": 10,
+        "selected": [
+          3
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {
+          "main:1": "clear",
+          "main:4": "cost"
+        },
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この会社の営業部では、社員一人一人に毎週厳しい()が課されている。",
+        "options": [
+          "キャリア",
+          "ノルマ",
+          "チーフ",
+          "コスト"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2022.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.katakana"
+        ],
+        "id": "sbry-n1-2022.07-文字・語彙-2-8",
+        "number": 8,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {
+          "main:2": "cyc"
+        },
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "予習、授業、復習という()を繰り返すことで、知識の定着を図る",
+        "options": [
+          "ピッチ",
+          "サイクル",
+          "シフト",
+          "ペース"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}
