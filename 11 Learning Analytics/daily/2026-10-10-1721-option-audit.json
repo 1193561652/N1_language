@@ -1,0 +1,809 @@
+{
+  "recordIds": [
+    "1791624098141-1pvk9r"
+  ],
+  "correct": 7,
+  "total": 10,
+  "optionNotes": 0,
+  "reasonCount": 0,
+  "annotationAccuracy": null,
+  "blankCorrectOptions": 10,
+  "blankDistractors": 30,
+  "priorities": {
+    "优先补": 12,
+    "抽查主动提取；可不重复标": 7,
+    "复用或抽查已有证据": 18,
+    "建议辨析一次": 3
+  },
+  "questions": [
+    {
+      "questionId": "sbry-n1-2012.12-文法-5-33",
+      "text": "(会議で)\n部長「この方針について意見のある人はいますか。あ、田村さん、どうぞ。」\n田村「はい。そのような対応は確かに必要だとは思います。しかし、私たち営業の立場()、現在の状況でそこまでやるのは厳しいです。」",
+      "selected": "から言わせてやれば",
+      "expected": "から言わせてもらえば",
+      "correct": false,
+      "status": "首次错误",
+      "history": []
+    },
+    {
+      "questionId": "sbry-n1-2015.07-文法-5-28",
+      "text": "(女優に対するインタビューで)\nA「女優になろうと思われたきっかけは何だったんですか。」\nB「高校生のときに初めて見たお芝居に感動して、女優になろうと決めたんです。あのときあのお芝居を()、女優になることはなかったと思います。」",
+      "selected": "見たとしたら",
+      "expected": "見ていなければ",
+      "correct": false,
+      "status": "正确后回退",
+      "history": [
+        {
+          "recordId": "1791265534269-s8pju4",
+          "date": "2026-10-06T05:45:34.269Z",
+          "correct": true
+        },
+        {
+          "recordId": "1791268617278-z185br",
+          "date": "2026-10-06T06:36:57.278Z",
+          "correct": true
+        },
+        {
+          "recordId": "1791280147833-5sh63j",
+          "date": "2026-10-06T09:49:07.833Z",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2022.07-文法-5-28",
+      "text": "ふるさとの美しい海を見る()、この美しい海がいつまでもこのままであってほしいと思う。",
+      "selected": "につけ",
+      "expected": "につけ",
+      "correct": true,
+      "status": "保持正确",
+      "history": [
+        {
+          "recordId": "1788784062659-cao081",
+          "date": "2026-09-07T12:27:42.659Z",
+          "correct": true
+        },
+        {
+          "recordId": "1789306564853-6ut794",
+          "date": "2026-09-13T13:36:04.853Z",
+          "correct": true
+        },
+        {
+          "recordId": "1791437042655-k0iny5",
+          "date": "2026-10-08T05:24:02.655Z",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "questionId": "jlpt4you-2024.12-grammar-5-6",
+      "text": "引っ越しを控えているので、なるべく余計な出費を（ ）、友人に誘われたスキー旅行に行くことにした。",
+      "selected": "押さえたいところだが",
+      "expected": "押さえたいところだが",
+      "correct": true,
+      "status": "保持正确",
+      "history": [
+        {
+          "recordId": "1788010021857-excm5q",
+          "date": "2026-08-29T13:27:01.856Z",
+          "correct": false
+        },
+        {
+          "recordId": "1788102598475-z6kr4l",
+          "date": "2026-08-30T15:09:58.475Z",
+          "correct": true
+        },
+        {
+          "recordId": "1788613416895-h77r25",
+          "date": "2026-09-05T13:03:36.895Z",
+          "correct": true
+        },
+        {
+          "recordId": "1789394764951-zrpp7r",
+          "date": "2026-09-14T14:06:04.951Z",
+          "correct": true
+        },
+        {
+          "recordId": "1791187543359-uhhd47",
+          "date": "2026-10-05T08:05:43.359Z",
+          "correct": true
+        },
+        {
+          "recordId": "1791448718345-y7g17k",
+          "date": "2026-10-08T08:38:38.345Z",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2021.07-文法-5-31",
+      "text": "歯医者「歯を磨くときに、汚れを()、強い力で磨いてしまいがちですが、力を入れすぎると、歯を傷つけてしまいます。優しく磨きましょう。」",
+      "selected": "落とそうとするあまり",
+      "expected": "落とそうとするあまり",
+      "correct": true,
+      "status": "保持正确",
+      "history": [
+        {
+          "recordId": "1788955481796-nytkiw",
+          "date": "2026-09-09T12:04:41.796Z",
+          "correct": true
+        },
+        {
+          "recordId": "1789308592515-07m4v4",
+          "date": "2026-09-13T14:09:52.515Z",
+          "correct": true
+        },
+        {
+          "recordId": "1791268617278-z185br",
+          "date": "2026-10-06T06:36:57.278Z",
+          "correct": true
+        },
+        {
+          "recordId": "1791449607471-vnv847",
+          "date": "2026-10-08T08:53:27.471Z",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2010.07-文法-5-27",
+      "text": "部屋の広さも考えず、店員に勧められる()、大きいテーブルを買ってしまった。",
+      "selected": "まま",
+      "expected": "まま",
+      "correct": true,
+      "status": "首次正确",
+      "history": []
+    },
+    {
+      "questionId": "sbry-n1-2012.12-文法-5-31",
+      "text": "親が子供を注意するのは、子供のため()のことなのだが、その気持ちはなかなか伝わらない。",
+      "selected": "に思っても",
+      "expected": "を思って",
+      "correct": false,
+      "status": "首次错误",
+      "history": []
+    },
+    {
+      "questionId": "sbry-n1-2012.07-文法-5-33",
+      "text": "他人の口座から不正に現金を()、３５歳の男が逮捕された。",
+      "selected": "引き出そうとしたとして",
+      "expected": "引き出そうとしたとして",
+      "correct": true,
+      "status": "保持正确",
+      "history": [
+        {
+          "recordId": "1791437042655-k0iny5",
+          "date": "2026-10-08T05:24:02.655Z",
+          "correct": false
+        },
+        {
+          "recordId": "1791441772158-q3xpqk",
+          "date": "2026-10-08T06:42:52.158Z",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2014.07-文法-5-28",
+      "text": "テニスの木村健一選手は、おととしの全日本大会優勝()、競技から離れていたが、昨日、正式に引退を表明した。",
+      "selected": "を最後に",
+      "expected": "を最後に",
+      "correct": true,
+      "status": "保持正确",
+      "history": [
+        {
+          "recordId": "1791187543359-uhhd47",
+          "date": "2026-10-05T08:05:43.359Z",
+          "correct": false
+        },
+        {
+          "recordId": "1791198895676-a6drzx",
+          "date": "2026-10-05T11:14:55.676Z",
+          "correct": true
+        },
+        {
+          "recordId": "1791447428455-c90epe",
+          "date": "2026-10-08T08:17:08.455Z",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2015.07-文法-5-33",
+      "text": "初めて自分でみそを作った。実際に作ってみて、時間はかかるが、意外と簡単に()と思った。",
+      "selected": "作れるものだ",
+      "expected": "作れるものだ",
+      "correct": true,
+      "status": "保持正确",
+      "history": [
+        {
+          "recordId": "1791187543359-uhhd47",
+          "date": "2026-10-05T08:05:43.359Z",
+          "correct": true
+        },
+        {
+          "recordId": "1791443656622-lfzf8p",
+          "date": "2026-10-08T07:14:16.622Z",
+          "correct": true
+        }
+      ]
+    }
+  ],
+  "rows": [
+    {
+      "recordId": "1791624098141-1pvk9r",
+      "questionId": "sbry-n1-2012.12-文法-5-33",
+      "question": 1,
+      "option": 1,
+      "optionText": "に言わせていれば",
+      "expected": false,
+      "selected": false,
+      "note": "",
+      "historicalAnnotations": [],
+      "priority": "优先补",
+      "canonical": "に标动作主体；いれば是持续状态条件，无法接立場表达发言立场。",
+      "explanation": "主答案与干扰项分别解释；无作答理由，错误机制仅为反推。"
+    },
+    {
+      "recordId": "1791624098141-1pvk9r",
+      "questionId": "sbry-n1-2012.12-文法-5-33",
+      "question": 1,
+      "option": 2,
+      "optionText": "から言わせてやれば",
+      "expected": false,
+      "selected": true,
+      "note": "",
+      "historicalAnnotations": [],
+      "priority": "优先补",
+      "canonical": "てやる：我方让别人说；本句是请允许我方说，授受方向相反。",
+      "explanation": "本轮实际误选或正确项提取失败；补最小对比。"
+    },
+    {
+      "recordId": "1791624098141-1pvk9r",
+      "questionId": "sbry-n1-2012.12-文法-5-33",
+      "question": 1,
+      "option": 3,
+      "optionText": "に言わせてあげれば",
+      "expected": false,
+      "selected": false,
+      "note": "",
+      "historicalAnnotations": [],
+      "priority": "优先补",
+      "canonical": "てあげる：我方让别人说；立場に也不构成本句所需的立场表达。",
+      "explanation": "主答案与干扰项分别解释；无作答理由，错误机制仅为反推。"
+    },
+    {
+      "recordId": "1791624098141-1pvk9r",
+      "questionId": "sbry-n1-2012.12-文法-5-33",
+      "question": 1,
+      "option": 4,
+      "optionText": "から言わせてもらえば",
+      "expected": true,
+      "selected": false,
+      "note": "",
+      "historicalAnnotations": [],
+      "priority": "优先补",
+      "canonical": "立場から＋言わせてもらえば：请容我从营业部门的立场说。实际发言人是田村。",
+      "explanation": "本轮实际误选或正确项提取失败；补最小对比。"
+    },
+    {
+      "recordId": "1791624098141-1pvk9r",
+      "questionId": "sbry-n1-2015.07-文法-5-28",
+      "question": 2,
+      "option": 1,
+      "optionText": "見たとしたら",
+      "expected": false,
+      "selected": true,
+      "note": "",
+      "historicalAnnotations": [],
+      "priority": "优先补",
+      "canonical": "假如看了：假设方向与已经看过并因此成为演员的事实不符。",
+      "explanation": "本轮实际误选或正确项提取失败；补最小对比。"
+    },
+    {
+      "recordId": "1791624098141-1pvk9r",
+      "questionId": "sbry-n1-2015.07-文法-5-28",
+      "question": 2,
+      "option": 2,
+      "optionText": "見ようが",
+      "expected": false,
+      "selected": false,
+      "note": "",
+      "historicalAnnotations": [],
+      "priority": "优先补",
+      "canonical": "即使看／无论看与否的让步形式；这里要反事实条件。",
+      "explanation": "主答案与干扰项分别解释；无作答理由，错误机制仅为反推。"
+    },
+    {
+      "recordId": "1791624098141-1pvk9r",
+      "questionId": "sbry-n1-2015.07-文法-5-28",
+      "question": 2,
+      "option": 3,
+      "optionText": "見なかったにしろ",
+      "expected": false,
+      "selected": false,
+      "note": "",
+      "historicalAnnotations": [],
+      "priority": "优先补",
+      "canonical": "即使没看：让步，不能表达未看就不会成为演员的依赖关系。",
+      "explanation": "主答案与干扰项分别解释；无作答理由，错误机制仅为反推。"
+    },
+    {
+      "recordId": "1791624098141-1pvk9r",
+      "questionId": "sbry-n1-2015.07-文法-5-28",
+      "question": 2,
+      "option": 4,
+      "optionText": "見ていなければ",
+      "expected": true,
+      "selected": false,
+      "note": "",
+      "historicalAnnotations": [],
+      "priority": "优先补",
+      "canonical": "要是当时没看过，就不会成为演员；见过→当演员，反事实没见→没当。",
+      "explanation": "本轮实际误选或正确项提取失败；补最小对比。"
+    },
+    {
+      "recordId": "1791624098141-1pvk9r",
+      "questionId": "sbry-n1-2022.07-文法-5-28",
+      "question": 3,
+      "option": 1,
+      "optionText": "につけ",
+      "expected": true,
+      "selected": true,
+      "note": "",
+      "historicalAnnotations": [],
+      "priority": "抽查主动提取；可不重复标",
+      "canonical": "每当看到家乡的海，就产生后面的愿望。",
+      "explanation": "主答案与干扰项分别解释；无作答理由，错误机制仅为反推。"
+    },
+    {
+      "recordId": "1791624098141-1pvk9r",
+      "questionId": "sbry-n1-2022.07-文法-5-28",
+      "question": 3,
+      "option": 2,
+      "optionText": "にせよ",
+      "expected": false,
+      "selected": false,
+      "note": "",
+      "historicalAnnotations": [],
+      "priority": "复用或抽查已有证据",
+      "canonical": "即使／无论：让步；这里没有逆预期关系。",
+      "explanation": "主答案与干扰项分别解释；无作答理由，错误机制仅为反推。"
+    },
+    {
+      "recordId": "1791624098141-1pvk9r",
+      "questionId": "sbry-n1-2022.07-文法-5-28",
+      "question": 3,
+      "option": 3,
+      "optionText": "とはいえ",
+      "expected": false,
+      "selected": false,
+      "note": "",
+      "historicalAnnotations": [],
+      "priority": "复用或抽查已有证据",
+      "canonical": "虽说如此：承认前项后转折；本句不是转折。",
+      "explanation": "主答案与干扰项分别解释；无作答理由，错误机制仅为反推。"
+    },
+    {
+      "recordId": "1791624098141-1pvk9r",
+      "questionId": "sbry-n1-2022.07-文法-5-28",
+      "question": 3,
+      "option": 4,
+      "optionText": "というのは",
+      "expected": false,
+      "selected": false,
+      "note": "",
+      "historicalAnnotations": [],
+      "priority": "复用或抽查已有证据",
+      "canonical": "所谓／之所以：说明主题或理由，不表示每逢触发感想。",
+      "explanation": "主答案与干扰项分别解释；无作答理由，错误机制仅为反推。"
+    },
+    {
+      "recordId": "1791624098141-1pvk9r",
+      "questionId": "jlpt4you-2024.12-grammar-5-6",
+      "question": 4,
+      "option": 1,
+      "optionText": "押さえたら抑えたで",
+      "expected": false,
+      "selected": false,
+      "note": "",
+      "historicalAnnotations": [],
+      "priority": "复用或抽查已有证据",
+      "canonical": "即使抑制了，也有抑制后的问题；本句讲想节省却去旅行。",
+      "explanation": "主答案与干扰项分别解释；无作答理由，错误机制仅为反推。"
+    },
+    {
+      "recordId": "1791624098141-1pvk9r",
+      "questionId": "jlpt4you-2024.12-grammar-5-6",
+      "question": 4,
+      "option": 2,
+      "optionText": "抑えられるものなら",
+      "expected": false,
+      "selected": false,
+      "note": "",
+      "historicalAnnotations": [
+        {
+          "recordId": "1788102598475-z6kr4l",
+          "note": "如果能压抑的话"
+        }
+      ],
+      "priority": "复用或抽查已有证据",
+      "canonical": "要是能控制的话：通常接愿望或条件结果。",
+      "explanation": "主答案与干扰项分别解释；无作答理由，错误机制仅为反推。"
+    },
+    {
+      "recordId": "1791624098141-1pvk9r",
+      "questionId": "jlpt4you-2024.12-grammar-5-6",
+      "question": 4,
+      "option": 3,
+      "optionText": "抑えるには抑えずに",
+      "expected": false,
+      "selected": false,
+      "note": "",
+      "historicalAnnotations": [
+        {
+          "recordId": "1788102598475-z6kr4l",
+          "note": "压抑压不住"
+        }
+      ],
+      "priority": "复用或抽查已有证据",
+      "canonical": "には与ずに的拼接不构成这里所需的让步结构。",
+      "explanation": "主答案与干扰项分别解释；无作答理由，错误机制仅为反推。"
+    },
+    {
+      "recordId": "1791624098141-1pvk9r",
+      "questionId": "jlpt4you-2024.12-grammar-5-6",
+      "question": 4,
+      "option": 4,
+      "optionText": "押さえたいところだが",
+      "expected": true,
+      "selected": true,
+      "note": "",
+      "historicalAnnotations": [
+        {
+          "recordId": "1788102598475-z6kr4l",
+          "note": "虽说想抑制，可是。最后的ga是转折，和后面的去了旅行构成转折关系。"
+        }
+      ],
+      "priority": "抽查主动提取；可不重复标",
+      "canonical": "本来想控制开支，不过还是决定参加旅行。记录中押さえ／抑え混写，保留原文，不作为考点。",
+      "explanation": "主答案与干扰项分别解释；无作答理由，错误机制仅为反推。"
+    },
+    {
+      "recordId": "1791624098141-1pvk9r",
+      "questionId": "sbry-n1-2021.07-文法-5-31",
+      "question": 5,
+      "option": 1,
+      "optionText": "落とそうとするあまり",
+      "expected": true,
+      "selected": true,
+      "note": "",
+      "historicalAnnotations": [],
+      "priority": "抽查主动提取；可不重复标",
+      "canonical": "因为过于想去除污垢，导致刷牙力气过大。",
+      "explanation": "主答案与干扰项分别解释；无作答理由，错误机制仅为反推。"
+    },
+    {
+      "recordId": "1791624098141-1pvk9r",
+      "questionId": "sbry-n1-2021.07-文法-5-31",
+      "question": 5,
+      "option": 2,
+      "optionText": "落とそうとしたわりに",
+      "expected": false,
+      "selected": false,
+      "note": "",
+      "historicalAnnotations": [],
+      "priority": "复用或抽查已有证据",
+      "canonical": "虽然试图去除，但与预期相比……；题干表达过度愿望造成结果。",
+      "explanation": "主答案与干扰项分别解释；无作答理由，错误机制仅为反推。"
+    },
+    {
+      "recordId": "1791624098141-1pvk9r",
+      "questionId": "sbry-n1-2021.07-文法-5-31",
+      "question": 5,
+      "option": 3,
+      "optionText": "落とせばいいのであれば",
+      "expected": false,
+      "selected": false,
+      "note": "",
+      "historicalAnnotations": [],
+      "priority": "复用或抽查已有证据",
+      "canonical": "如果只要去除就行：条件，不是过度行为的原因。",
+      "explanation": "主答案与干扰项分别解释；无作答理由，错误机制仅为反推。"
+    },
+    {
+      "recordId": "1791624098141-1pvk9r",
+      "questionId": "sbry-n1-2021.07-文法-5-31",
+      "question": 5,
+      "option": 4,
+      "optionText": "落とせばいいかというと",
+      "expected": false,
+      "selected": false,
+      "note": "",
+      "historicalAnnotations": [],
+      "priority": "复用或抽查已有证据",
+      "canonical": "若问只需去除就行吗：通常接否定或保留回答。",
+      "explanation": "主答案与干扰项分别解释；无作答理由，错误机制仅为反推。"
+    },
+    {
+      "recordId": "1791624098141-1pvk9r",
+      "questionId": "sbry-n1-2010.07-文法-5-27",
+      "question": 6,
+      "option": 1,
+      "optionText": "まま",
+      "expected": true,
+      "selected": true,
+      "note": "",
+      "historicalAnnotations": [],
+      "priority": "抽查主动提取；可不重复标",
+      "canonical": "勧められるまま：任由店员推荐，照着建议购买。",
+      "explanation": "主答案与干扰项分别解释；无作答理由，错误机制仅为反推。"
+    },
+    {
+      "recordId": "1791624098141-1pvk9r",
+      "questionId": "sbry-n1-2010.07-文法-5-27",
+      "question": 6,
+      "option": 2,
+      "optionText": "ままを",
+      "expected": false,
+      "selected": false,
+      "note": "",
+      "historicalAnnotations": [],
+      "priority": "建议辨析一次",
+      "canonical": "まま后加を不能连接此处买桌子的方式。",
+      "explanation": "主答案与干扰项分别解释；无作答理由，错误机制仅为反推。"
+    },
+    {
+      "recordId": "1791624098141-1pvk9r",
+      "questionId": "sbry-n1-2010.07-文法-5-27",
+      "question": 6,
+      "option": 3,
+      "optionText": "ままでも",
+      "expected": false,
+      "selected": false,
+      "note": "",
+      "historicalAnnotations": [],
+      "priority": "建议辨析一次",
+      "canonical": "ままでも：即使保持那样；本句是顺从推荐。",
+      "explanation": "主答案与干扰项分别解释；无作答理由，错误机制仅为反推。"
+    },
+    {
+      "recordId": "1791624098141-1pvk9r",
+      "questionId": "sbry-n1-2010.07-文法-5-27",
+      "question": 6,
+      "option": 4,
+      "optionText": "ままなのに",
+      "expected": false,
+      "selected": false,
+      "note": "",
+      "historicalAnnotations": [],
+      "priority": "建议辨析一次",
+      "canonical": "ままなのに：尽管保持那样；不合此处行为关系。",
+      "explanation": "主答案与干扰项分别解释；无作答理由，错误机制仅为反推。"
+    },
+    {
+      "recordId": "1791624098141-1pvk9r",
+      "questionId": "sbry-n1-2012.12-文法-5-31",
+      "question": 7,
+      "option": 1,
+      "optionText": "に思って",
+      "expected": false,
+      "selected": false,
+      "note": "",
+      "historicalAnnotations": [],
+      "priority": "优先补",
+      "canonical": "不是子供のために＋思って；这里思う的对象为子供のため。",
+      "explanation": "主答案与干扰项分别解释；无作答理由，错误机制仅为反推。"
+    },
+    {
+      "recordId": "1791624098141-1pvk9r",
+      "questionId": "sbry-n1-2012.12-文法-5-31",
+      "question": 7,
+      "option": 2,
+      "optionText": "を思って",
+      "expected": true,
+      "selected": false,
+      "note": "",
+      "historicalAnnotations": [],
+      "priority": "优先补",
+      "canonical": "子供のためを思ってのこと：出于为孩子着想。を标思う对象，ての修饰こと。",
+      "explanation": "本轮实际误选或正确项提取失败；补最小对比。"
+    },
+    {
+      "recordId": "1791624098141-1pvk9r",
+      "questionId": "sbry-n1-2012.12-文法-5-31",
+      "question": 7,
+      "option": 3,
+      "optionText": "に思っても",
+      "expected": false,
+      "selected": true,
+      "note": "",
+      "historicalAnnotations": [],
+      "priority": "优先补",
+      "canonical": "に格错配；ても后不能这样直接接のこと。",
+      "explanation": "本轮实际误选或正确项提取失败；补最小对比。"
+    },
+    {
+      "recordId": "1791624098141-1pvk9r",
+      "questionId": "sbry-n1-2012.12-文法-5-31",
+      "question": 7,
+      "option": 4,
+      "optionText": "を思っても",
+      "expected": false,
+      "selected": false,
+      "note": "",
+      "historicalAnnotations": [],
+      "priority": "优先补",
+      "canonical": "即使考虑孩子利益：虽保留を格，ても仍不接这里的のこと。",
+      "explanation": "主答案与干扰项分别解释；无作答理由，错误机制仅为反推。"
+    },
+    {
+      "recordId": "1791624098141-1pvk9r",
+      "questionId": "sbry-n1-2012.07-文法-5-33",
+      "question": 8,
+      "option": 1,
+      "optionText": "引き出したとするとして",
+      "expected": false,
+      "selected": false,
+      "note": "",
+      "historicalAnnotations": [],
+      "priority": "复用或抽查已有证据",
+      "canonical": "把已经取出钱当假设再加として，不能表达涉嫌试图取钱而被捕。",
+      "explanation": "主答案与干扰项分别解释；无作答理由，错误机制仅为反推。"
+    },
+    {
+      "recordId": "1791624098141-1pvk9r",
+      "questionId": "sbry-n1-2012.07-文法-5-33",
+      "question": 8,
+      "option": 2,
+      "optionText": "引き出したとするのに対して",
+      "expected": false,
+      "selected": false,
+      "note": "",
+      "historicalAnnotations": [],
+      "priority": "复用或抽查已有证据",
+      "canonical": "のに対して是对照，不是本句逮捕依据。",
+      "explanation": "主答案与干扰项分别解释；无作答理由，错误机制仅为反推。"
+    },
+    {
+      "recordId": "1791624098141-1pvk9r",
+      "questionId": "sbry-n1-2012.07-文法-5-33",
+      "question": 8,
+      "option": 3,
+      "optionText": "引き出そうとしたとして",
+      "expected": true,
+      "selected": true,
+      "note": "",
+      "historicalAnnotations": [],
+      "priority": "抽查主动提取；可不重复标",
+      "canonical": "引き出そうとした：试图取钱；として：以涉嫌该行为为由。",
+      "explanation": "主答案与干扰项分别解释；无作答理由，错误机制仅为反推。"
+    },
+    {
+      "recordId": "1791624098141-1pvk9r",
+      "questionId": "sbry-n1-2012.07-文法-5-33",
+      "question": 8,
+      "option": 4,
+      "optionText": "引き出そうとしたのに対して",
+      "expected": false,
+      "selected": false,
+      "note": "",
+      "historicalAnnotations": [],
+      "priority": "复用或抽查已有证据",
+      "canonical": "前半试图取钱成立，但のに対して对照不合后句被捕。",
+      "explanation": "主答案与干扰项分别解释；无作答理由，错误机制仅为反推。"
+    },
+    {
+      "recordId": "1791624098141-1pvk9r",
+      "questionId": "sbry-n1-2014.07-文法-5-28",
+      "question": 9,
+      "option": 1,
+      "optionText": "を最後に",
+      "expected": true,
+      "selected": true,
+      "note": "",
+      "historicalAnnotations": [],
+      "priority": "抽查主动提取；可不重复标",
+      "canonical": "以那次夺冠为最后一次，此后离开赛场。",
+      "explanation": "主答案与干扰项分别解释；无作答理由，错误机制仅为反推。"
+    },
+    {
+      "recordId": "1791624098141-1pvk9r",
+      "questionId": "sbry-n1-2014.07-文法-5-28",
+      "question": 9,
+      "option": 2,
+      "optionText": "を皮切りに",
+      "expected": false,
+      "selected": false,
+      "note": "",
+      "historicalAnnotations": [],
+      "priority": "复用或抽查已有证据",
+      "canonical": "以……为开端，与此后离开赛场的方向相反。",
+      "explanation": "主答案与干扰项分别解释；无作答理由，错误机制仅为反推。"
+    },
+    {
+      "recordId": "1791624098141-1pvk9r",
+      "questionId": "sbry-n1-2014.07-文法-5-28",
+      "question": 9,
+      "option": 3,
+      "optionText": "にあたって",
+      "expected": false,
+      "selected": false,
+      "note": "",
+      "historicalAnnotations": [],
+      "priority": "复用或抽查已有证据",
+      "canonical": "在……之际，不表达最后一次与此后终止。",
+      "explanation": "主答案与干扰项分别解释；无作答理由，错误机制仅为反推。"
+    },
+    {
+      "recordId": "1791624098141-1pvk9r",
+      "questionId": "sbry-n1-2014.07-文法-5-28",
+      "question": 9,
+      "option": 4,
+      "optionText": "に沿って",
+      "expected": false,
+      "selected": false,
+      "note": "",
+      "historicalAnnotations": [],
+      "priority": "复用或抽查已有证据",
+      "canonical": "依照／沿着，与夺冠和离开赛场的关系不合。",
+      "explanation": "主答案与干扰项分别解释；无作答理由，错误机制仅为反推。"
+    },
+    {
+      "recordId": "1791624098141-1pvk9r",
+      "questionId": "sbry-n1-2015.07-文法-5-33",
+      "question": 10,
+      "option": 1,
+      "optionText": "作るまでだ",
+      "expected": false,
+      "selected": false,
+      "note": "",
+      "historicalAnnotations": [],
+      "priority": "复用或抽查已有证据",
+      "canonical": "只需做／大不了做：不表示亲自体验后的发现。",
+      "explanation": "主答案与干扰项分别解释；无作答理由，错误机制仅为反推。"
+    },
+    {
+      "recordId": "1791624098141-1pvk9r",
+      "questionId": "sbry-n1-2015.07-文法-5-33",
+      "question": 10,
+      "option": 2,
+      "optionText": "作るに限る",
+      "expected": false,
+      "selected": false,
+      "note": "",
+      "historicalAnnotations": [],
+      "priority": "复用或抽查已有证据",
+      "canonical": "最好做：推荐，不是发现意外容易。",
+      "explanation": "主答案与干扰项分别解释；无作答理由，错误机制仅为反推。"
+    },
+    {
+      "recordId": "1791624098141-1pvk9r",
+      "questionId": "sbry-n1-2015.07-文法-5-33",
+      "question": 10,
+      "option": 3,
+      "optionText": "作れるものだ",
+      "expected": true,
+      "selected": true,
+      "note": "",
+      "historicalAnnotations": [],
+      "priority": "抽查主动提取；可不重复标",
+      "canonical": "作れる可能形＋ものだ：做过才发现原来意外容易做。",
+      "explanation": "主答案与干扰项分别解释；无作答理由，错误机制仅为反推。"
+    },
+    {
+      "recordId": "1791624098141-1pvk9r",
+      "questionId": "sbry-n1-2015.07-文法-5-33",
+      "question": 10,
+      "option": 4,
+      "optionText": "作っただけのことはある",
+      "expected": false,
+      "selected": false,
+      "note": "",
+      "historicalAnnotations": [],
+      "priority": "复用或抽查已有证据",
+      "canonical": "不愧做了／值得做：评价价值，不是本句对能否容易制作的发现。",
+      "explanation": "主答案与干扰项分别解释；无作答理由，错误机制仅为反推。"
+    }
+  ]
+}
