@@ -1,0 +1,2930 @@
+{
+  "date": "2026-10-11",
+  "localTime": "21:31",
+  "recordIds": [
+    "1791723662716-dtqryy",
+    "1791725472402-22wlpv"
+  ],
+  "total": 32,
+  "correct": 23,
+  "answered": 32,
+  "durationSeconds": 1489,
+  "optionNotes": 51,
+  "reasonCount": 0,
+  "annotationCounts": {
+    "可接受": 47,
+    "待核实": 1,
+    "错误": 3
+  },
+  "annotationAccuracy": 0.94,
+  "correctOptionNotes": 14,
+  "distractorNotes": 37,
+  "blankCorrectOptions": 18,
+  "blankDistractors": 59,
+  "comparison": {
+    "1791723662716-dtqryy": {
+      "firstCount": 1,
+      "firstCorrect": 0,
+      "familiarCount": 9,
+      "familiarCorrect": 7
+    },
+    "1791725472402-22wlpv": {
+      "firstCount": 7,
+      "firstCorrect": 4,
+      "familiarCount": 15,
+      "familiarCorrect": 12
+    }
+  },
+  "questions": [
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2011.07-文法-5-29",
+      "text": "プリンターの調子が悪くなり、製造会社に電話で問い合わせたら、向こうの担当者に、あれこれ質問に答え()あげく、対応できないと言われた。",
+      "correct": false,
+      "status": "重复未纠正",
+      "selected": "させた",
+      "expected": "させられた",
+      "history": [
+        {
+          "recordId": "1791441772158-q3xpqk",
+          "date": "2026-10-08T06:42:52.158Z",
+          "selected": [
+            1
+          ],
+          "correct": false
+        }
+      ]
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2018.12-文法-5-35",
+      "text": "適切な目標を設定するのは難しいと言われている。目標があまりに高すぎると、やる気を()からだ。",
+      "correct": true,
+      "status": "保持正确",
+      "selected": "失わせてしまうおそれがある",
+      "expected": "失わせてしまうおそれがある",
+      "history": [
+        {
+          "recordId": "1791187543359-uhhd47",
+          "date": "2026-10-05T08:05:43.359Z",
+          "selected": [
+            4
+          ],
+          "correct": true
+        }
+      ]
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2020.12-文法-5-32",
+      "text": "次の試合の相手とは前回の大会で、一度()。前回は負けたが、今回は絶対に勝ちたい。",
+      "correct": false,
+      "status": "首次正式作答错误",
+      "selected": "対戦してくる",
+      "expected": "対戦している",
+      "history": []
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2012.07-文法-5-30",
+      "text": "お客様、ご希望のホテルが満室でしたので、他のホテルにご変更()のですが……。よろしいでしょうか。",
+      "correct": false,
+      "status": "重复未纠正",
+      "selected": "になりたい",
+      "expected": "ねがいたい",
+      "history": [
+        {
+          "recordId": "1791452115662-uk59bu",
+          "date": "2026-10-08T09:35:15.662Z",
+          "selected": [
+            4
+          ],
+          "correct": false
+        }
+      ]
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2015.07-文法-5-32",
+      "text": "高さ700メートルを超すこの超高層ビルは、高成長を続けるA国の象徴()存在となっている。",
+      "correct": true,
+      "status": "保持正确",
+      "selected": "とでもいうべき",
+      "expected": "とでもいうべき",
+      "history": [
+        {
+          "recordId": "1791428756223-e0masj",
+          "date": "2026-10-08T03:05:56.223Z",
+          "selected": [
+            3
+          ],
+          "correct": false
+        },
+        {
+          "recordId": "1791534494668-757100",
+          "date": "2026-10-09T08:28:14.668Z",
+          "selected": [
+            2
+          ],
+          "correct": true
+        }
+      ]
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2010.12-文法-5-31",
+      "text": "上司「君、困る()！資料にミスがあったぞ。君のせいで大恥をかいたよ。」\n部下「すみません。うっかりしておりまして……」",
+      "correct": true,
+      "status": "保持正确",
+      "selected": "じゃないか",
+      "expected": "じゃないか",
+      "history": [
+        {
+          "recordId": "1791198224716-lzhnp3",
+          "date": "2026-10-05T11:03:44.716Z",
+          "selected": [
+            4
+          ],
+          "correct": false
+        },
+        {
+          "recordId": "1791265534269-s8pju4",
+          "date": "2026-10-06T05:45:34.269Z",
+          "selected": [
+            1
+          ],
+          "correct": true
+        },
+        {
+          "recordId": "1791351599986-anqiz1",
+          "date": "2026-10-07T05:39:59.986Z",
+          "selected": [
+            1
+          ],
+          "correct": true
+        }
+      ]
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2013.12-文法-5-28",
+      "text": "３０００ｍを超える冬山に、十分な装備もなく単独で登るのは、()極まりない行為だ。",
+      "correct": true,
+      "status": "保持正确",
+      "selected": "危険",
+      "expected": "危険",
+      "history": [
+        {
+          "recordId": "1791196921030-gog2ru",
+          "date": "2026-10-05T10:42:01.030Z",
+          "selected": [
+            1
+          ],
+          "correct": true
+        },
+        {
+          "recordId": "1791534494668-757100",
+          "date": "2026-10-09T08:28:14.668Z",
+          "selected": [
+            1
+          ],
+          "correct": true
+        }
+      ]
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2020.12-文法-5-31",
+      "text": "A:「ねえ、この漫画、面白いよ。」\nB:「興味ない」\nA:「そんなこと言って。本当は読んでみたくてしかたが()。」",
+      "correct": true,
+      "status": "恢复正确",
+      "selected": "ないくせに",
+      "expected": "ないくせに",
+      "history": [
+        {
+          "recordId": "1791534494668-757100",
+          "date": "2026-10-09T08:28:14.668Z",
+          "selected": [
+            1
+          ],
+          "correct": false
+        }
+      ]
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2013.07-文法-5-26",
+      "text": "乗客の減少が続いていた竹山鉄道が、今年の３月31日()廃止された。",
+      "correct": true,
+      "status": "保持正确",
+      "selected": "をもって",
+      "expected": "をもって",
+      "history": [
+        {
+          "recordId": "1791281312320-a8jxr2",
+          "date": "2026-10-06T10:08:32.320Z",
+          "selected": [
+            4
+          ],
+          "correct": true
+        }
+      ]
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2016.12-文法-5-35",
+      "text": "山下「あのう、西村先輩。私、今日でこのサークルを()。」\n西村「ええ？辞める？急にどうして？」",
+      "correct": true,
+      "status": "保持正确",
+      "selected": "辞めさせてもらおうかと思って",
+      "expected": "辞めさせてもらおうかと思って",
+      "history": [
+        {
+          "recordId": "1791536374249-tzgjyt",
+          "date": "2026-10-09T08:59:34.249Z",
+          "selected": [
+            4
+          ],
+          "correct": true
+        }
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2010.12-文字・語彙-2-9",
+      "text": "吉田さんは弁護士として２０年もの()を積んできた。",
+      "correct": true,
+      "status": "恢复正确",
+      "selected": "キャリア",
+      "expected": "キャリア",
+      "history": [
+        {
+          "recordId": "1791472612126-8uc1mf",
+          "date": "2026-10-08T15:16:52.126Z",
+          "selected": [
+            1
+          ],
+          "correct": false
+        }
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2017.07-文字・語彙-2-8",
+      "text": "この商品は、特によく売れる時期というものはなく、毎月()100個ほど売れる。",
+      "correct": true,
+      "status": "保持正确",
+      "selected": "コンスタントに",
+      "expected": "コンスタントに",
+      "history": [
+        {
+          "recordId": "1791472612126-8uc1mf",
+          "date": "2026-10-08T15:16:52.126Z",
+          "selected": [
+            4
+          ],
+          "correct": true
+        }
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2018.07-文字・語彙-2-8",
+      "text": "企業の海外進出は()を伴うが、成功すれば利益は大きい。",
+      "correct": true,
+      "status": "首次正式作答正确",
+      "selected": "リスク",
+      "expected": "リスク",
+      "history": []
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2016.07-文字・語彙-2-8",
+      "text": "林さんは服の()が抜群で、いつもすてきな服装をしている。",
+      "correct": true,
+      "status": "保持正确",
+      "selected": "センス",
+      "expected": "センス",
+      "history": [
+        {
+          "recordId": "1791472612126-8uc1mf",
+          "date": "2026-10-08T15:16:52.126Z",
+          "selected": [
+            1
+          ],
+          "correct": true
+        }
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2014.07-文字・語彙-2-11",
+      "text": "弊社の採用試験では、筆記試験よりも面接に()を置いています。",
+      "correct": true,
+      "status": "保持正确",
+      "selected": "ウェイト",
+      "expected": "ウェイト",
+      "history": [
+        {
+          "recordId": "1791512671680-4pkp77",
+          "date": "2026-10-09T02:24:31.680Z",
+          "selected": [
+            1
+          ],
+          "correct": true
+        }
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "jlpt4you-2023.07-vocabulary-2-4",
+      "text": "この生産管理のシステムは、維持費の高さが（ ）になってなかなか普及しない。",
+      "correct": true,
+      "status": "保持正确",
+      "selected": "ネック",
+      "expected": "ネック",
+      "history": [
+        {
+          "recordId": "1787991395255-bxet83",
+          "date": "2026-08-29T08:16:35.255Z",
+          "selected": [
+            2
+          ],
+          "correct": false
+        },
+        {
+          "recordId": "1788353849288-s7jsvm",
+          "date": "2026-09-02T12:57:29.288Z",
+          "selected": [
+            3
+          ],
+          "correct": false
+        },
+        {
+          "recordId": "1788612561389-gmry0u",
+          "date": "2026-09-05T12:49:21.389Z",
+          "selected": [
+            4
+          ],
+          "correct": true
+        },
+        {
+          "recordId": "1791472612126-8uc1mf",
+          "date": "2026-10-08T15:16:52.126Z",
+          "selected": [
+            4
+          ],
+          "correct": true
+        }
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2022.12-文字・語彙-2-11",
+      "text": "きれいな写真を撮るためには、まずカメラの()を合わせることが大切です。",
+      "correct": true,
+      "status": "保持正确",
+      "selected": "ピント",
+      "expected": "ピント",
+      "history": [
+        {
+          "recordId": "1788007636601-ptjp8w",
+          "date": "2026-08-29T12:47:16.601Z",
+          "selected": [
+            1
+          ],
+          "correct": false
+        },
+        {
+          "recordId": "1788444168618-j9giok",
+          "date": "2026-09-03T14:02:48.618Z",
+          "selected": [
+            1
+          ],
+          "correct": false
+        },
+        {
+          "recordId": "1788612909383-2i4nb9",
+          "date": "2026-09-05T12:55:09.383Z",
+          "selected": [
+            4
+          ],
+          "correct": false
+        },
+        {
+          "recordId": "1791472612126-8uc1mf",
+          "date": "2026-10-08T15:16:52.126Z",
+          "selected": [
+            3
+          ],
+          "correct": true
+        }
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2016.12-文字・語彙-2-13",
+      "text": "現社長は創立者から経営の()を学んだ。",
+      "correct": false,
+      "status": "首次正式作答错误",
+      "selected": "データベース",
+      "expected": "ノウハウ",
+      "history": []
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2014.12-文字・語彙-2-10",
+      "text": "この会社の営業部では、社員一人一人に毎週厳しい()が課されている。",
+      "correct": true,
+      "status": "恢复正确",
+      "selected": "ノルマ",
+      "expected": "ノルマ",
+      "history": [
+        {
+          "recordId": "1791512671680-4pkp77",
+          "date": "2026-10-09T02:24:31.680Z",
+          "selected": [
+            3
+          ],
+          "correct": false
+        }
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2012.07-文字・語彙-2-7",
+      "text": "この本は内容が難しすぎて、初心者には()が高いと思う。",
+      "correct": false,
+      "status": "重复未纠正",
+      "selected": "ノルマ",
+      "expected": "ハードル",
+      "history": [
+        {
+          "recordId": "1791472612126-8uc1mf",
+          "date": "2026-10-08T15:16:52.126Z",
+          "selected": [
+            4
+          ],
+          "correct": true
+        },
+        {
+          "recordId": "1791512671680-4pkp77",
+          "date": "2026-10-09T02:24:31.680Z",
+          "selected": [
+            2
+          ],
+          "correct": false
+        }
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2011.12-文字・語彙-2-10",
+      "text": "この言葉には、やや批判的な()が含まれている。",
+      "correct": true,
+      "status": "恢复正确",
+      "selected": "ニュアンス",
+      "expected": "ニュアンス",
+      "history": [
+        {
+          "recordId": "1791512671680-4pkp77",
+          "date": "2026-10-09T02:24:31.680Z",
+          "selected": [
+            2
+          ],
+          "correct": false
+        }
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2020.12-文字・語彙-2-7",
+      "text": "商品の値段を間違えて表示していたため、お客さんから()が来た。",
+      "correct": true,
+      "status": "首次正式作答正确",
+      "selected": "クレーム",
+      "expected": "クレーム",
+      "history": []
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2012.12-文字・語彙-2-12",
+      "text": "仕事の分担を決める前に、必要な作業をすべて()した。",
+      "correct": false,
+      "status": "正确后回退",
+      "selected": "コーディネート",
+      "expected": "リストアップ",
+      "history": [
+        {
+          "recordId": "1791512671680-4pkp77",
+          "date": "2026-10-09T02:24:31.680Z",
+          "selected": [
+            1
+          ],
+          "correct": true
+        }
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "markdown-2025.07-language-11",
+      "text": "原田(はらだ)さんは育児で何年も(  )があったが、資格を取得し、再就職が決まったそうだ。",
+      "correct": true,
+      "status": "保持正确",
+      "selected": "ブランク",
+      "expected": "ブランク",
+      "history": [
+        {
+          "recordId": "1791512671680-4pkp77",
+          "date": "2026-10-09T02:24:31.680Z",
+          "selected": [
+            1
+          ],
+          "correct": true
+        }
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "markdown-2025.12-language-8",
+      "text": "試合の前半はAチームが1点(  )していたが、後半に2点取られて逆転された。",
+      "correct": false,
+      "status": "重复未纠正",
+      "selected": "アップ",
+      "expected": "リード",
+      "history": [
+        {
+          "recordId": "1791512671680-4pkp77",
+          "date": "2026-10-09T02:24:31.680Z",
+          "selected": [
+            2
+          ],
+          "correct": false
+        }
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2010.07-文字・語彙-2-8",
+      "text": "会議で質問に答えられなくて困っていたら、課長が()してくれた。",
+      "correct": true,
+      "status": "保持正确",
+      "selected": "フォロー",
+      "expected": "フォロー",
+      "history": [
+        {
+          "recordId": "1791512671680-4pkp77",
+          "date": "2026-10-09T02:24:31.680Z",
+          "selected": [
+            2
+          ],
+          "correct": true
+        }
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2018.12-文字・語彙-2-8",
+      "text": "記事のすぐ下に写真を載せるなど()を工夫すれば、もっと読みやすくなるだろう。",
+      "correct": false,
+      "status": "首次正式作答错误",
+      "selected": "ルックス",
+      "expected": "レイアウト",
+      "history": []
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2015.12-文字・語彙-2-8",
+      "text": "鈴木選手の活躍は、テレビや新聞など、様々な()で紹介された。",
+      "correct": true,
+      "status": "首次正式作答正确",
+      "selected": "メディア",
+      "expected": "メディア",
+      "history": []
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2017.12-文字・語彙-2-7",
+      "text": "小型カメラの国内市場では、弊社が20パーセントの()を占めています。",
+      "correct": false,
+      "status": "首次正式作答错误",
+      "selected": "ランク",
+      "expected": "シェア",
+      "history": []
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2022.07-文字・語彙-2-8",
+      "text": "予習、授業、復習という()を繰り返すことで、知識の定着を図る",
+      "correct": true,
+      "status": "保持正确",
+      "selected": "サイクル",
+      "expected": "サイクル",
+      "history": [
+        {
+          "recordId": "1788006699590-u5sits",
+          "date": "2026-08-29T12:31:39.590Z",
+          "selected": [
+            1
+          ],
+          "correct": false
+        },
+        {
+          "recordId": "1788782746969-eut38g",
+          "date": "2026-09-07T12:05:46.968Z",
+          "selected": [
+            2
+          ],
+          "correct": true
+        },
+        {
+          "recordId": "1789304520800-r2ymut",
+          "date": "2026-09-13T13:02:00.800Z",
+          "selected": [
+            1
+          ],
+          "correct": false
+        },
+        {
+          "recordId": "1791512671680-4pkp77",
+          "date": "2026-10-09T02:24:31.680Z",
+          "selected": [
+            2
+          ],
+          "correct": true
+        }
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2011.12-文字・語彙-2-13",
+      "text": "コピー用紙の()が減ったら、注文しておいてください。",
+      "correct": true,
+      "status": "保持正确",
+      "selected": "ストック",
+      "expected": "ストック",
+      "history": [
+        {
+          "recordId": "1791512671680-4pkp77",
+          "date": "2026-10-09T02:24:31.680Z",
+          "selected": [
+            3
+          ],
+          "correct": true
+        }
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2019.07-文字・語彙-2-7",
+      "text": "ガスが漏れると、()が感知して警報が鳴る。",
+      "correct": true,
+      "status": "首次正式作答正确",
+      "selected": "センサー",
+      "expected": "センサー",
+      "history": []
+    }
+  ],
+  "rows": [
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2011.07-文法-5-29",
+      "question": 1,
+      "option": 1,
+      "optionText": "させた",
+      "selected": true,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "优先补结构",
+      "canonical": "させた：我让对方回答；与担当者に强迫我回答的方向相反。",
+      "explanation": "未写理由，错误机制为选项反推。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2011.07-文法-5-29",
+      "question": 1,
+      "option": 2,
+      "optionText": "させられる",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "优先补结构",
+      "canonical": "使役被动方向对，但あげく前接た形，不能用させられる。",
+      "explanation": "未写理由，错误机制为选项反推。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2011.07-文法-5-29",
+      "question": 1,
+      "option": 3,
+      "optionText": "させる",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "优先补结构",
+      "canonical": "使役方向与时态均不符。",
+      "explanation": "未写理由，错误机制为选项反推。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2011.07-文法-5-29",
+      "question": 1,
+      "option": 4,
+      "optionText": "させられた",
+      "selected": false,
+      "expected": true,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "优先补结构",
+      "canonical": "答えさせられたあげく：我被迫回答各种问题，最后却被告知无法处理。",
+      "explanation": "未写理由，错误机制为选项反推。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2018.12-文法-5-35",
+      "question": 2,
+      "option": 1,
+      "optionText": "失わせてしまってはならない",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "复用／抽查",
+      "canonical": "不得使人丧失干劲：禁止；不能作为目标过高的风险说明。",
+      "explanation": "未写理由，错误机制为选项反推。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2018.12-文法-5-35",
+      "question": 2,
+      "option": 2,
+      "optionText": "失わせてしまいつつある",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "复用／抽查",
+      "canonical": "正在逐渐使人丧失干劲：变化进行，不是一般风险。",
+      "explanation": "未写理由，错误机制为选项反推。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2018.12-文法-5-35",
+      "question": 2,
+      "option": 3,
+      "optionText": "失わせてしまうところだ",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "复用／抽查",
+      "canonical": "即将使人失去干劲：时点，不是一般风险。",
+      "explanation": "未写理由，错误机制为选项反推。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2018.12-文法-5-35",
+      "question": 2,
+      "option": 4,
+      "optionText": "失わせてしまうおそれがある",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "复用／抽查",
+      "canonical": "有使人失去干劲的风险：おそれがある说明目标过高的问题。",
+      "explanation": "未写理由，错误机制为选项反推。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2020.12-文法-5-32",
+      "question": 3,
+      "option": 1,
+      "optionText": "対戦している",
+      "selected": false,
+      "expected": true,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "优先补结构",
+      "canonical": "ている可表示过去发生且构成当前经历／记录的事实：上次已经交过手。",
+      "explanation": "未写理由，错误机制为选项反推。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2020.12-文法-5-32",
+      "question": 3,
+      "option": 2,
+      "optionText": "対戦してくる",
+      "selected": true,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "优先补结构",
+      "canonical": "てくる：去做再回来／由过去发展至今；此处前回一度要求既往交手记录，不能用这个非过去式。",
+      "explanation": "未写理由，错误机制为选项反推。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2020.12-文法-5-32",
+      "question": 3,
+      "option": 3,
+      "optionText": "対戦してみる",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "优先补结构",
+      "canonical": "てみる：尝试；与上次已交手且输了的事实不合。",
+      "explanation": "未写理由，错误机制为选项反推。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2020.12-文法-5-32",
+      "question": 3,
+      "option": 4,
+      "optionText": "対戦していく",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "优先补结构",
+      "canonical": "ていく：今后继续／离开方向，不合前回大会的已往事实。",
+      "explanation": "未写理由，错误机制为选项反推。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2012.07-文法-5-30",
+      "question": 4,
+      "option": 1,
+      "optionText": "ねがいたい",
+      "selected": false,
+      "expected": true,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "优先补结构",
+      "canonical": "ご変更願いたい：我方希望请求客人换酒店；願いたい表达说话人愿望。",
+      "explanation": "未写理由，错误机制为选项反推。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2012.07-文法-5-30",
+      "question": 4,
+      "option": 2,
+      "optionText": "なさりたい",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "优先补结构",
+      "canonical": "ご変更なさりたい：客人想改酒店，改变愿望主体，不是店方请求。",
+      "explanation": "未写理由，错误机制为选项反推。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2012.07-文法-5-30",
+      "question": 4,
+      "option": 3,
+      "optionText": "くださりたい",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "优先补结构",
+      "canonical": "ご変更くださりたい不能自然表达本句我方请求；可用ご変更いただきたい。",
+      "explanation": "未写理由，错误机制为选项反推。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2012.07-文法-5-30",
+      "question": 4,
+      "option": 4,
+      "optionText": "になりたい",
+      "selected": true,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "优先补结构",
+      "canonical": "ご変更になりたい把希望归给客人，不能表达店方希望客人变更。",
+      "explanation": "未写理由，错误机制为选项反推。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2015.07-文法-5-32",
+      "question": 5,
+      "option": 1,
+      "optionText": "にするべく",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "复用／抽查",
+      "canonical": "为了把它作为象征；不是此处对建筑性质的命名。",
+      "explanation": "未写理由，错误机制为选项反推。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2015.07-文法-5-32",
+      "question": 5,
+      "option": 2,
+      "optionText": "とでもいうべき",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "复用／抽查",
+      "canonical": "とでもいうべき存在：可称作象征的存在。",
+      "explanation": "未写理由，错误机制为选项反推。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2015.07-文法-5-32",
+      "question": 5,
+      "option": 3,
+      "optionText": "があるらしい",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "复用／抽查",
+      "canonical": "似乎有象征：不能组成象徴があるらしい存在表达。",
+      "explanation": "未写理由，错误机制为选项反推。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2015.07-文法-5-32",
+      "question": 5,
+      "option": 4,
+      "optionText": "でもなるような",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "复用／抽查",
+      "canonical": "象徴でもなる缺少自然连接，也不合命名评价。",
+      "explanation": "未写理由，错误机制为选项反推。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2010.12-文法-5-31",
+      "question": 6,
+      "option": 1,
+      "optionText": "じゃないか",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "复用／抽查",
+      "canonical": "困るじゃないか：带责备地断言这让我很为难；本题语气最合。",
+      "explanation": "未写理由，错误机制为选项反推。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2010.12-文法-5-31",
+      "question": 6,
+      "option": 2,
+      "optionText": "のではないか",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "复用／抽查",
+      "canonical": "のではないか偏推测／提出判断；不如直接责备贴切，并非形式本身不成立。",
+      "explanation": "未写理由，错误机制为选项反推。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2010.12-文法-5-31",
+      "question": 6,
+      "option": 3,
+      "optionText": "じゃないのか",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "复用／抽查",
+      "canonical": "じゃないのか偏询问或确认对方是否为难，不如直接责备贴切。",
+      "explanation": "未写理由，错误机制为选项反推。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2010.12-文法-5-31",
+      "question": 6,
+      "option": 4,
+      "optionText": "のではないのか",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "复用／抽查",
+      "canonical": "のではないのか叠加说明与确认语气，不如直接感叹责备贴切。",
+      "explanation": "未写理由，错误机制为选项反推。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2013.12-文法-5-28",
+      "question": 7,
+      "option": 1,
+      "optionText": "危険",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "复用／抽查",
+      "canonical": "危険極まりない：な形容词词干直连，极其危险。",
+      "explanation": "未写理由，错误机制为选项反推。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2013.12-文法-5-28",
+      "question": 7,
+      "option": 2,
+      "optionText": "危険の",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "复用／抽查",
+      "canonical": "此结构不在词干后加の。",
+      "explanation": "未写理由，错误机制为选项反推。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2013.12-文法-5-28",
+      "question": 7,
+      "option": 3,
+      "optionText": "危険な",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "复用／抽查",
+      "canonical": "此结构不是危険な＋極まりない。",
+      "explanation": "未写理由，错误机制为选项反推。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2013.12-文法-5-28",
+      "question": 7,
+      "option": 4,
+      "optionText": "危険に",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "复用／抽查",
+      "canonical": "此结构不是副词危険に＋極まりない。",
+      "explanation": "未写理由，错误机制为选项反推。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2020.12-文法-5-31",
+      "question": 8,
+      "option": 1,
+      "optionText": "なくちゃ",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "验证纠正",
+      "canonical": "なくちゃ＝なくては；不能表达明明非常想看却说没兴趣的责怪。",
+      "explanation": "未写理由，错误机制为选项反推。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2020.12-文法-5-31",
+      "question": 8,
+      "option": 2,
+      "optionText": "ないけど",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "验证纠正",
+      "canonical": "ないけど：虽然很想看，但是……；此处针对对方口是心非的责怪以くせに最合。",
+      "explanation": "未写理由，错误机制为选项反推。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2020.12-文法-5-31",
+      "question": 8,
+      "option": 3,
+      "optionText": "ないくせに",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "验证纠正",
+      "canonical": "読んでみたくてしかたがない＋くせに：明明想看得不得了，还说没兴趣。ない属于しかたがない，不是否定想看。",
+      "explanation": "未写理由，错误机制为选项反推。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2020.12-文法-5-31",
+      "question": 8,
+      "option": 4,
+      "optionText": "なくたって",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "验证纠正",
+      "canonical": "なくたって：即使不……；不是此处已经非常想看的事实让步。",
+      "explanation": "未写理由，错误机制为选项反推。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2013.07-文法-5-26",
+      "question": 9,
+      "option": 1,
+      "optionText": "を受けて",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "复用／抽查",
+      "canonical": "を受けて：接受某事件影响后，不是以日期为终止界点。",
+      "explanation": "未写理由，错误机制为选项反推。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2013.07-文法-5-26",
+      "question": 9,
+      "option": 2,
+      "optionText": "を皮切りに",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "复用／抽查",
+      "canonical": "を皮切りに：以此为开端，方向与停运相反。",
+      "explanation": "未写理由，错误机制为选项反推。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2013.07-文法-5-26",
+      "question": 9,
+      "option": 3,
+      "optionText": "をピークに",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "复用／抽查",
+      "canonical": "をピークに：以此为顶峰；这里没有峰值变化。",
+      "explanation": "未写理由，错误机制为选项反推。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2013.07-文法-5-26",
+      "question": 9,
+      "option": 4,
+      "optionText": "をもって",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "复用／抽查",
+      "canonical": "3月31日をもって：以该日为界正式终止。",
+      "explanation": "未写理由，错误机制为选项反推。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2016.12-文法-5-35",
+      "question": 10,
+      "option": 1,
+      "optionText": "辞めてしまわれたのでしょうか",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "复用／抽查",
+      "canonical": "尊敬的过去提问：动作主体不是说话人自己的辞职打算。",
+      "explanation": "未写理由，错误机制为选项反推。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2016.12-文法-5-35",
+      "question": 10,
+      "option": 2,
+      "optionText": "辞めてしまったのかと思って",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "复用／抽查",
+      "canonical": "以为已经辞职：既成事实推测，不是现在表明辞职意向。",
+      "explanation": "未写理由，错误机制为选项反推。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2016.12-文法-5-35",
+      "question": 10,
+      "option": 3,
+      "optionText": "辞めさせたらどうでしょうか",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "复用／抽查",
+      "canonical": "建议让某人辞职：不是我请求准许自己辞职。",
+      "explanation": "未写理由，错误机制为选项反推。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791723662716-dtqryy",
+      "questionId": "sbry-n1-2016.12-文法-5-35",
+      "question": 10,
+      "option": 4,
+      "optionText": "辞めさせてもらおうかと思って",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "复用／抽查",
+      "canonical": "辞めさせてもらおうかと思って：我在考虑请求允许自己退出；使役＋授受。",
+      "explanation": "未写理由，错误机制为选项反推。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2010.12-文字・語彙-2-9",
+      "question": 1,
+      "option": 1,
+      "optionText": "ベテラン",
+      "selected": false,
+      "expected": false,
+      "note": "veteran",
+      "verdict": "可接受",
+      "priority": "复用本次标注",
+      "canonical": "老手、资深人士；指人，不能ベテランを積む",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2010.12-文字・語彙-2-9",
+          "veteran"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2010.12-文字・語彙-2-9",
+      "question": 1,
+      "option": 2,
+      "optionText": "ポジション",
+      "selected": false,
+      "expected": false,
+      "note": "position",
+      "verdict": "可接受",
+      "priority": "复用本次标注",
+      "canonical": "职位、位置",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2010.12-文字・語彙-2-9",
+          "position"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2010.12-文字・語彙-2-9",
+      "question": 1,
+      "option": 3,
+      "optionText": "ステータス",
+      "selected": false,
+      "expected": false,
+      "note": "status",
+      "verdict": "可接受",
+      "priority": "复用本次标注",
+      "canonical": "地位、身份",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2010.12-文字・語彙-2-9",
+          "status"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2010.12-文字・語彙-2-9",
+      "question": 1,
+      "option": 4,
+      "optionText": "キャリア",
+      "selected": true,
+      "expected": true,
+      "note": "career",
+      "verdict": "可接受",
+      "priority": "复用本次标注",
+      "canonical": "职业经历：20年のキャリアを積む",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2010.12-文字・語彙-2-9",
+          "career"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2017.07-文字・語彙-2-8",
+      "question": 2,
+      "option": 1,
+      "optionText": "クリアに",
+      "selected": false,
+      "expected": false,
+      "note": "clear",
+      "verdict": "可接受",
+      "priority": "复用本次标注",
+      "canonical": "清楚地",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2017.07-文字・語彙-2-8",
+          "clear"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2017.07-文字・語彙-2-8",
+      "question": 2,
+      "option": 2,
+      "optionText": "ストレートに",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "canonical": "直接、笔直地",
+      "explanation": "空白不是不会；补核心义或口述一次即可。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2017.07-文字・語彙-2-8",
+      "question": 2,
+      "option": 3,
+      "optionText": "シンプルに",
+      "selected": false,
+      "expected": false,
+      "note": "simple",
+      "verdict": "可接受",
+      "priority": "复用本次标注",
+      "canonical": "简单地",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2017.07-文字・語彙-2-8",
+          "simple"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2017.07-文字・語彙-2-8",
+      "question": 2,
+      "option": 4,
+      "optionText": "コンスタントに",
+      "selected": true,
+      "expected": true,
+      "note": "constant",
+      "verdict": "可接受",
+      "priority": "复用本次标注",
+      "canonical": "稳定、持续地：每月固定销量",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2017.07-文字・語彙-2-8",
+          "constant"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2018.07-文字・語彙-2-8",
+      "question": 3,
+      "option": 1,
+      "optionText": "アウト",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "canonical": "出局、超出",
+      "explanation": "空白不是不会；补核心义或口述一次即可。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2018.07-文字・語彙-2-8",
+      "question": 3,
+      "option": 2,
+      "optionText": "エラー",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "canonical": "错误",
+      "explanation": "空白不是不会；补核心义或口述一次即可。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2018.07-文字・語彙-2-8",
+      "question": 3,
+      "option": 3,
+      "optionText": "リスク",
+      "selected": true,
+      "expected": true,
+      "note": "risk",
+      "verdict": "可接受",
+      "priority": "复用本次标注",
+      "canonical": "风险：リスクを伴う",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2018.07-文字・語彙-2-8",
+          "risk"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2018.07-文字・語彙-2-8",
+      "question": 3,
+      "option": 4,
+      "optionText": "ダウン",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "canonical": "下降",
+      "explanation": "空白不是不会；补核心义或口述一次即可。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2016.07-文字・語彙-2-8",
+      "question": 4,
+      "option": 1,
+      "optionText": "センス",
+      "selected": true,
+      "expected": true,
+      "note": "sense",
+      "verdict": "可接受",
+      "priority": "复用本次标注",
+      "canonical": "品味、审美：服のセンス",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2016.07-文字・語彙-2-8",
+          "sense"
+        ],
+        [
+          "sbry-n1-2011.12-文字・語彙-2-10",
+          "sence"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2016.07-文字・語彙-2-8",
+      "question": 4,
+      "option": 2,
+      "optionText": "タイミング",
+      "selected": false,
+      "expected": false,
+      "note": "timing",
+      "verdict": "可接受",
+      "priority": "复用本次标注",
+      "canonical": "时机",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2016.07-文字・語彙-2-8",
+          "timing"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2016.07-文字・語彙-2-8",
+      "question": 4,
+      "option": 3,
+      "optionText": "ステップ",
+      "selected": false,
+      "expected": false,
+      "note": "step",
+      "verdict": "可接受",
+      "priority": "复用本次标注",
+      "canonical": "步骤、台阶",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2016.07-文字・語彙-2-8",
+          "step"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2016.07-文字・語彙-2-8",
+      "question": 4,
+      "option": 4,
+      "optionText": "ニュアンス",
+      "selected": false,
+      "expected": false,
+      "note": "nuance",
+      "verdict": "可接受",
+      "priority": "复用本次标注",
+      "canonical": "细微意味、语感",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2016.07-文字・語彙-2-8",
+          "nuance"
+        ],
+        [
+          "sbry-n1-2011.12-文字・語彙-2-10",
+          "nuance"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2014.07-文字・語彙-2-11",
+      "question": 5,
+      "option": 1,
+      "optionText": "ウェイト",
+      "selected": true,
+      "expected": true,
+      "note": "weight",
+      "verdict": "可接受",
+      "priority": "复用本次标注",
+      "canonical": "weight；重量、比重；面接にウェイトを置く＝重视面试",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2014.07-文字・語彙-2-11",
+          "weight"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2014.07-文字・語彙-2-11",
+      "question": 5,
+      "option": 2,
+      "optionText": "トップ",
+      "selected": false,
+      "expected": false,
+      "note": "top",
+      "verdict": "可接受",
+      "priority": "复用本次标注",
+      "canonical": "top；顶端、第一、最高层",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2014.07-文字・語彙-2-11",
+          "top"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2014.07-文字・語彙-2-11",
+      "question": 5,
+      "option": 3,
+      "optionText": "パワー",
+      "selected": false,
+      "expected": false,
+      "note": "power",
+      "verdict": "可接受",
+      "priority": "复用本次标注",
+      "canonical": "power；力量、能力、动力",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2014.07-文字・語彙-2-11",
+          "power"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2014.07-文字・語彙-2-11",
+      "question": 5,
+      "option": 4,
+      "optionText": "メイン",
+      "selected": false,
+      "expected": false,
+      "note": "main",
+      "verdict": "可接受",
+      "priority": "复用本次标注",
+      "canonical": "main；主要的、主体；不构成メインを置く",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2014.07-文字・語彙-2-11",
+          "main"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "jlpt4you-2023.07-vocabulary-2-4",
+      "question": 6,
+      "option": 1,
+      "optionText": "ノイズ",
+      "selected": false,
+      "expected": false,
+      "note": "noise",
+      "verdict": "可接受",
+      "priority": "复用本次标注",
+      "canonical": "杂音、干扰",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "jlpt4you-2023.07-vocabulary-2-4",
+          "noise"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "jlpt4you-2023.07-vocabulary-2-4",
+      "question": 6,
+      "option": 2,
+      "optionText": "ロック",
+      "selected": false,
+      "expected": false,
+      "note": "lock",
+      "verdict": "可接受",
+      "priority": "复用本次标注",
+      "canonical": "锁定、锁",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "jlpt4you-2023.07-vocabulary-2-4",
+          "lock"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "jlpt4you-2023.07-vocabulary-2-4",
+      "question": 6,
+      "option": 3,
+      "optionText": "タブー",
+      "selected": false,
+      "expected": false,
+      "note": "taboo",
+      "verdict": "可接受",
+      "priority": "复用本次标注",
+      "canonical": "禁忌",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "jlpt4you-2023.07-vocabulary-2-4",
+          "taboo"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "jlpt4you-2023.07-vocabulary-2-4",
+      "question": 6,
+      "option": 4,
+      "optionText": "ネック",
+      "selected": true,
+      "expected": true,
+      "note": "neck",
+      "verdict": "可接受",
+      "priority": "复用本次标注",
+      "canonical": "瓶颈、障碍：維持費の高さがネックになる",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "jlpt4you-2023.07-vocabulary-2-4",
+          "neck"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2022.12-文字・語彙-2-11",
+      "question": 7,
+      "option": 1,
+      "optionText": "ポーズ",
+      "selected": false,
+      "expected": false,
+      "note": "pose",
+      "verdict": "可接受",
+      "priority": "复用本次标注",
+      "canonical": "姿势",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2022.12-文字・語彙-2-11",
+          "pose"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2022.12-文字・語彙-2-11",
+      "question": 7,
+      "option": 2,
+      "optionText": "カーソル",
+      "selected": false,
+      "expected": false,
+      "note": "cursor",
+      "verdict": "可接受",
+      "priority": "复用本次标注",
+      "canonical": "光标",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2022.12-文字・語彙-2-11",
+          "cursor"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2022.12-文字・語彙-2-11",
+      "question": 7,
+      "option": 3,
+      "optionText": "ピント",
+      "selected": true,
+      "expected": true,
+      "note": "punt",
+      "verdict": "待核实",
+      "priority": "补一次中文义",
+      "canonical": "焦点；ピントを合わせる＝对焦。",
+      "explanation": "词源为荷兰语brandpunt；punt可能是词源片段速记，不武断判错，也不能凭它确认已知焦点义。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2022.12-文字・語彙-2-11",
+          "punt"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2022.12-文字・語彙-2-11",
+      "question": 7,
+      "option": 4,
+      "optionText": "テンポ",
+      "selected": false,
+      "expected": false,
+      "note": "tempo",
+      "verdict": "可接受",
+      "priority": "复用本次标注",
+      "canonical": "节奏、速度",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2022.12-文字・語彙-2-11",
+          "tempo"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2016.12-文字・語彙-2-13",
+      "question": 8,
+      "option": 1,
+      "optionText": "データベース",
+      "selected": true,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "复用本轮同词标注；验证本句搭配",
+      "canonical": "数据库",
+      "explanation": "同词已有对应，不要求重复抄写；当前题的搭配仍需判断。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2015.12-文字・語彙-2-8",
+          "database"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2016.12-文字・語彙-2-13",
+      "question": 8,
+      "option": 2,
+      "optionText": "ベテラン",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "复用本轮同词标注；验证本句搭配",
+      "canonical": "资深人士",
+      "explanation": "同词已有对应，不要求重复抄写；当前题的搭配仍需判断。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2010.12-文字・語彙-2-9",
+          "veteran"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2016.12-文字・語彙-2-13",
+      "question": 8,
+      "option": 3,
+      "optionText": "ライフワーク",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "优先补",
+      "canonical": "毕生事业",
+      "explanation": "空白不是不会；补核心义或口述一次即可。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2016.12-文字・語彙-2-13",
+      "question": 8,
+      "option": 4,
+      "optionText": "ノウハウ",
+      "selected": false,
+      "expected": true,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "优先补",
+      "canonical": "诀窍、实务经验：経営のノウハウ",
+      "explanation": "空白不是不会；补核心义或口述一次即可。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2014.12-文字・語彙-2-10",
+      "question": 9,
+      "option": 1,
+      "optionText": "キャリア",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "复用本轮同词标注；验证本句搭配",
+      "canonical": "career；职业经历、资历；clear对应クリア，不是キャリア",
+      "explanation": "同词已有对应，不要求重复抄写；当前题的搭配仍需判断。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2010.12-文字・語彙-2-9",
+          "career"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2014.12-文字・語彙-2-10",
+      "question": 9,
+      "option": 2,
+      "optionText": "ノルマ",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "复用本轮同词标注；验证本句搭配",
+      "canonical": "俄语norma；英语quota；任务指标；厳しいノルマが課される",
+      "explanation": "同词已有对应，不要求重复抄写；当前题的搭配仍需判断。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2012.07-文字・語彙-2-7",
+          "norma"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2014.12-文字・語彙-2-10",
+      "question": 9,
+      "option": 3,
+      "optionText": "チーフ",
+      "selected": false,
+      "expected": false,
+      "note": "chif",
+      "verdict": "可接受",
+      "priority": "复用本次标注",
+      "canonical": "chief；主管、负责人；不是给员工规定的任务量",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2014.12-文字・語彙-2-10",
+          "chif"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2014.12-文字・語彙-2-10",
+      "question": 9,
+      "option": 4,
+      "optionText": "コスト",
+      "selected": false,
+      "expected": false,
+      "note": "cost",
+      "verdict": "可接受",
+      "priority": "复用本次标注",
+      "canonical": "cost；成本、费用",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2014.12-文字・語彙-2-10",
+          "cost"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2012.07-文字・語彙-2-7",
+      "question": 10,
+      "option": 1,
+      "optionText": "リミット",
+      "selected": false,
+      "expected": false,
+      "note": "limit",
+      "verdict": "可接受",
+      "priority": "优先辨析搭配",
+      "canonical": "limit；限度、界限",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2012.07-文字・語彙-2-7",
+          "limit"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2012.07-文字・語彙-2-7",
+      "question": 10,
+      "option": 2,
+      "optionText": "ブロック",
+      "selected": false,
+      "expected": false,
+      "note": "block",
+      "verdict": "可接受",
+      "priority": "优先辨析搭配",
+      "canonical": "block；块、阻挡；本题难度门槛用ハードル",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2012.07-文字・語彙-2-7",
+          "block"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2012.07-文字・語彙-2-7",
+      "question": 10,
+      "option": 3,
+      "optionText": "ノルマ",
+      "selected": true,
+      "expected": false,
+      "note": "norma",
+      "verdict": "可接受",
+      "priority": "优先辨析搭配",
+      "canonical": "俄语norma；英语对应quota；规定的任务量、指标",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2012.07-文字・語彙-2-7",
+          "norma"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2012.07-文字・語彙-2-7",
+      "question": 10,
+      "option": 4,
+      "optionText": "ハードル",
+      "selected": false,
+      "expected": true,
+      "note": "hardle",
+      "verdict": "可接受",
+      "priority": "优先辨析搭配",
+      "canonical": "hurdle；栏、障碍、门槛；ハードルが高い＝门槛高、难度大",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2012.07-文字・語彙-2-7",
+          "hardle"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2011.12-文字・語彙-2-10",
+      "question": 11,
+      "option": 1,
+      "optionText": "センス",
+      "selected": false,
+      "expected": false,
+      "note": "sence",
+      "verdict": "可接受",
+      "priority": "复用本次标注",
+      "canonical": "sense；感觉、判断力、品味",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2016.07-文字・語彙-2-8",
+          "sense"
+        ],
+        [
+          "sbry-n1-2011.12-文字・語彙-2-10",
+          "sence"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2011.12-文字・語彙-2-10",
+      "question": 11,
+      "option": 2,
+      "optionText": "キャラクター",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "canonical": "character；性格、角色、特征；这里不是言辞中微妙的意味",
+      "explanation": "空白不是不会；补核心义或口述一次即可。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2011.12-文字・語彙-2-10",
+      "question": 11,
+      "option": 3,
+      "optionText": "ニュアンス",
+      "selected": true,
+      "expected": true,
+      "note": "nuance",
+      "verdict": "可接受",
+      "priority": "复用本次标注",
+      "canonical": "nuance；微妙意味、语气、色彩；批判的なニュアンス",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2016.07-文字・語彙-2-8",
+          "nuance"
+        ],
+        [
+          "sbry-n1-2011.12-文字・語彙-2-10",
+          "nuance"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2011.12-文字・語彙-2-10",
+      "question": 11,
+      "option": 4,
+      "optionText": "インスピレーション",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "canonical": "inspiration；灵感、启发",
+      "explanation": "空白不是不会；补核心义或口述一次即可。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2020.12-文字・語彙-2-7",
+      "question": 12,
+      "option": 1,
+      "optionText": "エラー",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "canonical": "错误",
+      "explanation": "空白不是不会；补核心义或口述一次即可。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2020.12-文字・語彙-2-7",
+      "question": 12,
+      "option": 2,
+      "optionText": "ノルマ",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "复用本轮同词标注；验证本句搭配",
+      "canonical": "定额",
+      "explanation": "同词已有对应，不要求重复抄写；当前题的搭配仍需判断。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2012.07-文字・語彙-2-7",
+          "norma"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2020.12-文字・語彙-2-7",
+      "question": 12,
+      "option": 3,
+      "optionText": "ダメージ",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "canonical": "损害",
+      "explanation": "空白不是不会；补核心义或口述一次即可。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2020.12-文字・語彙-2-7",
+      "question": 12,
+      "option": 4,
+      "optionText": "クレーム",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "canonical": "投诉：客からクレームが来る",
+      "explanation": "空白不是不会；补核心义或口述一次即可。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2012.12-文字・語彙-2-12",
+      "question": 13,
+      "option": 1,
+      "optionText": "リストアップ",
+      "selected": false,
+      "expected": true,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "优先补",
+      "canonical": "日语リストアップ；英语可说list / make a list；列出全部项目",
+      "explanation": "空白不是不会；补核心义或口述一次即可。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2012.12-文字・語彙-2-12",
+      "question": 13,
+      "option": 2,
+      "optionText": "エントリー",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "优先补",
+      "canonical": "entry；报名、登记、参赛",
+      "explanation": "空白不是不会；补核心义或口述一次即可。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2012.12-文字・語彙-2-12",
+      "question": 13,
+      "option": 3,
+      "optionText": "ストック",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "优先补",
+      "canonical": "stock；库存、储备",
+      "explanation": "空白不是不会；补核心义或口述一次即可。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2012.12-文字・語彙-2-12",
+      "question": 13,
+      "option": 4,
+      "optionText": "コーディネート",
+      "selected": true,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "优先补",
+      "canonical": "coordinate；协调、统筹、搭配",
+      "explanation": "空白不是不会；补核心义或口述一次即可。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "markdown-2025.07-language-11",
+      "question": 14,
+      "option": 1,
+      "optionText": "ブランク",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "canonical": "blank；空白、职业空档期；何年もブランクがある",
+      "explanation": "空白不是不会；补核心义或口述一次即可。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "markdown-2025.07-language-11",
+      "question": 14,
+      "option": 2,
+      "optionText": "オフ",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "canonical": "off；休息、休假、关闭；不表示数年职业空档",
+      "explanation": "空白不是不会；补核心义或口述一次即可。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "markdown-2025.07-language-11",
+      "question": 14,
+      "option": 3,
+      "optionText": "フリー",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "canonical": "free；自由、空闲、免费；不表示一段空档",
+      "explanation": "空白不是不会；补核心义或口述一次即可。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "markdown-2025.07-language-11",
+      "question": 14,
+      "option": 4,
+      "optionText": "ブレイク",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "canonical": "break；短暂休息、中断；本题多年职业空档用ブランク",
+      "explanation": "空白不是不会；补核心义或口述一次即可。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "markdown-2025.12-language-8",
+      "question": 15,
+      "option": 1,
+      "optionText": "プラス",
+      "selected": false,
+      "expected": false,
+      "note": "plus",
+      "verdict": "可接受",
+      "priority": "优先辨析搭配",
+      "canonical": "plus；加、正数、增益",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "markdown-2025.12-language-8",
+          "plus"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "markdown-2025.12-language-8",
+      "question": 15,
+      "option": 2,
+      "optionText": "アップ",
+      "selected": true,
+      "expected": false,
+      "note": "up",
+      "verdict": "可接受",
+      "priority": "优先辨析搭配",
+      "canonical": "up；上升、提高；不是双方比分的领先关系",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "markdown-2025.12-language-8",
+          "up"
+        ],
+        [
+          "sbry-n1-2010.07-文字・語彙-2-8",
+          "up"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "markdown-2025.12-language-8",
+      "question": 15,
+      "option": 3,
+      "optionText": "リード",
+      "selected": false,
+      "expected": true,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "优先补",
+      "canonical": "lead；领先；1点リードする＝领先一分",
+      "explanation": "空白不是不会；补核心义或口述一次即可。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "markdown-2025.12-language-8",
+      "question": 15,
+      "option": 4,
+      "optionText": "キャッチ",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "优先补",
+      "canonical": "catch；接住、抓住",
+      "explanation": "空白不是不会；补核心义或口述一次即可。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2010.07-文字・語彙-2-8",
+      "question": 16,
+      "option": 1,
+      "optionText": "キープ",
+      "selected": false,
+      "expected": false,
+      "note": "keep",
+      "verdict": "可接受",
+      "priority": "复用本次标注",
+      "canonical": "keep；保持、保留",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2010.07-文字・語彙-2-8",
+          "keep"
+        ],
+        [
+          "sbry-n1-2011.12-文字・語彙-2-13",
+          "keep"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2010.07-文字・語彙-2-8",
+      "question": 16,
+      "option": 2,
+      "optionText": "フォロー",
+      "selected": true,
+      "expected": true,
+      "note": "follow",
+      "verdict": "可接受",
+      "priority": "复用本次标注",
+      "canonical": "follow；日语此处为补充、支援、帮忙解围；不是单纯跟随",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2010.07-文字・語彙-2-8",
+          "follow"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2010.07-文字・語彙-2-8",
+      "question": 16,
+      "option": 3,
+      "optionText": "マッチ",
+      "selected": false,
+      "expected": false,
+      "note": "match",
+      "verdict": "可接受",
+      "priority": "复用本次标注",
+      "canonical": "match；匹配、相配、比赛；不是much（多、很）",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2010.07-文字・語彙-2-8",
+          "match"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2010.07-文字・語彙-2-8",
+      "question": 16,
+      "option": 4,
+      "optionText": "アップ",
+      "selected": false,
+      "expected": false,
+      "note": "up",
+      "verdict": "可接受",
+      "priority": "复用本次标注",
+      "canonical": "up；上升、提高",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "markdown-2025.12-language-8",
+          "up"
+        ],
+        [
+          "sbry-n1-2010.07-文字・語彙-2-8",
+          "up"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2018.12-文字・語彙-2-8",
+      "question": 17,
+      "option": 1,
+      "optionText": "スケッチ",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "优先补",
+      "canonical": "素描、草图",
+      "explanation": "空白不是不会；补核心义或口述一次即可。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2018.12-文字・語彙-2-8",
+      "question": 17,
+      "option": 2,
+      "optionText": "レイアウト",
+      "selected": false,
+      "expected": true,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "优先补",
+      "canonical": "布局、版面：安排文章图片",
+      "explanation": "空白不是不会；补核心义或口述一次即可。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2018.12-文字・語彙-2-8",
+      "question": 17,
+      "option": 3,
+      "optionText": "アウトライン",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "优先补",
+      "canonical": "概要、轮廓",
+      "explanation": "空白不是不会；补核心义或口述一次即可。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2018.12-文字・語彙-2-8",
+      "question": 17,
+      "option": 4,
+      "optionText": "ルックス",
+      "selected": true,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "优先补",
+      "canonical": "外貌",
+      "explanation": "空白不是不会；补核心义或口述一次即可。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2015.12-文字・語彙-2-8",
+      "question": 18,
+      "option": 1,
+      "optionText": "データベース",
+      "selected": false,
+      "expected": false,
+      "note": "database",
+      "verdict": "可接受",
+      "priority": "复用本次标注",
+      "canonical": "数据库",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2015.12-文字・語彙-2-8",
+          "database"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2015.12-文字・語彙-2-8",
+      "question": 18,
+      "option": 2,
+      "optionText": "コミュニケーション",
+      "selected": false,
+      "expected": false,
+      "note": "comunication",
+      "verdict": "可接受",
+      "priority": "复用本次标注",
+      "canonical": "交流",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2015.12-文字・語彙-2-8",
+          "comunication"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2015.12-文字・語彙-2-8",
+      "question": 18,
+      "option": 3,
+      "optionText": "メディア",
+      "selected": true,
+      "expected": true,
+      "note": "media",
+      "verdict": "可接受",
+      "priority": "复用本次标注",
+      "canonical": "媒体：电视报纸",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2015.12-文字・語彙-2-8",
+          "media"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2015.12-文字・語彙-2-8",
+      "question": 18,
+      "option": 4,
+      "optionText": "スクリーン",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "canonical": "屏幕、银幕",
+      "explanation": "空白不是不会；补核心义或口述一次即可。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2017.12-文字・語彙-2-7",
+      "question": 19,
+      "option": 1,
+      "optionText": "レート",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "优先补",
+      "canonical": "比率、汇率",
+      "explanation": "空白不是不会；补核心义或口述一次即可。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2017.12-文字・語彙-2-7",
+      "question": 19,
+      "option": 2,
+      "optionText": "レベル",
+      "selected": false,
+      "expected": false,
+      "note": "level",
+      "verdict": "可接受",
+      "priority": "优先辨析搭配",
+      "canonical": "水平",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2017.12-文字・語彙-2-7",
+          "level"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2017.12-文字・語彙-2-7",
+      "question": 19,
+      "option": 3,
+      "optionText": "ランク",
+      "selected": true,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "优先补",
+      "canonical": "等级",
+      "explanation": "空白不是不会；补核心义或口述一次即可。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2017.12-文字・語彙-2-7",
+      "question": 19,
+      "option": 4,
+      "optionText": "シェア",
+      "selected": false,
+      "expected": true,
+      "note": "share",
+      "verdict": "可接受",
+      "priority": "优先辨析搭配",
+      "canonical": "市场份额：20%のシェアを占める",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2017.12-文字・語彙-2-7",
+          "share"
+        ],
+        [
+          "sbry-n1-2011.12-文字・語彙-2-13",
+          "share"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2022.07-文字・語彙-2-8",
+      "question": 20,
+      "option": 1,
+      "optionText": "ピッチ",
+      "selected": false,
+      "expected": false,
+      "note": "peach",
+      "verdict": "错误",
+      "priority": "优先纠正",
+      "canonical": "pitch；音高、节奏、间距等；peach对应ピーチ。",
+      "explanation": "当前记录对应了另一个词；可能含录入错误，但需核对日语音形，不能自动算普通拼写简略。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2022.07-文字・語彙-2-8",
+          "peach"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2022.07-文字・語彙-2-8",
+      "question": 20,
+      "option": 2,
+      "optionText": "サイクル",
+      "selected": true,
+      "expected": true,
+      "note": "cycle",
+      "verdict": "可接受",
+      "priority": "复用本次标注",
+      "canonical": "cycle；循环、周期；予習→授業→復習というサイクル",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2022.07-文字・語彙-2-8",
+          "cycle"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2022.07-文字・語彙-2-8",
+      "question": 20,
+      "option": 3,
+      "optionText": "シフト",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "canonical": "shift；转换、轮班",
+      "explanation": "空白不是不会；补核心义或口述一次即可。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2022.07-文字・語彙-2-8",
+      "question": 20,
+      "option": 4,
+      "optionText": "ペース",
+      "selected": false,
+      "expected": false,
+      "note": "base",
+      "verdict": "错误",
+      "priority": "优先纠正",
+      "canonical": "pace；速度、步调；base对应ベース。",
+      "explanation": "当前记录对应了另一个词；可能含录入错误，但需核对日语音形，不能自动算普通拼写简略。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2022.07-文字・語彙-2-8",
+          "base"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2011.12-文字・語彙-2-13",
+      "question": 21,
+      "option": 1,
+      "optionText": "キープ",
+      "selected": false,
+      "expected": false,
+      "note": "keep",
+      "verdict": "可接受",
+      "priority": "复用本次标注",
+      "canonical": "keep；保持、保留",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2010.07-文字・語彙-2-8",
+          "keep"
+        ],
+        [
+          "sbry-n1-2011.12-文字・語彙-2-13",
+          "keep"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2011.12-文字・語彙-2-13",
+      "question": 21,
+      "option": 2,
+      "optionText": "チャージ",
+      "selected": false,
+      "expected": false,
+      "note": "charg",
+      "verdict": "可接受",
+      "priority": "复用本次标注",
+      "canonical": "charge；收费、充值、充电",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2011.12-文字・語彙-2-13",
+          "charg"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2011.12-文字・語彙-2-13",
+      "question": 21,
+      "option": 3,
+      "optionText": "ストック",
+      "selected": true,
+      "expected": true,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "canonical": "stock；库存；コピー用紙のストックが減る",
+      "explanation": "空白不是不会；补核心义或口述一次即可。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2011.12-文字・語彙-2-13",
+      "question": 21,
+      "option": 4,
+      "optionText": "シェア",
+      "selected": false,
+      "expected": false,
+      "note": "share",
+      "verdict": "可接受",
+      "priority": "复用本次标注",
+      "canonical": "share；分享、份额",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2017.12-文字・語彙-2-7",
+          "share"
+        ],
+        [
+          "sbry-n1-2011.12-文字・語彙-2-13",
+          "share"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2019.07-文字・語彙-2-7",
+      "question": 22,
+      "option": 1,
+      "optionText": "レーダー",
+      "selected": false,
+      "expected": false,
+      "note": "leader",
+      "verdict": "错误",
+      "priority": "优先纠正",
+      "canonical": "radar；雷达；leader对应リーダー。",
+      "explanation": "当前记录对应了另一个词；可能含录入错误，但需核对日语音形，不能自动算普通拼写简略。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2019.07-文字・語彙-2-7",
+          "leader"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2019.07-文字・語彙-2-7",
+      "question": 22,
+      "option": 2,
+      "optionText": "モーター",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "canonical": "马达",
+      "explanation": "空白不是不会；补核心义或口述一次即可。",
+      "sameWordNotes": []
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2019.07-文字・語彙-2-7",
+      "question": 22,
+      "option": 3,
+      "optionText": "センサー",
+      "selected": true,
+      "expected": true,
+      "note": "sensor",
+      "verdict": "可接受",
+      "priority": "复用本次标注",
+      "canonical": "传感器：检测漏气",
+      "explanation": "词汇对应可接受，不以英文拼写考试标准扣分；不自动证明日语语境义和搭配已掌握。",
+      "sameWordNotes": [
+        [
+          "sbry-n1-2019.07-文字・語彙-2-7",
+          "sensor"
+        ]
+      ]
+    },
+    {
+      "recordId": "1791725472402-22wlpv",
+      "questionId": "sbry-n1-2019.07-文字・語彙-2-7",
+      "question": 22,
+      "option": 4,
+      "optionText": "レバー",
+      "selected": false,
+      "expected": false,
+      "note": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "canonical": "操纵杆",
+      "explanation": "空白不是不会；补核心义或口述一次即可。",
+      "sameWordNotes": []
+    }
+  ]
+}

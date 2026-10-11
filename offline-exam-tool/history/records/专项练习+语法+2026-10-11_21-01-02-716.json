@@ -1,0 +1,471 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791723662716-dtqryy",
+    "submittedAt": "2026-10-11T13:01:02.716Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": true,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "sbry-n1-2011.07-文法-5-29",
+        "sbry-n1-2018.12-文法-5-35",
+        "sbry-n1-2020.12-文法-5-32",
+        "sbry-n1-2012.07-文法-5-30",
+        "sbry-n1-2015.07-文法-5-32",
+        "sbry-n1-2010.12-文法-5-31",
+        "sbry-n1-2013.12-文法-5-28",
+        "sbry-n1-2020.12-文法-5-31",
+        "sbry-n1-2013.07-文法-5-26",
+        "sbry-n1-2016.12-文法-5-35"
+      ],
+      "shuffleOptions": true,
+      "optionOrders": {
+        "sbry-n1-2011.07-文法-5-29": [
+          3,
+          2,
+          1,
+          4
+        ],
+        "sbry-n1-2018.12-文法-5-35": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "sbry-n1-2020.12-文法-5-32": [
+          4,
+          3,
+          1,
+          2
+        ],
+        "sbry-n1-2012.07-文法-5-30": [
+          3,
+          1,
+          4,
+          2
+        ],
+        "sbry-n1-2015.07-文法-5-32": [
+          2,
+          3,
+          4,
+          1
+        ],
+        "sbry-n1-2010.12-文法-5-31": [
+          1,
+          4,
+          3,
+          2
+        ],
+        "sbry-n1-2013.12-文法-5-28": [
+          1,
+          4,
+          2,
+          3
+        ],
+        "sbry-n1-2020.12-文法-5-31": [
+          3,
+          1,
+          4,
+          2
+        ],
+        "sbry-n1-2013.07-文法-5-26": [
+          4,
+          1,
+          2,
+          3
+        ],
+        "sbry-n1-2016.12-文法-5-35": [
+          3,
+          2,
+          1,
+          4
+        ]
+      },
+      "showFurigana": true
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 7,
+    "percentage": 70,
+    "durationSeconds": 377,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2011.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b04",
+          "grammar.q5.c16"
+        ],
+        "id": "sbry-n1-2011.07-文法-5-29",
+        "number": 29,
+        "selected": [
+          1
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "プリンターの調子が悪くなり、製造会社に電話で問い合わせたら、向こうの担当者に、あれこれ質問に答え()あげく、対応できないと言われた。",
+        "options": [
+          "させた",
+          "させられる",
+          "させる",
+          "させられた"
+        ],
+        "optionOrder": [
+          3,
+          2,
+          1,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b04",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2018.12-文法-5-35",
+        "number": 35,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "適切な目標を設定するのは難しいと言われている。目標があまりに高すぎると、やる気を()からだ。",
+        "options": [
+          "失わせてしまってはならない",
+          "失わせてしまいつつある",
+          "失わせてしまうところだ",
+          "失わせてしまうおそれがある"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2020.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b05"
+        ],
+        "id": "sbry-n1-2020.12-文法-5-32",
+        "number": 32,
+        "selected": [
+          2
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "次の試合の相手とは前回の大会で、一度()。前回は負けたが、今回は絶対に勝ちたい。",
+        "options": [
+          "対戦している",
+          "対戦してくる",
+          "対戦してみる",
+          "対戦していく"
+        ],
+        "optionOrder": [
+          4,
+          3,
+          1,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2012.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03"
+        ],
+        "id": "sbry-n1-2012.07-文法-5-30",
+        "number": 30,
+        "selected": [
+          4
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "お客様、ご希望のホテルが満室でしたので、他のホテルにご変更()のですが……。よろしいでしょうか。",
+        "options": [
+          "ねがいたい",
+          "なさりたい",
+          "くださりたい",
+          "になりたい"
+        ],
+        "optionOrder": [
+          3,
+          1,
+          4,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2015.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c19"
+        ],
+        "id": "sbry-n1-2015.07-文法-5-32",
+        "number": 32,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "高さ700メートルを超すこの超高層ビルは、高成長を続けるA国の象徴()存在となっている。",
+        "options": [
+          "にするべく",
+          "とでもいうべき",
+          "があるらしい",
+          "でもなるような"
+        ],
+        "optionOrder": [
+          2,
+          3,
+          4,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2010.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2010.12-文法-5-31",
+        "number": 31,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "上司「君、困る()！資料にミスがあったぞ。君のせいで大恥をかいたよ。」\n部下「すみません。うっかりしておりまして……」",
+        "options": [
+          "じゃないか",
+          "のではないか",
+          "じゃないのか",
+          "のではないのか"
+        ],
+        "optionOrder": [
+          1,
+          4,
+          3,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2013.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c17",
+          "grammar.q5.b02"
+        ],
+        "id": "sbry-n1-2013.12-文法-5-28",
+        "number": 28,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "３０００ｍを超える冬山に、十分な装備もなく単独で登るのは、()極まりない行為だ。",
+        "options": [
+          "危険",
+          "危険の",
+          "危険な",
+          "危険に"
+        ],
+        "optionOrder": [
+          1,
+          4,
+          2,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2020.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c08",
+          "grammar.q5.c20"
+        ],
+        "id": "sbry-n1-2020.12-文法-5-31",
+        "number": 31,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "A:「ねえ、この漫画、面白いよ。」\nB:「興味ない」\nA:「そんなこと言って。本当は読んでみたくてしかたが()。」",
+        "options": [
+          "なくちゃ",
+          "ないけど",
+          "ないくせに",
+          "なくたって"
+        ],
+        "optionOrder": [
+          3,
+          1,
+          4,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2013.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c02"
+        ],
+        "id": "sbry-n1-2013.07-文法-5-26",
+        "number": 26,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "乗客の減少が続いていた竹山鉄道が、今年の３月31日()廃止された。",
+        "options": [
+          "を受けて",
+          "を皮切りに",
+          "をピークに",
+          "をもって"
+        ],
+        "optionOrder": [
+          4,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2016.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2016.12-文法-5-35",
+        "number": 35,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "山下「あのう、西村先輩。私、今日でこのサークルを()。」\n西村「ええ？辞める？急にどうして？」",
+        "options": [
+          "辞めてしまわれたのでしょうか",
+          "辞めてしまったのかと思って",
+          "辞めさせたらどうでしょうか",
+          "辞めさせてもらおうかと思って"
+        ],
+        "optionOrder": [
+          3,
+          2,
+          1,
+          4
+        ]
+      }
+    ]
+  }
+}
