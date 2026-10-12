@@ -1,0 +1,1873 @@
+{
+  "recordId": "1791773179000-z4i1qg",
+  "counts": {
+    "未标注": 28,
+    "可接受": 54,
+    "错误": 5,
+    "待核实": 1
+  },
+  "correctOptionNotes": 17,
+  "distractorNotes": 43,
+  "blankCorrectOptions": 5,
+  "blankDistractors": 23,
+  "blankPriorities": {
+    "建议补一次": 19,
+    "优先补": 7,
+    "复用本轮标注并验证": 1,
+    "复用历史可接受部分": 1
+  },
+  "rows": [
+    {
+      "questionId": "markdown-2025.07-language-11",
+      "optionIndex": 1,
+      "displayPosition": 2,
+      "option": "ブランク",
+      "correctOption": true,
+      "selected": true,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "canonical": "blank；空白、职业空档期；何年もブランクがある",
+      "explanation": "缺少独立释义证据；可用中文口述，无需每次重写。",
+      "historicalAnnotations": []
+    },
+    {
+      "questionId": "markdown-2025.07-language-11",
+      "optionIndex": 2,
+      "displayPosition": 1,
+      "option": "オフ",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "off",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "off；休息、休假、关闭；不表示数年职业空档",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。",
+      "historicalAnnotations": []
+    },
+    {
+      "questionId": "markdown-2025.07-language-11",
+      "optionIndex": 3,
+      "displayPosition": 3,
+      "option": "フリー",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "canonical": "free；自由、空闲、免费；不表示一段空档",
+      "explanation": "缺少独立释义证据；可用中文口述，无需每次重写。",
+      "historicalAnnotations": []
+    },
+    {
+      "questionId": "markdown-2025.07-language-11",
+      "optionIndex": 4,
+      "displayPosition": 4,
+      "option": "ブレイク",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "canonical": "break；短暂休息、中断；本题多年职业空档用ブランク",
+      "explanation": "缺少独立释义证据；可用中文口述，无需每次重写。",
+      "historicalAnnotations": []
+    },
+    {
+      "questionId": "sbry-n1-2018.12-文字・語彙-2-8",
+      "optionIndex": 1,
+      "displayPosition": 3,
+      "option": "スケッチ",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "canonical": "素描、草图",
+      "explanation": "缺少独立释义证据；可用中文口述，无需每次重写。",
+      "historicalAnnotations": []
+    },
+    {
+      "questionId": "sbry-n1-2018.12-文字・語彙-2-8",
+      "optionIndex": 2,
+      "displayPosition": 4,
+      "option": "レイアウト",
+      "correctOption": true,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "优先补",
+      "canonical": "布局、版面：安排文章图片",
+      "explanation": "本题持续错误或回退，需补中文核心义及区别。",
+      "historicalAnnotations": []
+    },
+    {
+      "questionId": "sbry-n1-2018.12-文字・語彙-2-8",
+      "optionIndex": 3,
+      "displayPosition": 1,
+      "option": "アウトライン",
+      "correctOption": false,
+      "selected": true,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "优先补",
+      "canonical": "概要、轮廓",
+      "explanation": "本题持续错误或回退，需补中文核心义及区别。",
+      "historicalAnnotations": []
+    },
+    {
+      "questionId": "sbry-n1-2018.12-文字・語彙-2-8",
+      "optionIndex": 4,
+      "displayPosition": 2,
+      "option": "ルックス",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "canonical": "外貌",
+      "explanation": "缺少独立释义证据；可用中文口述，无需每次重写。",
+      "historicalAnnotations": []
+    },
+    {
+      "questionId": "sbry-n1-2016.07-文字・語彙-2-8",
+      "optionIndex": 1,
+      "displayPosition": 2,
+      "option": "センス",
+      "correctOption": true,
+      "selected": true,
+      "originalAnnotation": "sense",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "品味、审美：服のセンス",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-09",
+          "recordId": "1791512671680-4pkp77",
+          "questionId": "sbry-n1-2011.12-文字・語彙-2-10",
+          "note": "sense"
+        },
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2016.07-文字・語彙-2-8",
+          "note": "sense"
+        },
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2011.12-文字・語彙-2-10",
+          "note": "sence"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2016.07-文字・語彙-2-8",
+      "optionIndex": 2,
+      "displayPosition": 3,
+      "option": "タイミング",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "timing",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "时机",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2016.07-文字・語彙-2-8",
+          "note": "timing"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2016.07-文字・語彙-2-8",
+      "optionIndex": 3,
+      "displayPosition": 4,
+      "option": "ステップ",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "step",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "步骤、台阶",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2016.07-文字・語彙-2-8",
+          "note": "step"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2016.07-文字・語彙-2-8",
+      "optionIndex": 4,
+      "displayPosition": 1,
+      "option": "ニュアンス",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "nuance",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "细微意味、语感",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2016.07-文字・語彙-2-8",
+          "note": "nuance"
+        },
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2011.12-文字・語彙-2-10",
+          "note": "nuance"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2022.07-文字・語彙-2-8",
+      "optionIndex": 1,
+      "displayPosition": 4,
+      "option": "ピッチ",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "优先补",
+      "canonical": "pitch；音高、节奏、间距等；peach对应ピーチ。",
+      "explanation": "昨日误注peach，今天空白没有纠正证据；应为pitch。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2022.07-文字・語彙-2-8",
+          "note": "peach"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2022.07-文字・語彙-2-8",
+      "optionIndex": 2,
+      "displayPosition": 2,
+      "option": "サイクル",
+      "correctOption": true,
+      "selected": true,
+      "originalAnnotation": "cycle",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "cycle；循环、周期；予習→授業→復習というサイクル",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-09",
+          "recordId": "1791512671680-4pkp77",
+          "questionId": "sbry-n1-2022.07-文字・語彙-2-8",
+          "note": "cyc"
+        },
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2022.07-文字・語彙-2-8",
+          "note": "cycle"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2022.07-文字・語彙-2-8",
+      "optionIndex": 3,
+      "displayPosition": 1,
+      "option": "シフト",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "canonical": "shift；转换、轮班",
+      "explanation": "缺少独立释义证据；可用中文口述，无需每次重写。",
+      "historicalAnnotations": []
+    },
+    {
+      "questionId": "sbry-n1-2022.07-文字・語彙-2-8",
+      "optionIndex": 4,
+      "displayPosition": 3,
+      "option": "ペース",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "base",
+      "verdict": "错误",
+      "priority": "优先纠正",
+      "canonical": "pace；速度、步调；base对应ベース。",
+      "explanation": "ペース＝pace（步调、速度）；base对应ベース。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2022.07-文字・語彙-2-8",
+          "note": "base"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2012.07-文字・語彙-2-7",
+      "optionIndex": 1,
+      "displayPosition": 4,
+      "option": "リミット",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "limit",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "limit；限度、界限",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-09",
+          "recordId": "1791512671680-4pkp77",
+          "questionId": "sbry-n1-2012.07-文字・語彙-2-7",
+          "note": "limit"
+        },
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2012.07-文字・語彙-2-7",
+          "note": "limit"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2012.07-文字・語彙-2-7",
+      "optionIndex": 2,
+      "displayPosition": 3,
+      "option": "ブロック",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "block",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "block；块、阻挡；本题难度门槛用ハードル",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2012.07-文字・語彙-2-7",
+          "note": "block"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2012.07-文字・語彙-2-7",
+      "optionIndex": 3,
+      "displayPosition": 1,
+      "option": "ノルマ",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "norma",
+      "verdict": "可接受",
+      "priority": "补中文义与搭配",
+      "canonical": "俄语norma；英语对应quota；规定的任务量、指标",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。 本轮同词应用失败或标注相互矛盾，不能据此认定已稳定。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-09",
+          "recordId": "1791512671680-4pkp77",
+          "questionId": "sbry-n1-2012.07-文字・語彙-2-7",
+          "note": "norma"
+        },
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2012.07-文字・語彙-2-7",
+          "note": "norma"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2012.07-文字・語彙-2-7",
+      "optionIndex": 4,
+      "displayPosition": 2,
+      "option": "ハードル",
+      "correctOption": true,
+      "selected": true,
+      "originalAnnotation": "hardle",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "hurdle；栏、障碍、门槛；ハードルが高い＝门槛高、难度大",
+      "explanation": "可辨认的近似拼写或片段，不作为日语词义错误；规范拼写可参考相应词源。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-09",
+          "recordId": "1791512671680-4pkp77",
+          "questionId": "sbry-n1-2012.07-文字・語彙-2-7",
+          "note": "hardle"
+        },
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2012.07-文字・語彙-2-7",
+          "note": "hardle"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2010.07-文字・語彙-2-8",
+      "optionIndex": 1,
+      "displayPosition": 2,
+      "option": "キープ",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "keep",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "keep；保持、保留",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-09",
+          "recordId": "1791512671680-4pkp77",
+          "questionId": "sbry-n1-2011.12-文字・語彙-2-13",
+          "note": "keep"
+        },
+        {
+          "date": "2026-10-09",
+          "recordId": "1791512671680-4pkp77",
+          "questionId": "sbry-n1-2010.07-文字・語彙-2-8",
+          "note": "keep"
+        },
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2010.07-文字・語彙-2-8",
+          "note": "keep"
+        },
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2011.12-文字・語彙-2-13",
+          "note": "keep"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2010.07-文字・語彙-2-8",
+      "optionIndex": 2,
+      "displayPosition": 1,
+      "option": "フォロー",
+      "correctOption": true,
+      "selected": true,
+      "originalAnnotation": "follow",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "follow；日语此处为补充、支援、帮忙解围；不是单纯跟随",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-09",
+          "recordId": "1791512671680-4pkp77",
+          "questionId": "sbry-n1-2010.07-文字・語彙-2-8",
+          "note": "follow"
+        },
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2010.07-文字・語彙-2-8",
+          "note": "follow"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2010.07-文字・語彙-2-8",
+      "optionIndex": 3,
+      "displayPosition": 3,
+      "option": "マッチ",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "match",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "match；匹配、相配、比赛；不是much（多、很）",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-09",
+          "recordId": "1791512671680-4pkp77",
+          "questionId": "sbry-n1-2010.07-文字・語彙-2-8",
+          "note": "much"
+        },
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2010.07-文字・語彙-2-8",
+          "note": "match"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2010.07-文字・語彙-2-8",
+      "optionIndex": 4,
+      "displayPosition": 4,
+      "option": "アップ",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "up",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "up；上升、提高",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-09",
+          "recordId": "1791512671680-4pkp77",
+          "questionId": "markdown-2025.12-language-8",
+          "note": "up"
+        },
+        {
+          "date": "2026-10-09",
+          "recordId": "1791512671680-4pkp77",
+          "questionId": "sbry-n1-2010.07-文字・語彙-2-8",
+          "note": "up"
+        },
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "markdown-2025.12-language-8",
+          "note": "up"
+        },
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2010.07-文字・語彙-2-8",
+          "note": "up"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2011.12-文字・語彙-2-13",
+      "optionIndex": 1,
+      "displayPosition": 1,
+      "option": "キープ",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "keep",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "keep；保持、保留",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-09",
+          "recordId": "1791512671680-4pkp77",
+          "questionId": "sbry-n1-2011.12-文字・語彙-2-13",
+          "note": "keep"
+        },
+        {
+          "date": "2026-10-09",
+          "recordId": "1791512671680-4pkp77",
+          "questionId": "sbry-n1-2010.07-文字・語彙-2-8",
+          "note": "keep"
+        },
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2010.07-文字・語彙-2-8",
+          "note": "keep"
+        },
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2011.12-文字・語彙-2-13",
+          "note": "keep"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2011.12-文字・語彙-2-13",
+      "optionIndex": 2,
+      "displayPosition": 3,
+      "option": "チャージ",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "charg",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "charge；收费、充值、充电",
+      "explanation": "可辨认的近似拼写或片段，不作为日语词义错误；规范拼写可参考相应词源。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-09",
+          "recordId": "1791512671680-4pkp77",
+          "questionId": "sbry-n1-2011.12-文字・語彙-2-13",
+          "note": "charg"
+        },
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2011.12-文字・語彙-2-13",
+          "note": "charg"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2011.12-文字・語彙-2-13",
+      "optionIndex": 3,
+      "displayPosition": 2,
+      "option": "ストック",
+      "correctOption": true,
+      "selected": true,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "canonical": "stock；库存；コピー用紙のストックが減る",
+      "explanation": "缺少独立释义证据；可用中文口述，无需每次重写。",
+      "historicalAnnotations": []
+    },
+    {
+      "questionId": "sbry-n1-2011.12-文字・語彙-2-13",
+      "optionIndex": 4,
+      "displayPosition": 4,
+      "option": "シェア",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "share",
+      "verdict": "可接受",
+      "priority": "补中文义与搭配",
+      "canonical": "share；分享、份额",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。 本轮同词应用失败或标注相互矛盾，不能据此认定已稳定。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-09",
+          "recordId": "1791512671680-4pkp77",
+          "questionId": "sbry-n1-2011.12-文字・語彙-2-13",
+          "note": "share"
+        },
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2017.12-文字・語彙-2-7",
+          "note": "share"
+        },
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2011.12-文字・語彙-2-13",
+          "note": "share"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2017.12-文字・語彙-2-7",
+      "optionIndex": 1,
+      "displayPosition": 3,
+      "option": "レート",
+      "correctOption": false,
+      "selected": true,
+      "originalAnnotation": "let",
+      "verdict": "错误",
+      "priority": "优先纠正",
+      "canonical": "比率、汇率",
+      "explanation": "レート＝rate（比率、汇率）；let不是对应词。",
+      "historicalAnnotations": []
+    },
+    {
+      "questionId": "sbry-n1-2017.12-文字・語彙-2-7",
+      "optionIndex": 2,
+      "displayPosition": 2,
+      "option": "レベル",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "level",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "水平",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2017.12-文字・語彙-2-7",
+          "note": "level"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2017.12-文字・語彙-2-7",
+      "optionIndex": 3,
+      "displayPosition": 1,
+      "option": "ランク",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "canonical": "等级",
+      "explanation": "缺少独立释义证据；可用中文口述，无需每次重写。",
+      "historicalAnnotations": []
+    },
+    {
+      "questionId": "sbry-n1-2017.12-文字・語彙-2-7",
+      "optionIndex": 4,
+      "displayPosition": 4,
+      "option": "シェア",
+      "correctOption": true,
+      "selected": false,
+      "originalAnnotation": "share",
+      "verdict": "可接受",
+      "priority": "补中文义与搭配",
+      "canonical": "市场份额：20%のシェアを占める",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。 本轮同词应用失败或标注相互矛盾，不能据此认定已稳定。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-09",
+          "recordId": "1791512671680-4pkp77",
+          "questionId": "sbry-n1-2011.12-文字・語彙-2-13",
+          "note": "share"
+        },
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2017.12-文字・語彙-2-7",
+          "note": "share"
+        },
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2011.12-文字・語彙-2-13",
+          "note": "share"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2017.07-文字・語彙-2-8",
+      "optionIndex": 1,
+      "displayPosition": 1,
+      "option": "クリアに",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "clear",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "清楚地",
+      "explanation": "clear对应クリア，词源速记正确；与キャリア是不同词。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2017.07-文字・語彙-2-8",
+          "note": "clear"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2017.07-文字・語彙-2-8",
+      "optionIndex": 2,
+      "displayPosition": 4,
+      "option": "ストレートに",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "straight",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "直接、笔直地",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。",
+      "historicalAnnotations": []
+    },
+    {
+      "questionId": "sbry-n1-2017.07-文字・語彙-2-8",
+      "optionIndex": 3,
+      "displayPosition": 2,
+      "option": "シンプルに",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "simple",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "简单地",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2017.07-文字・語彙-2-8",
+          "note": "simple"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2017.07-文字・語彙-2-8",
+      "optionIndex": 4,
+      "displayPosition": 3,
+      "option": "コンスタントに",
+      "correctOption": true,
+      "selected": true,
+      "originalAnnotation": "constant",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "稳定、持续地：每月固定销量",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2017.07-文字・語彙-2-8",
+          "note": "constant"
+        }
+      ]
+    },
+    {
+      "questionId": "jlpt4you-2023.07-vocabulary-2-4",
+      "optionIndex": 1,
+      "displayPosition": 3,
+      "option": "ノイズ",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "noise",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "杂音、干扰",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "jlpt4you-2023.07-vocabulary-2-4",
+          "note": "noise"
+        }
+      ]
+    },
+    {
+      "questionId": "jlpt4you-2023.07-vocabulary-2-4",
+      "optionIndex": 2,
+      "displayPosition": 4,
+      "option": "ロック",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "lock",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "锁定、锁",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "jlpt4you-2023.07-vocabulary-2-4",
+          "note": "lock"
+        }
+      ]
+    },
+    {
+      "questionId": "jlpt4you-2023.07-vocabulary-2-4",
+      "optionIndex": 3,
+      "displayPosition": 1,
+      "option": "タブー",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "taboo",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "禁忌",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "jlpt4you-2023.07-vocabulary-2-4",
+          "note": "taboo"
+        }
+      ]
+    },
+    {
+      "questionId": "jlpt4you-2023.07-vocabulary-2-4",
+      "optionIndex": 4,
+      "displayPosition": 2,
+      "option": "ネック",
+      "correctOption": true,
+      "selected": true,
+      "originalAnnotation": "neck",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "瓶颈、障碍：維持費の高さがネックになる",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "jlpt4you-2023.07-vocabulary-2-4",
+          "note": "neck"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2019.07-文字・語彙-2-7",
+      "optionIndex": 1,
+      "displayPosition": 4,
+      "option": "レーダー",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "rada",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "radar；雷达；leader对应リーダー。",
+      "explanation": "可辨认的近似拼写或片段，不作为日语词义错误；规范拼写可参考相应词源。 昨日レーダー→leader的错配本次修正为radar的近似拼写。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2019.07-文字・語彙-2-7",
+          "note": "leader"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2019.07-文字・語彙-2-7",
+      "optionIndex": 2,
+      "displayPosition": 2,
+      "option": "モーター",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "motor",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "马达",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。",
+      "historicalAnnotations": []
+    },
+    {
+      "questionId": "sbry-n1-2019.07-文字・語彙-2-7",
+      "optionIndex": 3,
+      "displayPosition": 1,
+      "option": "センサー",
+      "correctOption": true,
+      "selected": true,
+      "originalAnnotation": "sensor",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "传感器：检测漏气",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2019.07-文字・語彙-2-7",
+          "note": "sensor"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2019.07-文字・語彙-2-7",
+      "optionIndex": 4,
+      "displayPosition": 3,
+      "option": "レバー",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "leva",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "操纵杆",
+      "explanation": "可辨认的近似拼写或片段，不作为日语词义错误；规范拼写可参考相应词源。",
+      "historicalAnnotations": []
+    },
+    {
+      "questionId": "sbry-n1-2016.12-文字・語彙-2-13",
+      "optionIndex": 1,
+      "displayPosition": 2,
+      "option": "データベース",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "database",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "数据库",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2015.12-文字・語彙-2-8",
+          "note": "database"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2016.12-文字・語彙-2-13",
+      "optionIndex": 2,
+      "displayPosition": 3,
+      "option": "ベテラン",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "复用本轮标注并验证",
+      "canonical": "资深人士",
+      "explanation": "同词其他位置已有标注：veten；复用可接受部分，但有语境错误时仍需说明含义。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2010.12-文字・語彙-2-9",
+          "note": "veteran"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2016.12-文字・語彙-2-13",
+      "optionIndex": 3,
+      "displayPosition": 4,
+      "option": "ライフワーク",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "for work",
+      "verdict": "错误",
+      "priority": "优先纠正",
+      "canonical": "毕生事业",
+      "explanation": "ライフワーク＝life’s work／lifework，毕生事业；不是泛指“为了工作”。",
+      "historicalAnnotations": []
+    },
+    {
+      "questionId": "sbry-n1-2016.12-文字・語彙-2-13",
+      "optionIndex": 4,
+      "displayPosition": 1,
+      "option": "ノウハウ",
+      "correctOption": true,
+      "selected": true,
+      "originalAnnotation": "how konw",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "诀窍、实务经验：経営のノウハウ",
+      "explanation": "可辨认为know-how两部分的倒序与拼写速记，认可关联，不当作规范英语写法；应补“诀窍、实务经验”。",
+      "historicalAnnotations": []
+    },
+    {
+      "questionId": "sbry-n1-2018.07-文字・語彙-2-8",
+      "optionIndex": 1,
+      "displayPosition": 1,
+      "option": "アウト",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "canonical": "出局、超出",
+      "explanation": "缺少独立释义证据；可用中文口述，无需每次重写。",
+      "historicalAnnotations": []
+    },
+    {
+      "questionId": "sbry-n1-2018.07-文字・語彙-2-8",
+      "optionIndex": 2,
+      "displayPosition": 3,
+      "option": "エラー",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "canonical": "错误",
+      "explanation": "缺少独立释义证据；可用中文口述，无需每次重写。",
+      "historicalAnnotations": []
+    },
+    {
+      "questionId": "sbry-n1-2018.07-文字・語彙-2-8",
+      "optionIndex": 3,
+      "displayPosition": 2,
+      "option": "リスク",
+      "correctOption": true,
+      "selected": true,
+      "originalAnnotation": "risk",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "风险：リスクを伴う",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2018.07-文字・語彙-2-8",
+          "note": "risk"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2018.07-文字・語彙-2-8",
+      "optionIndex": 4,
+      "displayPosition": 4,
+      "option": "ダウン",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "canonical": "下降",
+      "explanation": "缺少独立释义证据；可用中文口述，无需每次重写。",
+      "historicalAnnotations": []
+    },
+    {
+      "questionId": "sbry-n1-2015.12-文字・語彙-2-8",
+      "optionIndex": 1,
+      "displayPosition": 3,
+      "option": "データベース",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "database",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "数据库",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2015.12-文字・語彙-2-8",
+          "note": "database"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2015.12-文字・語彙-2-8",
+      "optionIndex": 2,
+      "displayPosition": 1,
+      "option": "コミュニケーション",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "comunication",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "交流",
+      "explanation": "可辨认的近似拼写或片段，不作为日语词义错误；规范拼写可参考相应词源。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2015.12-文字・語彙-2-8",
+          "note": "comunication"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2015.12-文字・語彙-2-8",
+      "optionIndex": 3,
+      "displayPosition": 2,
+      "option": "メディア",
+      "correctOption": true,
+      "selected": true,
+      "originalAnnotation": "media",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "媒体：电视报纸",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2015.12-文字・語彙-2-8",
+          "note": "media"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2015.12-文字・語彙-2-8",
+      "optionIndex": 4,
+      "displayPosition": 4,
+      "option": "スクリーン",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "canonical": "屏幕、银幕",
+      "explanation": "缺少独立释义证据；可用中文口述，无需每次重写。",
+      "historicalAnnotations": []
+    },
+    {
+      "questionId": "sbry-n1-2014.07-文字・語彙-2-11",
+      "optionIndex": 1,
+      "displayPosition": 4,
+      "option": "ウェイト",
+      "correctOption": true,
+      "selected": true,
+      "originalAnnotation": "weight",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "weight；重量、比重；面接にウェイトを置く＝重视面试",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-09",
+          "recordId": "1791512671680-4pkp77",
+          "questionId": "sbry-n1-2014.07-文字・語彙-2-11",
+          "note": "weight"
+        },
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2014.07-文字・語彙-2-11",
+          "note": "weight"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2014.07-文字・語彙-2-11",
+      "optionIndex": 2,
+      "displayPosition": 1,
+      "option": "トップ",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "top",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "top；顶端、第一、最高层",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-09",
+          "recordId": "1791512671680-4pkp77",
+          "questionId": "sbry-n1-2014.07-文字・語彙-2-11",
+          "note": "top"
+        },
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2014.07-文字・語彙-2-11",
+          "note": "top"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2014.07-文字・語彙-2-11",
+      "optionIndex": 3,
+      "displayPosition": 2,
+      "option": "パワー",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "power",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "power；力量、能力、动力",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-09",
+          "recordId": "1791512671680-4pkp77",
+          "questionId": "sbry-n1-2014.07-文字・語彙-2-11",
+          "note": "power"
+        },
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2014.07-文字・語彙-2-11",
+          "note": "power"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2014.07-文字・語彙-2-11",
+      "optionIndex": 4,
+      "displayPosition": 3,
+      "option": "メイン",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "main",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "main；主要的、主体；不构成メインを置く",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-09",
+          "recordId": "1791512671680-4pkp77",
+          "questionId": "sbry-n1-2014.07-文字・語彙-2-11",
+          "note": "main"
+        },
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2014.07-文字・語彙-2-11",
+          "note": "main"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2022.12-文字・語彙-2-11",
+      "optionIndex": 1,
+      "displayPosition": 1,
+      "option": "ポーズ",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "pose",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "姿势",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2022.12-文字・語彙-2-11",
+          "note": "pose"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2022.12-文字・語彙-2-11",
+      "optionIndex": 2,
+      "displayPosition": 3,
+      "option": "カーソル",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "cursor",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "光标",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2022.12-文字・語彙-2-11",
+          "note": "cursor"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2022.12-文字・語彙-2-11",
+      "optionIndex": 3,
+      "displayPosition": 4,
+      "option": "ピント",
+      "correctOption": true,
+      "selected": true,
+      "originalAnnotation": "punt",
+      "verdict": "待核实",
+      "priority": "补中文义",
+      "canonical": "焦点；ピントを合わせる＝对焦。",
+      "explanation": "可能是荷兰语brandpunt片段速记；不强行判错，补“焦点／对焦”确认。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2022.12-文字・語彙-2-11",
+          "note": "punt"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2022.12-文字・語彙-2-11",
+      "optionIndex": 4,
+      "displayPosition": 2,
+      "option": "テンポ",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "tempo",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "节奏、速度",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2022.12-文字・語彙-2-11",
+          "note": "tempo"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2010.12-文字・語彙-2-9",
+      "optionIndex": 1,
+      "displayPosition": 2,
+      "option": "ベテラン",
+      "correctOption": false,
+      "selected": true,
+      "originalAnnotation": "veten",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "老手、资深人士；指人，不能ベテランを積む",
+      "explanation": "可辨认的近似拼写或片段，不作为日语词义错误；规范拼写可参考相应词源。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2010.12-文字・語彙-2-9",
+          "note": "veteran"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2010.12-文字・語彙-2-9",
+      "optionIndex": 2,
+      "displayPosition": 4,
+      "option": "ポジション",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "position",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "职位、位置",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2010.12-文字・語彙-2-9",
+          "note": "position"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2010.12-文字・語彙-2-9",
+      "optionIndex": 3,
+      "displayPosition": 3,
+      "option": "ステータス",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "status",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "地位、身份",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2010.12-文字・語彙-2-9",
+          "note": "status"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2010.12-文字・語彙-2-9",
+      "optionIndex": 4,
+      "displayPosition": 1,
+      "option": "キャリア",
+      "correctOption": true,
+      "selected": false,
+      "originalAnnotation": "clear",
+      "verdict": "错误",
+      "priority": "优先纠正",
+      "canonical": "职业经历：20年のキャリアを積む",
+      "explanation": "本项キャリア＝career（职业经历）；clear对应クリア。 昨日career正确、本轮另一处carrer可接受；本项仍判错，反映同词关联不稳定。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-09",
+          "recordId": "1791512671680-4pkp77",
+          "questionId": "sbry-n1-2014.12-文字・語彙-2-10",
+          "note": "clear"
+        },
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2010.12-文字・語彙-2-9",
+          "note": "career"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2014.12-文字・語彙-2-10",
+      "optionIndex": 1,
+      "displayPosition": 2,
+      "option": "キャリア",
+      "correctOption": false,
+      "selected": true,
+      "originalAnnotation": "carrer",
+      "verdict": "可接受",
+      "priority": "补中文义与搭配",
+      "canonical": "career；职业经历、资历；clear对应クリア，不是キャリア",
+      "explanation": "可辨认的近似拼写或片段，不作为日语词义错误；规范拼写可参考相应词源。 本轮同词应用失败或标注相互矛盾，不能据此认定已稳定。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-09",
+          "recordId": "1791512671680-4pkp77",
+          "questionId": "sbry-n1-2014.12-文字・語彙-2-10",
+          "note": "clear"
+        },
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2010.12-文字・語彙-2-9",
+          "note": "career"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2014.12-文字・語彙-2-10",
+      "optionIndex": 2,
+      "displayPosition": 3,
+      "option": "ノルマ",
+      "correctOption": true,
+      "selected": false,
+      "originalAnnotation": "norma",
+      "verdict": "可接受",
+      "priority": "补中文义与搭配",
+      "canonical": "俄语norma；英语quota；任务指标；厳しいノルマが課される",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。 本轮同词应用失败或标注相互矛盾，不能据此认定已稳定。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-09",
+          "recordId": "1791512671680-4pkp77",
+          "questionId": "sbry-n1-2012.07-文字・語彙-2-7",
+          "note": "norma"
+        },
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2012.07-文字・語彙-2-7",
+          "note": "norma"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2014.12-文字・語彙-2-10",
+      "optionIndex": 3,
+      "displayPosition": 4,
+      "option": "チーフ",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "复用历史可接受部分",
+      "canonical": "chief；主管、负责人；不是给员工规定的任务量",
+      "explanation": "历史标注见结构化附件；旧错误不能因为留空解除。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2014.12-文字・語彙-2-10",
+          "note": "chif"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2014.12-文字・語彙-2-10",
+      "optionIndex": 4,
+      "displayPosition": 1,
+      "option": "コスト",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "cost",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "cost；成本、费用",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-09",
+          "recordId": "1791512671680-4pkp77",
+          "questionId": "sbry-n1-2014.12-文字・語彙-2-10",
+          "note": "cost"
+        },
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2014.12-文字・語彙-2-10",
+          "note": "cost"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2012.12-文字・語彙-2-12",
+      "optionIndex": 1,
+      "displayPosition": 4,
+      "option": "リストアップ",
+      "correctOption": true,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "优先补",
+      "canonical": "日语リストアップ；英语可说list / make a list；列出全部项目",
+      "explanation": "本题持续错误或回退，需补中文核心义及区别。",
+      "historicalAnnotations": []
+    },
+    {
+      "questionId": "sbry-n1-2012.12-文字・語彙-2-12",
+      "optionIndex": 2,
+      "displayPosition": 2,
+      "option": "エントリー",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "canonical": "entry；报名、登记、参赛",
+      "explanation": "缺少独立释义证据；可用中文口述，无需每次重写。",
+      "historicalAnnotations": []
+    },
+    {
+      "questionId": "sbry-n1-2012.12-文字・語彙-2-12",
+      "optionIndex": 3,
+      "displayPosition": 1,
+      "option": "ストック",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "canonical": "stock；库存、储备",
+      "explanation": "缺少独立释义证据；可用中文口述，无需每次重写。",
+      "historicalAnnotations": []
+    },
+    {
+      "questionId": "sbry-n1-2012.12-文字・語彙-2-12",
+      "optionIndex": 4,
+      "displayPosition": 3,
+      "option": "コーディネート",
+      "correctOption": false,
+      "selected": true,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "优先补",
+      "canonical": "coordinate；协调、统筹、搭配",
+      "explanation": "本题持续错误或回退，需补中文核心义及区别。",
+      "historicalAnnotations": []
+    },
+    {
+      "questionId": "markdown-2025.12-language-8",
+      "optionIndex": 1,
+      "displayPosition": 2,
+      "option": "プラス",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "plus",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "plus；加、正数、增益",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "markdown-2025.12-language-8",
+          "note": "plus"
+        }
+      ]
+    },
+    {
+      "questionId": "markdown-2025.12-language-8",
+      "optionIndex": 2,
+      "displayPosition": 4,
+      "option": "アップ",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "up",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "up；上升、提高；不是双方比分的领先关系",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-09",
+          "recordId": "1791512671680-4pkp77",
+          "questionId": "markdown-2025.12-language-8",
+          "note": "up"
+        },
+        {
+          "date": "2026-10-09",
+          "recordId": "1791512671680-4pkp77",
+          "questionId": "sbry-n1-2010.07-文字・語彙-2-8",
+          "note": "up"
+        },
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "markdown-2025.12-language-8",
+          "note": "up"
+        },
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2010.07-文字・語彙-2-8",
+          "note": "up"
+        }
+      ]
+    },
+    {
+      "questionId": "markdown-2025.12-language-8",
+      "optionIndex": 3,
+      "displayPosition": 1,
+      "option": "リード",
+      "correctOption": true,
+      "selected": true,
+      "originalAnnotation": "leader",
+      "verdict": "错误",
+      "priority": "优先纠正",
+      "canonical": "lead；领先；1点リードする＝领先一分",
+      "explanation": "本项リード＝lead（领先）；leader是领导者，对应リーダー。",
+      "historicalAnnotations": []
+    },
+    {
+      "questionId": "markdown-2025.12-language-8",
+      "optionIndex": 4,
+      "displayPosition": 3,
+      "option": "キャッチ",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "canonical": "catch；接住、抓住",
+      "explanation": "缺少独立释义证据；可用中文口述，无需每次重写。",
+      "historicalAnnotations": []
+    },
+    {
+      "questionId": "sbry-n1-2020.12-文字・語彙-2-7",
+      "optionIndex": 1,
+      "displayPosition": 4,
+      "option": "エラー",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "canonical": "错误",
+      "explanation": "缺少独立释义证据；可用中文口述，无需每次重写。",
+      "historicalAnnotations": []
+    },
+    {
+      "questionId": "sbry-n1-2020.12-文字・語彙-2-7",
+      "optionIndex": 2,
+      "displayPosition": 3,
+      "option": "ノルマ",
+      "correctOption": false,
+      "selected": true,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "优先补",
+      "canonical": "定额",
+      "explanation": "本题持续错误或回退，需补中文核心义及区别。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-09",
+          "recordId": "1791512671680-4pkp77",
+          "questionId": "sbry-n1-2012.07-文字・語彙-2-7",
+          "note": "norma"
+        },
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2012.07-文字・語彙-2-7",
+          "note": "norma"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2020.12-文字・語彙-2-7",
+      "optionIndex": 3,
+      "displayPosition": 1,
+      "option": "ダメージ",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "canonical": "损害",
+      "explanation": "缺少独立释义证据；可用中文口述，无需每次重写。",
+      "historicalAnnotations": []
+    },
+    {
+      "questionId": "sbry-n1-2020.12-文字・語彙-2-7",
+      "optionIndex": 4,
+      "displayPosition": 2,
+      "option": "クレーム",
+      "correctOption": true,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "优先补",
+      "canonical": "投诉：客からクレームが来る",
+      "explanation": "本题持续错误或回退，需补中文核心义及区别。",
+      "historicalAnnotations": []
+    },
+    {
+      "questionId": "sbry-n1-2011.12-文字・語彙-2-10",
+      "optionIndex": 1,
+      "displayPosition": 3,
+      "option": "センス",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "sence",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "sense；感觉、判断力、品味",
+      "explanation": "可辨认的近似拼写或片段，不作为日语词义错误；规范拼写可参考相应词源。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-09",
+          "recordId": "1791512671680-4pkp77",
+          "questionId": "sbry-n1-2011.12-文字・語彙-2-10",
+          "note": "sense"
+        },
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2016.07-文字・語彙-2-8",
+          "note": "sense"
+        },
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2011.12-文字・語彙-2-10",
+          "note": "sence"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2011.12-文字・語彙-2-10",
+      "optionIndex": 2,
+      "displayPosition": 2,
+      "option": "キャラクター",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "canonical": "character；性格、角色、特征；这里不是言辞中微妙的意味",
+      "explanation": "缺少独立释义证据；可用中文口述，无需每次重写。",
+      "historicalAnnotations": []
+    },
+    {
+      "questionId": "sbry-n1-2011.12-文字・語彙-2-10",
+      "optionIndex": 3,
+      "displayPosition": 4,
+      "option": "ニュアンス",
+      "correctOption": true,
+      "selected": true,
+      "originalAnnotation": "nuance",
+      "verdict": "可接受",
+      "priority": "可复用速记",
+      "canonical": "nuance；微妙意味、语气、色彩；批判的なニュアンス",
+      "explanation": "词源或近似拼写对应可接受；还需能说明日语核心义与搭配。",
+      "historicalAnnotations": [
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2016.07-文字・語彙-2-8",
+          "note": "nuance"
+        },
+        {
+          "date": "2026-10-11",
+          "recordId": "1791725472402-22wlpv",
+          "questionId": "sbry-n1-2011.12-文字・語彙-2-10",
+          "note": "nuance"
+        }
+      ]
+    },
+    {
+      "questionId": "sbry-n1-2011.12-文字・語彙-2-10",
+      "optionIndex": 4,
+      "displayPosition": 1,
+      "option": "インスピレーション",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "canonical": "inspiration；灵感、启发",
+      "explanation": "缺少独立释义证据；可用中文口述，无需每次重写。",
+      "historicalAnnotations": []
+    }
+  ]
+}

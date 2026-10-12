@@ -1,0 +1,471 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791790582832-gk9f7s",
+    "submittedAt": "2026-10-12T07:36:22.832Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": true,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "sbry-n1-2011.12-文法-5-28",
+        "sbry-n1-2013.07-文法-5-33",
+        "sbry-n1-2015.07-文法-5-34",
+        "jlpt4you-2024.12-grammar-5-10",
+        "jlpt4you-2023.07-grammar-5-3",
+        "sbry-n1-2012.12-文法-5-35",
+        "sbry-n1-2022.07-文法-5-30",
+        "jlpt4you-2024.12-grammar-5-1",
+        "sbry-n1-2012.07-文法-5-28",
+        "sbry-n1-2021.12-文法-5-28"
+      ],
+      "shuffleOptions": true,
+      "optionOrders": {
+        "sbry-n1-2011.12-文法-5-28": [
+          2,
+          3,
+          1,
+          4
+        ],
+        "sbry-n1-2013.07-文法-5-33": [
+          1,
+          3,
+          4,
+          2
+        ],
+        "sbry-n1-2015.07-文法-5-34": [
+          3,
+          1,
+          4,
+          2
+        ],
+        "jlpt4you-2024.12-grammar-5-10": [
+          3,
+          1,
+          4,
+          2
+        ],
+        "jlpt4you-2023.07-grammar-5-3": [
+          1,
+          4,
+          2,
+          3
+        ],
+        "sbry-n1-2012.12-文法-5-35": [
+          1,
+          3,
+          2,
+          4
+        ],
+        "sbry-n1-2022.07-文法-5-30": [
+          2,
+          3,
+          4,
+          1
+        ],
+        "jlpt4you-2024.12-grammar-5-1": [
+          4,
+          2,
+          3,
+          1
+        ],
+        "sbry-n1-2012.07-文法-5-28": [
+          2,
+          4,
+          1,
+          3
+        ],
+        "sbry-n1-2021.12-文法-5-28": [
+          4,
+          3,
+          1,
+          2
+        ]
+      },
+      "showFurigana": true
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 6,
+    "percentage": 60,
+    "durationSeconds": 444,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2011.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c12"
+        ],
+        "id": "sbry-n1-2011.12-文法-5-28",
+        "number": 28,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "全国の名産品を電話一本で自宅まで届けてくれるサービスが、その手軽さ()人気を集めている。",
+        "options": [
+          "ながら",
+          "ゆえに",
+          "どころか",
+          "なくして"
+        ],
+        "optionOrder": [
+          2,
+          3,
+          1,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2013.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2013.07-文法-5-33",
+        "number": 33,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(会社で)\n田中「ねえ、中村くん。もう遅いし、今日はここまでにしようよ。」\n中村「そうだね。じゃあ、残りはあした()。」\n田中「うん。またあしたがんばろう。」",
+        "options": [
+          "やるとするか",
+          "やりはするから",
+          "やろうとしているか",
+          "やってはいるから"
+        ],
+        "optionOrder": [
+          1,
+          3,
+          4,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2015.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b05",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2015.07-文法-5-34",
+        "number": 34,
+        "selected": [
+          3
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(レストランで)\n妻「ねえ、森さんは30分くらい遅れるんだって。」\n夫「じゃあ、先に食べ物、()。お腹がすいててさ。」\n妻「そうだね。食べながら森さん待とう。」\n夫「うん。」",
+        "options": [
+          "頼んどけないよ",
+          "頼んじゃわないか",
+          "頼んどかないで",
+          "頼んじゃうんじゃないよね"
+        ],
+        "optionOrder": [
+          3,
+          1,
+          4,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01",
+          "grammar.q5.b06"
+        ],
+        "id": "jlpt4you-2024.12-grammar-5-10",
+        "number": 35,
+        "selected": [
+          1
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "（大学で）先生 「青木さん、今度の報告誌のモデルを青木さんにお願いできたらと思うんだけど、どうかな」 青木 「やりたいです。でも、私（ ）」 先生 「もちろん」",
+        "options": [
+          "だったらいいんですか",
+          "なんかでいいんですか",
+          "だったらいいんでしょう",
+          "なんかでいいんでしょうか"
+        ],
+        "optionOrder": [
+          3,
+          1,
+          4,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2023.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b02",
+          "grammar.q5.c17"
+        ],
+        "id": "jlpt4you-2023.07-grammar-5-3",
+        "number": 28,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "合唱コンクールで歌っている子供たちの表情は、（ ）そのものだった。",
+        "options": [
+          "真剣",
+          "真剣で",
+          "真剣に",
+          "真剣な"
+        ],
+        "optionOrder": [
+          1,
+          4,
+          2,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2012.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2012.12-文法-5-35",
+        "number": 35,
+        "selected": [
+          1
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "A「西川先生のデザインは、どういうところが魅力ですか。」\nB「そうですね。私にとって先生のデザインは、見ているだけでほっとする()、そんな温かい雰囲気があって、好きなんです。」",
+        "options": [
+          "というでしょうから",
+          "といいませんか",
+          "というでしょうが",
+          "といいましょうか"
+        ],
+        "optionOrder": [
+          1,
+          3,
+          2,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2022.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06",
+          "grammar.q5.c18"
+        ],
+        "id": "sbry-n1-2022.07-文法-5-30",
+        "number": 30,
+        "selected": [
+          2
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "健康的な生活を送るためには睡眠時間を十分にとる必要があるが、ただ長く()、そうではない。時間だけでなく睡眠の質も重要だ。",
+        "options": [
+          "眠ればいいかというと",
+          "眠ればいいというより",
+          "眠ってもいいかというと",
+          "眠ってもいいというより"
+        ],
+        "optionOrder": [
+          2,
+          3,
+          4,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01",
+          "grammar.q5.c19"
+        ],
+        "id": "jlpt4you-2024.12-grammar-5-1",
+        "number": 26,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "宝くじ売り場があるよ、買ってみない? どうせ当たらないんだから、買う（ ）無駄だったよ。",
+        "options": [
+          "より",
+          "のみ",
+          "には",
+          "だけ"
+        ],
+        "optionOrder": [
+          4,
+          2,
+          3,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2012.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b02"
+        ],
+        "id": "sbry-n1-2012.07-文法-5-28",
+        "number": 28,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "映画『ブラック』は評判通りの面白さで、特に、主人公が()ざる敵におびえる場面は圧巻だった。",
+        "options": [
+          "見て",
+          "見え",
+          "見る",
+          "見える"
+        ],
+        "optionOrder": [
+          2,
+          4,
+          1,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2021.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c08"
+        ],
+        "id": "sbry-n1-2021.12-文法-5-28",
+        "number": 28,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "あの時すぐに治療しておけばよかった()、ほうっておくからあっかしてしまったんだ。",
+        "options": [
+          "ばかりに",
+          "ことを",
+          "ために",
+          "ものを"
+        ],
+        "optionOrder": [
+          4,
+          3,
+          1,
+          2
+        ]
+      }
+    ]
+  }
+}

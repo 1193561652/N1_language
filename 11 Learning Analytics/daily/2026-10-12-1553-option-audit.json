@@ -1,0 +1,1209 @@
+{
+  "recordId": "1791791634645-6a45fe",
+  "questionsAcrossBatch": [
+    {
+      "recordId": "1791790093429-telhdq",
+      "questionId": "sbry-n1-2021.07-文法-5-31",
+      "correct": true,
+      "status": "保持",
+      "history": [
+        {
+          "date": "2026-09-09T12:04:41.796Z",
+          "selected": [
+            1
+          ],
+          "correct": true
+        },
+        {
+          "date": "2026-09-13T14:09:52.515Z",
+          "selected": [
+            1
+          ],
+          "correct": true
+        },
+        {
+          "date": "2026-10-06T06:36:57.278Z",
+          "selected": [
+            1
+          ],
+          "correct": true
+        },
+        {
+          "date": "2026-10-08T08:53:27.471Z",
+          "selected": [
+            1
+          ],
+          "correct": true
+        },
+        {
+          "date": "2026-10-10T09:21:38.141Z",
+          "selected": [
+            1
+          ],
+          "correct": true
+        }
+      ]
+    },
+    {
+      "recordId": "1791790093429-telhdq",
+      "questionId": "markdown-2025.07-language-34",
+      "correct": true,
+      "status": "保持",
+      "history": [
+        {
+          "date": "2026-10-05T08:05:43.359Z",
+          "selected": [
+            2
+          ],
+          "correct": true
+        },
+        {
+          "date": "2026-10-06T05:00:15.807Z",
+          "selected": [
+            2
+          ],
+          "correct": true
+        },
+        {
+          "date": "2026-10-06T06:03:32.581Z",
+          "selected": [
+            2
+          ],
+          "correct": true
+        },
+        {
+          "date": "2026-10-06T06:50:36.030Z",
+          "selected": [
+            2
+          ],
+          "correct": true
+        },
+        {
+          "date": "2026-10-08T03:05:56.223Z",
+          "selected": [
+            2
+          ],
+          "correct": true
+        }
+      ]
+    },
+    {
+      "recordId": "1791790093429-telhdq",
+      "questionId": "markdown-2025.07-language-28",
+      "correct": true,
+      "status": "恢复",
+      "history": [
+        {
+          "date": "2026-10-08T08:38:38.345Z",
+          "selected": [
+            2
+          ],
+          "correct": false
+        }
+      ]
+    },
+    {
+      "recordId": "1791790093429-telhdq",
+      "questionId": "markdown-2025.12-language-29",
+      "correct": false,
+      "status": "回退",
+      "history": [
+        {
+          "date": "2026-10-08T08:53:27.471Z",
+          "selected": [
+            1
+          ],
+          "correct": true
+        }
+      ]
+    },
+    {
+      "recordId": "1791790093429-telhdq",
+      "questionId": "sbry-n1-2022.07-文法-5-32",
+      "correct": true,
+      "status": "保持",
+      "history": [
+        {
+          "date": "2026-09-07T12:27:42.659Z",
+          "selected": [
+            3
+          ],
+          "correct": true
+        },
+        {
+          "date": "2026-09-13T13:36:04.853Z",
+          "selected": [
+            3
+          ],
+          "correct": true
+        },
+        {
+          "date": "2026-10-05T08:05:43.359Z",
+          "selected": [
+            3
+          ],
+          "correct": true
+        },
+        {
+          "date": "2026-10-06T06:17:29.323Z",
+          "selected": [
+            3
+          ],
+          "correct": true
+        }
+      ]
+    },
+    {
+      "recordId": "1791790093429-telhdq",
+      "questionId": "sbry-n1-2022.12-文法-5-27",
+      "correct": true,
+      "status": "保持",
+      "history": [
+        {
+          "date": "2026-09-03T14:26:28.302Z",
+          "selected": [
+            3
+          ],
+          "correct": true
+        },
+        {
+          "date": "2026-09-05T13:51:28.743Z",
+          "selected": [
+            3
+          ],
+          "correct": true
+        }
+      ]
+    },
+    {
+      "recordId": "1791790093429-telhdq",
+      "questionId": "sbry-n1-2017.07-文法-5-33",
+      "correct": true,
+      "status": "保持",
+      "history": [
+        {
+          "date": "2026-10-07T06:14:35.070Z",
+          "selected": [
+            3
+          ],
+          "correct": false
+        },
+        {
+          "date": "2026-10-08T07:14:16.622Z",
+          "selected": [
+            2
+          ],
+          "correct": true
+        }
+      ]
+    },
+    {
+      "recordId": "1791790093429-telhdq",
+      "questionId": "markdown-2025.12-language-35",
+      "correct": true,
+      "status": "保持",
+      "history": [
+        {
+          "date": "2026-10-05T11:14:55.676Z",
+          "selected": [
+            2
+          ],
+          "correct": true
+        },
+        {
+          "date": "2026-10-08T05:24:02.655Z",
+          "selected": [
+            2
+          ],
+          "correct": true
+        }
+      ]
+    },
+    {
+      "recordId": "1791790093429-telhdq",
+      "questionId": "sbry-n1-2016.07-文法-5-35",
+      "correct": false,
+      "status": "回退",
+      "history": [
+        {
+          "date": "2026-10-06T06:36:57.278Z",
+          "selected": [
+            4
+          ],
+          "correct": false
+        },
+        {
+          "date": "2026-10-06T09:49:07.833Z",
+          "selected": [
+            1
+          ],
+          "correct": true
+        },
+        {
+          "date": "2026-10-07T06:29:00.404Z",
+          "selected": [
+            1
+          ],
+          "correct": true
+        }
+      ]
+    },
+    {
+      "recordId": "1791790093429-telhdq",
+      "questionId": "sbry-n1-2018.12-文法-5-27",
+      "correct": true,
+      "status": "保持",
+      "history": [
+        {
+          "date": "2026-10-06T05:08:49.462Z",
+          "selected": [
+            4
+          ],
+          "correct": true
+        },
+        {
+          "date": "2026-10-06T06:03:32.581Z",
+          "selected": [
+            4
+          ],
+          "correct": true
+        },
+        {
+          "date": "2026-10-06T06:17:29.323Z",
+          "selected": [
+            4
+          ],
+          "correct": true
+        },
+        {
+          "date": "2026-10-06T07:27:53.652Z",
+          "selected": [
+            4
+          ],
+          "correct": true
+        }
+      ]
+    },
+    {
+      "recordId": "1791790582832-gk9f7s",
+      "questionId": "sbry-n1-2011.12-文法-5-28",
+      "correct": true,
+      "status": "首次正确",
+      "history": []
+    },
+    {
+      "recordId": "1791790582832-gk9f7s",
+      "questionId": "sbry-n1-2013.07-文法-5-33",
+      "correct": true,
+      "status": "保持",
+      "history": [
+        {
+          "date": "2026-10-09T09:31:31.021Z",
+          "selected": [
+            1
+          ],
+          "correct": true
+        }
+      ]
+    },
+    {
+      "recordId": "1791790582832-gk9f7s",
+      "questionId": "sbry-n1-2015.07-文法-5-34",
+      "correct": false,
+      "status": "持续错误",
+      "history": [
+        {
+          "date": "2026-10-06T05:08:49.462Z",
+          "selected": [
+            1
+          ],
+          "correct": false
+        },
+        {
+          "date": "2026-10-08T06:06:26.475Z",
+          "selected": [
+            1
+          ],
+          "correct": false
+        }
+      ]
+    },
+    {
+      "recordId": "1791790582832-gk9f7s",
+      "questionId": "jlpt4you-2024.12-grammar-5-10",
+      "correct": false,
+      "status": "回退",
+      "history": [
+        {
+          "date": "2026-08-29T13:27:01.856Z",
+          "selected": [
+            2
+          ],
+          "correct": true
+        },
+        {
+          "date": "2026-08-30T15:09:58.475Z",
+          "selected": [
+            2
+          ],
+          "correct": true
+        },
+        {
+          "date": "2026-09-05T13:03:36.895Z",
+          "selected": [
+            2
+          ],
+          "correct": true
+        },
+        {
+          "date": "2026-09-14T14:06:04.951Z",
+          "selected": [
+            2
+          ],
+          "correct": true
+        },
+        {
+          "date": "2026-10-07T06:29:00.404Z",
+          "selected": [
+            2
+          ],
+          "correct": true
+        },
+        {
+          "date": "2026-10-08T08:53:27.471Z",
+          "selected": [
+            2
+          ],
+          "correct": true
+        }
+      ]
+    },
+    {
+      "recordId": "1791790582832-gk9f7s",
+      "questionId": "jlpt4you-2023.07-grammar-5-3",
+      "correct": true,
+      "status": "恢复",
+      "history": [
+        {
+          "date": "2026-09-02T13:57:01.400Z",
+          "selected": [
+            3
+          ],
+          "correct": false
+        },
+        {
+          "date": "2026-09-05T13:43:48.292Z",
+          "selected": [
+            1
+          ],
+          "correct": true
+        },
+        {
+          "date": "2026-10-09T08:59:34.249Z",
+          "selected": [
+            3
+          ],
+          "correct": false
+        }
+      ]
+    },
+    {
+      "recordId": "1791790582832-gk9f7s",
+      "questionId": "sbry-n1-2012.12-文法-5-35",
+      "correct": false,
+      "status": "持续错误",
+      "history": [
+        {
+          "date": "2026-10-05T11:03:44.716Z",
+          "selected": [
+            1
+          ],
+          "correct": false
+        }
+      ]
+    },
+    {
+      "recordId": "1791790582832-gk9f7s",
+      "questionId": "sbry-n1-2022.07-文法-5-30",
+      "correct": false,
+      "status": "持续错误",
+      "history": [
+        {
+          "date": "2026-09-07T12:27:42.659Z",
+          "selected": [
+            1
+          ],
+          "correct": true
+        },
+        {
+          "date": "2026-09-13T13:36:04.853Z",
+          "selected": [
+            1
+          ],
+          "correct": true
+        },
+        {
+          "date": "2026-10-08T08:38:38.345Z",
+          "selected": [
+            3
+          ],
+          "correct": false
+        }
+      ]
+    },
+    {
+      "recordId": "1791790582832-gk9f7s",
+      "questionId": "jlpt4you-2024.12-grammar-5-1",
+      "correct": true,
+      "status": "保持",
+      "history": [
+        {
+          "date": "2026-08-29T13:27:01.856Z",
+          "selected": [
+            4
+          ],
+          "correct": true
+        },
+        {
+          "date": "2026-08-30T15:09:58.475Z",
+          "selected": [
+            4
+          ],
+          "correct": true
+        },
+        {
+          "date": "2026-09-05T13:03:36.895Z",
+          "selected": [
+            4
+          ],
+          "correct": true
+        },
+        {
+          "date": "2026-09-14T14:06:04.951Z",
+          "selected": [
+            4
+          ],
+          "correct": true
+        },
+        {
+          "date": "2026-10-06T06:36:57.278Z",
+          "selected": [
+            4
+          ],
+          "correct": true
+        },
+        {
+          "date": "2026-10-06T06:58:22.193Z",
+          "selected": [
+            4
+          ],
+          "correct": true
+        }
+      ]
+    },
+    {
+      "recordId": "1791790582832-gk9f7s",
+      "questionId": "sbry-n1-2012.07-文法-5-28",
+      "correct": true,
+      "status": "保持",
+      "history": [
+        {
+          "date": "2026-10-06T05:45:34.269Z",
+          "selected": [
+            2
+          ],
+          "correct": true
+        }
+      ]
+    },
+    {
+      "recordId": "1791790582832-gk9f7s",
+      "questionId": "sbry-n1-2021.12-文法-5-28",
+      "correct": true,
+      "status": "保持",
+      "history": [
+        {
+          "date": "2026-09-08T13:06:07.020Z",
+          "selected": [
+            4
+          ],
+          "correct": true
+        },
+        {
+          "date": "2026-09-13T13:57:55.495Z",
+          "selected": [
+            1
+          ],
+          "correct": false
+        },
+        {
+          "date": "2026-10-06T06:03:32.581Z",
+          "selected": [
+            4
+          ],
+          "correct": true
+        },
+        {
+          "date": "2026-10-07T06:42:56.735Z",
+          "selected": [
+            4
+          ],
+          "correct": true
+        },
+        {
+          "date": "2026-10-08T03:39:21.813Z",
+          "selected": [
+            4
+          ],
+          "correct": true
+        }
+      ]
+    },
+    {
+      "recordId": "1791791634645-6a45fe",
+      "questionId": "sbry-n1-2014.12-文法-5-32",
+      "correct": true,
+      "status": "保持",
+      "history": [
+        {
+          "date": "2026-10-05T08:05:43.359Z",
+          "selected": [
+            1
+          ],
+          "correct": false
+        },
+        {
+          "date": "2026-10-09T08:19:34.130Z",
+          "selected": [
+            2
+          ],
+          "correct": true
+        }
+      ]
+    },
+    {
+      "recordId": "1791791634645-6a45fe",
+      "questionId": "sbry-n1-2018.07-文法-5-28",
+      "correct": true,
+      "status": "恢复",
+      "history": [
+        {
+          "date": "2026-10-09T08:42:07.080Z",
+          "selected": [
+            1
+          ],
+          "correct": false
+        }
+      ]
+    },
+    {
+      "recordId": "1791791634645-6a45fe",
+      "questionId": "markdown-2025.07-language-35",
+      "correct": true,
+      "status": "首次正确",
+      "history": []
+    },
+    {
+      "recordId": "1791791634645-6a45fe",
+      "questionId": "sbry-n1-2015.12-文法-5-26",
+      "correct": true,
+      "status": "保持",
+      "history": [
+        {
+          "date": "2026-10-09T09:31:31.021Z",
+          "selected": [
+            1
+          ],
+          "correct": true
+        }
+      ]
+    },
+    {
+      "recordId": "1791791634645-6a45fe",
+      "questionId": "sbry-n1-2022.12-文法-5-35",
+      "correct": false,
+      "status": "持续错误",
+      "history": [
+        {
+          "date": "2026-09-03T14:26:28.302Z",
+          "selected": [
+            2
+          ],
+          "correct": false
+        },
+        {
+          "date": "2026-09-05T13:51:28.743Z",
+          "selected": [
+            1
+          ],
+          "correct": true
+        },
+        {
+          "date": "2026-10-06T07:27:53.652Z",
+          "selected": [
+            2
+          ],
+          "correct": false
+        }
+      ]
+    },
+    {
+      "recordId": "1791791634645-6a45fe",
+      "questionId": "sbry-n1-2015.07-文法-5-31",
+      "correct": true,
+      "status": "保持",
+      "history": [
+        {
+          "date": "2026-10-05T11:14:55.676Z",
+          "selected": [
+            2
+          ],
+          "correct": false
+        },
+        {
+          "date": "2026-10-06T06:50:36.030Z",
+          "selected": [
+            4
+          ],
+          "correct": true
+        }
+      ]
+    },
+    {
+      "recordId": "1791791634645-6a45fe",
+      "questionId": "sbry-n1-2013.07-文法-5-27",
+      "correct": true,
+      "status": "保持",
+      "history": [
+        {
+          "date": "2026-10-06T05:00:15.807Z",
+          "selected": [
+            2
+          ],
+          "correct": true
+        },
+        {
+          "date": "2026-10-06T06:17:29.323Z",
+          "selected": [
+            2
+          ],
+          "correct": true
+        },
+        {
+          "date": "2026-10-07T06:42:56.735Z",
+          "selected": [
+            2
+          ],
+          "correct": true
+        },
+        {
+          "date": "2026-10-08T06:06:26.475Z",
+          "selected": [
+            2
+          ],
+          "correct": true
+        },
+        {
+          "date": "2026-10-09T09:31:31.021Z",
+          "selected": [
+            2
+          ],
+          "correct": true
+        }
+      ]
+    },
+    {
+      "recordId": "1791791634645-6a45fe",
+      "questionId": "sbry-n1-2015.07-文法-5-27",
+      "correct": true,
+      "status": "首次正确",
+      "history": []
+    },
+    {
+      "recordId": "1791791634645-6a45fe",
+      "questionId": "sbry-n1-2019.12-文法-5-28",
+      "correct": true,
+      "status": "保持",
+      "history": [
+        {
+          "date": "2026-10-06T05:45:34.269Z",
+          "selected": [
+            2
+          ],
+          "correct": true
+        },
+        {
+          "date": "2026-10-09T08:42:07.080Z",
+          "selected": [
+            2
+          ],
+          "correct": true
+        }
+      ]
+    },
+    {
+      "recordId": "1791791634645-6a45fe",
+      "questionId": "sbry-n1-2019.07-文法-5-26",
+      "correct": true,
+      "status": "保持",
+      "history": [
+        {
+          "date": "2026-10-09T08:59:34.249Z",
+          "selected": [
+            2
+          ],
+          "correct": true
+        },
+        {
+          "date": "2026-10-09T09:05:22.803Z",
+          "selected": [
+            2
+          ],
+          "correct": true
+        }
+      ]
+    }
+  ],
+  "rows": [
+    {
+      "questionId": "sbry-n1-2014.12-文法-5-32",
+      "originalOption": 1,
+      "displayPosition": 4,
+      "text": "入ろうが入るまいが",
+      "correctOption": false,
+      "note": "",
+      "priority": "可不重复写；口述抽查",
+      "explanation": "无论入不入学；无条件让步，不表示入学前后时间",
+      "reason": "已有同题正确证据；空白不等于不会，不要求机械抄写。"
+    },
+    {
+      "questionId": "sbry-n1-2014.12-文法-5-32",
+      "originalOption": 2,
+      "displayPosition": 3,
+      "text": "入るか入らないか",
+      "correctOption": true,
+      "note": "",
+      "priority": "可不重复写；口述抽查",
+      "explanation": "入学或尚未入学的那个时候＝大约刚到入学年龄；与のころ衔接",
+      "reason": "已有同题正确证据；空白不等于不会，不要求机械抄写。"
+    },
+    {
+      "questionId": "sbry-n1-2014.12-文法-5-32",
+      "originalOption": 3,
+      "displayPosition": 2,
+      "text": "入っていてもいなくても",
+      "correctOption": false,
+      "note": "",
+      "priority": "可不重复写；口述抽查",
+      "explanation": "无论在不在其中；状态让步，不是时间定位",
+      "reason": "已有同题正确证据；空白不等于不会，不要求机械抄写。"
+    },
+    {
+      "questionId": "sbry-n1-2014.12-文法-5-32",
+      "originalOption": 4,
+      "displayPosition": 1,
+      "text": "入るにしても入らないにしても",
+      "correctOption": false,
+      "note": "",
+      "priority": "可不重复写；口述抽查",
+      "explanation": "不论入学还是不入学；不是约略时间",
+      "reason": "已有同题正确证据；空白不等于不会，不要求机械抄写。"
+    },
+    {
+      "questionId": "sbry-n1-2018.07-文法-5-28",
+      "originalOption": 1,
+      "displayPosition": 3,
+      "text": "まるで",
+      "correctOption": false,
+      "note": "",
+      "priority": "优先补",
+      "explanation": "简直、仿佛；不是“不必如此”的搭配",
+      "reason": "今天刚纠正旧错，确认なにも与其他副词区别。"
+    },
+    {
+      "questionId": "sbry-n1-2018.07-文法-5-28",
+      "originalOption": 2,
+      "displayPosition": 4,
+      "text": "ちっとも",
+      "correctOption": false,
+      "note": "",
+      "priority": "优先补",
+      "explanation": "一点也不；通常修饰否定事实，不是劝对方没必要生气",
+      "reason": "今天刚纠正旧错，确认なにも与其他副词区别。"
+    },
+    {
+      "questionId": "sbry-n1-2018.07-文法-5-28",
+      "originalOption": 3,
+      "displayPosition": 1,
+      "text": "なにも",
+      "correctOption": true,
+      "note": "",
+      "priority": "优先补",
+      "explanation": "なにも～なくてもいい＝何必／没有必要如此",
+      "reason": "今天刚纠正旧错，确认なにも与其他副词区别。"
+    },
+    {
+      "questionId": "sbry-n1-2018.07-文法-5-28",
+      "originalOption": 4,
+      "displayPosition": 2,
+      "text": "いっさい",
+      "correctOption": false,
+      "note": "",
+      "priority": "优先补",
+      "explanation": "一切、完全（不）；强调全面否定，不是“何必”",
+      "reason": "今天刚纠正旧错，确认なにも与其他副词区别。"
+    },
+    {
+      "questionId": "markdown-2025.07-language-35",
+      "originalOption": 1,
+      "displayPosition": 1,
+      "text": "取りかねないわけだ",
+      "correctOption": false,
+      "note": "",
+      "priority": "建议补一次",
+      "explanation": "取りかねない＝有可能承担；不表示不可能免责",
+      "reason": "首次内容答对，尚无独立解释证据。"
+    },
+    {
+      "questionId": "markdown-2025.07-language-35",
+      "originalOption": 2,
+      "displayPosition": 4,
+      "text": "取らざるを得ないわけだ",
+      "correctOption": false,
+      "note": "",
+      "priority": "建议补一次",
+      "explanation": "取らざるを得ない＝不得不承担；本题何の責任も与后续否定呼应，不能直接接肯定断言",
+      "reason": "首次内容答对，尚无独立解释证据。"
+    },
+    {
+      "questionId": "markdown-2025.07-language-35",
+      "originalOption": 3,
+      "displayPosition": 3,
+      "text": "取らずに済むわけがない",
+      "correctOption": true,
+      "note": "",
+      "priority": "建议补一次",
+      "explanation": "取らずに済む＝不承担就能了事；わけがない＝不可能；整体＝不可能不负任何责任",
+      "reason": "首次内容答对，尚无独立解释证据。"
+    },
+    {
+      "questionId": "markdown-2025.07-language-35",
+      "originalOption": 4,
+      "displayPosition": 2,
+      "text": "取りきれるわけがない",
+      "correctOption": false,
+      "note": "",
+      "priority": "建议补一次",
+      "explanation": "取りきれるわけがない＝不可能全部承担得了；把重点改成能力／完成量",
+      "reason": "首次内容答对，尚无独立解释证据。"
+    },
+    {
+      "questionId": "sbry-n1-2015.12-文法-5-26",
+      "originalOption": 1,
+      "displayPosition": 2,
+      "text": "大人は大人で",
+      "correctOption": true,
+      "note": "",
+      "priority": "可不重复写；口述抽查",
+      "explanation": "NはNで＝这一方也有这一方的情况；大人也有大人的难处",
+      "reason": "已有同题正确证据；空白不等于不会，不要求机械抄写。"
+    },
+    {
+      "questionId": "sbry-n1-2015.12-文法-5-26",
+      "originalOption": 2,
+      "displayPosition": 3,
+      "text": "大人が大人に",
+      "correctOption": false,
+      "note": "",
+      "priority": "可不重复写；口述抽查",
+      "explanation": "缺少成立的谓语结构，不表达双方各自处境",
+      "reason": "已有同题正确证据；空白不等于不会，不要求机械抄写。"
+    },
+    {
+      "questionId": "sbry-n1-2015.12-文法-5-26",
+      "originalOption": 3,
+      "displayPosition": 4,
+      "text": "大人より大人で",
+      "correctOption": false,
+      "note": "",
+      "priority": "可不重复写；口述抽查",
+      "explanation": "より要求比较结构；本题非比较“大人以上”",
+      "reason": "已有同题正确证据；空白不等于不会，不要求机械抄写。"
+    },
+    {
+      "questionId": "sbry-n1-2015.12-文法-5-26",
+      "originalOption": 4,
+      "displayPosition": 1,
+      "text": "大人から大人に",
+      "correctOption": false,
+      "note": "",
+      "priority": "可不重复写；口述抽查",
+      "explanation": "から…に不表达“大人也有自己的难处”",
+      "reason": "已有同题正确证据；空白不等于不会，不要求机械抄写。"
+    },
+    {
+      "questionId": "sbry-n1-2022.12-文法-5-35",
+      "originalOption": 1,
+      "displayPosition": 1,
+      "text": "乗りたかったものだ",
+      "correctOption": true,
+      "note": "",
+      "priority": "优先补",
+      "explanation": "乗りたい＝我想坐；たかったものだ＝回想过去常有的愿望；小时候常想坐父亲后座",
+      "reason": "反复错误，四项均需区分愿望主体与回忆表达。"
+    },
+    {
+      "questionId": "sbry-n1-2022.12-文法-5-35",
+      "originalOption": 2,
+      "displayPosition": 4,
+      "text": "乗りたかったところだ",
+      "correctOption": false,
+      "note": "",
+      "priority": "优先补",
+      "explanation": "ところだ不是这里回想童年反复愿望的表达；乗りたかった也不是乗った，不能机械译为“刚坐过”",
+      "reason": "反复错误，四项均需区分愿望主体与回忆表达。"
+    },
+    {
+      "questionId": "sbry-n1-2022.12-文法-5-35",
+      "originalOption": 3,
+      "displayPosition": 3,
+      "text": "乗って欲しかったものだ",
+      "correctOption": false,
+      "note": "",
+      "priority": "优先补",
+      "explanation": "乗ってほしい＝希望别人坐；愿望动作主体改变",
+      "reason": "反复错误，四项均需区分愿望主体与回忆表达。"
+    },
+    {
+      "questionId": "sbry-n1-2022.12-文法-5-35",
+      "originalOption": 4,
+      "displayPosition": 2,
+      "text": "乗って欲しかったところだ",
+      "correctOption": false,
+      "note": "",
+      "priority": "优先补",
+      "explanation": "希望别人坐＋ところ；既改主体，也不表达回忆童年愿望",
+      "reason": "反复错误，四项均需区分愿望主体与回忆表达。"
+    },
+    {
+      "questionId": "sbry-n1-2015.07-文法-5-31",
+      "originalOption": 1,
+      "displayPosition": 4,
+      "text": "出たせいなのかは",
+      "correctOption": false,
+      "note": "",
+      "priority": "可不重复写；口述抽查",
+      "explanation": "せい是归咎原因，なのかは另提疑问；不构成等出现影响就晚了",
+      "reason": "已有同题正确证据；空白不等于不会，不要求机械抄写。"
+    },
+    {
+      "questionId": "sbry-n1-2015.07-文法-5-31",
+      "originalOption": 2,
+      "displayPosition": 3,
+      "text": "出てしまうかは",
+      "correctOption": false,
+      "note": "",
+      "priority": "可不重复写；口述抽查",
+      "explanation": "かは把出现与否提为话题；后接遅い不能表达所需时间界限",
+      "reason": "已有同题正确证据；空白不等于不会，不要求机械抄写。"
+    },
+    {
+      "questionId": "sbry-n1-2015.07-文法-5-31",
+      "originalOption": 3,
+      "displayPosition": 1,
+      "text": "出たばかりでは",
+      "correctOption": false,
+      "note": "",
+      "priority": "可不重复写；口述抽查",
+      "explanation": "出たばかり＝刚出现；不是等影响出现后就为时已晚",
+      "reason": "已有同题正确证据；空白不等于不会，不要求机械抄写。"
+    },
+    {
+      "questionId": "sbry-n1-2015.07-文法-5-31",
+      "originalOption": 4,
+      "displayPosition": 2,
+      "text": "出てからでは",
+      "correctOption": true,
+      "note": "",
+      "priority": "可不重复写；口述抽查",
+      "explanation": "Vてからでは遅い＝等到V发生以后就晚了",
+      "reason": "已有同题正确证据；空白不等于不会，不要求机械抄写。"
+    },
+    {
+      "questionId": "sbry-n1-2013.07-文法-5-27",
+      "originalOption": 1,
+      "displayPosition": 1,
+      "text": "のみも",
+      "correctOption": false,
+      "note": "",
+      "priority": "可不重复写；口述抽查",
+      "explanation": "のみも不是本题“哪怕只有心情”的自然连接",
+      "reason": "已有同题正确证据；空白不等于不会，不要求机械抄写。"
+    },
+    {
+      "questionId": "sbry-n1-2013.07-文法-5-27",
+      "originalOption": 2,
+      "displayPosition": 4,
+      "text": "だけでも",
+      "correctOption": true,
+      "note": "",
+      "priority": "可不重复写；口述抽查",
+      "explanation": "せめて…だけでも＝至少哪怕仅仅……；至少让心情感受南极",
+      "reason": "已有同题正确证据；空白不等于不会，不要求机械抄写。"
+    },
+    {
+      "questionId": "sbry-n1-2013.07-文法-5-27",
+      "originalOption": 3,
+      "displayPosition": 2,
+      "text": "ですらも",
+      "correctOption": false,
+      "note": "",
+      "priority": "可不重复写；口述抽查",
+      "explanation": "ですらも＝甚至连；不表示本题最低限度的愿望",
+      "reason": "已有同题正确证据；空白不等于不会，不要求机械抄写。"
+    },
+    {
+      "questionId": "sbry-n1-2013.07-文法-5-27",
+      "originalOption": 4,
+      "displayPosition": 3,
+      "text": "くらいも",
+      "correctOption": false,
+      "note": "",
+      "priority": "可不重复写；口述抽查",
+      "explanation": "くらいも不构成题目所需最低限度表达",
+      "reason": "已有同题正确证据；空白不等于不会，不要求机械抄写。"
+    },
+    {
+      "questionId": "sbry-n1-2015.07-文法-5-27",
+      "originalOption": 1,
+      "displayPosition": 2,
+      "text": "にむけて",
+      "correctOption": false,
+      "note": "",
+      "priority": "建议补一次",
+      "explanation": "に向けて＝面向、以……为目标",
+      "reason": "首次内容答对，尚无独立解释证据。"
+    },
+    {
+      "questionId": "sbry-n1-2015.07-文法-5-27",
+      "originalOption": 2,
+      "displayPosition": 1,
+      "text": "をめぐって",
+      "correctOption": false,
+      "note": "",
+      "priority": "建议补一次",
+      "explanation": "をめぐって＝围绕某议题",
+      "reason": "首次内容答对，尚无独立解释证据。"
+    },
+    {
+      "questionId": "sbry-n1-2015.07-文法-5-27",
+      "originalOption": 3,
+      "displayPosition": 3,
+      "text": "をもって",
+      "correctOption": true,
+      "note": "",
+      "priority": "建议补一次",
+      "explanation": "何をもって幸せとする＝以什么为依据／标准认定幸福",
+      "reason": "首次内容答对，尚无独立解释证据。"
+    },
+    {
+      "questionId": "sbry-n1-2015.07-文法-5-27",
+      "originalOption": 4,
+      "displayPosition": 4,
+      "text": "につれて",
+      "correctOption": false,
+      "note": "",
+      "priority": "建议补一次",
+      "explanation": "につれて＝随着；不表示判断标准",
+      "reason": "首次内容答对，尚无独立解释证据。"
+    },
+    {
+      "questionId": "sbry-n1-2019.12-文法-5-28",
+      "originalOption": 1,
+      "displayPosition": 3,
+      "text": "を基にして",
+      "correctOption": false,
+      "note": "",
+      "priority": "可不重复写；口述抽查",
+      "explanation": "を基にして＝以……为基础",
+      "reason": "已有同题正确证据；空白不等于不会，不要求机械抄写。"
+    },
+    {
+      "questionId": "sbry-n1-2019.12-文法-5-28",
+      "originalOption": 2,
+      "displayPosition": 4,
+      "text": "を控えて",
+      "correctOption": true,
+      "note": "",
+      "priority": "可不重复写；口述抽查",
+      "explanation": "を控えて＝即将面临；半年后即将高考，所以暂时停止活动",
+      "reason": "已有同题正确证据；空白不等于不会，不要求机械抄写。"
+    },
+    {
+      "questionId": "sbry-n1-2019.12-文法-5-28",
+      "originalOption": 3,
+      "displayPosition": 1,
+      "text": "をもって",
+      "correctOption": false,
+      "note": "",
+      "priority": "可不重复写；口述抽查",
+      "explanation": "をもって可表手段／时间界限等；本题不是以高考为界终止活动",
+      "reason": "已有同题正确证据；空白不等于不会，不要求机械抄写。"
+    },
+    {
+      "questionId": "sbry-n1-2019.12-文法-5-28",
+      "originalOption": 4,
+      "displayPosition": 2,
+      "text": "をめぐって",
+      "correctOption": false,
+      "note": "",
+      "priority": "可不重复写；口述抽查",
+      "explanation": "をめぐって＝围绕；不能表达即将面临考试",
+      "reason": "已有同题正确证据；空白不等于不会，不要求机械抄写。"
+    },
+    {
+      "questionId": "sbry-n1-2019.07-文法-5-26",
+      "originalOption": 1,
+      "displayPosition": 3,
+      "text": "さえ",
+      "correctOption": false,
+      "note": "",
+      "priority": "可不重复写；口述抽查",
+      "explanation": "さえ＝甚至、连；这里不是递进极端例",
+      "reason": "已有同题正确证据；空白不等于不会，不要求机械抄写。"
+    },
+    {
+      "questionId": "sbry-n1-2019.07-文法-5-26",
+      "originalOption": 2,
+      "displayPosition": 2,
+      "text": "こそ",
+      "correctOption": true,
+      "note": "",
+      "priority": "可不重复写；口述抽查",
+      "explanation": "優勝こそ逃したが＝冠军虽没拿到，但是……；こそ突出让步承认部分",
+      "reason": "已有同题正确证据；空白不等于不会，不要求机械抄写。"
+    },
+    {
+      "questionId": "sbry-n1-2019.07-文法-5-26",
+      "originalOption": 3,
+      "displayPosition": 1,
+      "text": "ほど",
+      "correctOption": false,
+      "note": "",
+      "priority": "可不重复写；口述抽查",
+      "explanation": "ほど＝程度，不构成本题所需“虽未夺冠”",
+      "reason": "已有同题正确证据；空白不等于不会，不要求机械抄写。"
+    },
+    {
+      "questionId": "sbry-n1-2019.07-文法-5-26",
+      "originalOption": 4,
+      "displayPosition": 4,
+      "text": "ばかり",
+      "correctOption": false,
+      "note": "",
+      "priority": "可不重复写；口述抽查",
+      "explanation": "ばかり＝只／净是；不构成题目所需的让步对照",
+      "reason": "已有同题正确证据；空白不等于不会，不要求机械抄写。"
+    }
+  ]
+}

@@ -1,0 +1,472 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791791634645-6a45fe",
+    "submittedAt": "2026-10-12T07:53:54.645Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": true,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "sbry-n1-2014.12-文法-5-32",
+        "sbry-n1-2018.07-文法-5-28",
+        "markdown-2025.07-language-35",
+        "sbry-n1-2015.12-文法-5-26",
+        "sbry-n1-2022.12-文法-5-35",
+        "sbry-n1-2015.07-文法-5-31",
+        "sbry-n1-2013.07-文法-5-27",
+        "sbry-n1-2015.07-文法-5-27",
+        "sbry-n1-2019.12-文法-5-28",
+        "sbry-n1-2019.07-文法-5-26"
+      ],
+      "shuffleOptions": true,
+      "optionOrders": {
+        "sbry-n1-2014.12-文法-5-32": [
+          4,
+          3,
+          2,
+          1
+        ],
+        "sbry-n1-2018.07-文法-5-28": [
+          3,
+          4,
+          1,
+          2
+        ],
+        "markdown-2025.07-language-35": [
+          1,
+          4,
+          3,
+          2
+        ],
+        "sbry-n1-2015.12-文法-5-26": [
+          4,
+          1,
+          2,
+          3
+        ],
+        "sbry-n1-2022.12-文法-5-35": [
+          1,
+          4,
+          3,
+          2
+        ],
+        "sbry-n1-2015.07-文法-5-31": [
+          3,
+          4,
+          2,
+          1
+        ],
+        "sbry-n1-2013.07-文法-5-27": [
+          1,
+          3,
+          4,
+          2
+        ],
+        "sbry-n1-2015.07-文法-5-27": [
+          2,
+          1,
+          3,
+          4
+        ],
+        "sbry-n1-2019.12-文法-5-28": [
+          3,
+          4,
+          1,
+          2
+        ],
+        "sbry-n1-2019.07-文法-5-26": [
+          3,
+          2,
+          1,
+          4
+        ]
+      },
+      "showFurigana": true
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 9,
+    "percentage": 90,
+    "durationSeconds": 169,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2014.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c01"
+        ],
+        "id": "sbry-n1-2014.12-文法-5-32",
+        "number": 32,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "私が小学校に()のころ、父とどこか大きな川へ釣りに行った記憶がある。",
+        "options": [
+          "入ろうが入るまいが",
+          "入るか入らないか",
+          "入っていてもいなくても",
+          "入るにしても入らないにしても"
+        ],
+        "optionOrder": [
+          4,
+          3,
+          2,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2018.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01"
+        ],
+        "id": "sbry-n1-2018.07-文法-5-28",
+        "number": 28,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "A「遅れてごめん」\nB「遅いよ！10分も遅刻するなんて、何考えてるの？」\nA「少し遅れたぐらいで()そんなに怒らなくてもいいだろう.」",
+        "options": [
+          "まるで",
+          "ちっとも",
+          "なにも",
+          "いっさい"
+        ],
+        "optionOrder": [
+          3,
+          4,
+          1,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2025.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06",
+          "grammar.q5.c18"
+        ],
+        "id": "markdown-2025.07-language-35",
+        "number": 35,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "あんな大きな問題を起こした彼が、何(なん)の責任も(  )。",
+        "options": [
+          "取りかねないわけだ",
+          "取らざるを得ないわけだ",
+          "取らずに済むわけがない",
+          "取りきれるわけがない"
+        ],
+        "optionOrder": [
+          1,
+          4,
+          3,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2015.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01",
+          "grammar.q5.c15"
+        ],
+        "id": "sbry-n1-2015.12-文法-5-26",
+        "number": 26,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "宿題がない大人が羨ましいと子供に言われたが、()大変なことがいろいろあるのだ。",
+        "options": [
+          "大人は大人で",
+          "大人が大人に",
+          "大人より大人で",
+          "大人から大人に"
+        ],
+        "optionOrder": [
+          4,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2022.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b05",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2022.12-文法-5-35",
+        "number": 35,
+        "selected": [
+          2
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "私は昔からバイクが大好きだ。小さい頃は、よく父のバイクの後ろに()。",
+        "options": [
+          "乗りたかったものだ",
+          "乗りたかったところだ",
+          "乗って欲しかったものだ",
+          "乗って欲しかったところだ"
+        ],
+        "optionOrder": [
+          1,
+          4,
+          3,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2015.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c01",
+          "grammar.q5.c09"
+        ],
+        "id": "sbry-n1-2015.07-文法-5-31",
+        "number": 31,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "日本近海で海水の酸性化が認められたという。海の生態系に大きな影響が()遅い。早急な対策が求められる。",
+        "options": [
+          "出たせいなのかは",
+          "出てしまうかは",
+          "出たばかりでは",
+          "出てからでは"
+        ],
+        "optionOrder": [
+          3,
+          4,
+          2,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2013.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c03",
+          "grammar.q5.b01"
+        ],
+        "id": "sbry-n1-2013.07-文法-5-27",
+        "number": 27,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(ニュースで)\n北川動物園では、連日の猛暑で元気のないペンギンに、せめて気分()南極を感じてもらおうと氷の塊がプレゼントされました。",
+        "options": [
+          "のみも",
+          "だけでも",
+          "ですらも",
+          "くらいも"
+        ],
+        "optionOrder": [
+          1,
+          3,
+          4,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2015.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c14"
+        ],
+        "id": "sbry-n1-2015.07-文法-5-27",
+        "number": 27,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "みんな「幸せになりたい。」と言うが、そもそも何()幸せとするのだろうか。",
+        "options": [
+          "にむけて",
+          "をめぐって",
+          "をもって",
+          "につれて"
+        ],
+        "optionOrder": [
+          2,
+          1,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c01"
+        ],
+        "id": "sbry-n1-2019.12-文法-5-28",
+        "number": 28,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "半年後に大学受験()、アイドルの西田アキは現在活動を休止している。",
+        "options": [
+          "を基にして",
+          "を控えて",
+          "をもって",
+          "をめぐって"
+        ],
+        "optionOrder": [
+          3,
+          4,
+          1,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c08",
+          "grammar.q5.c17"
+        ],
+        "id": "sbry-n1-2019.07-文法-5-26",
+        "number": 26,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "優勝()逃したが、石川選手は今大会で自己べストを更新する好成績を収めた。",
+        "options": [
+          "さえ",
+          "こそ",
+          "ほど",
+          "ばかり"
+        ],
+        "optionOrder": [
+          3,
+          2,
+          1,
+          4
+        ]
+      }
+    ]
+  }
+}
