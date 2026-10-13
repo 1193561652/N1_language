@@ -1,0 +1,471 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791871902423-ok4zfk",
+    "submittedAt": "2026-10-13T06:11:42.423Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": true,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "sbry-n1-2019.12-文法-5-27",
+        "markdown-2025.12-language-34",
+        "jlpt4you-2023.12-grammar-5-1",
+        "sbry-n1-2021.07-文法-5-32",
+        "sbry-n1-2011.12-文法-5-27",
+        "sbry-n1-2013.07-文法-5-32",
+        "jlpt4you-2024.07-grammar-5-2",
+        "sbry-n1-2010.12-文法-5-35",
+        "sbry-n1-2015.07-文法-5-27",
+        "sbry-n1-2015.12-文法-5-28"
+      ],
+      "shuffleOptions": true,
+      "optionOrders": {
+        "sbry-n1-2019.12-文法-5-27": [
+          2,
+          1,
+          3,
+          4
+        ],
+        "markdown-2025.12-language-34": [
+          4,
+          1,
+          3,
+          2
+        ],
+        "jlpt4you-2023.12-grammar-5-1": [
+          3,
+          2,
+          1,
+          4
+        ],
+        "sbry-n1-2021.07-文法-5-32": [
+          3,
+          4,
+          1,
+          2
+        ],
+        "sbry-n1-2011.12-文法-5-27": [
+          2,
+          1,
+          3,
+          4
+        ],
+        "sbry-n1-2013.07-文法-5-32": [
+          2,
+          1,
+          4,
+          3
+        ],
+        "jlpt4you-2024.07-grammar-5-2": [
+          3,
+          4,
+          2,
+          1
+        ],
+        "sbry-n1-2010.12-文法-5-35": [
+          3,
+          2,
+          4,
+          1
+        ],
+        "sbry-n1-2015.07-文法-5-27": [
+          1,
+          4,
+          2,
+          3
+        ],
+        "sbry-n1-2015.12-文法-5-28": [
+          2,
+          1,
+          4,
+          3
+        ]
+      },
+      "showFurigana": true
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 7,
+    "percentage": 70,
+    "durationSeconds": 387,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01"
+        ],
+        "id": "sbry-n1-2019.12-文法-5-27",
+        "number": 27,
+        "selected": [
+          4
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "一度ついてしまった癖は、()簡単には直らないものだ。",
+        "options": [
+          "そう",
+          "たとえ",
+          "そのうち",
+          "いったい"
+        ],
+        "optionOrder": [
+          2,
+          1,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2025.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06",
+          "grammar.q5.b02"
+        ],
+        "id": "markdown-2025.12-language-34",
+        "number": 34,
+        "selected": [
+          1
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(弁護士へのインタビューで)\nA「弁護士として毎日お忙しいと思いますが、休日はどのようにお過ごしですか。」\nB「家にいることが多いですね。弁護士は、人と話すのが仕事(  )ので、休日は一人でゆっくりしたいんです。」",
+        "options": [
+          "らしいことである",
+          "らしいところがある",
+          "みたいなことである",
+          "みたいなところがある"
+        ],
+        "optionOrder": [
+          4,
+          1,
+          3,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c01",
+          "grammar.q5.b01"
+        ],
+        "id": "jlpt4you-2023.12-grammar-5-1",
+        "number": 26,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "長く使っていた古い冷蔵庫を、引っ越し（ ）買い替えた。",
+        "options": [
+          "を機に",
+          "を皮切りに",
+          "に基づいて",
+          "にわたって"
+        ],
+        "optionOrder": [
+          3,
+          2,
+          1,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2021.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c13",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2021.07-文法-5-32",
+        "number": 32,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "河川の清掃活動の指揮を任された山田さんは、「大変な仕事ですが、()と思っています」と語った。",
+        "options": [
+          "やってやることがない",
+          "やってもやるべきではない",
+          "やってもやれるものでもない",
+          "やってやれないことはない"
+        ],
+        "optionOrder": [
+          3,
+          4,
+          1,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2011.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2011.12-文法-5-27",
+        "number": 27,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "本日結論が出なかった問題については、次回、改めて検討すること()致します。",
+        "options": [
+          "の",
+          "で",
+          "が",
+          "と"
+        ],
+        "optionOrder": [
+          2,
+          1,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2013.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01",
+          "grammar.q5.b04"
+        ],
+        "id": "sbry-n1-2013.07-文法-5-32",
+        "number": 32,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "私は映画監督になる夢をかなえるために、一生懸命映像の勉強をしている。絶対に、()終わらせない。",
+        "options": [
+          "夢に夢を",
+          "夢なら夢と",
+          "夢が夢なら",
+          "夢を夢で"
+        ],
+        "optionOrder": [
+          2,
+          1,
+          4,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2024.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c17"
+        ],
+        "id": "jlpt4you-2024.07-grammar-5-2",
+        "number": 27,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "彼はわずか 27 歳（ ）市長となった。",
+        "options": [
+          "にして",
+          "にあたって",
+          "に際して",
+          "に先立って"
+        ],
+        "optionOrder": [
+          3,
+          4,
+          2,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2010.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2010.12-文法-5-35",
+        "number": 35,
+        "selected": [
+          1
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "「いくら注意しても、後輩が同じ失敗を繰り返します。私は注意し続けるべきでしょうか。それとも本人が気づくまで、もう何も言う()。」",
+        "options": [
+          "べきでしょうか",
+          "べきなのでしょうか",
+          "べきではないのでしょうか",
+          "べきなのではないでしょう"
+        ],
+        "optionOrder": [
+          3,
+          2,
+          4,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2015.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c14"
+        ],
+        "id": "sbry-n1-2015.07-文法-5-27",
+        "number": 27,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "みんな「幸せになりたい。」と言うが、そもそも何()幸せとするのだろうか。",
+        "options": [
+          "にむけて",
+          "をめぐって",
+          "をもって",
+          "につれて"
+        ],
+        "optionOrder": [
+          1,
+          4,
+          2,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2015.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01"
+        ],
+        "id": "sbry-n1-2015.12-文法-5-28",
+        "number": 28,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "私の会社では、どんな理由があろうと、業務に関するデータや資料を社外に持ち出すことは、()認められていない。",
+        "options": [
+          "いっさい",
+          "むしろ",
+          "かならず",
+          "どうしても"
+        ],
+        "optionOrder": [
+          2,
+          1,
+          4,
+          3
+        ]
+      }
+    ]
+  }
+}

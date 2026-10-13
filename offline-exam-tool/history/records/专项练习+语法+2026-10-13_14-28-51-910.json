@@ -1,0 +1,476 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791872931911-rj4prv",
+    "submittedAt": "2026-10-13T06:28:51.910Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": true,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "jlpt4you-2024.12-grammar-5-1",
+        "sbry-n1-2013.07-文法-5-34",
+        "sbry-n1-2017.12-文法-5-34",
+        "jlpt4you-2024.07-grammar-5-9",
+        "markdown-2025.07-language-28",
+        "sbry-n1-2021.12-文法-5-34",
+        "jlpt4you-2023.12-grammar-5-10",
+        "sbry-n1-2015.07-文法-5-28",
+        "sbry-n1-2016.07-文法-5-35",
+        "sbry-n1-2014.12-文法-5-34"
+      ],
+      "shuffleOptions": true,
+      "optionOrders": {
+        "jlpt4you-2024.12-grammar-5-1": [
+          3,
+          4,
+          1,
+          2
+        ],
+        "sbry-n1-2013.07-文法-5-34": [
+          4,
+          1,
+          3,
+          2
+        ],
+        "sbry-n1-2017.12-文法-5-34": [
+          4,
+          1,
+          3,
+          2
+        ],
+        "jlpt4you-2024.07-grammar-5-9": [
+          4,
+          1,
+          2,
+          3
+        ],
+        "markdown-2025.07-language-28": [
+          1,
+          3,
+          4,
+          2
+        ],
+        "sbry-n1-2021.12-文法-5-34": [
+          2,
+          3,
+          4,
+          1
+        ],
+        "jlpt4you-2023.12-grammar-5-10": [
+          1,
+          3,
+          4,
+          2
+        ],
+        "sbry-n1-2015.07-文法-5-28": [
+          2,
+          1,
+          4,
+          3
+        ],
+        "sbry-n1-2016.07-文法-5-35": [
+          1,
+          3,
+          2,
+          4
+        ],
+        "sbry-n1-2014.12-文法-5-34": [
+          4,
+          3,
+          2,
+          1
+        ]
+      },
+      "showFurigana": true
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 9,
+    "percentage": 90,
+    "durationSeconds": 267,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01",
+          "grammar.q5.c19"
+        ],
+        "id": "jlpt4you-2024.12-grammar-5-1",
+        "number": 26,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "宝くじ売り場があるよ、買ってみない? どうせ当たらないんだから、買う（ ）無駄だったよ。",
+        "options": [
+          "より",
+          "のみ",
+          "には",
+          "だけ"
+        ],
+        "optionOrder": [
+          3,
+          4,
+          1,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2013.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b04",
+          "grammar.q5.b03"
+        ],
+        "id": "sbry-n1-2013.07-文法-5-34",
+        "number": 34,
+        "selected": [
+          4
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この曲は、失恋で落ち込んで泣いていた私に、また新しい恋をしようと()曲です。",
+        "options": [
+          "思われていた",
+          "思わせてくれた",
+          "思わせられた",
+          "思われてならなかった"
+        ],
+        "optionOrder": [
+          4,
+          1,
+          3,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b05"
+        ],
+        "id": "sbry-n1-2017.12-文法-5-34",
+        "number": 34,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "近年、世界的な人口増加により、将来の水不足への関心は急激に()。",
+        "options": [
+          "高まりつつある",
+          "高める見込みだ",
+          "高まるケースだ",
+          "高めることを余儀なくさせた"
+        ],
+        "optionOrder": [
+          4,
+          1,
+          3,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2024.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b04",
+          "grammar.q5.b06",
+          "grammar.q5.b05"
+        ],
+        "id": "jlpt4you-2024.07-grammar-5-9",
+        "number": 34,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "（天気予報で） 「明日は低気圧の発達に伴い、西日本を中心に風雨が（ ）。」",
+        "options": [
+          "強めつつあります",
+          "強める見込みです",
+          "強まりつつあります",
+          "強まる見込みです"
+        ],
+        "optionOrder": [
+          4,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2025.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c10",
+          "grammar.q5.c04"
+        ],
+        "id": "markdown-2025.07-language-28",
+        "number": 28,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "同僚の山川(やまかわ)さんは、相手が( )、おかしいと思ったことを指摘せずにはいられない性格だ。",
+        "options": [
+          "先輩やら上司やら",
+          "先輩なり上司なり",
+          "先輩というか上司というか",
+          "先輩だろうが上司だろうが"
+        ],
+        "optionOrder": [
+          1,
+          3,
+          4,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2021.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c20",
+          "grammar.q5.c17"
+        ],
+        "id": "sbry-n1-2021.12-文法-5-34",
+        "number": 34,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "私の夢を応援してくれた人たちに心から感謝している。特に、いつも支えてくれた両親にはどんなに()。",
+        "options": [
+          "感謝してもしきれない",
+          "感謝しようにもできない",
+          "感謝しすぎることはない",
+          "感謝したくてたまらない"
+        ],
+        "optionOrder": [
+          2,
+          3,
+          4,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c18",
+          "grammar.q5.b06"
+        ],
+        "id": "jlpt4you-2023.12-grammar-5-10",
+        "number": 35,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "仕事において、ミスは（ ）。しかし、人間である以上、ミスは避けられないものだ。",
+        "options": [
+          "してはいけないわけがない",
+          "してはいけないはずだった",
+          "しないほうがいいとは限らない",
+          "しないほうがいいに決まっている"
+        ],
+        "optionOrder": [
+          1,
+          3,
+          4,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2015.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c09",
+          "grammar.q5.b05"
+        ],
+        "id": "sbry-n1-2015.07-文法-5-28",
+        "number": 28,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(女優に対するインタビューで)\nA「女優になろうと思われたきっかけは何だったんですか。」\nB「高校生のときに初めて見たお芝居に感動して、女優になろうと決めたんです。あのときあのお芝居を()、女優になることはなかったと思います。」",
+        "options": [
+          "見たとしたら",
+          "見ようが",
+          "見なかったにしろ",
+          "見ていなければ"
+        ],
+        "optionOrder": [
+          2,
+          1,
+          4,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2016.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2016.07-文法-5-35",
+        "number": 35,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(メールで)\n風邪の具合はいかがですか。今年の風邪は長引くみたいですから、どうぞお気をつけください。一日も早く回復()。",
+        "options": [
+          "されますように",
+          "願ってはどうですか",
+          "いたしたく思います",
+          "していらっしゃるでしょうか"
+        ],
+        "optionOrder": [
+          1,
+          3,
+          2,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2014.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c20",
+          "grammar.q5.b04"
+        ],
+        "id": "sbry-n1-2014.12-文法-5-34",
+        "number": 34,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "試合後、木村選手は、「絶対に勝ちたい相手だっただけに、大事な場面でのミスが()」とコメントした。",
+        "options": [
+          "悔やまないようにする",
+          "悔やんでばかりだ",
+          "悔やむべきではない",
+          "悔やまれてならない"
+        ],
+        "optionOrder": [
+          4,
+          3,
+          2,
+          1
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,471 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791872567889-ve66zi",
+    "submittedAt": "2026-10-13T06:22:47.889Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": true,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "sbry-n1-2010.12-文法-5-29",
+        "sbry-n1-2010.12-文法-5-30",
+        "sbry-n1-2017.07-文法-5-33",
+        "sbry-n1-2016.12-文法-5-28",
+        "sbry-n1-2022.07-文法-5-34",
+        "sbry-n1-2019.12-文法-5-31",
+        "jlpt4you-2023.12-grammar-5-6",
+        "sbry-n1-2022.12-文法-5-32",
+        "jlpt4you-2024.07-grammar-5-2",
+        "sbry-n1-2015.07-文法-5-27"
+      ],
+      "shuffleOptions": true,
+      "optionOrders": {
+        "sbry-n1-2010.12-文法-5-29": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "sbry-n1-2010.12-文法-5-30": [
+          1,
+          3,
+          4,
+          2
+        ],
+        "sbry-n1-2017.07-文法-5-33": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "sbry-n1-2016.12-文法-5-28": [
+          4,
+          2,
+          1,
+          3
+        ],
+        "sbry-n1-2022.07-文法-5-34": [
+          3,
+          1,
+          2,
+          4
+        ],
+        "sbry-n1-2019.12-文法-5-31": [
+          4,
+          1,
+          3,
+          2
+        ],
+        "jlpt4you-2023.12-grammar-5-6": [
+          4,
+          3,
+          1,
+          2
+        ],
+        "sbry-n1-2022.12-文法-5-32": [
+          3,
+          1,
+          4,
+          2
+        ],
+        "jlpt4you-2024.07-grammar-5-2": [
+          4,
+          3,
+          2,
+          1
+        ],
+        "sbry-n1-2015.07-文法-5-27": [
+          2,
+          1,
+          4,
+          3
+        ]
+      },
+      "showFurigana": true
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 6,
+    "percentage": 60,
+    "durationSeconds": 236,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2010.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01",
+          "grammar.q5.c20"
+        ],
+        "id": "sbry-n1-2010.12-文法-5-29",
+        "number": 29,
+        "selected": [
+          1
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "「今回のプロジェクトを任され、その責任の重さに身が引き締まる()です。」",
+        "options": [
+          "考え",
+          "見込み",
+          "思い",
+          "始末"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2010.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03"
+        ],
+        "id": "sbry-n1-2010.12-文法-5-30",
+        "number": 30,
+        "selected": [
+          1
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "「このたびは、私どもの商品発送ミスにより、お客様に大変ご迷惑をかけましたことを深く()。申し訳ございませんでした。」",
+        "options": [
+          "わびていただきます",
+          "わびていらっしゃいます",
+          "おわびいただきます",
+          "おわび申し上げます"
+        ],
+        "optionOrder": [
+          1,
+          3,
+          4,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2017.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c08",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2017.07-文法-5-33",
+        "number": 33,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "昨日の新入生歓迎会に失敗だった。私たち上級生がたくさん質問をして、新入生が話しやすい()、逆に緊張させてしまったようだ。",
+        "options": [
+          "ようにしたあげく",
+          "ようにしたつもりが",
+          "ようになったものを",
+          "ようになったばかりか"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2016.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c08",
+          "grammar.q5.b01"
+        ],
+        "id": "sbry-n1-2016.12-文法-5-28",
+        "number": 28,
+        "selected": [
+          1
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(卒業生へのインタビューで)\n聞き手「学生時代にやったことで、今の仕事に役立っていることは何でしょうか。」\n田中「ラグビー部での経験ですね。チームワークの大切さを痛感しました。()、それは去年企画チームのリーダーになって始めて気づいたことですが。」",
+        "options": [
+          "要するに",
+          "あるいは",
+          "もっとも",
+          "ついては"
+        ],
+        "optionOrder": [
+          4,
+          2,
+          1,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2022.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06",
+          "grammar.q5.b02"
+        ],
+        "id": "sbry-n1-2022.07-文法-5-34",
+        "number": 34,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "A「あれ、ぜいたくのぜいって、漢字でどう()?」\nB「え、私も思い出せない」",
+        "options": [
+          "書くんだよね",
+          "書くんだっけ",
+          "書けるんだよね",
+          "書けるんだっけ"
+        ],
+        "optionOrder": [
+          3,
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c01",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2019.12-文法-5-31",
+        "number": 31,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "駐車場に着いて、車から()、ざっと大粒の雨が降ってきた。",
+        "options": [
+          "出るようにしたとたんに",
+          "出ようとしたとたんに",
+          "出るようにするについて",
+          "出ようとするにつれて"
+        ],
+        "optionOrder": [
+          4,
+          1,
+          3,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c08"
+        ],
+        "id": "jlpt4you-2023.12-grammar-5-6",
+        "number": 31,
+        "selected": [
+          4
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "せっかく新しく買うのならと高性能のパソコンを（ ）、全く使いこなせていない。",
+        "options": [
+          "買ったばかりでも",
+          "買ったはいいが",
+          "買ったかにかかわらず",
+          "買ったきりなのに"
+        ],
+        "optionOrder": [
+          4,
+          3,
+          1,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2022.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c01"
+        ],
+        "id": "sbry-n1-2022.12-文法-5-32",
+        "number": 32,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "学生時代はずっとサッカーをしていたのだが、社会人に()、運動する機会がすっかり減ってしまった。",
+        "options": [
+          "なってからであっても",
+          "なったばかりなのか",
+          "なってからというもの",
+          "なったばかりだとして"
+        ],
+        "optionOrder": [
+          3,
+          1,
+          4,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2024.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c17"
+        ],
+        "id": "jlpt4you-2024.07-grammar-5-2",
+        "number": 27,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "彼はわずか 27 歳（ ）市長となった。",
+        "options": [
+          "にして",
+          "にあたって",
+          "に際して",
+          "に先立って"
+        ],
+        "optionOrder": [
+          4,
+          3,
+          2,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2015.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c14"
+        ],
+        "id": "sbry-n1-2015.07-文法-5-27",
+        "number": 27,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "みんな「幸せになりたい。」と言うが、そもそも何()幸せとするのだろうか。",
+        "options": [
+          "にむけて",
+          "をめぐって",
+          "をもって",
+          "につれて"
+        ],
+        "optionOrder": [
+          2,
+          1,
+          4,
+          3
+        ]
+      }
+    ]
+  }
+}
