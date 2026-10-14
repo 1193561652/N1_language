@@ -1,0 +1,470 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791961967073-tjtwfi",
+    "submittedAt": "2026-10-14T07:12:47.073Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": true,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "sbry-n1-2016.07-文法-5-26",
+        "sbry-n1-2010.07-文法-5-31",
+        "sbry-n1-2017.07-文法-5-30",
+        "sbry-n1-2013.07-文法-5-34",
+        "markdown-2025.07-language-33",
+        "sbry-n1-2016.07-文法-5-30",
+        "sbry-n1-2011.12-文法-5-34",
+        "sbry-n1-2018.12-文法-5-33",
+        "sbry-n1-2022.12-文法-5-35",
+        "jlpt4you-2023.12-grammar-5-9"
+      ],
+      "shuffleOptions": true,
+      "optionOrders": {
+        "sbry-n1-2016.07-文法-5-26": [
+          4,
+          3,
+          1,
+          2
+        ],
+        "sbry-n1-2010.07-文法-5-31": [
+          1,
+          2,
+          4,
+          3
+        ],
+        "sbry-n1-2017.07-文法-5-30": [
+          1,
+          4,
+          3,
+          2
+        ],
+        "sbry-n1-2013.07-文法-5-34": [
+          4,
+          3,
+          2,
+          1
+        ],
+        "markdown-2025.07-language-33": [
+          2,
+          4,
+          3,
+          1
+        ],
+        "sbry-n1-2016.07-文法-5-30": [
+          3,
+          1,
+          4,
+          2
+        ],
+        "sbry-n1-2011.12-文法-5-34": [
+          2,
+          1,
+          3,
+          4
+        ],
+        "sbry-n1-2018.12-文法-5-33": [
+          4,
+          1,
+          3,
+          2
+        ],
+        "sbry-n1-2022.12-文法-5-35": [
+          4,
+          1,
+          3,
+          2
+        ],
+        "jlpt4you-2023.12-grammar-5-9": [
+          4,
+          2,
+          3,
+          1
+        ]
+      },
+      "showFurigana": true
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 6,
+    "percentage": 60,
+    "durationSeconds": 1116,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2016.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2016.07-文法-5-26",
+        "number": 26,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "アナウンサー「次の試合は優勝候補同士の対決です。()どちらが勝つのでしょ うか。」",
+        "options": [
+          "ついに",
+          "まさか",
+          "どうやら",
+          "果たして"
+        ],
+        "optionOrder": [
+          4,
+          3,
+          1,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2010.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2010.07-文法-5-31",
+        "number": 31,
+        "selected": [
+          1
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(電車の中で)\nＡ「いつもならこの時間帯は込んでるのに、今日は空いてるね。」\nＢ「祝日だからね。」\nＡ「あ、そっか。どうりで空いてる()。」",
+        "options": [
+          "こともある",
+          "に決まっている",
+          "に違いない",
+          "はずだ"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          4,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2017.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03"
+        ],
+        "id": "sbry-n1-2017.07-文法-5-30",
+        "number": 30,
+        "selected": [
+          1
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "田中部長「ねえ、山下くん、今度の会議でこの企画の説明をするのは鈴木課長だっけ？」\n山下「はい、課長がご説明()。」",
+        "options": [
+          "申します",
+          "いただきます",
+          "願います",
+          "なさいます"
+        ],
+        "optionOrder": [
+          1,
+          4,
+          3,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2013.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b04",
+          "grammar.q5.b03"
+        ],
+        "id": "sbry-n1-2013.07-文法-5-34",
+        "number": 34,
+        "selected": [
+          3
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この曲は、失恋で落ち込んで泣いていた私に、また新しい恋をしようと()曲です。",
+        "options": [
+          "思われていた",
+          "思わせてくれた",
+          "思わせられた",
+          "思われてならなかった"
+        ],
+        "optionOrder": [
+          4,
+          3,
+          2,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2025.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03",
+          "grammar.q5.b05"
+        ],
+        "id": "markdown-2025.07-language-33",
+        "number": 33,
+        "selected": [
+          3
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(ホームページで)\n弊社は地球環境に配慮した製品の開発をさらに進めて(  )。",
+        "options": [
+          "まいります",
+          "いたします",
+          "いらっしゃいます",
+          "なさいます"
+        ],
+        "optionOrder": [
+          2,
+          4,
+          3,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2016.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2016.07-文法-5-30",
+        "number": 30,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "昨日初めてハンバーグを作ったが、家族にあまりおいしくないと言われてしまった。今度は絶対おいしく()。",
+        "options": [
+          "作るものか",
+          "作る始末だ",
+          "作ってみせる",
+          "作りつつある"
+        ],
+        "optionOrder": [
+          3,
+          1,
+          4,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2011.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c10"
+        ],
+        "id": "sbry-n1-2011.12-文法-5-34",
+        "number": 34,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "今年は花粉の量が多いので、花粉症の人は辛いらしい。目が多少かゆくなる()、ひどい場合は痛くて目が開けられなくなることもあるそうだ。",
+        "options": [
+          "までにはならないとしても",
+          "までにならないとすれば",
+          "くらいはいいとしても",
+          "くらいでいいとすれば"
+        ],
+        "optionOrder": [
+          2,
+          1,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c09"
+        ],
+        "id": "sbry-n1-2018.12-文法-5-33",
+        "number": 33,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "母「ねえ、たけしの次の対戦相手、去年優勝してるんだって。勝つのは難しいかな。」\n父「そんなの()わかんないよ。」",
+        "options": [
+          "やってるって",
+          "やってみなきゃ",
+          "やっちゃうのが",
+          "やっちゃおうと"
+        ],
+        "optionOrder": [
+          4,
+          1,
+          3,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2022.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b05",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2022.12-文法-5-35",
+        "number": 35,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "私は昔からバイクが大好きだ。小さい頃は、よく父のバイクの後ろに()。",
+        "options": [
+          "乗りたかったものだ",
+          "乗りたかったところだ",
+          "乗って欲しかったものだ",
+          "乗って欲しかったところだ"
+        ],
+        "optionOrder": [
+          4,
+          1,
+          3,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b05"
+        ],
+        "id": "jlpt4you-2023.12-grammar-5-9",
+        "number": 34,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "今日から12月だ。早いもので、今年ももうすぐ（ ）。",
+        "options": [
+          "終わろうとする",
+          "終わろうとしている",
+          "終わるようにする",
+          "終わるようにしている"
+        ],
+        "optionOrder": [
+          4,
+          2,
+          3,
+          1
+        ]
+      }
+    ]
+  }
+}

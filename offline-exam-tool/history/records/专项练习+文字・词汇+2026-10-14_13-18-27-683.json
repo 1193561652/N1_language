@@ -1,0 +1,1081 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791955107683-vdc120",
+    "submittedAt": "2026-10-14T05:18:27.683Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": true,
+    "practice": {
+      "filters": {
+        "subject": "文字・词汇",
+        "problem": "2",
+        "tags": [
+          "language.q2.katakana"
+        ]
+      },
+      "requestedCount": 50,
+      "questionIds": [
+        "sbry-n1-2011.12-文字・語彙-2-13",
+        "sbry-n1-2017.07-文字・語彙-2-8",
+        "sbry-n1-2016.12-文字・語彙-2-13",
+        "sbry-n1-2011.12-文字・語彙-2-10",
+        "sbry-n1-2022.12-文字・語彙-2-11",
+        "sbry-n1-2020.12-文字・語彙-2-7",
+        "sbry-n1-2018.07-文字・語彙-2-8",
+        "sbry-n1-2012.12-文字・語彙-2-12",
+        "sbry-n1-2010.12-文字・語彙-2-9",
+        "sbry-n1-2012.07-文字・語彙-2-7",
+        "jlpt4you-2023.07-vocabulary-2-4",
+        "sbry-n1-2015.12-文字・語彙-2-8",
+        "markdown-2025.07-language-11",
+        "sbry-n1-2022.07-文字・語彙-2-8",
+        "sbry-n1-2014.07-文字・語彙-2-11",
+        "sbry-n1-2019.07-文字・語彙-2-7",
+        "sbry-n1-2016.07-文字・語彙-2-8",
+        "sbry-n1-2017.12-文字・語彙-2-7",
+        "sbry-n1-2014.12-文字・語彙-2-10",
+        "markdown-2025.12-language-8",
+        "sbry-n1-2010.07-文字・語彙-2-8",
+        "sbry-n1-2018.12-文字・語彙-2-8"
+      ],
+      "shuffleOptions": true,
+      "optionOrders": {
+        "sbry-n1-2011.12-文字・語彙-2-13": [
+          1,
+          2,
+          4,
+          3
+        ],
+        "sbry-n1-2017.07-文字・語彙-2-8": [
+          3,
+          4,
+          1,
+          2
+        ],
+        "sbry-n1-2016.12-文字・語彙-2-13": [
+          1,
+          2,
+          4,
+          3
+        ],
+        "sbry-n1-2011.12-文字・語彙-2-10": [
+          2,
+          4,
+          1,
+          3
+        ],
+        "sbry-n1-2022.12-文字・語彙-2-11": [
+          3,
+          1,
+          4,
+          2
+        ],
+        "sbry-n1-2020.12-文字・語彙-2-7": [
+          2,
+          4,
+          3,
+          1
+        ],
+        "sbry-n1-2018.07-文字・語彙-2-8": [
+          2,
+          3,
+          4,
+          1
+        ],
+        "sbry-n1-2012.12-文字・語彙-2-12": [
+          1,
+          3,
+          2,
+          4
+        ],
+        "sbry-n1-2010.12-文字・語彙-2-9": [
+          3,
+          1,
+          4,
+          2
+        ],
+        "sbry-n1-2012.07-文字・語彙-2-7": [
+          2,
+          4,
+          1,
+          3
+        ],
+        "jlpt4you-2023.07-vocabulary-2-4": [
+          4,
+          1,
+          3,
+          2
+        ],
+        "sbry-n1-2015.12-文字・語彙-2-8": [
+          3,
+          1,
+          2,
+          4
+        ],
+        "markdown-2025.07-language-11": [
+          1,
+          4,
+          2,
+          3
+        ],
+        "sbry-n1-2022.07-文字・語彙-2-8": [
+          4,
+          3,
+          2,
+          1
+        ],
+        "sbry-n1-2014.07-文字・語彙-2-11": [
+          4,
+          3,
+          2,
+          1
+        ],
+        "sbry-n1-2019.07-文字・語彙-2-7": [
+          3,
+          4,
+          2,
+          1
+        ],
+        "sbry-n1-2016.07-文字・語彙-2-8": [
+          2,
+          4,
+          1,
+          3
+        ],
+        "sbry-n1-2017.12-文字・語彙-2-7": [
+          4,
+          3,
+          2,
+          1
+        ],
+        "sbry-n1-2014.12-文字・語彙-2-10": [
+          3,
+          2,
+          1,
+          4
+        ],
+        "markdown-2025.12-language-8": [
+          4,
+          1,
+          2,
+          3
+        ],
+        "sbry-n1-2010.07-文字・語彙-2-8": [
+          4,
+          1,
+          2,
+          3
+        ],
+        "sbry-n1-2018.12-文字・語彙-2-8": [
+          4,
+          2,
+          1,
+          3
+        ]
+      },
+      "showFurigana": true
+    },
+    "year": "专项练习",
+    "category": "文字・词汇",
+    "questionCount": 22,
+    "total": 22,
+    "answered": 22,
+    "correct": 21,
+    "percentage": 95,
+    "durationSeconds": 944,
+    "reasonCount": 0,
+    "optionReasonCount": 74,
+    "details": [
+      {
+        "sourceYear": "2011.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.katakana"
+        ],
+        "id": "sbry-n1-2011.12-文字・語彙-2-13",
+        "number": 13,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {
+          "main:1": "keep",
+          "main:2": "charg",
+          "main:3": "stock",
+          "main:4": "share"
+        },
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "コピー用紙の()が減ったら、注文しておいてください。",
+        "options": [
+          "キープ",
+          "チャージ",
+          "ストック",
+          "シェア"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          4,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2017.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.katakana",
+          "language.q2.adjective.other"
+        ],
+        "id": "sbry-n1-2017.07-文字・語彙-2-8",
+        "number": 8,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {
+          "main:4": "constant",
+          "main:3": "simple",
+          "main:1": "clear",
+          "main:2": "straight，直接"
+        },
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この商品は、特によく売れる時期というものはなく、毎月()100個ほど売れる。",
+        "options": [
+          "クリアに",
+          "ストレートに",
+          "シンプルに",
+          "コンスタントに"
+        ],
+        "optionOrder": [
+          3,
+          4,
+          1,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2016.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.katakana"
+        ],
+        "id": "sbry-n1-2016.12-文字・語彙-2-13",
+        "number": 13,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {
+          "main:1": "database",
+          "main:2": "vetenan",
+          "main:4": "how know",
+          "main:3": "live work"
+        },
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "現社長は創立者から経営の()を学んだ。",
+        "options": [
+          "データベース",
+          "ベテラン",
+          "ライフワーク",
+          "ノウハウ"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          4,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2011.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.katakana"
+        ],
+        "id": "sbry-n1-2011.12-文字・語彙-2-10",
+        "number": 10,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {
+          "main:1": "sense",
+          "main:3": "nuance"
+        },
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この言葉には、やや批判的な()が含まれている。",
+        "options": [
+          "センス",
+          "キャラクター",
+          "ニュアンス",
+          "インスピレーション"
+        ],
+        "optionOrder": [
+          2,
+          4,
+          1,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2022.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.katakana"
+        ],
+        "id": "sbry-n1-2022.12-文字・語彙-2-11",
+        "number": 11,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {
+          "main:3": "punt",
+          "main:1": "pose",
+          "main:4": "tempo",
+          "main:2": "cursor"
+        },
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "きれいな写真を撮るためには、まずカメラの()を合わせることが大切です。",
+        "options": [
+          "ポーズ",
+          "カーソル",
+          "ピント",
+          "テンポ"
+        ],
+        "optionOrder": [
+          3,
+          1,
+          4,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2020.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.katakana"
+        ],
+        "id": "sbry-n1-2020.12-文字・語彙-2-7",
+        "number": 7,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {
+          "main:2": "norma，目标，指标",
+          "main:3": "demage",
+          "main:1": "error"
+        },
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "商品の値段を間違えて表示していたため、お客さんから()が来た。",
+        "options": [
+          "エラー",
+          "ノルマ",
+          "ダメージ",
+          "クレーム"
+        ],
+        "optionOrder": [
+          2,
+          4,
+          3,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2018.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.katakana"
+        ],
+        "id": "sbry-n1-2018.07-文字・語彙-2-8",
+        "number": 8,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {
+          "main:2": "error",
+          "main:3": "risk",
+          "main:4": "down"
+        },
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "企業の海外進出は()を伴うが、成功すれば利益は大きい。",
+        "options": [
+          "アウト",
+          "エラー",
+          "リスク",
+          "ダウン"
+        ],
+        "optionOrder": [
+          2,
+          3,
+          4,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2012.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.katakana"
+        ],
+        "id": "sbry-n1-2012.12-文字・語彙-2-12",
+        "number": 12,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {
+          "main:1": "list up",
+          "main:3": "stock，存储",
+          "main:4": "coodinate，同等"
+        },
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "仕事の分担を決める前に、必要な作業をすべて()した。",
+        "options": [
+          "リストアップ",
+          "エントリー",
+          "ストック",
+          "コーディネート"
+        ],
+        "optionOrder": [
+          1,
+          3,
+          2,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2010.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.katakana"
+        ],
+        "id": "sbry-n1-2010.12-文字・語彙-2-9",
+        "number": 9,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {
+          "main:3": "status",
+          "main:1": "veteran",
+          "main:4": "career",
+          "main:2": "position"
+        },
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "吉田さんは弁護士として２０年もの()を積んできた。",
+        "options": [
+          "ベテラン",
+          "ポジション",
+          "ステータス",
+          "キャリア"
+        ],
+        "optionOrder": [
+          3,
+          1,
+          4,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2012.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.katakana"
+        ],
+        "id": "sbry-n1-2012.07-文字・語彙-2-7",
+        "number": 7,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {
+          "main:4": "hardle",
+          "main:1": "limit",
+          "main:3": "norma"
+        },
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この本は内容が難しすぎて、初心者には()が高いと思う。",
+        "options": [
+          "リミット",
+          "ブロック",
+          "ノルマ",
+          "ハードル"
+        ],
+        "optionOrder": [
+          2,
+          4,
+          1,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2023.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.katakana"
+        ],
+        "id": "jlpt4you-2023.07-vocabulary-2-4",
+        "number": 10,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {
+          "main:4": "neck",
+          "main:1": "noise",
+          "main:3": "taboo",
+          "main:2": "lock"
+        },
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この生産管理のシステムは、維持費の高さが（ ）になってなかなか普及しない。",
+        "options": [
+          "ノイズ",
+          "ロック",
+          "タブー",
+          "ネック"
+        ],
+        "optionOrder": [
+          4,
+          1,
+          3,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2015.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.katakana"
+        ],
+        "id": "sbry-n1-2015.12-文字・語彙-2-8",
+        "number": 8,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {
+          "main:3": "media",
+          "main:1": "database",
+          "main:2": "comunication"
+        },
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "鈴木選手の活躍は、テレビや新聞など、様々な()で紹介された。",
+        "options": [
+          "データベース",
+          "コミュニケーション",
+          "メディア",
+          "スクリーン"
+        ],
+        "optionOrder": [
+          3,
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2025.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.katakana"
+        ],
+        "id": "markdown-2025.07-language-11",
+        "number": 11,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {
+          "main:2": "off",
+          "main:4": "break",
+          "main:3": "free",
+          "main:1": "blank"
+        },
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "原田(はらだ)さんは育児で何年も(  )があったが、資格を取得し、再就職が決まったそうだ。",
+        "options": [
+          "ブランク",
+          "オフ",
+          "フリー",
+          "ブレイク"
+        ],
+        "optionOrder": [
+          1,
+          4,
+          2,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2022.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.katakana"
+        ],
+        "id": "sbry-n1-2022.07-文字・語彙-2-8",
+        "number": 8,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {
+          "main:4": "base",
+          "main:2": "cycle",
+          "main:1": "pitch，投球"
+        },
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "予習、授業、復習という()を繰り返すことで、知識の定着を図る",
+        "options": [
+          "ピッチ",
+          "サイクル",
+          "シフト",
+          "ペース"
+        ],
+        "optionOrder": [
+          4,
+          3,
+          2,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2014.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.katakana"
+        ],
+        "id": "sbry-n1-2014.07-文字・語彙-2-11",
+        "number": 11,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {
+          "main:4": "main",
+          "main:3": "power",
+          "main:2": "top",
+          "main:1": "weight"
+        },
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "弊社の採用試験では、筆記試験よりも面接に()を置いています。",
+        "options": [
+          "ウェイト",
+          "トップ",
+          "パワー",
+          "メイン"
+        ],
+        "optionOrder": [
+          4,
+          3,
+          2,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.katakana"
+        ],
+        "id": "sbry-n1-2019.07-文字・語彙-2-7",
+        "number": 7,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {
+          "main:3": "senser",
+          "main:4": "lever，肝脏，杠杆",
+          "main:2": "motor",
+          "main:1": "leader"
+        },
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "ガスが漏れると、()が感知して警報が鳴る。",
+        "options": [
+          "レーダー",
+          "モーター",
+          "センサー",
+          "レバー"
+        ],
+        "optionOrder": [
+          3,
+          4,
+          2,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2016.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.katakana"
+        ],
+        "id": "sbry-n1-2016.07-文字・語彙-2-8",
+        "number": 8,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {
+          "main:2": "timing",
+          "main:4": "nuance",
+          "main:1": "sense",
+          "main:3": "step"
+        },
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "林さんは服の()が抜群で、いつもすてきな服装をしている。",
+        "options": [
+          "センス",
+          "タイミング",
+          "ステップ",
+          "ニュアンス"
+        ],
+        "optionOrder": [
+          2,
+          4,
+          1,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.katakana"
+        ],
+        "id": "sbry-n1-2017.12-文字・語彙-2-7",
+        "number": 7,
+        "selected": [
+          3
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {
+          "main:4": "share",
+          "main:2": "level"
+        },
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "小型カメラの国内市場では、弊社が20パーセントの()を占めています。",
+        "options": [
+          "レート",
+          "レベル",
+          "ランク",
+          "シェア"
+        ],
+        "optionOrder": [
+          4,
+          3,
+          2,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2014.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.katakana"
+        ],
+        "id": "sbry-n1-2014.12-文字・語彙-2-10",
+        "number": 10,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {
+          "main:2": "norma",
+          "main:4": "cost"
+        },
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この会社の営業部では、社員一人一人に毎週厳しい()が課されている。",
+        "options": [
+          "キャリア",
+          "ノルマ",
+          "チーフ",
+          "コスト"
+        ],
+        "optionOrder": [
+          3,
+          2,
+          1,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2025.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.katakana"
+        ],
+        "id": "markdown-2025.12-language-8",
+        "number": 8,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {
+          "main:1": "plus",
+          "main:2": "up",
+          "main:3": "lead"
+        },
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "試合の前半はAチームが1点(  )していたが、後半に2点取られて逆転された。",
+        "options": [
+          "プラス",
+          "アップ",
+          "リード",
+          "キャッチ"
+        ],
+        "optionOrder": [
+          4,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2010.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.katakana"
+        ],
+        "id": "sbry-n1-2010.07-文字・語彙-2-8",
+        "number": 8,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {
+          "main:4": "up",
+          "main:1": "keep",
+          "main:2": "follow",
+          "main:3": "match"
+        },
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "会議で質問に答えられなくて困っていたら、課長が()してくれた。",
+        "options": [
+          "キープ",
+          "フォロー",
+          "マッチ",
+          "アップ"
+        ],
+        "optionOrder": [
+          4,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.katakana"
+        ],
+        "id": "sbry-n1-2018.12-文字・語彙-2-8",
+        "number": 8,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {
+          "main:2": "layout",
+          "main:3": "out line",
+          "main:4": "looks"
+        },
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "記事のすぐ下に写真を載せるなど()を工夫すれば、もっと読みやすくなるだろう。",
+        "options": [
+          "スケッチ",
+          "レイアウト",
+          "アウトライン",
+          "ルックス"
+        ],
+        "optionOrder": [
+          4,
+          2,
+          1,
+          3
+        ]
+      }
+    ]
+  }
+}

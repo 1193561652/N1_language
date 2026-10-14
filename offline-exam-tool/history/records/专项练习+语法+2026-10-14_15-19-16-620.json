@@ -1,0 +1,472 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791962356620-u55cbo",
+    "submittedAt": "2026-10-14T07:19:16.620Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": true,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "sbry-n1-2017.12-文法-5-32",
+        "sbry-n1-2018.07-文法-5-27",
+        "sbry-n1-2018.07-文法-5-28",
+        "jlpt4you-2024.07-grammar-5-7",
+        "sbry-n1-2014.12-文法-5-35",
+        "sbry-n1-2010.07-文法-5-26",
+        "sbry-n1-2011.07-文法-5-28",
+        "sbry-n1-2013.07-文法-5-27",
+        "sbry-n1-2013.07-文法-5-28",
+        "jlpt4you-2024.12-grammar-5-5"
+      ],
+      "shuffleOptions": true,
+      "optionOrders": {
+        "sbry-n1-2017.12-文法-5-32": [
+          2,
+          4,
+          1,
+          3
+        ],
+        "sbry-n1-2018.07-文法-5-27": [
+          1,
+          4,
+          3,
+          2
+        ],
+        "sbry-n1-2018.07-文法-5-28": [
+          2,
+          4,
+          1,
+          3
+        ],
+        "jlpt4you-2024.07-grammar-5-7": [
+          3,
+          2,
+          1,
+          4
+        ],
+        "sbry-n1-2014.12-文法-5-35": [
+          1,
+          4,
+          2,
+          3
+        ],
+        "sbry-n1-2010.07-文法-5-26": [
+          4,
+          3,
+          2,
+          1
+        ],
+        "sbry-n1-2011.07-文法-5-28": [
+          1,
+          3,
+          2,
+          4
+        ],
+        "sbry-n1-2013.07-文法-5-27": [
+          2,
+          3,
+          4,
+          1
+        ],
+        "sbry-n1-2013.07-文法-5-28": [
+          3,
+          2,
+          1,
+          4
+        ],
+        "jlpt4you-2024.12-grammar-5-5": [
+          3,
+          1,
+          2,
+          4
+        ]
+      },
+      "showFurigana": true
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 9,
+    "percentage": 90,
+    "durationSeconds": 277,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c10",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2017.12-文法-5-32",
+        "number": 32,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(テレビ番組で)\n司会「きちんと手を()、指の間などに意外に汚れが残っていることも多いのです。そこで今日は正しい手の洗い方をご紹介します。」",
+        "options": [
+          "洗えるとは",
+          "洗えるとのことで",
+          "洗ったつもりだし",
+          "洗ったつもりでも"
+        ],
+        "optionOrder": [
+          2,
+          4,
+          1,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2018.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c11"
+        ],
+        "id": "sbry-n1-2018.07-文法-5-27",
+        "number": 27,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "わが社は、地球環境を()、廃棄物の減量とリサイクルの推進に取り組んでいる。",
+        "options": [
+          "守ろうとも",
+          "守ればこそ",
+          "守るべく",
+          "守るにせよ"
+        ],
+        "optionOrder": [
+          1,
+          4,
+          3,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2018.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01"
+        ],
+        "id": "sbry-n1-2018.07-文法-5-28",
+        "number": 28,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "A「遅れてごめん」\nB「遅いよ！10分も遅刻するなんて、何考えてるの？」\nA「少し遅れたぐらいで()そんなに怒らなくてもいいだろう.」",
+        "options": [
+          "まるで",
+          "ちっとも",
+          "なにも",
+          "いっさい"
+        ],
+        "optionOrder": [
+          2,
+          4,
+          1,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2024.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c18"
+        ],
+        "id": "jlpt4you-2024.07-grammar-5-7",
+        "number": 32,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "森選手の予選敗退は、けがが原因だと言われているが、本人は 「けがは関係ない。単に実力が足りなかった（ ）」とコメントしている。",
+        "options": [
+          "だけある",
+          "ものがある",
+          "だけのことだ",
+          "ようなものだ"
+        ],
+        "optionOrder": [
+          3,
+          2,
+          1,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2014.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c13",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2014.12-文法-5-35",
+        "number": 35,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "夫「見て。実家から米が届いたよ。」\n妻「わあ、すごい。これだけたくさんあれば、私たち、当分お米は()ね。」",
+        "options": [
+          "買ってきてはないんだ",
+          "買ったきりになってる",
+          "買わなくて済みそうだ",
+          "買うつもりじゃなかった"
+        ],
+        "optionOrder": [
+          1,
+          4,
+          2,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2010.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01"
+        ],
+        "id": "sbry-n1-2010.07-文法-5-26",
+        "number": 26,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この美術館の絵を全部見ようと思ったら、半日()足りないと思います。",
+        "options": [
+          "にわたって",
+          "にかけて",
+          "までは",
+          "では"
+        ],
+        "optionOrder": [
+          4,
+          3,
+          2,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2011.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01",
+          "grammar.q5.c04"
+        ],
+        "id": "sbry-n1-2011.07-文法-5-28",
+        "number": 28,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この鍋は、いため物に、揚げ物に()何にでも使えて便利です。",
+        "options": [
+          "は",
+          "と",
+          "や",
+          "か"
+        ],
+        "optionOrder": [
+          1,
+          3,
+          2,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2013.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c03",
+          "grammar.q5.b01"
+        ],
+        "id": "sbry-n1-2013.07-文法-5-27",
+        "number": 27,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(ニュースで)\n北川動物園では、連日の猛暑で元気のないペンギンに、せめて気分()南極を感じてもらおうと氷の塊がプレゼントされました。",
+        "options": [
+          "のみも",
+          "だけでも",
+          "ですらも",
+          "くらいも"
+        ],
+        "optionOrder": [
+          2,
+          3,
+          4,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2013.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2013.07-文法-5-28",
+        "number": 28,
+        "selected": [
+          2
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "近年、子どもの読書離れが指摘されているが、()子どもの読書量は本当に減っているのだろうか。",
+        "options": [
+          "かりに",
+          "どうやら",
+          "おそらく",
+          "はたして"
+        ],
+        "optionOrder": [
+          3,
+          2,
+          1,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c13",
+          "grammar.q5.b02"
+        ],
+        "id": "jlpt4you-2024.12-grammar-5-5",
+        "number": 30,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "昨日行った美術館は、一日では（ ）作品が展示されていた。",
+        "options": [
+          "見きれないほどの",
+          "見ずにはいられないほどの",
+          "見きれないといった",
+          "見ずにはいられないといった"
+        ],
+        "optionOrder": [
+          3,
+          1,
+          2,
+          4
+        ]
+      }
+    ]
+  }
+}

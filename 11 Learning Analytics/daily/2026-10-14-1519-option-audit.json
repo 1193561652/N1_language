@@ -1,0 +1,2323 @@
+{
+  "recordId": "1791962356620-u55cbo",
+  "scope": "最新15:19全部40选项逐项审查；本批另外30题做主答案与历史变化分析，无标注可判。",
+  "counts": {
+    "未标注": 40
+  },
+  "correctOptionNotes": 0,
+  "distractorNotes": 0,
+  "blankCorrectOptions": 10,
+  "blankDistractors": 30,
+  "blankPriorities": {
+    "建议补一次": 12,
+    "可复用并口述": 24,
+    "优先补": 4
+  },
+  "rows": [
+    {
+      "questionId": "sbry-n1-2017.12-文法-5-32",
+      "optionIndex": 1,
+      "displayPosition": 3,
+      "option": "洗えるとは",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "explanation": "洗える表示能洗，不是自以为已洗净；とは也未完成所需转折。"
+    },
+    {
+      "questionId": "sbry-n1-2017.12-文法-5-32",
+      "optionIndex": 2,
+      "displayPosition": 1,
+      "option": "洗えるとのことで",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "explanation": "洗えるとのことで表示据说能够洗；不是主观已完成与实际残留的反差。"
+    },
+    {
+      "questionId": "sbry-n1-2017.12-文法-5-32",
+      "optionIndex": 3,
+      "displayPosition": 4,
+      "option": "洗ったつもりだし",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "explanation": "洗ったつもり＝自以为洗过；だし并列理由，不能表达这里即使自以为洗净仍残留的转折。"
+    },
+    {
+      "questionId": "sbry-n1-2017.12-文法-5-32",
+      "optionIndex": 4,
+      "displayPosition": 2,
+      "option": "洗ったつもりでも",
+      "correctOption": true,
+      "selected": true,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "explanation": "洗ったつもりでも＝即使自以为洗干净了；つもり可表主观认定，未必是将来打算。"
+    },
+    {
+      "questionId": "sbry-n1-2018.07-文法-5-27",
+      "optionIndex": 1,
+      "displayPosition": 1,
+      "option": "守ろうとも",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "explanation": "守ろうとも＝即使要保护／无论……，属让步；此处需要目的。"
+    },
+    {
+      "questionId": "sbry-n1-2018.07-文法-5-27",
+      "optionIndex": 2,
+      "displayPosition": 4,
+      "option": "守ればこそ",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "explanation": "守ればこそ＝正因为保护，强调原因；不是为了保护这一目标。"
+    },
+    {
+      "questionId": "sbry-n1-2018.07-文法-5-27",
+      "optionIndex": 3,
+      "displayPosition": 3,
+      "option": "守るべく",
+      "correctOption": true,
+      "selected": true,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "explanation": "守るべく＝为了保护；动词辞书形＋べく，后接为实现目的采取的行动。"
+    },
+    {
+      "questionId": "sbry-n1-2018.07-文法-5-27",
+      "optionIndex": 4,
+      "displayPosition": 2,
+      "option": "守るにせよ",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "explanation": "守るにせよ＝即使保护／要保护也……，让步；不能直接替代目的。"
+    },
+    {
+      "questionId": "sbry-n1-2018.07-文法-5-28",
+      "optionIndex": 1,
+      "displayPosition": 3,
+      "option": "まるで",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "可复用并口述",
+      "explanation": "まるで＝宛如，常配ようだ；まるで～ない可表完全不，但本句不是完全不生气。"
+    },
+    {
+      "questionId": "sbry-n1-2018.07-文法-5-28",
+      "optionIndex": 2,
+      "displayPosition": 1,
+      "option": "ちっとも",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "可复用并口述",
+      "explanation": "ちっとも～ない＝一点也不；不表达没必要生这么大气。"
+    },
+    {
+      "questionId": "sbry-n1-2018.07-文法-5-28",
+      "optionIndex": 3,
+      "displayPosition": 4,
+      "option": "なにも",
+      "correctOption": true,
+      "selected": true,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "可复用并口述",
+      "explanation": "なにも～なくてもいい＝也用不着……；此处用不着那么生气，不是机械逐字译为什么都不。"
+    },
+    {
+      "questionId": "sbry-n1-2018.07-文法-5-28",
+      "optionIndex": 4,
+      "displayPosition": 2,
+      "option": "いっさい",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "可复用并口述",
+      "explanation": "いっさい～ない＝一概不、完全不；本句要表达不必过度反应。"
+    },
+    {
+      "questionId": "jlpt4you-2024.07-grammar-5-7",
+      "optionIndex": 1,
+      "displayPosition": 3,
+      "option": "だけある",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "可复用并口述",
+      "explanation": "だけある常见さすが～だけある／～だけあって，表示不愧、相称，不是仅仅如此。"
+    },
+    {
+      "questionId": "jlpt4you-2024.07-grammar-5-7",
+      "optionIndex": 2,
+      "displayPosition": 2,
+      "option": "ものがある",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "可复用并口述",
+      "explanation": "ものがある＝有某种令人感到……的一面；不表示限定为唯一原因。"
+    },
+    {
+      "questionId": "jlpt4you-2024.07-grammar-5-7",
+      "optionIndex": 3,
+      "displayPosition": 1,
+      "option": "だけのことだ",
+      "correctOption": true,
+      "selected": true,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "可复用并口述",
+      "explanation": "単に～だけのことだ＝只不过……罢了；与否认受伤原因、归因实力不足相合。"
+    },
+    {
+      "questionId": "jlpt4you-2024.07-grammar-5-7",
+      "optionIndex": 4,
+      "displayPosition": 4,
+      "option": "ようなものだ",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "可复用并口述",
+      "explanation": "ようなものだ＝类似……、差不多就是……；本句直接断定实力不足，不作比喻。"
+    },
+    {
+      "questionId": "sbry-n1-2014.12-文法-5-35",
+      "optionIndex": 1,
+      "displayPosition": 1,
+      "option": "買ってきてはないんだ",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "可复用并口述",
+      "explanation": "買ってきてはない＝没买来，口语可有这种否定；不表示今后免去购买。"
+    },
+    {
+      "questionId": "sbry-n1-2014.12-文法-5-35",
+      "optionIndex": 2,
+      "displayPosition": 3,
+      "option": "買ったきりになってる",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "可复用并口述",
+      "explanation": "買ったきり＝买过之后一直……，与收到大量米后暂时无需买的判断不符。"
+    },
+    {
+      "questionId": "sbry-n1-2014.12-文法-5-35",
+      "optionIndex": 3,
+      "displayPosition": 4,
+      "option": "買わなくて済みそうだ",
+      "correctOption": true,
+      "selected": true,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "可复用并口述",
+      "explanation": "買わなくて済みそうだ＝看来可以暂时不用买；なくて済む免去必要行为＋そうだ预判。"
+    },
+    {
+      "questionId": "sbry-n1-2014.12-文法-5-35",
+      "optionIndex": 4,
+      "displayPosition": 2,
+      "option": "買うつもりじゃなかった",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "可复用并口述",
+      "explanation": "買うつもりじゃなかった＝原本没打算买，过去意图；不是现在据库存推测未来。"
+    },
+    {
+      "questionId": "sbry-n1-2010.07-文法-5-26",
+      "optionIndex": 1,
+      "displayPosition": 4,
+      "option": "にわたって",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "explanation": "半日にわたって＝持续半天；表达覆盖时长，不是以半天为条件判断不足。"
+    },
+    {
+      "questionId": "sbry-n1-2010.07-文法-5-26",
+      "optionIndex": 2,
+      "displayPosition": 3,
+      "option": "にかけて",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "explanation": "半日にかけて不是此处所需结构；にかけて常用于从某时段到某时段的范围。"
+    },
+    {
+      "questionId": "sbry-n1-2010.07-文法-5-26",
+      "optionIndex": 3,
+      "displayPosition": 2,
+      "option": "までは",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "explanation": "半日までは＝直到半天为止，边界；不是限定可用时间不足。"
+    },
+    {
+      "questionId": "sbry-n1-2010.07-文法-5-26",
+      "optionIndex": 4,
+      "displayPosition": 1,
+      "option": "では",
+      "correctOption": true,
+      "selected": true,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "建议补一次",
+      "explanation": "半日では足りない＝如果只有半天就不够；で提示条件/数量界限，は突出对比。"
+    },
+    {
+      "questionId": "sbry-n1-2011.07-文法-5-28",
+      "optionIndex": 1,
+      "displayPosition": 1,
+      "option": "は",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "可复用并口述",
+      "explanation": "に…には可在别的结构出现，但这里要收束多个用途的列举。"
+    },
+    {
+      "questionId": "sbry-n1-2011.07-文法-5-28",
+      "optionIndex": 2,
+      "displayPosition": 3,
+      "option": "と",
+      "correctOption": true,
+      "selected": true,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "可复用并口述",
+      "explanation": "Aに、Bにと＝列举A、B等用途或场合；と收束列举，接何にでも使える。"
+    },
+    {
+      "questionId": "sbry-n1-2011.07-文法-5-28",
+      "optionIndex": 3,
+      "displayPosition": 2,
+      "option": "や",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "可复用并口述",
+      "explanation": "名词并列や通常直接接名词；本句已有炒菜用、油炸用的に，不能随意接や。"
+    },
+    {
+      "questionId": "sbry-n1-2011.07-文法-5-28",
+      "optionIndex": 4,
+      "displayPosition": 4,
+      "option": "か",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "可复用并口述",
+      "explanation": "か用于疑问或选择；这里是累加列举，并由何にでも概括。"
+    },
+    {
+      "questionId": "sbry-n1-2013.07-文法-5-27",
+      "optionIndex": 1,
+      "displayPosition": 4,
+      "option": "のみも",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "可复用并口述",
+      "explanation": "のみも不是表达最低愿望的合适组合；不可把のみ替换だけ后保留任意助词。"
+    },
+    {
+      "questionId": "sbry-n1-2013.07-文法-5-27",
+      "optionIndex": 2,
+      "displayPosition": 1,
+      "option": "だけでも",
+      "correctOption": true,
+      "selected": true,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "可复用并口述",
+      "explanation": "せめて気分だけでも＝至少让它们在感觉上体验南极；だけ限制最低范围，でも承认退一步的满足。"
+    },
+    {
+      "questionId": "sbry-n1-2013.07-文法-5-27",
+      "optionIndex": 3,
+      "displayPosition": 2,
+      "option": "ですらも",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "可复用并口述",
+      "explanation": "ですらも强调连……都，通常突出出乎意料；不对应至少感觉上也好的最低愿望。"
+    },
+    {
+      "questionId": "sbry-n1-2013.07-文法-5-27",
+      "optionIndex": 4,
+      "displayPosition": 3,
+      "option": "くらいも",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "可复用并口述",
+      "explanation": "くらいも不构成本句せめて～だけでも的最低愿望结构。"
+    },
+    {
+      "questionId": "sbry-n1-2013.07-文法-5-28",
+      "optionIndex": 1,
+      "displayPosition": 3,
+      "option": "かりに",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "优先补",
+      "explanation": "かりに＝假定、假如；引入假设，通常接条件形式，不是询问传闻究竟是否属实。"
+    },
+    {
+      "questionId": "sbry-n1-2013.07-文法-5-28",
+      "optionIndex": 2,
+      "displayPosition": 2,
+      "option": "どうやら",
+      "correctOption": false,
+      "selected": true,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "优先补",
+      "explanation": "どうやら＝看来、似乎；根据迹象作判断。本句用本当に～のだろうか重新提出疑问，不是在给出推测结论。"
+    },
+    {
+      "questionId": "sbry-n1-2013.07-文法-5-28",
+      "optionIndex": 3,
+      "displayPosition": 1,
+      "option": "おそらく",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "优先补",
+      "explanation": "おそらく＝恐怕、大概；偏向估计答案，不是这里对既有说法是否成立的审视。"
+    },
+    {
+      "questionId": "sbry-n1-2013.07-文法-5-28",
+      "optionIndex": 4,
+      "displayPosition": 4,
+      "option": "はたして",
+      "correctOption": true,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "优先补",
+      "explanation": "はたして＝究竟、到底；与本当に～のだろうか配合，质疑阅读量是否真的减少。不是只要看到疑问句就机械套用。"
+    },
+    {
+      "questionId": "jlpt4you-2024.12-grammar-5-5",
+      "optionIndex": 1,
+      "displayPosition": 2,
+      "option": "見きれないほどの",
+      "correctOption": true,
+      "selected": true,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "可复用并口述",
+      "explanation": "見きれないほどの作品＝多到一天看不完的作品；きる完成，否定可能见きれない；ほどの修饰数量程度。"
+    },
+    {
+      "questionId": "jlpt4you-2024.12-grammar-5-5",
+      "optionIndex": 2,
+      "displayPosition": 3,
+      "option": "見ずにはいられないほどの",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "可复用并口述",
+      "explanation": "見ずにはいられない＝忍不住要看，描述冲动；不符合一日では所限定的完成能力。"
+    },
+    {
+      "questionId": "jlpt4you-2024.12-grammar-5-5",
+      "optionIndex": 3,
+      "displayPosition": 1,
+      "option": "見きれないといった",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "可复用并口述",
+      "explanation": "といった表示举例/概括，如AやBといった；本句要直接表达多到看不完的程度。"
+    },
+    {
+      "questionId": "jlpt4you-2024.12-grammar-5-5",
+      "optionIndex": 4,
+      "displayPosition": 4,
+      "option": "見ずにはいられないといった",
+      "correctOption": false,
+      "selected": false,
+      "originalAnnotation": "",
+      "verdict": "未标注",
+      "priority": "可复用并口述",
+      "explanation": "既将完成能力换成忍不住，又用といった代替程度ほど，无法表达原句。"
+    }
+  ],
+  "batchQuestions": [
+    {
+      "recordId": "1791960045272-90vl0l",
+      "questionId": "sbry-n1-2017.12-文法-5-29",
+      "questionText": "5年前に植えた校庭の桜が、今年初めて花を()。",
+      "options": [
+        "咲いた",
+        "咲いている",
+        "咲かせた",
+        "咲くだろう"
+      ],
+      "selected": [
+        3
+      ],
+      "expected": [
+        3
+      ],
+      "correct": true,
+      "status": "保持",
+      "history": [
+        {
+          "recordId": "1791187543359-uhhd47",
+          "questionId": "sbry-n1-2017.12-文法-5-29",
+          "submittedAt": "2026-10-05T08:05:43.359Z",
+          "selected": [
+            3
+          ],
+          "results": [
+            true
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791960045272-90vl0l",
+      "questionId": "sbry-n1-2015.12-文法-5-28",
+      "questionText": "私の会社では、どんな理由があろうと、業務に関するデータや資料を社外に持ち出すことは、()認められていない。",
+      "options": [
+        "いっさい",
+        "むしろ",
+        "かならず",
+        "どうしても"
+      ],
+      "selected": [
+        1
+      ],
+      "expected": [
+        1
+      ],
+      "correct": true,
+      "status": "保持",
+      "history": [
+        {
+          "recordId": "1791187543359-uhhd47",
+          "questionId": "sbry-n1-2015.12-文法-5-28",
+          "submittedAt": "2026-10-05T08:05:43.359Z",
+          "selected": [
+            1
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1791271673652-81inff",
+          "questionId": "sbry-n1-2015.12-文法-5-28",
+          "submittedAt": "2026-10-06T07:27:53.652Z",
+          "selected": [
+            1
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1791355376735-xejv69",
+          "questionId": "sbry-n1-2015.12-文法-5-28",
+          "submittedAt": "2026-10-07T06:42:56.735Z",
+          "selected": [
+            1
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1791430761813-vbia8d",
+          "questionId": "sbry-n1-2015.12-文法-5-28",
+          "submittedAt": "2026-10-08T03:39:21.813Z",
+          "selected": [
+            1
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1791871902423-ok4zfk",
+          "questionId": "sbry-n1-2015.12-文法-5-28",
+          "submittedAt": "2026-10-13T06:11:42.423Z",
+          "selected": [
+            1
+          ],
+          "results": [
+            true
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791960045272-90vl0l",
+      "questionId": "sbry-n1-2022.12-文法-5-33",
+      "questionText": "自転車の鍵が見当たらないと思ったら、昨日はいていたズボンのポケットに()。",
+      "options": [
+        "入れたつもり",
+        "入れっぱなしだった",
+        "入れっこなかった",
+        "入れるべきではなかった"
+      ],
+      "selected": [
+        2
+      ],
+      "expected": [
+        2
+      ],
+      "correct": true,
+      "status": "保持",
+      "history": [
+        {
+          "recordId": "1788445588302-2w8xs9",
+          "questionId": "sbry-n1-2022.12-文法-5-33",
+          "submittedAt": "2026-09-03T14:26:28.302Z",
+          "selected": [
+            2
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1788616288743-au81cx",
+          "questionId": "sbry-n1-2022.12-文法-5-33",
+          "submittedAt": "2026-09-05T13:51:28.743Z",
+          "selected": [
+            2
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1791193745692-upl716",
+          "questionId": "sbry-n1-2022.12-文法-5-33",
+          "submittedAt": "2026-10-05T09:49:05.692Z",
+          "selected": [
+            4
+          ],
+          "results": [
+            false
+          ]
+        },
+        {
+          "recordId": "1791198224716-lzhnp3",
+          "questionId": "sbry-n1-2022.12-文法-5-33",
+          "submittedAt": "2026-10-05T11:03:44.716Z",
+          "selected": [
+            2
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1791533974130-9d6ytl",
+          "questionId": "sbry-n1-2022.12-文法-5-33",
+          "submittedAt": "2026-10-09T08:19:34.130Z",
+          "selected": [
+            2
+          ],
+          "results": [
+            true
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791960045272-90vl0l",
+      "questionId": "sbry-n1-2016.12-文法-5-34",
+      "questionText": "現在、潜水調査船を用いた調査研究が進展中であり、いずれ近いうちに海底のより詳細な地質構造が明らかに()。",
+      "options": [
+        "なるものと思われる",
+        "するという思いがある",
+        "なったかに思える",
+        "するだろうと思う"
+      ],
+      "selected": [
+        4
+      ],
+      "expected": [
+        1
+      ],
+      "correct": false,
+      "status": "回退",
+      "history": [
+        {
+          "recordId": "1791197710057-8gh7x4",
+          "questionId": "sbry-n1-2016.12-文法-5-34",
+          "submittedAt": "2026-10-05T10:55:10.057Z",
+          "selected": [
+            4
+          ],
+          "results": [
+            false
+          ]
+        },
+        {
+          "recordId": "1791199403011-f67i79",
+          "questionId": "sbry-n1-2016.12-文法-5-34",
+          "submittedAt": "2026-10-05T11:23:23.011Z",
+          "selected": [
+            1
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1791281312320-a8jxr2",
+          "questionId": "sbry-n1-2016.12-文法-5-34",
+          "submittedAt": "2026-10-06T10:08:32.320Z",
+          "selected": [
+            1
+          ],
+          "results": [
+            true
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791960045272-90vl0l",
+      "questionId": "sbry-n1-2012.12-文法-5-35",
+      "questionText": "A「西川先生のデザインは、どういうところが魅力ですか。」\nB「そうですね。私にとって先生のデザインは、見ているだけでほっとする()、そんな温かい雰囲気があって、好きなんです。」",
+      "options": [
+        "というでしょうから",
+        "といいませんか",
+        "というでしょうが",
+        "といいましょうか"
+      ],
+      "selected": [
+        1
+      ],
+      "expected": [
+        4
+      ],
+      "correct": false,
+      "status": "持续错",
+      "history": [
+        {
+          "recordId": "1791198224716-lzhnp3",
+          "questionId": "sbry-n1-2012.12-文法-5-35",
+          "submittedAt": "2026-10-05T11:03:44.716Z",
+          "selected": [
+            1
+          ],
+          "results": [
+            false
+          ]
+        },
+        {
+          "recordId": "1791790582832-gk9f7s",
+          "questionId": "sbry-n1-2012.12-文法-5-35",
+          "submittedAt": "2026-10-12T07:36:22.832Z",
+          "selected": [
+            1
+          ],
+          "results": [
+            false
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791960045272-90vl0l",
+      "questionId": "sbry-n1-2012.07-文法-5-26",
+      "questionText": "４０代()後半となり、わたしもとうとう中高年の仲間入りだ。",
+      "options": [
+        "を",
+        "へ",
+        "も",
+        "まで"
+      ],
+      "selected": [
+        3
+      ],
+      "expected": [
+        3
+      ],
+      "correct": true,
+      "status": "恢复",
+      "history": [
+        {
+          "recordId": "1791187543359-uhhd47",
+          "questionId": "sbry-n1-2012.07-文法-5-26",
+          "submittedAt": "2026-10-05T08:05:43.359Z",
+          "selected": [
+            4
+          ],
+          "results": [
+            false
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791960045272-90vl0l",
+      "questionId": "sbry-n1-2022.07-文法-5-26",
+      "questionText": "このお寺は、釘などの金属類は()使わず、木材だけで建てられているそうだ。",
+      "options": [
+        "あまりに",
+        "いっさい",
+        "できれば",
+        "どうしても"
+      ],
+      "selected": [
+        2
+      ],
+      "expected": [
+        2
+      ],
+      "correct": true,
+      "status": "保持",
+      "history": [
+        {
+          "recordId": "1788784062659-cao081",
+          "questionId": "sbry-n1-2022.07-文法-5-26",
+          "submittedAt": "2026-09-07T12:27:42.659Z",
+          "selected": [
+            2
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1789306564853-6ut794",
+          "questionId": "sbry-n1-2022.07-文法-5-26",
+          "submittedAt": "2026-09-13T13:36:04.853Z",
+          "selected": [
+            2
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1791447428455-c90epe",
+          "questionId": "sbry-n1-2022.07-文法-5-26",
+          "submittedAt": "2026-10-08T08:17:08.455Z",
+          "selected": [
+            2
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1791535327080-dxeqia",
+          "questionId": "sbry-n1-2022.07-文法-5-26",
+          "submittedAt": "2026-10-09T08:42:07.080Z",
+          "selected": [
+            2
+          ],
+          "results": [
+            true
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791960045272-90vl0l",
+      "questionId": "sbry-n1-2011.12-文法-5-32",
+      "questionText": "夫「週末の旅行、このスーツケースでどうかなあ？」\n妻「何週間も海外に()、今度はそんなに大きいスーツケースは要らないんじゃない？」",
+      "options": [
+        "行くわけじゃあるまいし",
+        "行くもんだっただろうに",
+        "行くわけだったんだから",
+        "行くもんじゃないだろうけど"
+      ],
+      "selected": [
+        1
+      ],
+      "expected": [
+        1
+      ],
+      "correct": true,
+      "status": "首次正确",
+      "history": []
+    },
+    {
+      "recordId": "1791960045272-90vl0l",
+      "questionId": "sbry-n1-2012.12-文法-5-33",
+      "questionText": "(会議で)\n部長「この方針について意見のある人はいますか。あ、田村さん、どうぞ。」\n田村「はい。そのような対応は確かに必要だとは思います。しかし、私たち営業の立場()、現在の状況でそこまでやるのは厳しいです。」",
+      "options": [
+        "に言わせていれば",
+        "から言わせてやれば",
+        "に言わせてあげれば",
+        "から言わせてもらえば"
+      ],
+      "selected": [
+        2
+      ],
+      "expected": [
+        4
+      ],
+      "correct": false,
+      "status": "持续错",
+      "history": [
+        {
+          "recordId": "1791624098141-1pvk9r",
+          "questionId": "sbry-n1-2012.12-文法-5-33",
+          "submittedAt": "2026-10-10T09:21:38.141Z",
+          "selected": [
+            2
+          ],
+          "results": [
+            false
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791960045272-90vl0l",
+      "questionId": "sbry-n1-2016.12-文法-5-31",
+      "questionText": "(お知らせで)\n水道管破裂による断水のため、8月12日まで市民プールの営業を休止します。復旧状況()、営業再開が遅れる可能性がありますので、ご了承ください。",
+      "options": [
+        "次第には",
+        "次第に",
+        "次第では",
+        "次第"
+      ],
+      "selected": [
+        1
+      ],
+      "expected": [
+        3
+      ],
+      "correct": false,
+      "status": "持续错",
+      "history": [
+        {
+          "recordId": "1791196921030-gog2ru",
+          "questionId": "sbry-n1-2016.12-文法-5-31",
+          "submittedAt": "2026-10-05T10:42:01.030Z",
+          "selected": [
+            2
+          ],
+          "results": [
+            false
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791960839011-1b4pph",
+      "questionId": "sbry-n1-2019.12-文法-5-27",
+      "questionText": "一度ついてしまった癖は、()簡単には直らないものだ。",
+      "options": [
+        "そう",
+        "たとえ",
+        "そのうち",
+        "いったい"
+      ],
+      "selected": [
+        1
+      ],
+      "expected": [
+        1
+      ],
+      "correct": true,
+      "status": "恢复",
+      "history": [
+        {
+          "recordId": "1791871902423-ok4zfk",
+          "questionId": "sbry-n1-2019.12-文法-5-27",
+          "submittedAt": "2026-10-13T06:11:42.423Z",
+          "selected": [
+            4
+          ],
+          "results": [
+            false
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791960839011-1b4pph",
+      "questionId": "sbry-n1-2022.07-文法-5-31",
+      "questionText": "さくら小学校では、児童数が増加して、それまでの教室数では対応()、今年新しい校舎が建設された。",
+      "options": [
+        "しきれなくなったからには",
+        "しきれなくなったことから",
+        "するほかなくなったからには",
+        "するほかなくなったことから"
+      ],
+      "selected": [
+        2
+      ],
+      "expected": [
+        2
+      ],
+      "correct": true,
+      "status": "保持",
+      "history": [
+        {
+          "recordId": "1788784062659-cao081",
+          "questionId": "sbry-n1-2022.07-文法-5-31",
+          "submittedAt": "2026-09-07T12:27:42.659Z",
+          "selected": [
+            2
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1789306564853-6ut794",
+          "questionId": "sbry-n1-2022.07-文法-5-31",
+          "submittedAt": "2026-09-13T13:36:04.853Z",
+          "selected": [
+            2
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1791187543359-uhhd47",
+          "questionId": "sbry-n1-2022.07-文法-5-31",
+          "submittedAt": "2026-10-05T08:05:43.359Z",
+          "selected": [
+            2
+          ],
+          "results": [
+            true
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791960839011-1b4pph",
+      "questionId": "sbry-n1-2014.07-文法-5-34",
+      "questionText": "子供サッカー教室に、プロサッカー選手の上田幸太が参加した。上田選手が来ることは参加者には()、突然の登場にみんな驚いていた。",
+      "options": [
+        "知られつつも",
+        "知らされておらず",
+        "知らされていないと",
+        "知られたためか"
+      ],
+      "selected": [
+        2
+      ],
+      "expected": [
+        2
+      ],
+      "correct": true,
+      "status": "保持",
+      "history": [
+        {
+          "recordId": "1791430761813-vbia8d",
+          "questionId": "sbry-n1-2014.07-文法-5-34",
+          "submittedAt": "2026-10-08T03:39:21.813Z",
+          "selected": [
+            2
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1791439586475-j6hzbc",
+          "questionId": "sbry-n1-2014.07-文法-5-34",
+          "submittedAt": "2026-10-08T06:06:26.475Z",
+          "selected": [
+            2
+          ],
+          "results": [
+            true
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791960839011-1b4pph",
+      "questionId": "jlpt4you-2023.07-grammar-5-3",
+      "questionText": "合唱コンクールで歌っている子供たちの表情は、（ ）そのものだった。",
+      "options": [
+        "真剣",
+        "真剣で",
+        "真剣に",
+        "真剣な"
+      ],
+      "selected": [
+        1
+      ],
+      "expected": [
+        1
+      ],
+      "correct": true,
+      "status": "保持",
+      "history": [
+        {
+          "recordId": "1788357421400-hf7055",
+          "questionId": "jlpt4you-2023.07-grammar-5-3",
+          "submittedAt": "2026-09-02T13:57:01.400Z",
+          "selected": [
+            3
+          ],
+          "results": [
+            false
+          ]
+        },
+        {
+          "recordId": "1788615828292-c4ic3r",
+          "questionId": "jlpt4you-2023.07-grammar-5-3",
+          "submittedAt": "2026-09-05T13:43:48.292Z",
+          "selected": [
+            1
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1791536374249-tzgjyt",
+          "questionId": "jlpt4you-2023.07-grammar-5-3",
+          "submittedAt": "2026-10-09T08:59:34.249Z",
+          "selected": [
+            3
+          ],
+          "results": [
+            false
+          ]
+        },
+        {
+          "recordId": "1791790582832-gk9f7s",
+          "questionId": "jlpt4you-2023.07-grammar-5-3",
+          "submittedAt": "2026-10-12T07:36:22.832Z",
+          "selected": [
+            1
+          ],
+          "results": [
+            true
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791960839011-1b4pph",
+      "questionId": "sbry-n1-2012.07-文法-5-30",
+      "questionText": "お客様、ご希望のホテルが満室でしたので、他のホテルにご変更()のですが……。よろしいでしょうか。",
+      "options": [
+        "ねがいたい",
+        "なさりたい",
+        "くださりたい",
+        "になりたい"
+      ],
+      "selected": [
+        1
+      ],
+      "expected": [
+        1
+      ],
+      "correct": true,
+      "status": "恢复",
+      "history": [
+        {
+          "recordId": "1791452115662-uk59bu",
+          "questionId": "sbry-n1-2012.07-文法-5-30",
+          "submittedAt": "2026-10-08T09:35:15.662Z",
+          "selected": [
+            4
+          ],
+          "results": [
+            false
+          ]
+        },
+        {
+          "recordId": "1791723662716-dtqryy",
+          "questionId": "sbry-n1-2012.07-文法-5-30",
+          "submittedAt": "2026-10-11T13:01:02.716Z",
+          "selected": [
+            4
+          ],
+          "results": [
+            false
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791960839011-1b4pph",
+      "questionId": "sbry-n1-2011.07-文法-5-26",
+      "questionText": "人気作家A氏の講演会が無料()、多くのファンが詰めかけた。",
+      "options": [
+        "にして",
+        "にあって",
+        "として",
+        "とあって"
+      ],
+      "selected": [
+        4
+      ],
+      "expected": [
+        4
+      ],
+      "correct": true,
+      "status": "保持",
+      "history": [
+        {
+          "recordId": "1791187543359-uhhd47",
+          "questionId": "sbry-n1-2011.07-文法-5-26",
+          "submittedAt": "2026-10-05T08:05:43.359Z",
+          "selected": [
+            2
+          ],
+          "results": [
+            false
+          ]
+        },
+        {
+          "recordId": "1791199403011-f67i79",
+          "questionId": "sbry-n1-2011.07-文法-5-26",
+          "submittedAt": "2026-10-05T11:23:23.011Z",
+          "selected": [
+            4
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1791281312320-a8jxr2",
+          "questionId": "sbry-n1-2011.07-文法-5-26",
+          "submittedAt": "2026-10-06T10:08:32.320Z",
+          "selected": [
+            4
+          ],
+          "results": [
+            true
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791960839011-1b4pph",
+      "questionId": "sbry-n1-2017.07-文法-5-28",
+      "questionText": "A社は、製品の成分表示に誤りがあったことについて謝罪したが、品質には()問題はないと強調した。",
+      "options": [
+        "かりに",
+        "なんら",
+        "なかなか",
+        "あまりにも"
+      ],
+      "selected": [
+        2
+      ],
+      "expected": [
+        2
+      ],
+      "correct": true,
+      "status": "保持",
+      "history": [
+        {
+          "recordId": "1788872767020-6lqrci",
+          "questionId": "sbry-n1-2021.12-文法-5-27",
+          "submittedAt": "2026-09-08T13:06:07.020Z",
+          "selected": [
+            2
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1789307875495-ao3x7g",
+          "questionId": "sbry-n1-2021.12-文法-5-27",
+          "submittedAt": "2026-09-13T13:57:55.495Z",
+          "selected": [
+            2
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1791193745692-upl716",
+          "questionId": "sbry-n1-2021.12-文法-5-27",
+          "submittedAt": "2026-10-05T09:49:05.692Z",
+          "selected": [
+            2
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1791267449323-tnfsdq",
+          "questionId": "sbry-n1-2017.07-文法-5-28",
+          "submittedAt": "2026-10-06T06:17:29.323Z",
+          "selected": [
+            2
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1791437042655-k0iny5",
+          "questionId": "sbry-n1-2021.12-文法-5-27",
+          "submittedAt": "2026-10-08T05:24:02.655Z",
+          "selected": [
+            2
+          ],
+          "results": [
+            true
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791960839011-1b4pph",
+      "questionId": "sbry-n1-2011.07-文法-5-35",
+      "questionText": "(宇宙飛行士)山田太郎さんへのインタビューで\n山田「実は、初めから宇宙飛行士になる()、そうじゃないんです。大学を出たら、医者になろうと思っていましたから。」\n記者「では、何がきっかけで、宇宙飛行士になりたいと思ったんですか。」",
+      "options": [
+        "つもりだったかっていうと",
+        "つもりなのかっていわれたら",
+        "つもりじゃなかったのかっていわれたら",
+        "つもりがなかったかっていうと"
+      ],
+      "selected": [
+        1
+      ],
+      "expected": [
+        1
+      ],
+      "correct": true,
+      "status": "保持",
+      "history": [
+        {
+          "recordId": "1791187543359-uhhd47",
+          "questionId": "sbry-n1-2011.07-文法-5-35",
+          "submittedAt": "2026-10-05T08:05:43.359Z",
+          "selected": [
+            1
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1791199403011-f67i79",
+          "questionId": "sbry-n1-2011.07-文法-5-35",
+          "submittedAt": "2026-10-05T11:23:23.011Z",
+          "selected": [
+            1
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1791263329462-4xwuh6",
+          "questionId": "sbry-n1-2011.07-文法-5-35",
+          "submittedAt": "2026-10-06T05:08:49.462Z",
+          "selected": [
+            1
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1791266612581-o5lin4",
+          "questionId": "sbry-n1-2011.07-文法-5-35",
+          "submittedAt": "2026-10-06T06:03:32.581Z",
+          "selected": [
+            1
+          ],
+          "results": [
+            true
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791960839011-1b4pph",
+      "questionId": "sbry-n1-2014.07-文法-5-31",
+      "questionText": "新市長に当選した上田氏は「選挙中に掲げた政策を、市長として私自らが先頭に立って実行して()。」と決意を述べた。",
+      "options": [
+        "まいります",
+        "願います",
+        "いたします",
+        "頂戴します"
+      ],
+      "selected": [
+        3
+      ],
+      "expected": [
+        1
+      ],
+      "correct": false,
+      "status": "回退",
+      "history": [
+        {
+          "recordId": "1791187543359-uhhd47",
+          "questionId": "sbry-n1-2014.07-文法-5-31",
+          "submittedAt": "2026-10-05T08:05:43.359Z",
+          "selected": [
+            1
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1791272654017-rbua49",
+          "questionId": "sbry-n1-2014.07-文法-5-31",
+          "submittedAt": "2026-10-06T07:44:14.017Z",
+          "selected": [
+            1
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1791437553135-j022es",
+          "questionId": "sbry-n1-2014.07-文法-5-31",
+          "submittedAt": "2026-10-08T05:32:33.135Z",
+          "selected": [
+            1
+          ],
+          "results": [
+            true
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791960839011-1b4pph",
+      "questionId": "sbry-n1-2015.12-文法-5-27",
+      "questionText": "祖母は、昔、幼稚園の先生を()、昔話や童話をたくさん知っている。",
+      "options": [
+        "していたからには",
+        "していたとは",
+        "していたところ",
+        "していただけあって"
+      ],
+      "selected": [
+        4
+      ],
+      "expected": [
+        4
+      ],
+      "correct": true,
+      "status": "保持",
+      "history": [
+        {
+          "recordId": "1791452115662-uk59bu",
+          "questionId": "sbry-n1-2015.12-文法-5-27",
+          "submittedAt": "2026-10-08T09:35:15.662Z",
+          "selected": [
+            4
+          ],
+          "results": [
+            true
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791961967073-tjtwfi",
+      "questionId": "sbry-n1-2016.07-文法-5-26",
+      "questionText": "アナウンサー「次の試合は優勝候補同士の対決です。()どちらが勝つのでしょ うか。」",
+      "options": [
+        "ついに",
+        "まさか",
+        "どうやら",
+        "果たして"
+      ],
+      "selected": [
+        4
+      ],
+      "expected": [
+        4
+      ],
+      "correct": true,
+      "status": "保持",
+      "history": [
+        {
+          "recordId": "1791266612581-o5lin4",
+          "questionId": "sbry-n1-2016.07-文法-5-26",
+          "submittedAt": "2026-10-06T06:03:32.581Z",
+          "selected": [
+            4
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1791448718345-y7g17k",
+          "questionId": "sbry-n1-2016.07-文法-5-26",
+          "submittedAt": "2026-10-08T08:38:38.345Z",
+          "selected": [
+            4
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1791536374249-tzgjyt",
+          "questionId": "sbry-n1-2016.07-文法-5-26",
+          "submittedAt": "2026-10-09T08:59:34.249Z",
+          "selected": [
+            4
+          ],
+          "results": [
+            true
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791961967073-tjtwfi",
+      "questionId": "sbry-n1-2010.07-文法-5-31",
+      "questionText": "(電車の中で)\nＡ「いつもならこの時間帯は込んでるのに、今日は空いてるね。」\nＢ「祝日だからね。」\nＡ「あ、そっか。どうりで空いてる()。」",
+      "options": [
+        "こともある",
+        "に決まっている",
+        "に違いない",
+        "はずだ"
+      ],
+      "selected": [
+        1
+      ],
+      "expected": [
+        4
+      ],
+      "correct": false,
+      "status": "首次错误",
+      "history": []
+    },
+    {
+      "recordId": "1791961967073-tjtwfi",
+      "questionId": "sbry-n1-2017.07-文法-5-30",
+      "questionText": "田中部長「ねえ、山下くん、今度の会議でこの企画の説明をするのは鈴木課長だっけ？」\n山下「はい、課長がご説明()。」",
+      "options": [
+        "申します",
+        "いただきます",
+        "願います",
+        "なさいます"
+      ],
+      "selected": [
+        1
+      ],
+      "expected": [
+        4
+      ],
+      "correct": false,
+      "status": "持续错",
+      "history": [
+        {
+          "recordId": "1791269436030-2ua8ht",
+          "questionId": "sbry-n1-2017.07-文法-5-30",
+          "submittedAt": "2026-10-06T06:50:36.030Z",
+          "selected": [
+            1
+          ],
+          "results": [
+            false
+          ]
+        },
+        {
+          "recordId": "1791536722803-svvss4",
+          "questionId": "sbry-n1-2017.07-文法-5-30",
+          "submittedAt": "2026-10-09T09:05:22.803Z",
+          "selected": [
+            1
+          ],
+          "results": [
+            false
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791961967073-tjtwfi",
+      "questionId": "sbry-n1-2013.07-文法-5-34",
+      "questionText": "この曲は、失恋で落ち込んで泣いていた私に、また新しい恋をしようと()曲です。",
+      "options": [
+        "思われていた",
+        "思わせてくれた",
+        "思わせられた",
+        "思われてならなかった"
+      ],
+      "selected": [
+        3
+      ],
+      "expected": [
+        2
+      ],
+      "correct": false,
+      "status": "持续错",
+      "history": [
+        {
+          "recordId": "1791266612581-o5lin4",
+          "questionId": "sbry-n1-2013.07-文法-5-34",
+          "submittedAt": "2026-10-06T06:03:32.581Z",
+          "selected": [
+            2
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1791872931911-rj4prv",
+          "questionId": "sbry-n1-2013.07-文法-5-34",
+          "submittedAt": "2026-10-13T06:28:51.910Z",
+          "selected": [
+            4
+          ],
+          "results": [
+            false
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791961967073-tjtwfi",
+      "questionId": "markdown-2025.07-language-33",
+      "questionText": "(ホームページで)\n弊社は地球環境に配慮した製品の開発をさらに進めて(  )。",
+      "options": [
+        "まいります",
+        "いたします",
+        "いらっしゃいます",
+        "なさいます"
+      ],
+      "selected": [
+        3
+      ],
+      "expected": [
+        1
+      ],
+      "correct": false,
+      "status": "首次错误",
+      "history": []
+    },
+    {
+      "recordId": "1791961967073-tjtwfi",
+      "questionId": "sbry-n1-2016.07-文法-5-30",
+      "questionText": "昨日初めてハンバーグを作ったが、家族にあまりおいしくないと言われてしまった。今度は絶対おいしく()。",
+      "options": [
+        "作るものか",
+        "作る始末だ",
+        "作ってみせる",
+        "作りつつある"
+      ],
+      "selected": [
+        3
+      ],
+      "expected": [
+        3
+      ],
+      "correct": true,
+      "status": "恢复",
+      "history": [
+        {
+          "recordId": "1791199403011-f67i79",
+          "questionId": "sbry-n1-2016.07-文法-5-30",
+          "submittedAt": "2026-10-05T11:23:23.011Z",
+          "selected": [
+            3
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1791269902193-vqcknh",
+          "questionId": "sbry-n1-2016.07-文法-5-30",
+          "submittedAt": "2026-10-06T06:58:22.193Z",
+          "selected": [
+            1
+          ],
+          "results": [
+            false
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791961967073-tjtwfi",
+      "questionId": "sbry-n1-2011.12-文法-5-34",
+      "questionText": "今年は花粉の量が多いので、花粉症の人は辛いらしい。目が多少かゆくなる()、ひどい場合は痛くて目が開けられなくなることもあるそうだ。",
+      "options": [
+        "までにはならないとしても",
+        "までにならないとすれば",
+        "くらいはいいとしても",
+        "くらいでいいとすれば"
+      ],
+      "selected": [
+        3
+      ],
+      "expected": [
+        3
+      ],
+      "correct": true,
+      "status": "首次正确",
+      "history": []
+    },
+    {
+      "recordId": "1791961967073-tjtwfi",
+      "questionId": "sbry-n1-2018.12-文法-5-33",
+      "questionText": "母「ねえ、たけしの次の対戦相手、去年優勝してるんだって。勝つのは難しいかな。」\n父「そんなの()わかんないよ。」",
+      "options": [
+        "やってるって",
+        "やってみなきゃ",
+        "やっちゃうのが",
+        "やっちゃおうと"
+      ],
+      "selected": [
+        2
+      ],
+      "expected": [
+        2
+      ],
+      "correct": true,
+      "status": "保持",
+      "history": [
+        {
+          "recordId": "1791187543359-uhhd47",
+          "questionId": "sbry-n1-2018.12-文法-5-33",
+          "submittedAt": "2026-10-05T08:05:43.359Z",
+          "selected": [
+            2
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1791437042655-k0iny5",
+          "questionId": "sbry-n1-2018.12-文法-5-33",
+          "submittedAt": "2026-10-08T05:24:02.655Z",
+          "selected": [
+            2
+          ],
+          "results": [
+            true
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791961967073-tjtwfi",
+      "questionId": "sbry-n1-2022.12-文法-5-35",
+      "questionText": "私は昔からバイクが大好きだ。小さい頃は、よく父のバイクの後ろに()。",
+      "options": [
+        "乗りたかったものだ",
+        "乗りたかったところだ",
+        "乗って欲しかったものだ",
+        "乗って欲しかったところだ"
+      ],
+      "selected": [
+        1
+      ],
+      "expected": [
+        1
+      ],
+      "correct": true,
+      "status": "恢复",
+      "history": [
+        {
+          "recordId": "1788445588302-2w8xs9",
+          "questionId": "sbry-n1-2022.12-文法-5-35",
+          "submittedAt": "2026-09-03T14:26:28.302Z",
+          "selected": [
+            2
+          ],
+          "results": [
+            false
+          ]
+        },
+        {
+          "recordId": "1788616288743-au81cx",
+          "questionId": "sbry-n1-2022.12-文法-5-35",
+          "submittedAt": "2026-09-05T13:51:28.743Z",
+          "selected": [
+            1
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1791271673652-81inff",
+          "questionId": "sbry-n1-2022.12-文法-5-35",
+          "submittedAt": "2026-10-06T07:27:53.652Z",
+          "selected": [
+            2
+          ],
+          "results": [
+            false
+          ]
+        },
+        {
+          "recordId": "1791791634645-6a45fe",
+          "questionId": "sbry-n1-2022.12-文法-5-35",
+          "submittedAt": "2026-10-12T07:53:54.645Z",
+          "selected": [
+            2
+          ],
+          "results": [
+            false
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791961967073-tjtwfi",
+      "questionId": "jlpt4you-2023.12-grammar-5-9",
+      "questionText": "今日から12月だ。早いもので、今年ももうすぐ（ ）。",
+      "options": [
+        "終わろうとする",
+        "終わろうとしている",
+        "終わるようにする",
+        "終わるようにしている"
+      ],
+      "selected": [
+        2
+      ],
+      "expected": [
+        2
+      ],
+      "correct": true,
+      "status": "保持",
+      "history": [
+        {
+          "recordId": "1788266100097-viw30w",
+          "questionId": "jlpt4you-2023.12-grammar-5-9",
+          "submittedAt": "2026-09-01T12:35:00.097Z",
+          "selected": [
+            2
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1788614922944-7wbxyg",
+          "questionId": "jlpt4you-2023.12-grammar-5-9",
+          "submittedAt": "2026-09-05T13:28:42.944Z",
+          "selected": [
+            2
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1791199403011-f67i79",
+          "questionId": "jlpt4you-2023.12-grammar-5-9",
+          "submittedAt": "2026-10-05T11:23:23.011Z",
+          "selected": [
+            2
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1791533974130-9d6ytl",
+          "questionId": "jlpt4you-2023.12-grammar-5-9",
+          "submittedAt": "2026-10-09T08:19:34.130Z",
+          "selected": [
+            2
+          ],
+          "results": [
+            true
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791962356620-u55cbo",
+      "questionId": "sbry-n1-2017.12-文法-5-32",
+      "questionText": "(テレビ番組で)\n司会「きちんと手を()、指の間などに意外に汚れが残っていることも多いのです。そこで今日は正しい手の洗い方をご紹介します。」",
+      "options": [
+        "洗えるとは",
+        "洗えるとのことで",
+        "洗ったつもりだし",
+        "洗ったつもりでも"
+      ],
+      "selected": [
+        4
+      ],
+      "expected": [
+        4
+      ],
+      "correct": true,
+      "status": "首次正确",
+      "history": []
+    },
+    {
+      "recordId": "1791962356620-u55cbo",
+      "questionId": "sbry-n1-2018.07-文法-5-27",
+      "questionText": "わが社は、地球環境を()、廃棄物の減量とリサイクルの推進に取り組んでいる。",
+      "options": [
+        "守ろうとも",
+        "守ればこそ",
+        "守るべく",
+        "守るにせよ"
+      ],
+      "selected": [
+        3
+      ],
+      "expected": [
+        3
+      ],
+      "correct": true,
+      "status": "首次正确",
+      "history": []
+    },
+    {
+      "recordId": "1791962356620-u55cbo",
+      "questionId": "sbry-n1-2018.07-文法-5-28",
+      "questionText": "A「遅れてごめん」\nB「遅いよ！10分も遅刻するなんて、何考えてるの？」\nA「少し遅れたぐらいで()そんなに怒らなくてもいいだろう.」",
+      "options": [
+        "まるで",
+        "ちっとも",
+        "なにも",
+        "いっさい"
+      ],
+      "selected": [
+        3
+      ],
+      "expected": [
+        3
+      ],
+      "correct": true,
+      "status": "保持",
+      "history": [
+        {
+          "recordId": "1791535327080-dxeqia",
+          "questionId": "sbry-n1-2018.07-文法-5-28",
+          "submittedAt": "2026-10-09T08:42:07.080Z",
+          "selected": [
+            1
+          ],
+          "results": [
+            false
+          ]
+        },
+        {
+          "recordId": "1791791634645-6a45fe",
+          "questionId": "sbry-n1-2018.07-文法-5-28",
+          "submittedAt": "2026-10-12T07:53:54.645Z",
+          "selected": [
+            3
+          ],
+          "results": [
+            true
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791962356620-u55cbo",
+      "questionId": "jlpt4you-2024.07-grammar-5-7",
+      "questionText": "森選手の予選敗退は、けがが原因だと言われているが、本人は 「けがは関係ない。単に実力が足りなかった（ ）」とコメントしている。",
+      "options": [
+        "だけある",
+        "ものがある",
+        "だけのことだ",
+        "ようなものだ"
+      ],
+      "selected": [
+        3
+      ],
+      "expected": [
+        3
+      ],
+      "correct": true,
+      "status": "保持",
+      "history": [
+        {
+          "recordId": "1788185884453-ez8n1e",
+          "questionId": "jlpt4you-2024.07-grammar-5-7",
+          "submittedAt": "2026-08-31T14:18:04.453Z",
+          "selected": [
+            3
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1788614119408-mi0b5w",
+          "questionId": "jlpt4you-2024.07-grammar-5-7",
+          "submittedAt": "2026-09-05T13:15:19.408Z",
+          "selected": [
+            3
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1791263329462-4xwuh6",
+          "questionId": "jlpt4you-2024.07-grammar-5-7",
+          "submittedAt": "2026-10-06T05:08:49.462Z",
+          "selected": [
+            3
+          ],
+          "results": [
+            true
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791962356620-u55cbo",
+      "questionId": "sbry-n1-2014.12-文法-5-35",
+      "questionText": "夫「見て。実家から米が届いたよ。」\n妻「わあ、すごい。これだけたくさんあれば、私たち、当分お米は()ね。」",
+      "options": [
+        "買ってきてはないんだ",
+        "買ったきりになってる",
+        "買わなくて済みそうだ",
+        "買うつもりじゃなかった"
+      ],
+      "selected": [
+        3
+      ],
+      "expected": [
+        3
+      ],
+      "correct": true,
+      "status": "保持",
+      "history": [
+        {
+          "recordId": "1791266612581-o5lin4",
+          "questionId": "sbry-n1-2014.12-文法-5-35",
+          "submittedAt": "2026-10-06T06:03:32.581Z",
+          "selected": [
+            3
+          ],
+          "results": [
+            true
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791962356620-u55cbo",
+      "questionId": "sbry-n1-2010.07-文法-5-26",
+      "questionText": "この美術館の絵を全部見ようと思ったら、半日()足りないと思います。",
+      "options": [
+        "にわたって",
+        "にかけて",
+        "までは",
+        "では"
+      ],
+      "selected": [
+        4
+      ],
+      "expected": [
+        4
+      ],
+      "correct": true,
+      "status": "首次正确",
+      "history": []
+    },
+    {
+      "recordId": "1791962356620-u55cbo",
+      "questionId": "sbry-n1-2011.07-文法-5-28",
+      "questionText": "この鍋は、いため物に、揚げ物に()何にでも使えて便利です。",
+      "options": [
+        "は",
+        "と",
+        "や",
+        "か"
+      ],
+      "selected": [
+        2
+      ],
+      "expected": [
+        2
+      ],
+      "correct": true,
+      "status": "保持",
+      "history": [
+        {
+          "recordId": "1791355376735-xejv69",
+          "questionId": "sbry-n1-2011.07-文法-5-28",
+          "submittedAt": "2026-10-07T06:42:56.735Z",
+          "selected": [
+            1
+          ],
+          "results": [
+            false
+          ]
+        },
+        {
+          "recordId": "1791448718345-y7g17k",
+          "questionId": "sbry-n1-2011.07-文法-5-28",
+          "submittedAt": "2026-10-08T08:38:38.345Z",
+          "selected": [
+            2
+          ],
+          "results": [
+            true
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791962356620-u55cbo",
+      "questionId": "sbry-n1-2013.07-文法-5-27",
+      "questionText": "(ニュースで)\n北川動物園では、連日の猛暑で元気のないペンギンに、せめて気分()南極を感じてもらおうと氷の塊がプレゼントされました。",
+      "options": [
+        "のみも",
+        "だけでも",
+        "ですらも",
+        "くらいも"
+      ],
+      "selected": [
+        2
+      ],
+      "expected": [
+        2
+      ],
+      "correct": true,
+      "status": "保持",
+      "history": [
+        {
+          "recordId": "1791262815807-1hlnzn",
+          "questionId": "sbry-n1-2013.07-文法-5-27",
+          "submittedAt": "2026-10-06T05:00:15.807Z",
+          "selected": [
+            2
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1791267449323-tnfsdq",
+          "questionId": "sbry-n1-2013.07-文法-5-27",
+          "submittedAt": "2026-10-06T06:17:29.323Z",
+          "selected": [
+            2
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1791355376735-xejv69",
+          "questionId": "sbry-n1-2013.07-文法-5-27",
+          "submittedAt": "2026-10-07T06:42:56.735Z",
+          "selected": [
+            2
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1791439586475-j6hzbc",
+          "questionId": "sbry-n1-2013.07-文法-5-27",
+          "submittedAt": "2026-10-08T06:06:26.475Z",
+          "selected": [
+            2
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1791538291021-mg6pyn",
+          "questionId": "sbry-n1-2013.07-文法-5-27",
+          "submittedAt": "2026-10-09T09:31:31.021Z",
+          "selected": [
+            2
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1791791634645-6a45fe",
+          "questionId": "sbry-n1-2013.07-文法-5-27",
+          "submittedAt": "2026-10-12T07:53:54.645Z",
+          "selected": [
+            2
+          ],
+          "results": [
+            true
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791962356620-u55cbo",
+      "questionId": "sbry-n1-2013.07-文法-5-28",
+      "questionText": "近年、子どもの読書離れが指摘されているが、()子どもの読書量は本当に減っているのだろうか。",
+      "options": [
+        "かりに",
+        "どうやら",
+        "おそらく",
+        "はたして"
+      ],
+      "selected": [
+        2
+      ],
+      "expected": [
+        4
+      ],
+      "correct": false,
+      "status": "持续错",
+      "history": [
+        {
+          "recordId": "1791271673652-81inff",
+          "questionId": "sbry-n1-2013.07-文法-5-28",
+          "submittedAt": "2026-10-06T07:27:53.652Z",
+          "selected": [
+            2
+          ],
+          "results": [
+            false
+          ]
+        }
+      ]
+    },
+    {
+      "recordId": "1791962356620-u55cbo",
+      "questionId": "jlpt4you-2024.12-grammar-5-5",
+      "questionText": "昨日行った美術館は、一日では（ ）作品が展示されていた。",
+      "options": [
+        "見きれないほどの",
+        "見ずにはいられないほどの",
+        "見きれないといった",
+        "見ずにはいられないといった"
+      ],
+      "selected": [
+        1
+      ],
+      "expected": [
+        1
+      ],
+      "correct": true,
+      "status": "保持",
+      "history": [
+        {
+          "recordId": "1788102598475-z6kr4l",
+          "questionId": "jlpt4you-2024.12-grammar-5-5",
+          "submittedAt": "2026-08-30T15:09:58.475Z",
+          "selected": [
+            1
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1788613416895-h77r25",
+          "questionId": "jlpt4you-2024.12-grammar-5-5",
+          "submittedAt": "2026-09-05T13:03:36.895Z",
+          "selected": [
+            1
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1789394764951-zrpp7r",
+          "questionId": "jlpt4you-2024.12-grammar-5-5",
+          "submittedAt": "2026-09-14T14:06:04.951Z",
+          "selected": [
+            1
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1791187543359-uhhd47",
+          "questionId": "jlpt4you-2024.12-grammar-5-5",
+          "submittedAt": "2026-10-05T08:05:43.359Z",
+          "selected": [
+            1
+          ],
+          "results": [
+            true
+          ]
+        },
+        {
+          "recordId": "1791428756223-e0masj",
+          "questionId": "jlpt4you-2024.12-grammar-5-5",
+          "submittedAt": "2026-10-08T03:05:56.223Z",
+          "selected": [
+            1
+          ],
+          "results": [
+            true
+          ]
+        }
+      ]
+    }
+  ]
+}

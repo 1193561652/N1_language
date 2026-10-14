@@ -1,0 +1,471 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1791960045272-90vl0l",
+    "submittedAt": "2026-10-14T06:40:45.272Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": true,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "sbry-n1-2017.12-文法-5-29",
+        "sbry-n1-2015.12-文法-5-28",
+        "sbry-n1-2022.12-文法-5-33",
+        "sbry-n1-2016.12-文法-5-34",
+        "sbry-n1-2012.12-文法-5-35",
+        "sbry-n1-2012.07-文法-5-26",
+        "sbry-n1-2022.07-文法-5-26",
+        "sbry-n1-2011.12-文法-5-32",
+        "sbry-n1-2012.12-文法-5-33",
+        "sbry-n1-2016.12-文法-5-31"
+      ],
+      "shuffleOptions": true,
+      "optionOrders": {
+        "sbry-n1-2017.12-文法-5-29": [
+          4,
+          3,
+          2,
+          1
+        ],
+        "sbry-n1-2015.12-文法-5-28": [
+          2,
+          4,
+          3,
+          1
+        ],
+        "sbry-n1-2022.12-文法-5-33": [
+          3,
+          1,
+          2,
+          4
+        ],
+        "sbry-n1-2016.12-文法-5-34": [
+          4,
+          3,
+          2,
+          1
+        ],
+        "sbry-n1-2012.12-文法-5-35": [
+          3,
+          2,
+          4,
+          1
+        ],
+        "sbry-n1-2012.07-文法-5-26": [
+          1,
+          4,
+          3,
+          2
+        ],
+        "sbry-n1-2022.07-文法-5-26": [
+          2,
+          3,
+          4,
+          1
+        ],
+        "sbry-n1-2011.12-文法-5-32": [
+          1,
+          4,
+          2,
+          3
+        ],
+        "sbry-n1-2012.12-文法-5-33": [
+          2,
+          4,
+          3,
+          1
+        ],
+        "sbry-n1-2016.12-文法-5-31": [
+          1,
+          3,
+          2,
+          4
+        ]
+      },
+      "showFurigana": true
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 6,
+    "percentage": 60,
+    "durationSeconds": 388,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b04"
+        ],
+        "id": "sbry-n1-2017.12-文法-5-29",
+        "number": 29,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "5年前に植えた校庭の桜が、今年初めて花を()。",
+        "options": [
+          "咲いた",
+          "咲いている",
+          "咲かせた",
+          "咲くだろう"
+        ],
+        "optionOrder": [
+          4,
+          3,
+          2,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2015.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01"
+        ],
+        "id": "sbry-n1-2015.12-文法-5-28",
+        "number": 28,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "私の会社では、どんな理由があろうと、業務に関するデータや資料を社外に持ち出すことは、()認められていない。",
+        "options": [
+          "いっさい",
+          "むしろ",
+          "かならず",
+          "どうしても"
+        ],
+        "optionOrder": [
+          2,
+          4,
+          3,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2022.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c16",
+          "grammar.q5.b05"
+        ],
+        "id": "sbry-n1-2022.12-文法-5-33",
+        "number": 33,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "自転車の鍵が見当たらないと思ったら、昨日はいていたズボンのポケットに()。",
+        "options": [
+          "入れたつもり",
+          "入れっぱなしだった",
+          "入れっこなかった",
+          "入れるべきではなかった"
+        ],
+        "optionOrder": [
+          3,
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2016.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06",
+          "grammar.q5.b04"
+        ],
+        "id": "sbry-n1-2016.12-文法-5-34",
+        "number": 34,
+        "selected": [
+          4
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "現在、潜水調査船を用いた調査研究が進展中であり、いずれ近いうちに海底のより詳細な地質構造が明らかに()。",
+        "options": [
+          "なるものと思われる",
+          "するという思いがある",
+          "なったかに思える",
+          "するだろうと思う"
+        ],
+        "optionOrder": [
+          4,
+          3,
+          2,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2012.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2012.12-文法-5-35",
+        "number": 35,
+        "selected": [
+          1
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "A「西川先生のデザインは、どういうところが魅力ですか。」\nB「そうですね。私にとって先生のデザインは、見ているだけでほっとする()、そんな温かい雰囲気があって、好きなんです。」",
+        "options": [
+          "というでしょうから",
+          "といいませんか",
+          "というでしょうが",
+          "といいましょうか"
+        ],
+        "optionOrder": [
+          3,
+          2,
+          4,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2012.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01",
+          "grammar.q5.c17"
+        ],
+        "id": "sbry-n1-2012.07-文法-5-26",
+        "number": 26,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "４０代()後半となり、わたしもとうとう中高年の仲間入りだ。",
+        "options": [
+          "を",
+          "へ",
+          "も",
+          "まで"
+        ],
+        "optionOrder": [
+          1,
+          4,
+          3,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2022.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01",
+          "grammar.q5.c17"
+        ],
+        "id": "sbry-n1-2022.07-文法-5-26",
+        "number": 26,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "このお寺は、釘などの金属類は()使わず、木材だけで建てられているそうだ。",
+        "options": [
+          "あまりに",
+          "いっさい",
+          "できれば",
+          "どうしても"
+        ],
+        "optionOrder": [
+          2,
+          3,
+          4,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2011.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c12"
+        ],
+        "id": "sbry-n1-2011.12-文法-5-32",
+        "number": 32,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "夫「週末の旅行、このスーツケースでどうかなあ？」\n妻「何週間も海外に()、今度はそんなに大きいスーツケースは要らないんじゃない？」",
+        "options": [
+          "行くわけじゃあるまいし",
+          "行くもんだっただろうに",
+          "行くわけだったんだから",
+          "行くもんじゃないだろうけど"
+        ],
+        "optionOrder": [
+          1,
+          4,
+          2,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2012.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c14",
+          "grammar.q5.b03"
+        ],
+        "id": "sbry-n1-2012.12-文法-5-33",
+        "number": 33,
+        "selected": [
+          2
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(会議で)\n部長「この方針について意見のある人はいますか。あ、田村さん、どうぞ。」\n田村「はい。そのような対応は確かに必要だとは思います。しかし、私たち営業の立場()、現在の状況でそこまでやるのは厳しいです。」",
+        "options": [
+          "に言わせていれば",
+          "から言わせてやれば",
+          "に言わせてあげれば",
+          "から言わせてもらえば"
+        ],
+        "optionOrder": [
+          2,
+          4,
+          3,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2016.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c09"
+        ],
+        "id": "sbry-n1-2016.12-文法-5-31",
+        "number": 31,
+        "selected": [
+          1
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(お知らせで)\n水道管破裂による断水のため、8月12日まで市民プールの営業を休止します。復旧状況()、営業再開が遅れる可能性がありますので、ご了承ください。",
+        "options": [
+          "次第には",
+          "次第に",
+          "次第では",
+          "次第"
+        ],
+        "optionOrder": [
+          1,
+          3,
+          2,
+          4
+        ]
+      }
+    ]
+  }
+}
