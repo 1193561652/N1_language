@@ -1,0 +1,469 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1792040774385-7z632l",
+    "submittedAt": "2026-10-15T05:06:14.385Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": true,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "sbry-n1-2015.07-文法-5-26",
+        "sbry-n1-2011.07-文法-5-26",
+        "sbry-n1-2013.12-文法-5-35",
+        "sbry-n1-2015.12-文法-5-31",
+        "jlpt4you-2023.12-grammar-5-7",
+        "jlpt4you-2023.12-grammar-5-2",
+        "sbry-n1-2010.12-文法-5-31",
+        "sbry-n1-2017.07-文法-5-27",
+        "sbry-n1-2015.12-文法-5-27",
+        "sbry-n1-2014.12-文法-5-33"
+      ],
+      "shuffleOptions": true,
+      "optionOrders": {
+        "sbry-n1-2015.07-文法-5-26": [
+          3,
+          1,
+          4,
+          2
+        ],
+        "sbry-n1-2011.07-文法-5-26": [
+          3,
+          4,
+          2,
+          1
+        ],
+        "sbry-n1-2013.12-文法-5-35": [
+          4,
+          1,
+          2,
+          3
+        ],
+        "sbry-n1-2015.12-文法-5-31": [
+          1,
+          2,
+          4,
+          3
+        ],
+        "jlpt4you-2023.12-grammar-5-7": [
+          4,
+          2,
+          3,
+          1
+        ],
+        "jlpt4you-2023.12-grammar-5-2": [
+          3,
+          4,
+          1,
+          2
+        ],
+        "sbry-n1-2010.12-文法-5-31": [
+          4,
+          1,
+          3,
+          2
+        ],
+        "sbry-n1-2017.07-文法-5-27": [
+          1,
+          3,
+          4,
+          2
+        ],
+        "sbry-n1-2015.12-文法-5-27": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "sbry-n1-2014.12-文法-5-33": [
+          4,
+          3,
+          2,
+          1
+        ]
+      },
+      "showFurigana": true
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 9,
+    "percentage": 90,
+    "durationSeconds": 335,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2015.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01"
+        ],
+        "id": "sbry-n1-2015.07-文法-5-26",
+        "number": 26,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "世間はオリンピックの話題で盛り上がっているが、私はオリンピックには()興味がない。",
+        "options": [
+          "とうとう",
+          "まるで",
+          "二度と",
+          "たとえ"
+        ],
+        "optionOrder": [
+          3,
+          1,
+          4,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2011.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c12"
+        ],
+        "id": "sbry-n1-2011.07-文法-5-26",
+        "number": 26,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "人気作家A氏の講演会が無料()、多くのファンが詰めかけた。",
+        "options": [
+          "にして",
+          "にあって",
+          "として",
+          "とあって"
+        ],
+        "optionOrder": [
+          3,
+          4,
+          2,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2013.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2013.12-文法-5-35",
+        "number": 35,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "友人からコンサートのチケットをもらったが、仕事で忙しく、行けそうにないので、()と悩んでいる。",
+        "options": [
+          "どうなったのか",
+          "どうしたものか",
+          "どうなっているか",
+          "どうしていることか"
+        ],
+        "optionOrder": [
+          4,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2015.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c09",
+          "grammar.q5.c13"
+        ],
+        "id": "sbry-n1-2015.12-文法-5-31",
+        "number": 31,
+        "selected": [
+          3
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "来週、歯医者で歯を抜くことになった。()そうしたいが、もうほかに方法がないらしい。",
+        "options": [
+          "抜かずにいると",
+          "抜かずにいることで",
+          "抜かずに済むのだから",
+          "抜かずに済むものなら"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          4,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b02",
+          "grammar.q5.c19"
+        ],
+        "id": "jlpt4you-2023.12-grammar-5-7",
+        "number": 32,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "先日、レストランに行ったとき、店員の失礼な態度に大変（ ）。",
+        "options": [
+          "不快な思いをした",
+          "不快極まりない",
+          "不快だったことか",
+          "不快にもほどがある"
+        ],
+        "optionOrder": [
+          4,
+          2,
+          3,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c17"
+        ],
+        "id": "jlpt4you-2023.12-grammar-5-2",
+        "number": 27,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "経営者は、会社は社員（ ）ものであるということを忘れてはいけない。",
+        "options": [
+          "たる",
+          "における",
+          "あっての",
+          "ならではの"
+        ],
+        "optionOrder": [
+          3,
+          4,
+          1,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2010.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2010.12-文法-5-31",
+        "number": 31,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "上司「君、困る()！資料にミスがあったぞ。君のせいで大恥をかいたよ。」\n部下「すみません。うっかりしておりまして……」",
+        "options": [
+          "じゃないか",
+          "のではないか",
+          "じゃないのか",
+          "のではないのか"
+        ],
+        "optionOrder": [
+          4,
+          1,
+          3,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2017.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c09"
+        ],
+        "id": "sbry-n1-2017.07-文法-5-27",
+        "number": 27,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "今度のプロジェクトのリーダーは石川さんだと予想していたが、違うようだ。石川さんでない()、誰なのだろう。",
+        "options": [
+          "とすれば",
+          "とあって",
+          "というより",
+          "と思っても"
+        ],
+        "optionOrder": [
+          1,
+          3,
+          4,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2015.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c12"
+        ],
+        "id": "sbry-n1-2015.12-文法-5-27",
+        "number": 27,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "祖母は、昔、幼稚園の先生を()、昔話や童話をたくさん知っている。",
+        "options": [
+          "していたからには",
+          "していたとは",
+          "していたところ",
+          "していただけあって"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2014.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c08",
+          "grammar.q5.b04"
+        ],
+        "id": "sbry-n1-2014.12-文法-5-33",
+        "number": 33,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "バスの窓から大きな虹が見えたので写真を撮った。山道を走るバスに()けっこう良く撮れていた。",
+        "options": [
+          "揺られながらにしては",
+          "揺られながらとなれば",
+          "揺られっぱなしなのか",
+          "揺られっぱなしだとは"
+        ],
+        "optionOrder": [
+          4,
+          3,
+          2,
+          1
+        ]
+      }
+    ]
+  }
+}

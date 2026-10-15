@@ -1,0 +1,473 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1792042959651-kpq7l5",
+    "submittedAt": "2026-10-15T05:42:39.651Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": true,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "sbry-n1-2019.12-文法-5-33",
+        "jlpt4you-2024.12-grammar-5-6",
+        "sbry-n1-2012.07-文法-5-29",
+        "sbry-n1-2013.12-文法-5-30",
+        "sbry-n1-2013.12-文法-5-29",
+        "markdown-2025.07-language-34",
+        "sbry-n1-2017.12-文法-5-30",
+        "jlpt4you-2023.12-grammar-5-1",
+        "sbry-n1-2017.07-文法-5-32",
+        "sbry-n1-2010.07-文法-5-33"
+      ],
+      "shuffleOptions": true,
+      "optionOrders": {
+        "sbry-n1-2019.12-文法-5-33": [
+          2,
+          4,
+          1,
+          3
+        ],
+        "jlpt4you-2024.12-grammar-5-6": [
+          4,
+          2,
+          3,
+          1
+        ],
+        "sbry-n1-2012.07-文法-5-29": [
+          3,
+          4,
+          2,
+          1
+        ],
+        "sbry-n1-2013.12-文法-5-30": [
+          3,
+          1,
+          2,
+          4
+        ],
+        "sbry-n1-2013.12-文法-5-29": [
+          3,
+          1,
+          2,
+          4
+        ],
+        "markdown-2025.07-language-34": [
+          3,
+          4,
+          1,
+          2
+        ],
+        "sbry-n1-2017.12-文法-5-30": [
+          2,
+          3,
+          4,
+          1
+        ],
+        "jlpt4you-2023.12-grammar-5-1": [
+          3,
+          2,
+          4,
+          1
+        ],
+        "sbry-n1-2017.07-文法-5-32": [
+          3,
+          2,
+          4,
+          1
+        ],
+        "sbry-n1-2010.07-文法-5-33": [
+          3,
+          2,
+          1,
+          4
+        ]
+      },
+      "showFurigana": true
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 9,
+    "percentage": 90,
+    "durationSeconds": 463,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c12",
+          "grammar.q5.c13"
+        ],
+        "id": "sbry-n1-2019.12-文法-5-33",
+        "number": 33,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この映画は主役の演技が良くない。ほかの俳優については()、実にもったいない。",
+        "options": [
+          "文句のつけようがないのか",
+          "文句のつけようがないだけに",
+          "文句をつけずにはいられないのか",
+          "文句をつけずにはいられないだけに"
+        ],
+        "optionOrder": [
+          2,
+          4,
+          1,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c08",
+          "grammar.q5.b06"
+        ],
+        "id": "jlpt4you-2024.12-grammar-5-6",
+        "number": 31,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "引っ越しを控えているので、なるべく余計な出費を（ ）、友人に誘われたスキー旅行に行くことにした。",
+        "options": [
+          "押さえたら抑えたで",
+          "抑えられるものなら",
+          "抑えるには抑えずに",
+          "押さえたいところだが"
+        ],
+        "optionOrder": [
+          4,
+          2,
+          3,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2012.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01",
+          "grammar.q5.c18"
+        ],
+        "id": "sbry-n1-2012.07-文法-5-29",
+        "number": 29,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "山田さんがこの絵をいくらで手に入れたのかはわからないが、有名画家の作品であることから考えても、安くない値段で買ったことは()間違いない。",
+        "options": [
+          "まず",
+          "よく",
+          "かりに",
+          "なかなか"
+        ],
+        "optionOrder": [
+          3,
+          4,
+          2,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2013.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c09",
+          "grammar.q5.c12"
+        ],
+        "id": "sbry-n1-2013.12-文法-5-30",
+        "number": 30,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "新幹線の新型車両が初めて一般に公開される()、鉄道ファンの私としては、見に行かないわけにはいかない。",
+        "options": [
+          "にあってか",
+          "とあっては",
+          "になっては",
+          "となってか"
+        ],
+        "optionOrder": [
+          3,
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2013.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b04"
+        ],
+        "id": "sbry-n1-2013.12-文法-5-29",
+        "number": 29,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "景気は徐々に回復してきていると言われるが、私には一時的な現象のように()。",
+        "options": [
+          "思う",
+          "思っている",
+          "思われる",
+          "思わせる"
+        ],
+        "optionOrder": [
+          3,
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2025.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c09",
+          "grammar.q5.b05",
+          "grammar.q5.b06"
+        ],
+        "id": "markdown-2025.07-language-34",
+        "number": 34,
+        "selected": [
+          4
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "友人の田中(たなか)が起業した会社が順調だという。あのとき、「うちの会社に来ないか」という彼の誘いを断らなければ、今ごろ部長くらいには(  )。",
+        "options": [
+          "なってきたようだ",
+          "なっていたかもしれない",
+          "なってほしいようだ",
+          "なっていくかもしれない"
+        ],
+        "optionOrder": [
+          3,
+          4,
+          1,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03"
+        ],
+        "id": "sbry-n1-2017.12-文法-5-30",
+        "number": 30,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(社内メールで)\n営業部各位\n第三回プレゼン勉強会を開催します。参加希望者は1月15日までに、人事課村田(むらた)までお知らせ()。",
+        "options": [
+          "いたします",
+          "なさいます",
+          "願います",
+          "申し上げます"
+        ],
+        "optionOrder": [
+          2,
+          3,
+          4,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c01",
+          "grammar.q5.b01"
+        ],
+        "id": "jlpt4you-2023.12-grammar-5-1",
+        "number": 26,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "長く使っていた古い冷蔵庫を、引っ越し（ ）買い替えた。",
+        "options": [
+          "を機に",
+          "を皮切りに",
+          "に基づいて",
+          "にわたって"
+        ],
+        "optionOrder": [
+          3,
+          2,
+          4,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2017.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c16"
+        ],
+        "id": "sbry-n1-2017.07-文法-5-32",
+        "number": 32,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "全国高校テニス大会決勝で、西山選手は、持ち前の精神力の強さで相手の厳しい攻撃に()、見事勝利を収めた。",
+        "options": [
+          "耐えかねたほど",
+          "耐えかねた末に",
+          "耐えぬいたほど",
+          "耐えぬいた末に"
+        ],
+        "optionOrder": [
+          3,
+          2,
+          4,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2010.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2010.07-文法-5-33",
+        "number": 33,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "「３歳までの育児は母親がすべきだ」と言う人もいるが、子育てをするのが母親で()、必ずしもそうではないと思う。",
+        "options": [
+          "なくてはならないからといって",
+          "なくてはならないかというと",
+          "あるわけにはいかないからといって",
+          "あるわけにはいかないかというと"
+        ],
+        "optionOrder": [
+          3,
+          2,
+          1,
+          4
+        ]
+      }
+    ]
+  }
+}
