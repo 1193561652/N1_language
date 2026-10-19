@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "updatedThrough": "2026-10-15",
+  "updatedThrough": "2026-10-19",
   "timezone": "Asia/Shanghai",
   "analysisPolicy": "题型用于统计；诊断、能力追踪和计划以跨题型考点为主。同一题可标注多个考点。语法考点须映射《新完全マスター文法N1》的部—课—条目；没有精确条目时只标对应能力章节。",
   "evidence": {
     "firstDate": "2026-08-28",
-    "lastDate": "2026-10-15",
-    "attempts": 145,
-    "totalQuestions": 3611,
-    "answeredQuestions": 3590,
-    "recordedCorrectAnswers": 3132,
-    "adjudicatedCorrectAnswers": 3132,
+    "lastDate": "2026-10-19",
+    "attempts": 153,
+    "totalQuestions": 3869,
+    "answeredQuestions": 3848,
+    "recordedCorrectAnswers": 3385,
+    "adjudicatedCorrectAnswers": 3385,
     "coverage": [
       "文字・词汇",
       "语法（历史八期及新增跨期句子语法专项）"
@@ -21,40 +21,40 @@
       "阅读与听力基线"
     ],
     "rawRecordAudit": {
-      "totalFiles": 146,
-      "uniqueRecordIds": 146,
-      "allRecordsQuestions": 3617,
-      "allRecordsAnswered": 3596,
-      "allRecordsRecordedCorrect": 3133,
+      "totalFiles": 154,
+      "uniqueRecordIds": 154,
+      "allRecordsQuestions": 3875,
+      "allRecordsAnswered": 3854,
+      "allRecordsRecordedCorrect": 3386,
       "pendingRecordId": "1787920512509-g71xbx",
       "pendingReason": "沿用历史待核查状态：8/28 20:35六题25秒全选1；未擅自认定为试用或正式测验。"
     },
-    "uniqueAnsweredQuestionIdsAfterLegacyAliases": 699
+    "uniqueAnsweredQuestionIdsAfterLegacyAliases": 716
   },
   "abilities": {
     "kanjiReading": {
-      "correct": 1968,
-      "total": 2100,
-      "rate": 0.9371,
+      "correct": 2160,
+      "total": 2294,
+      "rate": 0.9416,
       "confidence": "high",
-      "description": "10/15四轮126/129：动词47/47连续六轮满分（本轮未乱序）、名词49/50、外来语21/22、语法9/10。シェア四错后首次正确、復興恢复；如実、ブランク、抜かずに済むものなら回退。全批无标注，旧错注不解除。",
+      "description": "动词八次满分；名词49/50，把握四错，伴奏回顧如実恢复。",
       "aggregationNote": "2026-10-12按全部125条有效记录重算，旧ID六题合并映射；修正历史分类漏计，详见本日报告。",
-      "answered": 2100,
-      "answeredRate": 0.9371
+      "answered": 2294,
+      "answeredRate": 0.9416
     },
     "contextVocabulary": {
-      "correct": 241,
-      "total": 303,
-      "rate": 0.7954,
+      "correct": 285,
+      "total": 347,
+      "rate": 0.8213,
       "confidence": "high",
-      "description": "10/15四轮126/129：动词47/47连续六轮满分（本轮未乱序）、名词49/50、外来语21/22、语法9/10。シェア四错后首次正确、復興恢复；如実、ブランク、抜かずに済むものなら回退。全批无标注，旧错注不解除。",
+      "description": "外来语22/22首次同池满分；拟态词22/22，15首次题全对。无新标注，旧错注保留。",
       "latestAnswered": 22,
-      "latestCorrect": 21,
+      "latestCorrect": 22,
       "latestTotal": 22,
       "latestUnanswered": 0,
-      "latestAnsweredRate": 0.9545454545454546,
-      "answered": 287,
-      "answeredRate": 0.8397,
+      "latestAnsweredRate": 1,
+      "answered": 331,
+      "answeredRate": 0.861,
       "aggregationNote": "2026-10-12按全部125条有效记录重算，旧ID六题合并映射；修正历史分类漏计，详见本日报告。"
     },
     "paraphrase": {
@@ -78,17 +78,17 @@
       "aggregationNote": "2026-10-12按全部125条有效记录重算，旧ID六题合并映射；修正历史分类漏计，详见本日报告。"
     },
     "sentenceGrammar": {
-      "latestCorrect": 9,
+      "latestCorrect": 8,
       "total": 10,
       "answered": 10,
-      "latestRate": 0.9,
+      "latestRate": 0.8,
       "previousFamiliarSetCorrect": 10,
       "previousFamiliarSetTotal": 10,
       "confidence": "medium-high",
-      "description": "10/15熟题9/10，抜かずに済むものなら恢复后回退；其余九题保持。昨日敬语/使役相关错误未测。",
-      "batchCorrect": 9,
+      "description": "10/19五轮148/151，最新语法8/10；取っといて持续错、見るにつけ回退。动词同池八次满分，名词把握四错未纠正；外来语首次22/22，拟态词22/22含15首次全对。",
+      "batchCorrect": 8,
       "batchTotal": 10,
-      "dayCorrect": 9,
+      "dayCorrect": 8,
       "dayTotal": 10
     },
     "sentenceOrdering": {
@@ -136,7 +136,7 @@
       "latestEvidence20261010": "10/10读音两轮96/97：乱序动词47/47、名词49/50。貫いた、債務、興奮恢复；暴露在历史七次正确后回退（ばくろう→ばくろ）。伴奏未测。无新标注，旧错注与外来语、语法风险保留。",
       "latestEvidence20261012": "10/12动词47/47、名词46/50；画一的、復興、干渉、釈明回退，改革、如実、繁殖恢复。动词池连续三轮满分；熟题表现不等于主动提取。",
       "latestEvidence20261013": "10/13动词47/47四连满分、名词48/50；閉鎖／誇張回退，画一的／干渉／暴露恢复，巧妙跨题新增正确。",
-      "latestEvidence": "10/15四轮126/129：动词47/47连续六轮满分（本轮未乱序）、名词49/50、外来语21/22、语法9/10。シェア四错后首次正确、復興恢复；如実、ブランク、抜かずに済むものなら回退。全批无标注，旧错注不解除。"
+      "latestEvidence": "10/19五轮148/151，最新语法8/10；取っといて持续错、見るにつけ回退。动词同池八次满分，名词把握四错未纠正；外来语首次22/22，拟态词22/22含15首次全对。"
     },
     "lexicalScopeAndCollocation": {
       "status": "priority-weakness",
@@ -249,18 +249,16 @@
     ]
   },
   "currentStrengths": [
-    "动词同池连续六轮满分；今天非乱序，此前五轮乱序。",
-    "シェア四错后首次正确，ノルマ连续两轮正确。",
-    "名词復興恢复、釈明与巧妙保持；语法九熟题保持。"
+    "拟态词15道首次内容题全部答对，另7熟题全对。",
+    "外来语首次同池22/22，シェア隔四天保持、ブランク恢复。",
+    "动词八次满分；伴奏、回顧、如実恢复，執着保持。"
   ],
   "currentPriorities": [
-    "抜かずに済むものなら／のだから：假设与成立原因；そう的指代",
-    "ブランク／ブレイク职业空档辨析；シェア首次纠正后保持",
-    "如実短音；躍進、執着、趣旨、回顧、誇張、把握补测",
-    "ペース/radar旧错注与ピント/コーディネート歧义补直接证据",
-    "主体与方向：てまいります、なさいます、言わせてもらえば；思わせてくれた讲解后仍错",
-    "话语功能：はたして／どうやら、どうりで～はずだ、といいましょうか",
-    "自他与条件：明らかになる、復旧状況次第では"
+    "取っといて缩约还原；見るにつけ触发心情；反事实时态回退",
+    "把握はあく四次实际作答全错；趣旨、誇張未复测",
+    "拟态词近义对口述、新句与间隔保持",
+    "pace/radar错注与ピント/コーディネート歧义仍无直接纠正证据",
+    "保留敬语主体、思わせてくれた、拔牙条件句旧错复测"
   ],
   "repeatedErrors": [
     {
@@ -605,29 +603,30 @@
     }
   ],
   "latestPractice": {
-    "date": "2026-10-15",
-    "localTime": "13:06",
-    "recordId": "1792040774385-7z632l",
+    "date": "2026-10-19",
+    "localTime": "14:12",
+    "recordId": "1792390330449-8jmtik",
     "focus": "句子语法",
-    "latestCorrect": 9,
+    "latestCorrect": 8,
     "latestTotal": 10,
     "answered": 10,
     "unanswered": 0,
-    "rate": 0.9,
-    "answeredRate": 0.9,
+    "rate": 0.8,
+    "answeredRate": 0.8,
     "completionRate": 1,
-    "durationSeconds": 335,
+    "durationSeconds": 492,
     "showFurigana": true,
     "shuffleOptions": true,
     "optionNotes": 0,
     "reasonCount": 0,
-    "batchCorrect": 126,
-    "batchTotal": 129,
-    "batchScope": "本批四轮混合科目",
-    "firstTotal": 0,
-    "repeatCorrect": 9,
-    "repeatTotal": 10,
-    "report": "daily/2026-10-15.md"
+    "statusCounts": {
+      "首次正确": 1,
+      "保持": 6,
+      "持续错": 1,
+      "恢复": 1,
+      "回退": 1
+    },
+    "report": "daily/2026-10-19.md"
   },
   "annotationPolicy": {
     "updatedAt": "2026-09-29",
@@ -644,108 +643,115 @@
     "historicalComparability": "旧报告对简写和部分真实义项判定过严，未重算旧标注分母，不与本轮标注正确率作同口径差值比较。"
   },
   "previousVerbPractice": {
-    "date": "2026-10-15",
-    "recordId": "1792032322668-9gcrn1",
-    "correct": 47,
-    "total": 47,
-    "durationSeconds": 179,
+    "date": "2026-10-19",
+    "localTime": "11:43",
+    "recordId": "1792381424267-ubilaw",
+    "focus": "动词读音",
+    "latestCorrect": 47,
+    "latestTotal": 47,
+    "answered": 47,
+    "unanswered": 0,
+    "rate": 1.0,
+    "answeredRate": 1.0,
+    "completionRate": 1,
+    "durationSeconds": 231,
+    "showFurigana": false,
+    "shuffleOptions": true,
+    "optionNotes": 0,
+    "reasonCount": 0,
+    "statusCounts": {
+      "保持": 47
+    },
+    "report": "daily/2026-10-19.md",
+    "consecutivePerfectRounds": 8,
     "unresolvedAnnotationMappings": [
       "まかされた→贿",
       "こぼれやすい→拒",
       "いたわって→伪"
-    ],
-    "regressions": [],
-    "fixed": [],
-    "maintained": [
-      "貫いた"
-    ],
-    "consecutivePerfectRounds": 6,
-    "shuffleOptions": false
-  },
-  "previousNounPractice": {
-    "date": "2026-10-15",
-    "recordId": "1792032698678-27d64e",
-    "latestCorrect": 49,
-    "latestTotal": 50,
-    "durationSeconds": 360,
-    "fixed": [
-      "復興"
-    ],
-    "crossQuestionCorrect": [],
-    "regressions": [
-      "如実"
-    ],
-    "notTestedToday": [
-      "躍進",
-      "執着",
-      "趣旨",
-      "回顧",
-      "誇張",
-      "把握",
-      "閉鎖"
-    ],
-    "maintained": [
-      "釈明",
-      "巧妙"
     ]
   },
-  "analysisUpdatedAt": "2026-10-15",
+  "previousNounPractice": {
+    "date": "2026-10-19",
+    "localTime": "11:50",
+    "recordId": "1792381823065-dtl4fe",
+    "focus": "名词读音",
+    "latestCorrect": 49,
+    "latestTotal": 50,
+    "answered": 50,
+    "unanswered": 0,
+    "rate": 0.98,
+    "answeredRate": 0.98,
+    "completionRate": 1,
+    "durationSeconds": 393,
+    "showFurigana": false,
+    "shuffleOptions": true,
+    "optionNotes": 0,
+    "reasonCount": 0,
+    "statusCounts": {
+      "持续错": 1,
+      "保持": 46,
+      "恢复": 3
+    },
+    "report": "daily/2026-10-19.md",
+    "fixed": [
+      "鈴木氏は当時を【回顧】して、次のように語った。",
+      "友人にピアノの【伴奏】を頼まれた。",
+      "調査データは、地球の温暖化を【如実に】示した。"
+    ],
+    "regressions": [],
+    "persistentWrong": [
+      "関係者から話を聞いて、ようやく現状が【把握】できた。"
+    ]
+  },
+  "analysisUpdatedAt": "2026-10-19",
   "previousGrammarPractice": {
-    "date": "2026-10-14",
-    "localTime": "15:19",
-    "recordId": "1791962356620-u55cbo",
+    "date": "2026-10-19",
+    "localTime": "14:12",
+    "recordId": "1792390330449-8jmtik",
     "focus": "句子语法",
-    "latestCorrect": 9,
+    "latestCorrect": 8,
     "latestTotal": 10,
     "answered": 10,
     "unanswered": 0,
-    "rate": 0.9,
-    "answeredRate": 0.9,
+    "rate": 0.8,
+    "answeredRate": 0.8,
     "completionRate": 1,
-    "durationSeconds": 277,
+    "durationSeconds": 492,
     "showFurigana": true,
     "shuffleOptions": true,
     "optionNotes": 0,
     "reasonCount": 0,
-    "batchCorrect": 30,
-    "batchTotal": 40,
-    "firstCorrect": 5,
-    "firstTotal": 7,
-    "repeatCorrect": 25,
-    "repeatTotal": 33,
     "statusCounts": {
-      "保持": 20,
-      "回退": 2,
-      "持续错": 6,
-      "恢复": 5,
-      "首次正确": 5,
-      "首次错误": 2
+      "首次正确": 1,
+      "保持": 6,
+      "持续错": 1,
+      "恢复": 1,
+      "回退": 1
     },
-    "report": "daily/2026-10-14-1519.md"
+    "report": "daily/2026-10-19.md"
   },
   "previousKatakanaPractice": {
-    "date": "2026-10-15",
-    "localTime": "11:00",
-    "recordId": "1792033229316-1a6qx3",
+    "date": "2026-10-19",
+    "localTime": "11:58",
+    "recordId": "1792382324635-l4kqw2",
     "focus": "外来语语境选词",
-    "latestCorrect": 21,
+    "latestCorrect": 22,
     "latestTotal": 22,
-    "durationSeconds": 425,
-    "optionNotes": 0,
+    "answered": 22,
+    "unanswered": 0,
+    "rate": 1.0,
+    "answeredRate": 1.0,
+    "completionRate": 1,
+    "durationSeconds": 449,
     "showFurigana": false,
     "shuffleOptions": true,
-    "fixed": [
-      "シェア"
-    ],
-    "regressions": [
-      "ブランク"
-    ],
-    "unresolvedAnnotations": [
-      "ペース→base",
-      "レーダー→leader",
-      "ピント→punt待核实",
-      "コーディネート→同等待核实"
-    ]
+    "optionNotes": 0,
+    "reasonCount": 0,
+    "statusCounts": {
+      "保持": 21,
+      "恢复": 1
+    },
+    "report": "daily/2026-10-19.md"
   },
   "previousVocabularyPractice": {
     "date": "2026-10-11",
@@ -855,11 +861,11 @@
     "scope": "10/5以来句子语法"
   },
   "latestAnnotationAudit": {
-    "date": "2026-10-15",
+    "date": "2026-10-19",
     "notes": 0,
-    "scope": "本批全部无标注；昨日标注裁定保留，最新语法40与外来语88空白逐项审查",
-    "grammarPath": "daily/2026-10-15-option-audit.json",
-    "katakanaPath": "daily/2026-10-15-katakana-audit.json"
+    "scope": "新增八轮无标注；最新语法40与拟态词88空白全审查",
+    "grammarPath": "daily/2026-10-19-option-audit.json",
+    "mimeticPath": "daily/2026-10-19-mimetic-audit.json"
   },
   "grammarTrendThrough20261014Afternoon": {
     "date": "2026-10-14",
@@ -870,11 +876,12 @@
     "scope": "10/5以来句子语法；当前题库规范化题干和选项识别跨ID同题"
   },
   "latestGrammarOptionAudit": {
-    "date": "2026-10-15",
-    "path": "daily/2026-10-15-option-audit.json",
+    "date": "2026-10-19",
+    "path": "daily/2026-10-19-option-audit.json",
     "blankPriorities": {
-      "优先补": 4,
-      "可复用并口述": 36
+      "建议补一次": 4,
+      "可复用并口述": 24,
+      "优先补": 12
     }
   },
   "grammarTrendThrough20261015": {
@@ -884,5 +891,42 @@
     "repeatCorrect": 342,
     "repeatTotal": 393,
     "scope": "10/5以来句子语法"
+  },
+  "grammarTrendThrough20261015Afternoon": {
+    "firstCorrect": 105,
+    "firstTotal": 198,
+    "repeatCorrect": 350,
+    "repeatTotal": 402
+  },
+  "previousMimeticPractice": {
+    "date": "2026-10-19",
+    "localTime": "12:03",
+    "recordId": "1792382582151-7990vw",
+    "focus": "拟态词",
+    "latestCorrect": 22,
+    "latestTotal": 22,
+    "answered": 22,
+    "unanswered": 0,
+    "rate": 1.0,
+    "answeredRate": 1.0,
+    "completionRate": 1,
+    "durationSeconds": 251,
+    "showFurigana": false,
+    "shuffleOptions": true,
+    "optionNotes": 0,
+    "reasonCount": 0,
+    "statusCounts": {
+      "首次正确": 15,
+      "保持": 7
+    },
+    "report": "daily/2026-10-19.md"
+  },
+  "grammarTrendThrough20261019": {
+    "date": "2026-10-19",
+    "firstCorrect": 106,
+    "firstTotal": 199,
+    "repeatCorrect": 357,
+    "repeatTotal": 411,
+    "scope": "10/5以来句子语法，规范化题干与选项识别跨ID同题"
   }
 }

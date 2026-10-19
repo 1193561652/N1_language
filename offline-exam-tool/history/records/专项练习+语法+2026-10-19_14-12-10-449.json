@@ -1,0 +1,472 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1792390330449-8jmtik",
+    "submittedAt": "2026-10-19T06:12:10.449Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": true,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "sbry-n1-2019.07-文法-5-28",
+        "sbry-n1-2010.12-文法-5-28",
+        "sbry-n1-2018.12-文法-5-35",
+        "sbry-n1-2014.12-文法-5-33",
+        "sbry-n1-2013.07-文法-5-30",
+        "markdown-2025.07-language-31",
+        "sbry-n1-2013.07-文法-5-26",
+        "sbry-n1-2010.12-文法-5-31",
+        "sbry-n1-2015.12-文法-5-35",
+        "sbry-n1-2022.07-文法-5-28"
+      ],
+      "shuffleOptions": true,
+      "optionOrders": {
+        "sbry-n1-2019.07-文法-5-28": [
+          4,
+          1,
+          3,
+          2
+        ],
+        "sbry-n1-2010.12-文法-5-28": [
+          3,
+          2,
+          1,
+          4
+        ],
+        "sbry-n1-2018.12-文法-5-35": [
+          3,
+          1,
+          4,
+          2
+        ],
+        "sbry-n1-2014.12-文法-5-33": [
+          3,
+          2,
+          1,
+          4
+        ],
+        "sbry-n1-2013.07-文法-5-30": [
+          3,
+          2,
+          4,
+          1
+        ],
+        "markdown-2025.07-language-31": [
+          3,
+          4,
+          1,
+          2
+        ],
+        "sbry-n1-2013.07-文法-5-26": [
+          2,
+          4,
+          1,
+          3
+        ],
+        "sbry-n1-2010.12-文法-5-31": [
+          2,
+          1,
+          3,
+          4
+        ],
+        "sbry-n1-2015.12-文法-5-35": [
+          2,
+          3,
+          4,
+          1
+        ],
+        "sbry-n1-2022.07-文法-5-28": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      "showFurigana": true
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 8,
+    "percentage": 80,
+    "durationSeconds": 492,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2019.07-文法-5-28",
+        "number": 28,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "兄が会社の採用面接試験から帰ってきた。表情が明るいところを見ると、()うまくいったようだ。",
+        "options": [
+          "仮に",
+          "まさか",
+          "必ずしも",
+          "どうやら"
+        ],
+        "optionOrder": [
+          4,
+          1,
+          3,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2010.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01"
+        ],
+        "id": "sbry-n1-2010.12-文法-5-28",
+        "number": 28,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(テレビのコマーシャルで)\n「こちらは添加物を()使用していない、ヘルシーな食用油です。」",
+        "options": [
+          "いっさい",
+          "とても",
+          "きっと",
+          "まさか"
+        ],
+        "optionOrder": [
+          3,
+          2,
+          1,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b04",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2018.12-文法-5-35",
+        "number": 35,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "適切な目標を設定するのは難しいと言われている。目標があまりに高すぎると、やる気を()からだ。",
+        "options": [
+          "失わせてしまってはならない",
+          "失わせてしまいつつある",
+          "失わせてしまうところだ",
+          "失わせてしまうおそれがある"
+        ],
+        "optionOrder": [
+          3,
+          1,
+          4,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2014.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c08",
+          "grammar.q5.b04"
+        ],
+        "id": "sbry-n1-2014.12-文法-5-33",
+        "number": 33,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "バスの窓から大きな虹が見えたので写真を撮った。山道を走るバスに()けっこう良く撮れていた。",
+        "options": [
+          "揺られながらにしては",
+          "揺られながらとなれば",
+          "揺られっぱなしなのか",
+          "揺られっぱなしだとは"
+        ],
+        "optionOrder": [
+          3,
+          2,
+          1,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2013.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b05",
+          "grammar.q5.b02"
+        ],
+        "id": "sbry-n1-2013.07-文法-5-30",
+        "number": 30,
+        "selected": [
+          3
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(会社で)\nＡ「あ、その資料はあしたまた使うから、捨てないで()。」\nＢ「わかった。じゃあ、ファイルに保管するね。」",
+        "options": [
+          "取れるって",
+          "取っといて",
+          "取っちゃわないって",
+          "取っとけなくて"
+        ],
+        "optionOrder": [
+          3,
+          2,
+          4,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2025.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c08",
+          "grammar.q5.c13"
+        ],
+        "id": "markdown-2025.07-language-31",
+        "number": 31,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "昨日、ジョギング中に足首を痛めてしまった。ちょっとひねっただけなので、病院で( )、今朝もまだ少し痛む。",
+        "options": [
+          "診てもらうほどではないものの",
+          "診てもらうほどではないどころか",
+          "診てもらわなくてはならないものの",
+          "診てもらわなくてはならないどころか"
+        ],
+        "optionOrder": [
+          3,
+          4,
+          1,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2013.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c02"
+        ],
+        "id": "sbry-n1-2013.07-文法-5-26",
+        "number": 26,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "乗客の減少が続いていた竹山鉄道が、今年の３月31日()廃止された。",
+        "options": [
+          "を受けて",
+          "を皮切りに",
+          "をピークに",
+          "をもって"
+        ],
+        "optionOrder": [
+          2,
+          4,
+          1,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2010.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2010.12-文法-5-31",
+        "number": 31,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "上司「君、困る()！資料にミスがあったぞ。君のせいで大恥をかいたよ。」\n部下「すみません。うっかりしておりまして……」",
+        "options": [
+          "じゃないか",
+          "のではないか",
+          "じゃないのか",
+          "のではないのか"
+        ],
+        "optionOrder": [
+          2,
+          1,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2015.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c18"
+        ],
+        "id": "sbry-n1-2015.12-文法-5-35",
+        "number": 35,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "先月、自分のミスで試合に負けてしまい、落ち込んでしばらく練習に集中できなかった。だが、()と思い、また練習を一生懸命やることにした。",
+        "options": [
+          "落ち込みもしない",
+          "落ち込むわけではない",
+          "落ち込んでいたことは否めない",
+          "落ち込んでばかりいても始まらない"
+        ],
+        "optionOrder": [
+          2,
+          3,
+          4,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2022.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c01",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2022.07-文法-5-28",
+        "number": 28,
+        "selected": [
+          4
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "ふるさとの美しい海を見る()、この美しい海がいつまでもこのままであってほしいと思う。",
+        "options": [
+          "につけ",
+          "にせよ",
+          "とはいえ",
+          "というのは"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}
