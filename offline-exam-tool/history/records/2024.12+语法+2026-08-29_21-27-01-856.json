@@ -7,10 +7,10 @@
     "year": "2024.12",
     "category": "语法",
     "questionCount": 19,
-    "total": 19,
+    "total": 14,
     "answered": 14,
     "correct": 9,
-    "percentage": 47,
+    "percentage": 64,
     "durationSeconds": 937,
     "reasonCount": 1,
     "optionReasonCount": 10,
@@ -485,6 +485,7 @@
         "analysis": "【AI 生成解析】\n正确答案：2「だって」\n选项 1「なら」：接续形式、逻辑关系或语气与上下文不匹配。\n选项 2（正确）「だって」：接续形式符合前后成分，也符合句中的逻辑关系和语气。\n选项 3「でさえ」：接续形式、逻辑关系或语气与上下文不匹配。\n选项 4「といっても」：接续形式、逻辑关系或语气与上下文不匹配。",
         "analysisSource": "AI 生成（依据题干、选项与标准答案）"
       }
-    ]
+    ],
+    "totalPoints": 19
   }
 }

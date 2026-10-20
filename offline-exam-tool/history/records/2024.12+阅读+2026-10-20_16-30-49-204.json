@@ -1,0 +1,772 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1792485049204-y6elb9",
+    "submittedAt": "2026-10-20T08:30:49.204Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "period",
+    "showFurigana": true,
+    "practice": null,
+    "year": "2024.12",
+    "category": "阅读",
+    "questionCount": 22,
+    "total": 10,
+    "answered": 10,
+    "correct": 8,
+    "percentage": 80,
+    "durationSeconds": 6452,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.12-reading-8-1",
+        "number": 45,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": true,
+        "questionText": "筆者によると、「情報通」 とはどのような人か。",
+        "options": [
+          "幅広い分野で人並み以上の情報をもっている人。",
+          "何が自分にとって必要な情報かをよく理解している人。",
+          "誰が必要な情報をもっているかをよく把握している人。",
+          "情報をもっている人を見つけて、問題解決ができる人。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.12-reading-8-2",
+        "number": 46,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": true,
+        "questionText": "手の感覚について、実験からどのようなことが分かったか。",
+        "options": [
+          "熱いお湯や冷たい水につけ続けていると、温度が感じられなくなる。",
+          "冷たい水のあとより熱いお湯のあとにつけたほうが、ぬるま湯を温かく感じる。",
+          "先につけていた水やお湯の温度より、ぬるま湯の温度のほうが低く感じる。",
+          "先につけていた水やお湯の温度によって、ぬるま湯の温度の感じ方が変わる。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.12-reading-8-3",
+        "number": 47,
+        "selected": [
+          2
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": true,
+        "questionText": "自動運転車の登場について、筆者はどのように考えているか。",
+        "options": [
+          "安全や便利さも重要ではあるが、自分で運転する楽しさは失いたくない。",
+          "安全性と娯楽性の共存が望ましいが、実現は難しい。",
+          "娯楽性がなくなるが、安全や便利さのためには許容せざるをえない。",
+          "娯楽性を犠牲にしてまで、運転の自動化を進めてはいけない。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.12-reading-8-4",
+        "number": 48,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": true,
+        "questionText": "筆者は、翻訳のどのような点が音楽の演奏と似ていると述べているか。",
+        "options": [
+          "原作を丹念にたどっても、作家の世界観が再現されない可能性がある点。",
+          "同じ原作を翻訳しても、出来上がった翻訳が多様になりうる点。",
+          "翻訳家の個性により、異なる作家の作品でも似た印象になりうる点。",
+          "翻訳家次第で、さまざまな世界観が生み出される可能性がある点。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.12-reading-9-1",
+        "number": 49,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": true,
+        "questionText": "ライオンの子育てについて、筆者はどのように述べているか。",
+        "options": [
+          "生後すぐに、群れの中で雌が交代で育てる。",
+          "生後一カ月あまり過ぎると、経験豊富な年長の雌が育てる。",
+          "歩けるようになるまで、群れの中で母親が育てる。",
+          "歩けるようになると、群れの雌が協力して育てる。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.12-reading-9-2",
+        "number": 50,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": true,
+        "questionText": "共同生活の利点について、筆者はどのように述べているか",
+        "options": [
+          "壮年期のライオンの経験を育児と狩りに生かすことができる。",
+          "年齢に応じて役割を分担することで、育児と狩りが両立できる。",
+          "群れの中での役割分担が明確になり、個々のライオンの負担が減る。",
+          "若いライオンが育児も狩りも経験することで、どんな役割もできるようになる。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.12-reading-9-3",
+        "number": 51,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": true,
+        "questionText": "取材をしている人からうまく言葉が出てこないことについて、筆者はどのように考えているか。",
+        "options": [
+          "取材を受けている人は、間を取りながら話さなければならないという気持ちにさせられる。",
+          "取材を受けている人は、考えをまとめたり振り返ったりしながら内容が深められる。",
+          "取材を受けている人は、内容をまとめて分かりやすく伝えるための準備ができる。",
+          "取材を受けている人は、自分のせいだと考えて自ら会話を進めようとする。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.12-reading-9-4",
+        "number": 52,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": true,
+        "questionText": "筆者の考えに合うのはどれか。",
+        "options": [
+          "自分に対して多面的な見方ができれば、ほかの人の失敗や欠点にも寛容になる。",
+          "欠点だと思えることを改善できれば、自分の能力が発揮できるようになる。",
+          "本来の力を発揮するためには、自分の欠点ではなく長所を探すのがいい。",
+          "失敗や欠点だと思っていても、捉え方次第で長所になり得る。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.12-reading-9-5",
+        "number": 53,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": true,
+        "questionText": "⟦u⟧こういった時⟦/u⟧とは、どのような時か。",
+        "options": [
+          "パッケージの変更に伴って、ファンが商品への愛着を失った時。",
+          "パッケージの変更を望まないファンが多いのに、変更せざるを得ない時。",
+          "新しいファンを獲得するには、パッケージの変更が不可欠だと分かった時。",
+          "ファンの賛否が分からない状況で、パッケージを変更しなければならない時。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.12-reading-9-6",
+        "number": 54,
+        "selected": [
+          4
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": true,
+        "questionText": "マーケティング調査の結果について、筆者はどのように考えているか。",
+        "options": [
+          "一部の消費者の意見として、うまく生かすべきだ。",
+          "肯定的な意見を積極的に取り入れて商品開発に生かすべきだ。",
+          "消費者の反応が変わっていくことを考慮して分析するべきだ。",
+          "過去の結果と合わせて、消費者の好みの変化を読み取るべきだ。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.12-reading-9-7",
+        "number": 55,
+        "selected": [
+          null
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "⟦u⟧「待つ」ことからはじまっていく⟦/u⟧とあるが、何を待つのか。",
+        "options": [
+          "自然が豊かさを回復して利用できるようになるとき。",
+          "自然を人間の都合に合わせるのに適したとき。",
+          "自然の恵みを受けるのに適した状態になるとき。",
+          "自然の変化が感じられるようになるとき。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.12-reading-9-8",
+        "number": 56,
+        "selected": [
+          null
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "筆者によると、村の人たちの人間関係はどのようにつくられたか。",
+        "options": [
+          "自然との関係と同様に、相手の行動を見ながら時機を捉えて働きかける。",
+          "自然の変化を捉えるように、相手の変化を待って働きかける。",
+          "自然の影響を受けやすい人々の動きを理解し、タイミングよく働きかける。",
+          "自然の変化を待つのと同様に、相手からの働きかけを焦らずに待つ。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.12-reading-10-1",
+        "number": 57,
+        "selected": [
+          null
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "筆者によると、教育の仕事は通常の仕事とどのような点で異なるか。",
+        "options": [
+          "知識や技術の高さよりも人格の良さの方が重視される。",
+          "知識や技術が十分でなくても良い結果を生むことがある。",
+          "経験知の豊富なベテランより、若く未熟な方が好かれやすい。",
+          "経験を積み技術が上がっても、仕事の質が良くなるとは限らない。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.12-reading-10-2",
+        "number": 58,
+        "selected": [
+          null
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "筆者によると、初年度の教師の緊張感は学生たちにどのように影響するか。",
+        "options": [
+          "積極的に授業に参加し、教師の緊張感を和らげようとする。",
+          "教師の立場を理解し、生徒らしい態度で授業を受けようとする。",
+          "教師と一緒に授業を作っているのだという気持ちになる。",
+          "教師と緊張感が共有でき、心を開いていいのだと思うようになる。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.12-reading-10-3",
+        "number": 59,
+        "selected": [
+          null
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "筆者によると、教育を仕事にしている人間にとって大切なことは何か。",
+        "options": [
+          "経験に満足するとなく、自ら変化し続けようとすること。",
+          "新鮮さを失わないために、自ら新しい知識や技術を身につけること。",
+          "自らの足りなさを補いつつ、情熱を持って接すること。",
+          "自らの未熟さを隠さずに、学ぶ側が一体感を得やすくすること。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.12-reading-11-1",
+        "number": 60,
+        "selected": [
+          null
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "部下や後輩が指示待ちになっている理由として、AとBが共通して述べていることは何か。",
+        "options": [
+          "知識や経験が足りず、やるべきことが分からないこと。",
+          "自信がなく、自主的に仕事を進めることができないこと。",
+          "上司がいつも丁寧にやり方を教えてくれること。",
+          "上司にいわれたことを行うのが仕事だと思っていること。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.12-reading-11-2",
+        "number": 61,
+        "selected": [
+          null
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "指示待ちになっている部下や後輩の対応のしかたについて、AとBはどのように述べているか。",
+        "options": [
+          "AもBも、自分なりのやり方を考えて提案させるといいと述べている。",
+          "AもBも、仕事の目的を伝え、やるべきことを一緒に考えるといいと述べている。",
+          "Aは仕事の目的と全体像を理解させるといいと述べ、Bは自分でできそうなことはまず一人で考えさせるといいと述べている。",
+          "Aはほかの仕事とのかかわりを教えるといいと述べ、Bはやり方がすでに分かっている仕事を与え自分自身でやらせるといいと述べている。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.12-reading-12-1",
+        "number": 62,
+        "selected": [
+          null
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "筆者によると、人々は脳科学に何を期待しているか。",
+        "options": [
+          "複雑な脳の仕組みをわかりやすく説明してくれること。",
+          "どうすれば自分が幸せに生きられるかを教えてくれること。",
+          "人間の感情や思考や行動の扱い方を教えてくれること。",
+          "人間にとって幸せな人生とは何かを客観的に示してくれること。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.12-reading-12-2",
+        "number": 63,
+        "selected": [
+          null
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "脳科学について、筆者の考えに合うのはどれか。",
+        "options": [
+          "個人の人生に適用するには、普遍的な法則を見つけなければならない。",
+          "人の脳の機能をすべて解明できたとしても、普遍的な法則にたどり着けない。",
+          "普遍的な法則にたどり着いたとしても、人生の個々の事柄には応用できない。",
+          "普遍的な法則に到達するには、人生の個々の事柄を解き明かさなければならない。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.12-reading-12-3",
+        "number": 64,
+        "selected": [
+          null
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "筆者が言いたいことは何か。",
+        "options": [
+          "科学が証明した事実は、個人や社会の価値観に影響を与える恐れがある。",
+          "科学だけでなく個人や社会の価値観を考慮したうえで、未来を選ぶ必要がある。",
+          "科学は個人や社会の価値観を扱えず、人類が望む未来の実現には役に立たない。",
+          "科学は事実を対象とするものであり、個人や社会の価値観を扱うものではない。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.12-reading-13-1",
+        "number": 65,
+        "selected": [
+          null
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "サイさんは、9月4日から7日までボランティア活動を行ったので、9月中に助成金を申請しようと考えている。交通費と宿泊費を計算してメモにまとめたが、申請が認められた場合、サイさんに支給される助成金はいくらになるか。 サイさんのメモ ・交通費: 12,000円 ・宿泊費 : 7,000円を3泊分",
+        "options": [
+          "交通10000 円と、宿泊 6000円を2泊分。",
+          "交通10000円と、宿泊 6000円を3泊分。",
+          "交通12000 円と、宿泊 7000円を2泊分。",
+          "交通12000 円と、宿泊 7000円を3泊分。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.12-reading-13-2",
+        "number": 66,
+        "selected": [
+          null
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "ジムさんは、1月10日に日帰りでボランティア活動を行う予定である。助成金を申請したいと考えているが、活動終了後に必ず提出しなければならないものは何で、いつまでに提出しなければならないか。",
+        "options": [
+          "AとBとCで、3月10日までに提出する。",
+          "AとBとCで、3月24日までに提出する。",
+          "AとBとCとDで、3月10日までに提出する。",
+          "AとBとCとDで、3月24日までに提出する。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ],
+    "totalPoints": 22
+  }
+}

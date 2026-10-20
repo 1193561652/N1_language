@@ -1,0 +1,743 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1792475235640-hm0yie",
+    "submittedAt": "2026-10-20T05:47:15.640Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "period",
+    "showFurigana": true,
+    "practice": null,
+    "year": "2020.12",
+    "category": "语法",
+    "questionCount": 19,
+    "total": 19,
+    "answered": 19,
+    "correct": 11,
+    "percentage": 58,
+    "durationSeconds": 3130,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2020.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c19"
+        ],
+        "id": "sbry-n1-2020.12-文法-5-26",
+        "number": 26,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "100年の伝統を誇るこの旅館のサービスは、老舗旅館()細やかな心遣いが感じられる。",
+        "options": [
+          "ごときの",
+          "がらみの",
+          "ほどまでの",
+          "ならではの"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2020.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c12"
+        ],
+        "id": "sbry-n1-2020.12-文法-5-27",
+        "number": 27,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "新入社員のころ、取引先の担当者の名前を間違えた()、契約してもらえなかったことがある。",
+        "options": [
+          "なんて",
+          "以上は",
+          "ばかりに",
+          "かと思うと"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2020.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c08",
+          "grammar.q5.b01"
+        ],
+        "id": "sbry-n1-2020.12-文法-5-28",
+        "number": 28,
+        "selected": [
+          1
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "これまで森さんのことなど何とも思っていなかった。()最近、なぜか急に恋愛対象として意識するようになってしまった。",
+        "options": [
+          "それは",
+          "それも",
+          "それか",
+          "それが"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2020.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c11"
+        ],
+        "id": "sbry-n1-2020.12-文法-5-29",
+        "number": 29,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "X自動車の新社長に就任した山下春好氏は、会見で「私が持つノウハウ()、早期の黒字化が図れると確信している。」と述べた。",
+        "options": [
+          "とあってか",
+          "にあってさえ",
+          "にとってみれば",
+          "をもってすれば"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2020.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c01"
+        ],
+        "id": "sbry-n1-2020.12-文法-5-30",
+        "number": 30,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "できない理由ばかりを探して、()諦めてしまう人に、成長はない。",
+        "options": [
+          "やってもいないうちから",
+          "やることはないにしろ",
+          "やりようがないにも関わらず",
+          "やってしまってからでないと"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2020.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c08",
+          "grammar.q5.c20"
+        ],
+        "id": "sbry-n1-2020.12-文法-5-31",
+        "number": 31,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "A:「ねえ、この漫画、面白いよ。」\nB:「興味ない」\nA:「そんなこと言って。本当は読んでみたくてしかたが()。」",
+        "options": [
+          "なくちゃ",
+          "ないけど",
+          "ないくせに",
+          "なくたって"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2020.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b05"
+        ],
+        "id": "sbry-n1-2020.12-文法-5-32",
+        "number": 32,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "次の試合の相手とは前回の大会で、一度()。前回は負けたが、今回は絶対に勝ちたい。",
+        "options": [
+          "対戦している",
+          "対戦してくる",
+          "対戦してみる",
+          "対戦していく"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2020.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03"
+        ],
+        "id": "sbry-n1-2020.12-文法-5-33",
+        "number": 33,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(旅館のパンフレットで)\n電車でお越しのお客様は、最寄りの森川駅までスタッフがお迎えに()ので、前日までにご到着予定時間をお知らせください。",
+        "options": [
+          "みえます",
+          "あがります",
+          "くださいます",
+          "さしあげます"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2020.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c13"
+        ],
+        "id": "sbry-n1-2020.12-文法-5-34",
+        "number": 34,
+        "selected": [
+          4
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "ゆうベは、せっかく北山まで夜景を見に行ったのに、ものすごい強風と寒さで、夜景を()。",
+        "options": [
+          "楽しまずにはいられなかった",
+          "たのしめないことはなかった",
+          "楽しむどころではなかった",
+          "楽しむつもりはなかった"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2020.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c18"
+        ],
+        "id": "sbry-n1-2020.12-文法-5-35",
+        "number": 35,
+        "selected": [
+          2
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(会社で)\nA:「知っています?部長が、売り上げを半年で五倍にするって言っているらしいですよ」\nB:「五倍?ありえないよ。どう考えてもさすがに()」\nA:「そうですよね。無理ですよね。」",
+        "options": [
+          "無理するもんだ",
+          "無理するもんか",
+          "無理ってもんだ",
+          "無理なもんか"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2020.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q6.c01",
+          "grammar.q6.c02"
+        ],
+        "id": "sbry-n1-2020.12-文法-6-36",
+        "number": 36,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          1,
+          3,
+          4,
+          2
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この花火大会は、日本の夏を語る＿＿＿＿ ＿＿＿＿ ★ ＿＿＿＿有名だ。",
+        "options": [
+          "うえで",
+          "として",
+          "欠かせない",
+          "イべント"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2020.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q6.c01",
+          "grammar.q6.c03"
+        ],
+        "id": "sbry-n1-2020.12-文法-6-37",
+        "number": 37,
+        "selected": [
+          3
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          4,
+          2,
+          3,
+          1
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "子どもにいろいろなことを習わせたいという親の気持ちはよくわかるが、子どもの遊ぶ時間を奪って＿＿＿＿ ＿＿＿＿ ★ ＿＿＿＿ないと思う",
+        "options": [
+          "必要は",
+          "やらせる",
+          "まで",
+          "無理に"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2020.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q6.c01",
+          "grammar.q6.c03"
+        ],
+        "id": "sbry-n1-2020.12-文法-6-38",
+        "number": 38,
+        "selected": [
+          1
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          3,
+          2,
+          1,
+          4
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "A:「おとといは大雨、昨日は車のパンク、旅行に来てからトラブル続きで嫌になるよね。」\nB:「本当だよ。最終日の＿＿＿＿ ＿＿＿＿ ★ ＿＿＿＿。」",
+        "options": [
+          "何も",
+          "今日こそ",
+          "ように",
+          "おきません"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2020.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q6.c02",
+          "grammar.q6.c03"
+        ],
+        "id": "sbry-n1-2020.12-文法-6-39",
+        "number": 39,
+        "selected": [
+          2
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          1,
+          3,
+          2,
+          4
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "2025年には介護を必要とする高齢者が著しく増加することから、多くの専門家が「介護施設職員の給与を引き上げる＿＿＿＿ ＿＿＿＿ ★ ＿＿＿＿」と指摘する。",
+        "options": [
+          "などして",
+          "緊急な課題",
+          "人材を確保することが",
+          "介護に携わる"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2020.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q6.c02",
+          "grammar.q6.c03"
+        ],
+        "id": "sbry-n1-2020.12-文法-6-40",
+        "number": 40,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          4,
+          2,
+          1,
+          3
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "川北市出身の画家平一前の＿＿＿＿ ＿＿＿＿ ★ ＿＿＿＿先週20日に完成した。",
+        "options": [
+          "建設を進めていた",
+          "川北市が",
+          "記念美術館が",
+          "業績を後世に伝えようと"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2020.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q7.c11",
+          "grammar.q7.c12"
+        ],
+        "id": "sbry-n1-2020.12-文法-7-41",
+        "number": 41,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "文芸の毒",
+        "options": [
+          "力でもいい",
+          "力である",
+          "力にしよう",
+          "力にすぎない"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2020.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q7.c07",
+          "grammar.q7.c12"
+        ],
+        "id": "sbry-n1-2020.12-文法-7-42",
+        "number": 42,
+        "selected": [
+          2
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "",
+        "options": [
+          "あるとき",
+          "このとき",
+          "そのとき",
+          "あのとき"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2020.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q7.c04",
+          "grammar.q7.c12"
+        ],
+        "id": "sbry-n1-2020.12-文法-7-43",
+        "number": 43,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "",
+        "options": [
+          "思うそうだ",
+          "思えてきた",
+          "思わせつつある",
+          "思っているだろう"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2020.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q7.c09"
+        ],
+        "id": "sbry-n1-2020.12-文法-7-44",
+        "number": 44,
+        "selected": [
+          1
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "",
+        "options": [
+          "もっとも",
+          "とはいえ",
+          "そういえば",
+          "それどころか"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ],
+    "totalPoints": 19
+  }
+}

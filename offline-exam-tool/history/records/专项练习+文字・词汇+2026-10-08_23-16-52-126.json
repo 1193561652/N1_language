@@ -46,10 +46,10 @@
     "year": "专项练习",
     "category": "文字・词汇",
     "questionCount": 22,
-    "total": 22,
+    "total": 6,
     "answered": 6,
     "correct": 5,
-    "percentage": 23,
+    "percentage": 83,
     "durationSeconds": 375,
     "reasonCount": 0,
     "optionReasonCount": 0,
@@ -847,6 +847,7 @@
           4
         ]
       }
-    ]
+    ],
+    "totalPoints": 22
   }
 }

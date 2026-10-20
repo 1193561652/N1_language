@@ -1,6 +1,22 @@
 /* Pure practice selection and statistics shared by the UI and regression tests. */
 (() => {
   "use strict";
+  function scoredResults(detail) {
+    return (detail.results || []).filter((value, index) =>
+      typeof value === "boolean" && (!Array.isArray(detail.selected) || Number(detail.selected[index]) > 0));
+  }
+
+  function scoreRecord(record) {
+    if (!Array.isArray(record.details) || !record.details.length) return record;
+    const results = record.details.flatMap(scoredResults);
+    const total = results.length;
+    const correct = results.filter(Boolean).length;
+    return { ...record,
+      totalPoints: record.totalPoints ?? record.total,
+      total, answered: total, correct,
+      percentage: total ? Math.round(correct / total * 100) : null };
+  }
+
   function create(data, catalog = {}) {
     const byId = new Map();
     for (const [year, exam] of Object.entries(data.exams)) {
@@ -46,14 +62,15 @@
           if (seenIds.has(detail.id)) continue;
           seenIds.add(detail.id);
           const meta = annotations[detail.id];
-          if (!meta || !Array.isArray(detail.results) || !detail.results.length) continue;
+          const results = scoredResults(detail);
+          if (!meta || !results.length) continue;
           for (const tid of new Set(meta.tags)) {
             const stat = result.get(tid);
             if (!stat) continue;
-            stat.total += detail.results.length;
-            stat.correct += detail.results.filter((value) => value === true).length;
+            stat.total += results.length;
+            stat.correct += results.filter((value) => value === true).length;
             stat.seen.add(detail.id);
-            if (detail.answerRevealedBeforeSubmit) stat.revealed += detail.results.length;
+            if (detail.answerRevealedBeforeSubmit) stat.revealed += results.length;
           }
         }
       }
@@ -80,5 +97,5 @@
     return order;
   }
 
-  window.SpecialPractice = { create, optionOrder, shuffleOptionOrder };
+  window.SpecialPractice = { create, optionOrder, shuffleOptionOrder, scoredResults, scoreRecord };
 })();

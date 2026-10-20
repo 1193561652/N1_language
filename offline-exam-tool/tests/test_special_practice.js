@@ -104,3 +104,31 @@ assert(SpecialPractice.create(data, reduced).eligible({ subject: '语法' }).inc
 const oldStats = practice.stats([{ year: '2010.07', details: [{ id: oldest, results: [true] }] }]);
 for (const tid of catalog.questions[oldest].tags) assert.equal(oldStats.find(row => row.id === tid).correct, 1);
 console.log(`PASS: ${practice.pool.length} tagged questions, ${practice.tags.length} tags; all grammar periods, cascading filters, unique sampling, count validation, full articles, mixed history statistics`);
+
+// Unanswered subquestions never affect scores, tag coverage, or reveal counts.
+const mixedDetail = { id, selected: [2, null, 1], results: [true, false, false], answerRevealedBeforeSubmit: true };
+const blankDetail = { id, selected: [null], results: [false], answerRevealedBeforeSubmit: true };
+const mixedRecord = { total: 3, answered: 2, correct: 1, percentage: 33, details: [mixedDetail] };
+const scored = SpecialPractice.scoreRecord(mixedRecord);
+assert.equal(scored.total, 2);
+assert.equal(scored.totalPoints, 3);
+assert.equal(scored.percentage, 50);
+assert.equal(mixedRecord.percentage, 33); // Reading old records does not mutate them.
+assert.deepEqual(SpecialPractice.scoreRecord(scored), scored);
+const blankRecord = SpecialPractice.scoreRecord({ total: 1, details: [blankDetail] });
+assert.equal(blankRecord.total, 0);
+assert.equal(blankRecord.correct, 0);
+assert.equal(blankRecord.percentage, null);
+for (const tid of tagIds) {
+  const row = practice.stats([mixedRecord, { details: [blankDetail] }]).find(row => row.id === tid);
+  assert.equal(row.total, 2);
+  assert.equal(row.correct, 1);
+  assert.equal(row.percentage, 50);
+  assert.equal(row.revealed, 2);
+  const blankRow = practice.stats([{ details: [blankDetail] }]).find(row => row.id === tid);
+  assert.equal(blankRow.total, 0);
+  assert.equal(blankRow.practiced, 0);
+  assert.equal(blankRow.percentage, null);
+}
+assert.equal(SpecialPractice.scoreRecord({ total: 2, details: [{ selected: [1, 2], results: [true, true] }] }).percentage, 100);
+console.log('PASS: partial answers, entirely unanswered submissions, historical rescoring, tag statistics and completion totals');

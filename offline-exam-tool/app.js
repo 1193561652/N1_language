@@ -97,7 +97,7 @@
       const value = JSON.parse(localStorage.getItem(HISTORY_KEY) || "[]");
       if (!Array.isArray(value)) return [];
       if (repairOrderingHistory(value)) localStorage.setItem(HISTORY_KEY, JSON.stringify(value));
-      return value;
+      return value.map(window.SpecialPractice.scoreRecord);
     } catch (_) { return []; }
   }
 
@@ -183,7 +183,7 @@
     const byId = new Map(records.map((item) => [item.id, item]));
     const merged = [...byId.values()].sort((a, b) => String(b.submittedAt).localeCompare(String(a.submittedAt)));
     repairOrderingHistory(merged);
-    return merged;
+    return merged.map(window.SpecialPractice.scoreRecord);
   }
 
   function persistProjectHistory(history) {
@@ -401,7 +401,7 @@
     const target = $("#tag-insights");
     const openSubjects = new Set([...target.querySelectorAll('details[open]')].map((node) => node.dataset.subject));
     target.innerHTML = `<div class="insights-heading"><div><p class="section-kicker">专项能力</p><h2>各考点正确率</h2></div></div>
-      <p class="muted">统计普通答题与专项练习的全部已提交记录；重复练习按次计入，未作答计错。多标签题分别计入各考点，不能相加作为总题数。暂无记录显示“—”。</p>
+      <p class="muted">统计普通答题与专项练习的全部已提交记录；重复练习按次计入，未作答不计分，正确率仅按已答小题计算。多标签题分别计入各考点，不能相加作为总题数。暂无记录显示“—”。</p>
       ${PRACTICE.subjects.map((subject) => {
         const rows = stats.filter((stat) => stat.subject === subject).sort((a, b) => (a.percentage ?? 101) - (b.percentage ?? 101) || a.problemNumber - b.problemNumber);
         return `<details class="insight-card tag-subject" data-subject="${escapeHtml(subject)}" ${openSubjects.has(subject) ? "open" : ""}>
@@ -643,8 +643,9 @@
       </div>
       <div class="question-nav-grid">${state.questions.map((question, index) => {
         const results = state.results[question.id];
+        const scored = window.SpecialPractice.scoredResults({ selected: selectedAnswers(question), results });
         const status = (state.submitted || state.checked[question.id]) && results
-          ? (results.every(Boolean) ? "correct" : "wrong")
+          ? (!scored.length ? "unanswered" : scored.every(Boolean) ? "correct" : "wrong")
           : (questionHasSelection(question) ? "selected" : "unanswered");
         return `<button type="button" class="question-nav-button ${status}" data-nav-question="${escapeHtml(question.id)}" title="第 ${index + 1} 题 · ${escapeHtml(question.id)}">${index + 1}</button>`;
       }).join("")}</div>`;
@@ -942,10 +943,11 @@
   function renderQuestionFeedback(question, selected, expected, results) {
     const card = $(`#question-${CSS.escape(question.id)}`);
     if (!card) return;
-    const correct = results.every(Boolean);
-    const unanswered = selected.every((value) => !value);
+    const scored = window.SpecialPractice.scoredResults({ selected, results });
+    const unanswered = !scored.length;
+    const correct = !unanswered && scored.every(Boolean);
     card.classList.remove("correct", "wrong");
-    card.classList.add(correct ? "correct" : "wrong");
+    if (!unanswered) card.classList.add(correct ? "correct" : "wrong");
 
     if (isOrderingQuestion(question)) {
       renderOrderingControl(question.id);
@@ -972,8 +974,8 @@
     const starIndex = isOrderingQuestion(question) ? orderingStarIndex(question) : -1;
     const orderSummary = isOrderingQuestion(question) && order.length
       ? `<div class="submitted-order"><strong>你的排序：</strong>${order.map((value, position) => `${position === starIndex ? "★" : position + 1}=${displayedOptionNumber(question, value)}`).join(" → ")}</div>` : "";
-    const resultText = unanswered ? "未作答" : correct ? "回答正确" : "回答错误";
-    const resultClass = correct ? "result-ok" : "result-bad";
+    const resultText = unanswered ? "未作答（不计分）" : correct ? "回答正确" : "回答错误";
+    const resultClass = unanswered ? "muted" : correct ? "result-ok" : "result-bad";
     const explanation = card.querySelector(".explanation");
     const optionOrder = displayedOptionOrder(question);
     const numberingNote = question.analysis && optionOrder.some((number, index) => number !== index + 1)
@@ -1013,7 +1015,7 @@
     if (state.submitted) return;
     const total = state.questions.reduce((sum, q) => sum + pointCount(q), 0);
     const answered = answeredPointCount();
-    if (answered < total && !window.confirm(`还有 ${total - answered} 小题未作答，仍然提交吗？`)) return;
+    if (answered < total && !window.confirm(`还有 ${total - answered} 小题未作答（不计入分数），仍然提交吗？`)) return;
 
     state.submitted = true;
     clearInterval(state.timerId);
@@ -1057,10 +1059,11 @@
       year: state.year,
       category: state.category,
       questionCount: state.questions.length,
-      total,
+      totalPoints: total,
+      total: answered,
       answered,
       correct,
-      percentage: Math.round(correct / total * 100),
+      percentage: answered ? Math.round(correct / answered * 100) : null,
       durationSeconds,
       reasonCount: details.filter((detail) => detail.reason).length,
       optionReasonCount: details.reduce((sum, detail) => sum + Object.keys(detail.optionReasons).length, 0),
@@ -1071,7 +1074,7 @@
     saveHistory(history);
     state.historyRecordId = record.id;
 
-    $("#score-panel").innerHTML = `<h3>${correct} / ${total} · ${record.percentage} 分</h3><div>已答 ${answered} 小题，用时 ${formatDuration(durationSeconds)}。本次结果已保存到本地历史。</div>`;
+    $("#score-panel").innerHTML = `<h3>${correct} / ${answered} · ${record.percentage === null ? "未计分" : `${record.percentage} 分`}</h3><div>已答 ${answered} / ${total} 小题，未答不计分。用时 ${formatDuration(durationSeconds)}。本次结果已保存到本地历史。</div>`;
     $("#score-panel").hidden = false;
     $("#submit-button").hidden = true;
     $("#submit-bottom-button").hidden = true;
@@ -1177,7 +1180,8 @@
           const subject = normalizedHistoryCategory(located?.category || detail.sourceCategory);
           const stat = subjectStats.get(subject);
           if (!stat) continue;
-          const results = detail.results || [];
+          const results = window.SpecialPractice.scoredResults(detail);
+          if (!results.length) continue;
           stat.correct += results.filter(Boolean).length;
           stat.total += results.length;
           attemptedSubjects.add(subject);
@@ -1201,9 +1205,9 @@
       const group = located.question.groupNumber || "?";
       const key = `${category} · 問題 ${group}`;
       const stat = groupStats.get(key) || { correct: 0, total: 0 };
-      const results = Array.isArray(detail.results) ? detail.results : [];
+      const results = window.SpecialPractice.scoredResults(detail);
       stat.correct += results.filter(Boolean).length;
-      stat.total += results.length || 1;
+      stat.total += results.length;
       groupStats.set(key, stat);
     }));
     const weakGroups = [...groupStats.entries()]
@@ -1330,9 +1334,9 @@
     $("#history-list").innerHTML = filtered.map((record) => `
       <article class="history-row">
         <div><strong>${escapeHtml(record.mode === "special" ? practiceTitle(record.practice) : `${record.year} · ${record.category}`)}</strong><p class="muted">${formatDate(record.submittedAt)}</p></div>
-        <div><p class="score-badge">${record.percentage} 分</p><p class="muted">${record.correct} / ${record.total}</p></div>
+        <div><p class="score-badge">${record.percentage === null ? "未计分" : `${record.percentage} 分`}</p><p class="muted">${record.correct} / ${record.total}</p></div>
         <div><strong>${formatDuration(record.durationSeconds)}</strong><p class="muted">答题用时</p></div>
-        <div><strong>${record.answered} / ${record.total}</strong><p class="muted">完成度</p></div>
+        <div><strong>${record.answered} / ${record.totalPoints ?? record.total}</strong><p class="muted">完成度</p></div>
         <button class="secondary-button" data-history-id="${record.id}">查看详情</button>
       </article>`).join("");
   }
@@ -1392,10 +1396,10 @@
     $("#back-button").textContent = "← 返回答题历史";
     $("#submit-button").hidden = true;
     $("#submit-bottom-button").hidden = true;
-    $("#score-panel").innerHTML = `<h3>${record.correct} / ${record.total} · ${record.percentage} 分</h3><div>${formatDate(record.submittedAt)} 提交，用时 ${formatDuration(record.durationSeconds)}。当前为历史回放，不会修改原记录。</div>`;
+    $("#score-panel").innerHTML = `<h3>${record.correct} / ${record.total} · ${record.percentage === null ? "未计分" : `${record.percentage} 分`}</h3><div>${formatDate(record.submittedAt)} 提交，用时 ${formatDuration(record.durationSeconds)}。当前为历史回放，不会修改原记录。</div>`;
     $("#score-panel").hidden = false;
     $("#timer").textContent = formatDuration(Number(record.durationSeconds || 0));
-    $("#answer-progress").textContent = `已答 ${record.answered} / ${record.total}`;
+    $("#answer-progress").textContent = `已答 ${record.answered} / ${record.totalPoints ?? record.total}`;
 
     const seenPassages = new Set();
     $("#questions-form").innerHTML = state.questions.map((question, index) => questionMarkup(question, index, seenPassages)).join("");
@@ -1465,12 +1469,12 @@
     if (!record) return;
     $("#history-detail").innerHTML = `
       <p class="section-kicker">${escapeHtml(record.year)} · ${escapeHtml(record.category)}</p>
-      <h2>${record.percentage} 分</h2>
+      <h2>${record.percentage === null ? "未计分" : `${record.percentage} 分`}</h2>
       <p>${formatDate(record.submittedAt)}</p>
       ${record.practice?.shuffleOptions ? '<p>此汇总表中的答案、排序和选项理由按原题编号显示；理由文字保留作答时的内容。</p>' : ""}
       <div class="detail-grid">
         <div><strong>${record.correct} / ${record.total}</strong><br>正确</div>
-        <div><strong>${record.answered} / ${record.total}</strong><br>已答</div>
+        <div><strong>${record.answered} / ${record.totalPoints ?? record.total}</strong><br>已答</div>
         <div><strong>${formatDuration(record.durationSeconds)}</strong><br>用时</div>
       </div>
       <table class="detail-table"><thead><tr><th>题号</th><th>作答</th><th>我的排序</th><th>正确答案</th><th>结果</th><th>提交前看答案</th><th>题目理由</th><th>选项理由</th><th>答案解析</th></tr></thead><tbody>
@@ -1478,7 +1482,8 @@
         const question = lookupQuestion(record, detail);
         const analysis = question?.analysis || "暂无解析";
         const source = question?.analysisSource || "";
-        return `<tr><td>${escapeHtml(detail.number)}</td><td>${detail.selected.map((v) => v ?? "—").join("、")}</td><td class="order-detail">${savedOrderMarkup(detail)}</td><td>${detail.expected.join("、")}</td><td class="${detail.results.every(Boolean) ? "result-ok" : "result-bad"}">${detail.results.every(Boolean) ? "正确" : "错误"}</td><td>${detail.answerRevealedBeforeSubmit ? "是" : "否"}</td><td class="reason-detail">${escapeHtml(detail.reason || "—")}</td><td class="option-reasons-detail">${optionReasonMarkup(detail)}</td><td class="analysis-detail">${formatAnalysisHtml(analysis)}${source ? `<small>来源：${escapeHtml(source)}</small>` : ""}</td></tr>`;
+        const scored = window.SpecialPractice.scoredResults(detail);
+        return `<tr><td>${escapeHtml(detail.number)}</td><td>${detail.selected.map((v) => v ?? "—").join("、")}</td><td class="order-detail">${savedOrderMarkup(detail)}</td><td>${detail.expected.join("、")}</td><td class="${!scored.length ? "muted" : scored.every(Boolean) ? "result-ok" : "result-bad"}">${!scored.length ? "未作答（不计分）" : scored.every(Boolean) ? "正确" : "错误"}</td><td>${detail.answerRevealedBeforeSubmit ? "是" : "否"}</td><td class="reason-detail">${escapeHtml(detail.reason || "—")}</td><td class="option-reasons-detail">${optionReasonMarkup(detail)}</td><td class="analysis-detail">${formatAnalysisHtml(analysis)}${source ? `<small>来源：${escapeHtml(source)}</small>` : ""}</td></tr>`;
       }).join("")}
       </tbody></table>`;
     $("#history-dialog").showModal();
