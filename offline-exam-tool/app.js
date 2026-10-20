@@ -27,19 +27,19 @@
     .replaceAll("【AI 生成解析】", '<span class="ai-analysis-label">AI 生成解析</span>')
     .replaceAll("【AI 点评】", '<span class="ai-comment-label">AI 点评</span>');
   const textBlock = (value, className = "") => value ? `<div class="content-block ${className}">${formatExamText(value)}</div>` : "";
-  function hasGrammarFurigana(question) {
-    return (PRACTICE.byId.get(question.id)?.category || state.category) === "语法"
-      && Number(question.groupNumber) === 5;
+  function hasQuestionFurigana(question) {
+    const category = PRACTICE.byId.get(question.id)?.category || state.category;
+    return category === "阅读" || (category === "语法" && Number(question.groupNumber) === 5);
   }
   function orderingText(question, value) {
-    if (!hasGrammarFurigana(question)) return formatExamText(value);
+    if (!hasQuestionFurigana(question)) return formatExamText(value);
     return `<span data-ordering-text="${escapeHtml(value)}">${window.OrderingFurigana.render(question.id, value, state.showFurigana || state.submitted, formatExamText)}</span>`;
   }
-  function orderingTextBlock(question, value) {
-    return value ? `<div class="content-block">${orderingText(question, value)}</div>` : "";
+  function orderingTextBlock(question, value, className = "") {
+    return value ? `<div class="content-block ${className}">${orderingText(question, value)}</div>` : "";
   }
   function refreshOrderingFurigana(question, card) {
-    if (!state.submitted || !hasGrammarFurigana(question)) return;
+    if (!state.submitted || !hasQuestionFurigana(question)) return;
     card.classList.add('furigana-active');
     card.querySelectorAll('[data-ordering-text]').forEach((node) => {
       node.innerHTML = window.OrderingFurigana.render(question.id, node.dataset.orderingText, true, formatExamText);
@@ -530,7 +530,7 @@
     const origin = PRACTICE.byId.get(question.id);
     const periodLabel = state.practice && origin ? `${escapeHtml(origin.year)} · ${escapeHtml(PRACTICE.subjectOf(origin.category))} · ` : "";
     const sourceLabel = question.source ? ` · ${escapeHtml(question.source)}` : "";
-    return `<article class="question-card ${hasGrammarFurigana(question) && state.showFurigana ? 'furigana-active' : ''}" id="question-${question.id}" data-id="${question.id}">
+    return `<article class="question-card ${hasQuestionFurigana(question) && state.showFurigana ? 'furigana-active' : ''}" id="question-${question.id}" data-id="${question.id}">
       <div class="question-main">
       <div class="question-meta">
         <span class="question-number">第 ${index + 1} 题${combined ? "（含两问）" : ""}</span>
@@ -538,8 +538,8 @@
         ${state.replayMode ? `<button type="button" class="question-ai-open" data-ai-open="${escapeHtml(question.id)}">AI 解析</button>` : ""}
         <span class="question-source">${periodLabel}大题 ${escapeHtml(question.groupNumber)}${sourceLabel}</span>
       </div>
-      ${textBlock(question.groupTitle, "group-title")}
-      ${showPassage ? textBlock(question.passage, "passage") : ""}
+      ${orderingTextBlock(question, question.groupTitle, "group-title")}
+      ${showPassage ? orderingTextBlock(question, question.passage, "passage") : ""}
       ${orderingTextBlock(question, question.title)}${orderingTextBlock(question, question.question)}${orderingTextBlock(question, question.subQuestion)}
       ${question.images.map((path) => `<img class="question-image" src="${encodeURI(path)}" alt="题目图片" loading="lazy">`).join("")}
       ${question.audio ? `<audio controls preload="metadata" src="${encodeURI(question.audio)}">浏览器不支持音频播放。</audio>` : ""}

@@ -13,11 +13,11 @@ const escape = s => String(s).replaceAll('&', '&amp;').replaceAll('<', '&lt;').r
 let count = 0;
 for (const categories of Object.values(context.window.EXAM_DATA.exams)) {
   for (const [category, questions] of Object.entries(categories)) for (const q of questions) {
-    const eligible = category === '语法' && Number(q.groupNumber) === 5 && q.options.length === 4;
+    const eligible = category === '阅读' || (category === '语法' && Number(q.groupNumber) === 5 && q.options.length === 4);
     if (!eligible) { assert(!readings[q.id]); continue; }
     count++;
     assert(readings[q.id], q.id);
-    for (const text of [q.title, q.question, q.subQuestion, ...q.options].filter(Boolean)) {
+    for (const text of [q.groupTitle, q.passage, q.title, q.question, q.subQuestion, ...q.options].filter(Boolean)) {
       const tokens = readings[q.id][text];
       assert(tokens, `${q.id}: stale text`);
       assert.equal(tokens.map(t => t[0]).join(''), text);
@@ -38,4 +38,4 @@ for (const [word, expected] of [['10万', 'じゅうまん'], ['先々週', 'せ
 assert.equal(render('missing', '<script>', true, escape), '&lt;script&gt;');
 const id = Object.keys(readings)[0];
 assert.equal(render(id, 'changed <text>', true, escape), 'changed &lt;text&gt;');
-console.log(`PASS: ${count} grammar questions (problem 5 only), exact text preserved, full kanji coverage, visibility gate and escaping`);
+console.log(`PASS: ${count} grammar and reading questions, exact text preserved, full kanji coverage, visibility gate and escaping`);
