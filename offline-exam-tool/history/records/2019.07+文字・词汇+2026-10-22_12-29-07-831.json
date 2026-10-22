@@ -1,0 +1,936 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1792643347831-wsjvga",
+    "submittedAt": "2026-10-22T04:29:07.831Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "period",
+    "showFurigana": false,
+    "practice": null,
+    "year": "2019.07",
+    "category": "文字・词汇",
+    "questionCount": 25,
+    "totalPoints": 25,
+    "total": 25,
+    "answered": 25,
+    "correct": 23,
+    "percentage": 92,
+    "durationSeconds": 495,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun",
+          "language.q1.adjective.other"
+        ],
+        "id": "sbry-n1-2019.07-文字・語彙-1-1",
+        "number": 1,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "あの態度には【猛烈】に腹が立った。",
+        "options": [
+          "もれつ",
+          "きょうれつ",
+          "きょれつ",
+          "もうれつ"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2019.07-文字・語彙-1-2",
+        "number": 2,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "彼女は病を【克服】して、職場に戻ってきた。",
+        "options": [
+          "こうふく",
+          "かくふく",
+          "かいふく",
+          "こくふく"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2019.07-文字・語彙-1-3",
+        "number": 3,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【崩れやすい】ので、運ぶときは気をつけてください。",
+        "options": [
+          "つぶれやすい",
+          "くずれやすい",
+          "はがれやすい",
+          "こぼれやすい"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2019.07-文字・語彙-1-4",
+        "number": 4,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この薬にはウイルスの【繁殖】を抑える効果がある。",
+        "options": [
+          "はんしょく",
+          "はんちょく",
+          "ばんしょく",
+          "ばんちょく"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2019.07-文字・語彙-1-5",
+        "number": 5,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "サイトの【履歴】は残っていなかった。",
+        "options": [
+          "ふくれき",
+          "られき",
+          "りれき",
+          "ふうれき"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2019.07-文字・語彙-1-6",
+        "number": 6,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "夕日に赤く【映える】山を写真に収めた。",
+        "options": [
+          "そびえる",
+          "はえる",
+          "もえる",
+          "さえる"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.katakana"
+        ],
+        "id": "sbry-n1-2019.07-文字・語彙-2-7",
+        "number": 7,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "ガスが漏れると、()が感知して警報が鳴る。",
+        "options": [
+          "レーダー",
+          "モーター",
+          "センサー",
+          "レバー"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji",
+          "language.q2.adjective.other"
+        ],
+        "id": "sbry-n1-2019.07-文字・語彙-2-8",
+        "number": 8,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "彼はロケットを作って宇宙へ飛ばしたいという()夢を実現した。",
+        "options": [
+          "絶大な",
+          "盛大な",
+          "雄大な",
+          "壮大な"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.adjective.other"
+        ],
+        "id": "sbry-n1-2019.07-文字・語彙-2-9",
+        "number": 9,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "その優しいメロディーは私の耳に()響き、眠りに誘ってくれた。",
+        "options": [
+          "ここちよく",
+          "いさぎよく",
+          "喜ばしく",
+          "輝かしく"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2019.07-文字・語彙-2-10",
+        "number": 10,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "兄は科学者として遺伝子の研究に()している。",
+        "options": [
+          "従事",
+          "勤務",
+          "在籍",
+          "就労"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.verb.simple"
+        ],
+        "id": "sbry-n1-2019.07-文字・語彙-2-11",
+        "number": 11,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "葉書が届いたが、雨でインクが少し()、読みにくかった。",
+        "options": [
+          "暴れて",
+          "にじんで",
+          "震えて",
+          "ゆがんで"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2019.07-文字・語彙-2-12",
+        "number": 12,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "子どもにとってプレッシャーになるので、将来に過度の期待をするのは()だ。",
+        "options": [
+          "不当",
+          "無効",
+          "禁物",
+          "偏見"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.mimetic"
+        ],
+        "id": "sbry-n1-2019.07-文字・語彙-2-13",
+        "number": 13,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "社長になり、トップに立つ者の責任の重さを()感じている。",
+        "options": [
+          "はらはらと",
+          "びくびくと",
+          "どきどきと",
+          "ひしひしと"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q3.katakana",
+          "language.q3.adjective.other"
+        ],
+        "id": "sbry-n1-2019.07-文字・語彙-3-14",
+        "number": 14,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "A社の【コンパクトな】車がよく売れている。",
+        "options": [
+          "新型の",
+          "小型の",
+          "家族向きの",
+          "若者向きの"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q3.kanji",
+          "language.q3.adverb"
+        ],
+        "id": "sbry-n1-2019.07-文字・語彙-3-15",
+        "number": 15,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "無駄な経費は【極力】減らそう。",
+        "options": [
+          "できるだけ",
+          "大幅に",
+          "一気に",
+          "思い切って"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q3.verb.simple"
+        ],
+        "id": "sbry-n1-2019.07-文字・語彙-3-16",
+        "number": 16,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "彼は「あ、忘れてた」と【つぶやく】と、その場を去って行った。",
+        "options": [
+          "ゆっくり言う",
+          "大きな声で言う",
+          "早口で言う",
+          "小さな声で言う"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q3.kanji",
+          "language.q3.adjective.other"
+        ],
+        "id": "sbry-n1-2019.07-文字・語彙-3-17",
+        "number": 17,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "目撃者の証言には【不審な】点があった。",
+        "options": [
+          "でたらめな",
+          "頼りない",
+          "怪しい",
+          "あいまいな"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q3.verb.simple"
+        ],
+        "id": "sbry-n1-2019.07-文字・語彙-3-18",
+        "number": 18,
+        "selected": [
+          2
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "何時間もグラウンドで練習していたので、【ばてて】しまった。",
+        "options": [
+          "疲れて",
+          "飽きて",
+          "のどが渇いて",
+          "おなかがすいて"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q3.verb.simple"
+        ],
+        "id": "sbry-n1-2019.07-文字・語彙-3-19",
+        "number": 19,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "どんな厳しい状況でも任務を【まっとうする】覚悟がある。",
+        "options": [
+          "継続する",
+          "完了する",
+          "実行する",
+          "担当する"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q4.sense",
+          "language.q4.boundary"
+        ],
+        "id": "sbry-n1-2019.07-文字・語彙-4-20",
+        "number": 20,
+        "selected": [
+          3
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "簡素",
+        "options": [
+          "これはボールをけるだけの【簡素】なゲームです。",
+          "鈴木さんは頑固だったけど、今は【簡素】になったね。",
+          "田舎で食べた【簡素】な味の食事が忘れられない。",
+          "以前に比べ、役所の手続きは【簡素】になりました。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q4.object",
+          "language.q4.collocation",
+          "language.q4.boundary"
+        ],
+        "id": "sbry-n1-2019.07-文字・語彙-4-21",
+        "number": 21,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "解明",
+        "options": [
+          "事態が深刻になる前に、話し合いで解決策を【解明】した。",
+          "住宅ローンの申し込みは収入を【解明】する書類が必要だ。",
+          "がんの仕組みを【解明】することが治療薬の開発につながる。",
+          "有名人のスキャンダルを【解明】した記事はよく読まれる。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q4.object",
+          "language.q4.evaluation"
+        ],
+        "id": "sbry-n1-2019.07-文字・語彙-4-22",
+        "number": 22,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "ほほえましい",
+        "options": [
+          "池田さんから、先週無事退院したという【ほほえましい】知らせがあった。",
+          "幼い兄弟が仲良く遊ぶ姿は見ていて【ほほえましい】。",
+          "彼は野球の選手として、多くの【ほほえましい】業績がある。",
+          "仕事で疲れたとき、私はお茶を飲むのがいちばん【ほほえましい】。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q4.sense",
+          "language.q4.boundary"
+        ],
+        "id": "sbry-n1-2019.07-文字・語彙-4-23",
+        "number": 23,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "目安",
+        "options": [
+          "健康のために一日に6キロを【目安】に歩くことにしている。",
+          "いつも【目安】にしていた看板がなかったので、道に迷った。",
+          "古い住所を【目安】に、友人の引っ越し先を探した。",
+          "先生の書いた文字を【目安】にして、習字の練習をしている。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q4.object",
+          "language.q4.boundary"
+        ],
+        "id": "sbry-n1-2019.07-文字・語彙-4-24",
+        "number": 24,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "様相",
+        "options": [
+          "腹痛が治まる【様相】がないので、病院で診察を受けた。",
+          "ビデオに撮って、子どもの成長の【様相】を記録に残したい。",
+          "大きな事件や事故は、その時代の社会の【様相】を反映している。",
+          "インターンに参加して、職場の【様相】を知ることができた。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q4.object",
+          "language.q4.collocation"
+        ],
+        "id": "sbry-n1-2019.07-文字・語彙-4-25",
+        "number": 25,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "交える",
+        "options": [
+          "アルバイトだった時期も【交える】と、この会社で働いて7年になる。",
+          "首脳会議は冗談を【交えた】和やかな雰囲気で進められた。",
+          "心を【交えて】、彼のセーターを編んでいる。",
+          "母の誕生日にメッセージを【交えて】花束を贈った。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}

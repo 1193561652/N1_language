@@ -1,0 +1,780 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1792646693773-rhybgm",
+    "submittedAt": "2026-10-22T05:24:53.773Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "period",
+    "showFurigana": true,
+    "practice": null,
+    "year": "2019.07",
+    "category": "语法",
+    "questionCount": 20,
+    "totalPoints": 20,
+    "total": 20,
+    "answered": 20,
+    "correct": 12,
+    "percentage": 60,
+    "durationSeconds": 2637,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c08",
+          "grammar.q5.c17"
+        ],
+        "id": "sbry-n1-2019.07-文法-5-26",
+        "number": 26,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "優勝()逃したが、石川選手は今大会で自己べストを更新する好成績を収めた。",
+        "options": [
+          "さえ",
+          "こそ",
+          "ほど",
+          "ばかり"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c12"
+        ],
+        "id": "sbry-n1-2019.07-文法-5-27",
+        "number": 27,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "今度の正月休みには、留学している息子も帰ってくる()、久しぶりに家族旅行にでも行こうかと思っています。",
+        "options": [
+          "ことだが",
+          "ことでも",
+          "ことだから",
+          "こととはいえ"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2019.07-文法-5-28",
+        "number": 28,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "兄が会社の採用面接試験から帰ってきた。表情が明るいところを見ると、()うまくいったようだ。",
+        "options": [
+          "仮に",
+          "まさか",
+          "必ずしも",
+          "どうやら"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c20"
+        ],
+        "id": "sbry-n1-2019.07-文法-5-29",
+        "number": 29,
+        "selected": [
+          2
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "このレストランは、料理はおいしいのだが、皿が安っぽい。もう少し良いものを使えない()と思う。",
+        "options": [
+          "ものか",
+          "ものの",
+          "ものだ",
+          "ものを"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2019.07-文法-5-30",
+        "number": 30,
+        "selected": [
+          1
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "先生「木村くん、このレポート読んだよ。うまくまとめられなかったって言ってたけど、けっこうよく()。」\n木村「ありがとうごさいます。」",
+        "options": [
+          "書けてなきゃ",
+          "書けてたらいいね",
+          "書けてるじゃない",
+          "書けてるかどうかだね"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c12"
+        ],
+        "id": "sbry-n1-2019.07-文法-5-31",
+        "number": 31,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "駅前のうどん屋「やまむら」は、最近テレビで紹介された()、毎日店の前に長い行列ができている。",
+        "options": [
+          "とかで",
+          "とかなら",
+          "というのが",
+          "というのも"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c17",
+          "grammar.q5.b01"
+        ],
+        "id": "sbry-n1-2019.07-文法-5-32",
+        "number": 32,
+        "selected": [
+          1
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "今回の事故について社長が会見を行ったが、あれでは何の説明()、わが社の信用が失われるだけだ。",
+        "options": [
+          "になっておらず",
+          "にもなっておらず",
+          "になっているのではなく",
+          "にもなっているのではなく"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c04"
+        ],
+        "id": "sbry-n1-2019.07-文法-5-33",
+        "number": 33,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "小林「ねえ、今日のダンスの練習、山口さんも来るんだよね?」\n森「どうだろう。あの人、来るって言ってても、()だから……。」",
+        "options": [
+          "来ても来なくても",
+          "来るか来ないか",
+          "来たり来なかったり",
+          "来るのも来ないのも"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b04",
+          "grammar.q5.c01"
+        ],
+        "id": "sbry-n1-2019.07-文法-5-34",
+        "number": 34,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "昨日大学で声をかけられたサークルの勧誘には困った。強引に話を進められて、危うく入会()。",
+        "options": [
+          "させられるところだった",
+          "されようがなかった",
+          "させなかったのかと思った",
+          "しなかったことにした"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2019.07-文法-5-35",
+        "number": 35,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "高橋「林さん、ギター教室探してるって聞いたけど、見つかった?」\n林「いえ、まだなんです。」\n高橋「よかったら、私が通ってるギター教室、見学してみない?見学したからって、()し、どう?」",
+        "options": [
+          "入りたがるだけじゃない",
+          "入らせないわけにはいかない",
+          "入りたくないだけかもしれない",
+          "入らなきゃいけないってわけじゃない"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q6.c01",
+          "grammar.q6.c03"
+        ],
+        "id": "sbry-n1-2019.07-文法-6-36",
+        "number": 36,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          1,
+          4,
+          2,
+          3
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "X医院は、患者を＿＿＿＿ ＿＿＿＿ ★ ＿＿＿＿近々予約制を導入するらしい。",
+        "options": [
+          "待たせる",
+          "診察できる",
+          "ように",
+          "ことなく"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q6.c01",
+          "grammar.q6.c03"
+        ],
+        "id": "sbry-n1-2019.07-文法-6-37",
+        "number": 37,
+        "selected": [
+          2
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          1,
+          4,
+          2,
+          3
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "昨日、友人から野菜ジュースをたくさんもらった。一人暮らしだとインスタント食品ばかり食べてしまって＿＿＿＿ ＿＿＿＿ ★ ＿＿＿＿ありがたい。",
+        "options": [
+          "だけに",
+          "になり",
+          "がちな",
+          "野菜不足"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q6.c01",
+          "grammar.q6.c03"
+        ],
+        "id": "sbry-n1-2019.07-文法-6-38",
+        "number": 38,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          3,
+          1,
+          4,
+          2
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(ホームぺージーで)\nQ：洗剤をたくさん使ったほうが、洗濯物がきれいになりますか。\nA：洗濯物を＿＿＿＿ ＿＿＿＿ ★ ＿＿＿＿悪臭の原因にもなります。適量を守りましょう。",
+        "options": [
+          "洗剤をたくさん入れればいいかといえば",
+          "逆にすすぎ切れなかったりして",
+          "きれいに洗うには",
+          "そうではなく"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q6.c02",
+          "grammar.q6.c03"
+        ],
+        "id": "sbry-n1-2019.07-文法-6-39",
+        "number": 39,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          2,
+          1,
+          4,
+          3
+        ],
+        "starPosition": 2,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この町には、大正初期に建てられた洋館があるらしい。前々から＿＿＿＿ ★ ＿＿＿＿ ＿＿＿＿帰ることはできない。",
+        "options": [
+          "私としては",
+          "近代建築に興味がある",
+          "その洋館を見ずに",
+          "それを知ったからには"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q6.c02",
+          "grammar.q6.c03"
+        ],
+        "id": "sbry-n1-2019.07-文法-6-40",
+        "number": 40,
+        "selected": [
+          4
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          1,
+          4,
+          2,
+          3
+        ],
+        "starPosition": 2,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "私は、＿＿＿＿ ★ ＿＿＿＿ ＿＿＿＿と思い、校内に畑を作って生徒たちに野菜を育てさせることを校長に提案した。",
+        "options": [
+          "農業を身近なものとして",
+          "食べるということが",
+          "考えるきっかけになれば",
+          "育てた野菜を収穫して"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q7.c12"
+        ],
+        "id": "sbry-n1-2019.07-文法-7-41",
+        "number": 41,
+        "selected": [
+          4
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "",
+        "options": [
+          "あと",
+          "また",
+          "まず",
+          "もう"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q7.c10",
+          "grammar.q7.c12"
+        ],
+        "id": "sbry-n1-2019.07-文法-7-42",
+        "number": 42,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "",
+        "options": [
+          "同じ",
+          "別の",
+          "そんな",
+          "あのときの"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q7.c02"
+        ],
+        "id": "sbry-n1-2019.07-文法-7-43",
+        "number": 43,
+        "selected": [
+          1
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "",
+        "options": [
+          "いて",
+          "いれば",
+          "いるため",
+          "いたとしても"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q7.c04",
+          "grammar.q7.c12"
+        ],
+        "id": "sbry-n1-2019.07-文法-7-44",
+        "number": 44,
+        "selected": [
+          3
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "",
+        "options": [
+          "わかっていた",
+          "わかってきたのか",
+          "わかっているらしい",
+          "わかってくるはずだ"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q7.c09"
+        ],
+        "id": "sbry-n1-2019.07-文法-7-45",
+        "number": 45,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "",
+        "options": [
+          "しかしその一方で",
+          "そうしたからといって",
+          "例えばこのように",
+          "どちらかというとむしろ"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}

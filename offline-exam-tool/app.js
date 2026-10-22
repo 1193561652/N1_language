@@ -29,7 +29,8 @@
   const textBlock = (value, className = "") => value ? `<div class="content-block ${className}">${formatExamText(value)}</div>` : "";
   function hasQuestionFurigana(question) {
     const category = PRACTICE.byId.get(question.id)?.category || state.category;
-    return category === "阅读" || (category === "语法" && Number(question.groupNumber) === 5);
+    return category === "阅读" || (category === "语法" && Number(question.groupNumber) === 5)
+      || (category === "词汇" && Number(question.groupNumber) === 2);
   }
   function orderingText(question, value) {
     if (!hasQuestionFurigana(question)) return formatExamText(value);

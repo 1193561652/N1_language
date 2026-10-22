@@ -13,7 +13,8 @@ const escape = s => String(s).replaceAll('&', '&amp;').replaceAll('<', '&lt;').r
 let count = 0;
 for (const categories of Object.values(context.window.EXAM_DATA.exams)) {
   for (const [category, questions] of Object.entries(categories)) for (const q of questions) {
-    const eligible = category === '阅读' || (category === '语法' && Number(q.groupNumber) === 5 && q.options.length === 4);
+    const eligible = category === '阅读' || (category === '语法' && Number(q.groupNumber) === 5 && q.options.length === 4)
+      || (category === '词汇' && Number(q.groupNumber) === 2);
     if (!eligible) { assert(!readings[q.id]); continue; }
     count++;
     assert(readings[q.id], q.id);
@@ -38,4 +39,4 @@ for (const [word, expected] of [['10万', 'じゅうまん'], ['先々週', 'せ
 assert.equal(render('missing', '<script>', true, escape), '&lt;script&gt;');
 const id = Object.keys(readings)[0];
 assert.equal(render(id, 'changed <text>', true, escape), 'changed &lt;text&gt;');
-console.log(`PASS: ${count} grammar and reading questions, exact text preserved, full kanji coverage, visibility gate and escaping`);
+console.log(`PASS: ${count} vocabulary, grammar and reading questions, exact text preserved, full kanji coverage, visibility gate and escaping`);

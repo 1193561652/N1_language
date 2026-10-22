@@ -1,0 +1,840 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1792653894431-vttqtq",
+    "submittedAt": "2026-10-22T07:24:54.431Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "period",
+    "showFurigana": true,
+    "practice": null,
+    "year": "2019.07",
+    "category": "阅读",
+    "questionCount": 24,
+    "totalPoints": 24,
+    "total": 7,
+    "answered": 7,
+    "correct": 6,
+    "percentage": 86,
+    "durationSeconds": 6710,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.07-読解-8-46",
+        "number": 46,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": true,
+        "questionText": "想像力を鍛えることについて、筆者はどのように考えているか。",
+        "options": [
+          "経験からつくられた枠を捨てなければいけない。",
+          "経験からつくられた枠を意識しないことが大切だ。",
+          "経験からつくられた枠を取り除けることが大切だ。",
+          "経験を積み重ねて枠をより強いものにしなければいけない。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.07-読解-8-47",
+        "number": 47,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": true,
+        "questionText": "筆者の考えに合うのはどれか。",
+        "options": [
+          "世界各地にある近代的な住まいには、力強さと豊かさが感じられる。",
+          "その土地にもとからある住まいには、人間本来の欲求が表れている。",
+          "人間の根源的な欲求から生まれた住まいは、生活の多様さに対応できない。",
+          "生きること、住まうことへの欲求は、その土地の生活や気候風土に影響されない。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.07-読解-8-48",
+        "number": 48,
+        "selected": [
+          3
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": true,
+        "questionText": "この文章で筆者が言いたいことは何か。",
+        "options": [
+          "喜びを感じられても、社会とのつながりが感じられない働き方は見直すべきだ。",
+          "働く喜びを得るには、苦しさに立ち向かっていかなければならない。",
+          "苦しさを感じないで済むように、働き方の改善を求めていかなければならない。",
+          "苦しさを受け止めつつ、喜びが感じられるような働き方を目指すべきだ。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.07-読解-8-49",
+        "number": 49,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": true,
+        "questionText": "情報化社会におけるブランドについて、筆者はどのように述べているか。",
+        "options": [
+          "買い手の購買意欲を高めるきっかけになっている。",
+          "買い手の商品選択におけるジレンマを増大させている。",
+          "買い手が商品を選択する際の判断材料になっている。",
+          "企業や商品の情報が買い手に誤って伝わるリスクを軽減している。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.07-読解-9-50",
+        "number": 50,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": true,
+        "questionText": "【無理があるよう】に思うのはなぜか。",
+        "options": [
+          "クマの餌になる種子は一種類だけではないから",
+          "クマの餌になる種子の種類が変化しているから",
+          "クマの餌になる種子の凶作はこれまでもあったから",
+          "クマの餌になる種子の凶作は昔のほうが深刻だったから"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.07-読解-9-51",
+        "number": 51,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": true,
+        "questionText": "筆者によると、クマが山から降りてくるのはなぜか。",
+        "options": [
+          "人里にも奥山と同じような餌があるから",
+          "人里のほうが好みの餌が容易に得られるから",
+          "人里でしか餌を得られなくなったから",
+          "人里ではクマ同士の力関係にかかわらず餌を得られるから"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.07-読解-9-52",
+        "number": 52,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": true,
+        "questionText": "筆者の考えに合うのはどれか。",
+        "options": [
+          "野生動物の力関係は、栄養状態によって決まる。",
+          "野生動物の行動の変化は、人間の行為に原因がある。",
+          "野生動物の生態が変化したのは、人間が生活環境を脅かしたためだ。",
+          "野生動物と人間が共存していくには、ゴミの増加を抑える必要がある。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.07-読解-9-53",
+        "number": 53,
+        "selected": [
+          null
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "筆者によると、歴史を研究する人はまずどうすべきか。",
+        "options": [
+          "過去は一部しか把握できないと自覚しなければならない。",
+          "過去の一面ではなく、全体を再現しようとしなければならない。",
+          "過去を生きた人たちの気持ちは理解できないと自覚しなければならない。",
+          "記憶や資料をもとに、過去を正確に再現しようとしなければならない。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.07-読解-9-54",
+        "number": 54,
+        "selected": [
+          null
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【そうした手続きを踏む】とはどうすることか。",
+        "options": [
+          "文字表象や物体の分析をして、問題を解決する。",
+          "価値のある史資料に多く接して、新たな問題を見つける。",
+          "人々が関心をもつ問題を理解し、それに応じた史資料を探す。",
+          "興味を抱いた問題について問いかけ、文字表象や物体を見る。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.07-読解-9-55",
+        "number": 55,
+        "selected": [
+          null
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "歴史像について、筆者の考えに合うのはどれか。",
+        "options": [
+          "再構築を繰り返すことで明らかになる。",
+          "現在を生きる者による解釈が実態に最も近い。",
+          "様々な解釈によって実態に近づくことができる。",
+          "異なる解釈によって再構築される可能性がある。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.07-読解-9-56",
+        "number": 56,
+        "selected": [
+          null
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "近代的な社会革命はどのような社会をめざしたか。",
+        "options": [
+          "個人の出自の違いが存在しない社会",
+          "受けた教育によって人生が決まる社会",
+          "誰でも平等な生活が送れる社会",
+          "誰にでも可能性が平等に与えられる社会"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.07-読解-9-57",
+        "number": 57,
+        "selected": [
+          null
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【自分が「やりたい」ことをみずからに問わざるをえない】のは、なぜか。",
+        "options": [
+          "ひとに決められたことの中には自分の「やりたい」ことがないから",
+          "自分が「やりたい」ことでなければ、実現しても意味がないから",
+          "自分の存在価値は自分で明らかにしなければならないから",
+          "自分の存在価値は自分ができることの中から探すしかないから"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.07-読解-10-58",
+        "number": 58,
+        "selected": [
+          null
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【①大きな問題】とはどのような問題か。",
+        "options": [
+          "特定の生物種だけが影響を受けるような環境変化を起こしていること",
+          "大きな環境変化を起こして、多くの生物種を絶滅させてしまったこと",
+          "急速な環境変化を起こして、多くの生物種を絶滅させかねないこと",
+          "影響が広範囲に及ぶような大きな環境変化を起こしたこと"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.07-読解-10-59",
+        "number": 59,
+        "selected": [
+          null
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【②このこと】とは何か。",
+        "options": [
+          "多くの生物が滅びる事態が起きても、耐えうる生物種がいたこと",
+          "どんな生物にも新たな環境に適応する力があったこと",
+          "生態系が乱れた結果、個々の生物がさらに強くなったこと",
+          "生態系が壊れても、すぐに元のように修復されたこと"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.07-読解-10-60",
+        "number": 60,
+        "selected": [
+          null
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "人類が滅びた場合の生態系について、筆者はどのように考えているか。",
+        "options": [
+          "環境を自ら変えることで生き残る生物種が現れる。",
+          "人類が繁栄していた以前の生態系に戻る。",
+          "新たな環境変化が起きず安定する。",
+          "新たに繁栄する生物種が現れる。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.07-読解-10-61",
+        "number": 61,
+        "selected": [
+          null
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "生態系について、筆者の考えに合うのはどれか。",
+        "options": [
+          "人間中心の見方とは別の視点で評価することもできる。",
+          "人間以外を基準にして議論するべきである。",
+          "生態系の善し悪しは環境を基準にして考えるベきである。",
+          "生態系の評価は時代とともに変わっていくものだ。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.07-読解-11-62",
+        "number": 62,
+        "selected": [
+          null
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "「決める力」のある人について、AとBはどのように述べているか。",
+        "options": [
+          "AもBも、時間を十分にかけて慎重に判断すると述べている。",
+          "AもBも、どのような場面でも失敗を恐れないと述べている。",
+          "Aは迷いすぎることなく適切に判断できると述べ、Bは素早く決断できると述べている。",
+          "Aは決断が早すぎたり遅すぎたりしないと述べ、Bはリスクを回避することができると述べている。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.07-読解-11-63",
+        "number": 63,
+        "selected": [
+          null
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "「決める力」のある人になるために必要なことについて、AとBの認識で共通していることは何か。",
+        "options": [
+          "他人の意見に惑わされてはいけない。",
+          "複数の視点から問題を検討することが大切だ。",
+          "いつも最善の結果を得ようとするべきではない。",
+          "情報を頼りにせず、自身の意見に自信を持つベきだ。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.07-読解-12-64",
+        "number": 64,
+        "selected": [
+          null
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【①あの自由】とはどのような状態か。",
+        "options": [
+          "現実世界と想像の世界が混じり合った状態",
+          "独りの時間が十分にある状態",
+          "自由に時間が使えるような暇な状態",
+          "夢中になって時間を忘れるような状態"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.07-読解-12-65",
+        "number": 65,
+        "selected": [
+          null
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【②かわいそうな子どもたち】とあるが、何がかわいそうなのか。",
+        "options": [
+          "ひとりぼっちを怖がっていること",
+          "自由を求めようとは思っていないこと",
+          "人とつながっていても自由だと思っていること",
+          "孤独になることは恐ろしいと教えられてきたこと"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.07-読解-12-66",
+        "number": 66,
+        "selected": [
+          null
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【③偉大な作品】について、筆者が述べていることに合うのはどれか。",
+        "options": [
+          "孤独になれば、人と違う発想が生まれる。",
+          "孤独な状態がなければ、偉大な作品は生まれない。",
+          "孤独な者でなければ、偉大な作品に共感できない。",
+          "孤独な時間が多ければ、偉大な作品を生むことができる。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.07-読解-12-67",
+        "number": 67,
+        "selected": [
+          null
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "筆者が言いたいことは何か。",
+        "options": [
+          "創造的な時間の使い方を知るには孤独になるべきだ。",
+          "孤独は創造力を生み出すための貴い機会だ。",
+          "孤独になることで、人とのつながりのよさがわかる。",
+          "孤独のよくないイメージを消し、自由との違いを認識すべきだ。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.07-読解-13-68",
+        "number": 68,
+        "selected": [
+          null
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "ロンさんは、市内建築めぐり「江戸時代の建築」に参加したいと思っている。ロンさんが留意しなければならないことはどれか。",
+        "options": [
+          "開催日当日は、自身で直接見学先に向かわなければならない。",
+          "特別展の解説も聞きたい場合、開催日の前日までに連絡する必要がある。",
+          "受け付けは先着順のため、できるだけ早く申し込まなければならない。",
+          "参加が決まったら、開催日の1週間前までに参加費を支払う必要がある。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.07-読解-13-69",
+        "number": 69,
+        "selected": [
+          null
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "アグネスさんは7月の特別講座「白船山遣跡発掘の歴史」の再募集に申し込もうと考えている。7月27日の回を希望しているが、どのように申し込まなければならないか。また、受講できることになった場合、受講料の支払いはどうすればよいか。",
+        "options": [
+          "7月24日までに電話で申し込み、当日1，000円を会場で支払う。",
+          "7月24日までに電話で申し込み、当日1，800円を会場で支払う。",
+          "7月27日までに電話で申し込み、当日1，000円を会場で支払う。",
+          "7月27日までに電話で申し込み、当日1，800円を会場で支払う。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}

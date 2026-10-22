@@ -1,0 +1,2195 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1792640576179-kicq38",
+    "submittedAt": "2026-10-22T03:42:56.179Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": true,
+    "practice": {
+      "filters": {
+        "subject": "文字・词汇",
+        "problem": "2",
+        "tags": [
+          "language.q2.kanji"
+        ]
+      },
+      "requestedCount": 50,
+      "questionIds": [
+        "sbry-n1-2012.07-文字・語彙-2-8",
+        "sbry-n1-2021.07-文字・語彙-2-10",
+        "markdown-2025.12-language-7",
+        "jlpt4you-2024.07-vocabulary-2-5",
+        "sbry-n1-2015.12-文字・語彙-2-12",
+        "jlpt4you-2024.07-vocabulary-2-4",
+        "sbry-n1-2010.07-文字・語彙-2-10",
+        "sbry-n1-2022.12-文字・語彙-2-7",
+        "sbry-n1-2022.12-文字・語彙-2-10",
+        "sbry-n1-2012.07-文字・語彙-2-10",
+        "sbry-n1-2014.12-文字・語彙-2-12",
+        "sbry-n1-2015.12-文字・語彙-2-7",
+        "sbry-n1-2022.07-文字・語彙-2-7",
+        "sbry-n1-2013.07-文字・語彙-2-8",
+        "sbry-n1-2018.12-文字・語彙-2-9",
+        "sbry-n1-2018.07-文字・語彙-2-7",
+        "markdown-2025.07-language-8",
+        "sbry-n1-2012.07-文字・語彙-2-12",
+        "jlpt4you-2024.12-vocabulary-2-1",
+        "sbry-n1-2017.07-文字・語彙-2-10",
+        "sbry-n1-2014.07-文字・語彙-2-9",
+        "sbry-n1-2016.07-文字・語彙-2-7",
+        "sbry-n1-2014.07-文字・語彙-2-12",
+        "sbry-n1-2015.07-文字・語彙-2-12",
+        "sbry-n1-2018.12-文字・語彙-2-7",
+        "jlpt4you-2023.07-vocabulary-2-5",
+        "sbry-n1-2018.12-文字・語彙-2-12",
+        "sbry-n1-2021.07-文字・語彙-2-8",
+        "jlpt4you-2023.07-vocabulary-2-1",
+        "sbry-n1-2016.12-文字・語彙-2-10",
+        "sbry-n1-2021.07-文字・語彙-2-11",
+        "sbry-n1-2011.12-文字・語彙-2-12",
+        "sbry-n1-2010.07-文字・語彙-2-7",
+        "sbry-n1-2016.12-文字・語彙-2-7",
+        "sbry-n1-2018.07-文字・語彙-2-9",
+        "sbry-n1-2021.12-文字・語彙-2-9",
+        "jlpt4you-2024.12-vocabulary-2-6",
+        "sbry-n1-2012.12-文字・語彙-2-10",
+        "jlpt4you-2023.12-vocabulary-2-5",
+        "sbry-n1-2019.12-文字・語彙-2-10",
+        "sbry-n1-2014.07-文字・語彙-2-7",
+        "sbry-n1-2011.07-文字・語彙-2-10",
+        "sbry-n1-2020.12-文字・語彙-2-8",
+        "sbry-n1-2021.12-文字・語彙-2-11",
+        "sbry-n1-2017.07-文字・語彙-2-7",
+        "sbry-n1-2012.12-文字・語彙-2-9",
+        "sbry-n1-2010.12-文字・語彙-2-12",
+        "jlpt4you-2023.12-vocabulary-2-4",
+        "sbry-n1-2010.07-文字・語彙-2-13",
+        "sbry-n1-2020.12-文字・語彙-2-11"
+      ],
+      "shuffleOptions": true,
+      "optionOrders": {
+        "sbry-n1-2012.07-文字・語彙-2-8": [
+          2,
+          4,
+          1,
+          3
+        ],
+        "sbry-n1-2021.07-文字・語彙-2-10": [
+          3,
+          2,
+          1,
+          4
+        ],
+        "markdown-2025.12-language-7": [
+          2,
+          4,
+          3,
+          1
+        ],
+        "jlpt4you-2024.07-vocabulary-2-5": [
+          3,
+          1,
+          4,
+          2
+        ],
+        "sbry-n1-2015.12-文字・語彙-2-12": [
+          3,
+          2,
+          1,
+          4
+        ],
+        "jlpt4you-2024.07-vocabulary-2-4": [
+          2,
+          1,
+          4,
+          3
+        ],
+        "sbry-n1-2010.07-文字・語彙-2-10": [
+          2,
+          3,
+          1,
+          4
+        ],
+        "sbry-n1-2022.12-文字・語彙-2-7": [
+          2,
+          1,
+          3,
+          4
+        ],
+        "sbry-n1-2022.12-文字・語彙-2-10": [
+          1,
+          3,
+          2,
+          4
+        ],
+        "sbry-n1-2012.07-文字・語彙-2-10": [
+          1,
+          3,
+          2,
+          4
+        ],
+        "sbry-n1-2014.12-文字・語彙-2-12": [
+          4,
+          1,
+          3,
+          2
+        ],
+        "sbry-n1-2015.12-文字・語彙-2-7": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "sbry-n1-2022.07-文字・語彙-2-7": [
+          4,
+          2,
+          3,
+          1
+        ],
+        "sbry-n1-2013.07-文字・語彙-2-8": [
+          3,
+          4,
+          2,
+          1
+        ],
+        "sbry-n1-2018.12-文字・語彙-2-9": [
+          2,
+          3,
+          1,
+          4
+        ],
+        "sbry-n1-2018.07-文字・語彙-2-7": [
+          1,
+          3,
+          2,
+          4
+        ],
+        "markdown-2025.07-language-8": [
+          2,
+          3,
+          1,
+          4
+        ],
+        "sbry-n1-2012.07-文字・語彙-2-12": [
+          3,
+          4,
+          1,
+          2
+        ],
+        "jlpt4you-2024.12-vocabulary-2-1": [
+          2,
+          4,
+          3,
+          1
+        ],
+        "sbry-n1-2017.07-文字・語彙-2-10": [
+          3,
+          2,
+          4,
+          1
+        ],
+        "sbry-n1-2014.07-文字・語彙-2-9": [
+          2,
+          1,
+          4,
+          3
+        ],
+        "sbry-n1-2016.07-文字・語彙-2-7": [
+          1,
+          3,
+          4,
+          2
+        ],
+        "sbry-n1-2014.07-文字・語彙-2-12": [
+          4,
+          3,
+          2,
+          1
+        ],
+        "sbry-n1-2015.07-文字・語彙-2-12": [
+          3,
+          4,
+          1,
+          2
+        ],
+        "sbry-n1-2018.12-文字・語彙-2-7": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "jlpt4you-2023.07-vocabulary-2-5": [
+          2,
+          3,
+          4,
+          1
+        ],
+        "sbry-n1-2018.12-文字・語彙-2-12": [
+          2,
+          3,
+          4,
+          1
+        ],
+        "sbry-n1-2021.07-文字・語彙-2-8": [
+          2,
+          4,
+          1,
+          3
+        ],
+        "jlpt4you-2023.07-vocabulary-2-1": [
+          3,
+          1,
+          4,
+          2
+        ],
+        "sbry-n1-2016.12-文字・語彙-2-10": [
+          1,
+          3,
+          2,
+          4
+        ],
+        "sbry-n1-2021.07-文字・語彙-2-11": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "sbry-n1-2011.12-文字・語彙-2-12": [
+          1,
+          2,
+          4,
+          3
+        ],
+        "sbry-n1-2010.07-文字・語彙-2-7": [
+          4,
+          2,
+          1,
+          3
+        ],
+        "sbry-n1-2016.12-文字・語彙-2-7": [
+          4,
+          1,
+          2,
+          3
+        ],
+        "sbry-n1-2018.07-文字・語彙-2-9": [
+          3,
+          4,
+          2,
+          1
+        ],
+        "sbry-n1-2021.12-文字・語彙-2-9": [
+          2,
+          3,
+          1,
+          4
+        ],
+        "jlpt4you-2024.12-vocabulary-2-6": [
+          4,
+          1,
+          3,
+          2
+        ],
+        "sbry-n1-2012.12-文字・語彙-2-10": [
+          2,
+          1,
+          3,
+          4
+        ],
+        "jlpt4you-2023.12-vocabulary-2-5": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "sbry-n1-2019.12-文字・語彙-2-10": [
+          1,
+          3,
+          4,
+          2
+        ],
+        "sbry-n1-2014.07-文字・語彙-2-7": [
+          4,
+          2,
+          1,
+          3
+        ],
+        "sbry-n1-2011.07-文字・語彙-2-10": [
+          1,
+          4,
+          2,
+          3
+        ],
+        "sbry-n1-2020.12-文字・語彙-2-8": [
+          3,
+          1,
+          4,
+          2
+        ],
+        "sbry-n1-2021.12-文字・語彙-2-11": [
+          3,
+          1,
+          2,
+          4
+        ],
+        "sbry-n1-2017.07-文字・語彙-2-7": [
+          4,
+          2,
+          3,
+          1
+        ],
+        "sbry-n1-2012.12-文字・語彙-2-9": [
+          3,
+          4,
+          2,
+          1
+        ],
+        "sbry-n1-2010.12-文字・語彙-2-12": [
+          3,
+          1,
+          4,
+          2
+        ],
+        "jlpt4you-2023.12-vocabulary-2-4": [
+          2,
+          1,
+          4,
+          3
+        ],
+        "sbry-n1-2010.07-文字・語彙-2-13": [
+          4,
+          2,
+          3,
+          1
+        ],
+        "sbry-n1-2020.12-文字・語彙-2-11": [
+          4,
+          3,
+          2,
+          1
+        ]
+      },
+      "showFurigana": true
+    },
+    "year": "专项练习",
+    "category": "文字・词汇",
+    "questionCount": 50,
+    "totalPoints": 50,
+    "total": 50,
+    "answered": 50,
+    "correct": 39,
+    "percentage": 78,
+    "durationSeconds": 1213,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2012.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2012.07-文字・語彙-2-8",
+        "number": 8,
+        "selected": [
+          2
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "プランの()はすでに固まっています。",
+        "options": [
+          "大筋",
+          "大幅",
+          "大口",
+          "大台"
+        ],
+        "optionOrder": [
+          2,
+          4,
+          1,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2021.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2021.07-文字・語彙-2-10",
+        "number": 10,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "原油価格が高騰し、その()が世界中に広がっている。",
+        "options": [
+          "転移",
+          "投影",
+          "感染",
+          "余波"
+        ],
+        "optionOrder": [
+          3,
+          2,
+          1,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2025.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "markdown-2025.12-language-7",
+        "number": 7,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この学校では教育活動の(  )として、生徒に学校周辺のごみ拾いをさせている。",
+        "options": [
+          "一因",
+          "一環",
+          "部門",
+          "部下"
+        ],
+        "optionOrder": [
+          2,
+          4,
+          3,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2024.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "jlpt4you-2024.07-vocabulary-2-5",
+        "number": 11,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "トンネル工事が始まって 1. 年になるが、地盤の弱い箇所があり、工事は（ ）している。",
+        "options": [
+          "難航",
+          "低迷",
+          "衰退",
+          "脱落"
+        ],
+        "optionOrder": [
+          3,
+          1,
+          4,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2015.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2015.12-文字・語彙-2-12",
+        "number": 12,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この小説の主人公は、非常に感情の()が激しい人物だと思う。",
+        "options": [
+          "高低",
+          "出没",
+          "明暗",
+          "起伏"
+        ],
+        "optionOrder": [
+          3,
+          2,
+          1,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "jlpt4you-2024.07-vocabulary-2-4",
+        "number": 10,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "新しい生活への期待と不安が（ ）し、気持ちが落ち着かない。",
+        "options": [
+          "交錯",
+          "混合",
+          "連動",
+          "反発"
+        ],
+        "optionOrder": [
+          2,
+          1,
+          4,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2010.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2010.07-文字・語彙-2-10",
+        "number": 10,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "会議ではA案に賛成したが、()を言えばB案の方がいいと思う。",
+        "options": [
+          "本音",
+          "本気",
+          "弱音",
+          "弱気"
+        ],
+        "optionOrder": [
+          2,
+          3,
+          1,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2022.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2022.12-文字・語彙-2-7",
+        "number": 7,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "被害者について報道するときは、仮名を用いてプライバシーを()している。",
+        "options": [
+          "保護",
+          "防御",
+          "警備",
+          "支援"
+        ],
+        "optionOrder": [
+          2,
+          1,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2022.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2022.12-文字・語彙-2-10",
+        "number": 10,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "一生懸命働いて、ついに()のマイホームを手に入れた。",
+        "options": [
+          "志望",
+          "本意",
+          "欲求",
+          "念願"
+        ],
+        "optionOrder": [
+          1,
+          3,
+          2,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2012.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2012.07-文字・語彙-2-10",
+        "number": 10,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "システムトラブルの原因を徹底的に()し、再発防止に取り組みたい。",
+        "options": [
+          "究明",
+          "釈明",
+          "察知",
+          "探知"
+        ],
+        "optionOrder": [
+          1,
+          3,
+          2,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2014.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2014.12-文字・語彙-2-12",
+        "number": 12,
+        "selected": [
+          4
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この美しい映像は、コンピュータの最新技術を()して作られたものだ。",
+        "options": [
+          "駆使",
+          "引用",
+          "充当",
+          "摂取"
+        ],
+        "optionOrder": [
+          4,
+          1,
+          3,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2015.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2015.12-文字・語彙-2-7",
+        "number": 7,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "何度も交渉した末に、ようやく両社は()して、契約が成立した。",
+        "options": [
+          "合意",
+          "帰結",
+          "適用",
+          "順応"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2022.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji",
+          "language.q2.adjective.other"
+        ],
+        "id": "sbry-n1-2022.07-文字・語彙-2-7",
+        "number": 7,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "子どもたちは()なリズムに合わせ、手をたたいたり、踊ったりした。",
+        "options": [
+          "手軽",
+          "軽率",
+          "気軽",
+          "軽快"
+        ],
+        "optionOrder": [
+          4,
+          2,
+          3,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2013.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2013.07-文字・語彙-2-8",
+        "number": 8,
+        "selected": [
+          4
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この問題の最終的な対応は、社長に()することに決まった。",
+        "options": [
+          "依存",
+          "一任",
+          "従属",
+          "委託"
+        ],
+        "optionOrder": [
+          3,
+          4,
+          2,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2018.12-文字・語彙-2-9",
+        "number": 9,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "来春から始まる情報番組の司会に、若手のアナウンサーを()することが決まった。",
+        "options": [
+          "採取",
+          "引用",
+          "採択",
+          "起用"
+        ],
+        "optionOrder": [
+          2,
+          3,
+          1,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2018.07-文字・語彙-2-7",
+        "number": 7,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この商品は非常によく売れていて、どの店にも()がほとんどない状態だ。",
+        "options": [
+          "設置",
+          "残留",
+          "所持",
+          "在庫"
+        ],
+        "optionOrder": [
+          1,
+          3,
+          2,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2025.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "markdown-2025.07-language-8",
+        "number": 8,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "中山(なかやま)さんは(  )が器用で、子どもたちの洋服はすべて自分で作っているそうだ。",
+        "options": [
+          "手元",
+          "手芸",
+          "手先",
+          "手際"
+        ],
+        "optionOrder": [
+          2,
+          3,
+          1,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2012.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2012.07-文字・語彙-2-12",
+        "number": 12,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この業者は魚を缶詰に()し、それを海外に輸出している。",
+        "options": [
+          "変換",
+          "転換",
+          "細工",
+          "加工"
+        ],
+        "optionOrder": [
+          3,
+          4,
+          1,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "jlpt4you-2024.12-vocabulary-2-1",
+        "number": 7,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "その生物は、厳しい環境に（ ）できる能力を持っている。",
+        "options": [
+          "適応",
+          "合致",
+          "転換",
+          "推移"
+        ],
+        "optionOrder": [
+          2,
+          4,
+          3,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2017.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2017.07-文字・語彙-2-10",
+        "number": 10,
+        "selected": [
+          3
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "林選手は、3度目のオリンピック出場で、ついに()の金メダルを獲得した。",
+        "options": [
+          "意欲",
+          "志願",
+          "欲求",
+          "念願"
+        ],
+        "optionOrder": [
+          3,
+          2,
+          4,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2014.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji",
+          "language.q2.adjective.other"
+        ],
+        "id": "sbry-n1-2014.07-文字・語彙-2-9",
+        "number": 9,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この歌手は若者の間で()な人気を誇っている。",
+        "options": [
+          "絶大",
+          "膨大",
+          "偉大",
+          "強大"
+        ],
+        "optionOrder": [
+          2,
+          1,
+          4,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2016.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2016.07-文字・語彙-2-7",
+        "number": 7,
+        "selected": [
+          2
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "今回の事故から得た()をもとに、再発を防止するための対策を立てた。",
+        "options": [
+          "触発",
+          "啓発",
+          "教養",
+          "教訓"
+        ],
+        "optionOrder": [
+          1,
+          3,
+          4,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2014.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2014.07-文字・語彙-2-12",
+        "number": 12,
+        "selected": [
+          1
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "当選した林氏は取材に対して、今回の選挙は終盤まで()を許さない厳しい戦いだったと語った。",
+        "options": [
+          "予期",
+          "見通し",
+          "見込み",
+          "予断"
+        ],
+        "optionOrder": [
+          4,
+          3,
+          2,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2015.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2015.07-文字・語彙-2-12",
+        "number": 12,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "以下の条件に一つでも()する人は、必ず事務室に申し出てください。",
+        "options": [
+          "該当",
+          "順応",
+          "相当",
+          "適応"
+        ],
+        "optionOrder": [
+          3,
+          4,
+          1,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2018.12-文字・語彙-2-7",
+        "number": 7,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "マラソン大会が終わり、先ほど道路の交通規制が()されました。",
+        "options": [
+          "解除",
+          "解禁",
+          "廃止",
+          "停止"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "jlpt4you-2023.07-vocabulary-2-5",
+        "number": 11,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "大きな声で歌うと、ストレスの（ ）になって気分がすっきりする。",
+        "options": [
+          "発散",
+          "発射",
+          "流出",
+          "排出"
+        ],
+        "optionOrder": [
+          2,
+          3,
+          4,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji",
+          "language.q2.adjective.other"
+        ],
+        "id": "sbry-n1-2018.12-文字・語彙-2-12",
+        "number": 12,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "毎年8月の祭りは、県内外から集まった数千人が歌や踊りに参加し、()行われる。",
+        "options": [
+          "鮮烈に",
+          "絶大に",
+          "盛大に",
+          "熱烈に"
+        ],
+        "optionOrder": [
+          2,
+          3,
+          4,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2021.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji",
+          "language.q2.adjective.other"
+        ],
+        "id": "sbry-n1-2021.07-文字・語彙-2-8",
+        "number": 8,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この子は好奇心が()で、分からないことは何でも知りたがる。",
+        "options": [
+          "全盛",
+          "旺盛",
+          "盛況",
+          "盛大"
+        ],
+        "optionOrder": [
+          2,
+          4,
+          1,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2023.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "jlpt4you-2023.07-vocabulary-2-1",
+        "number": 7,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "今は両親と暮らしているが卒業して就職したら、家を出て（ ）したいと思っている。",
+        "options": [
+          "自制",
+          "自立",
+          "自重",
+          "自任"
+        ],
+        "optionOrder": [
+          3,
+          1,
+          4,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2016.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2016.12-文字・語彙-2-10",
+        "number": 10,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "市長の責任ある行動が住民の不安を()し、行政に対する期待が一気に高まった。",
+        "options": [
+          "一掃",
+          "追放",
+          "削除",
+          "排出"
+        ],
+        "optionOrder": [
+          1,
+          3,
+          2,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2021.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2021.07-文字・語彙-2-11",
+        "number": 11,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "()の利益ばかり考えないで、もっと長期的に物事を捉えなければならない。",
+        "options": [
+          "目先",
+          "手中",
+          "足場",
+          "背後"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2011.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2011.12-文字・語彙-2-12",
+        "number": 12,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この文章は新聞記事からの()です｡",
+        "options": [
+          "抽選",
+          "摘出",
+          "採取",
+          "抜粋"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          4,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2010.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2010.07-文字・語彙-2-7",
+        "number": 7,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この連載小説は全12話で()する。",
+        "options": [
+          "静止",
+          "成就",
+          "完結",
+          "終息"
+        ],
+        "optionOrder": [
+          4,
+          2,
+          1,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2016.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2016.12-文字・語彙-2-7",
+        "number": 7,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "私はこの土地で定職に就き、生活の()を築いた。",
+        "options": [
+          "根拠",
+          "基盤",
+          "根源",
+          "基地"
+        ],
+        "optionOrder": [
+          4,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2018.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji",
+          "language.q2.adjective.other"
+        ],
+        "id": "sbry-n1-2018.07-文字・語彙-2-9",
+        "number": 9,
+        "selected": [
+          3
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "不景気が続いても父の会社が倒産しなかったのは、設立以来、()経営を続けてきたおかげだ。",
+        "options": [
+          "切実な",
+          "堅実な",
+          "安泰な",
+          "安易な"
+        ],
+        "optionOrder": [
+          3,
+          4,
+          2,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2021.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2021.12-文字・語彙-2-9",
+        "number": 9,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この地方には、昔からお祝いのとき餅を食べる()がある。",
+        "options": [
+          "風土",
+          "風習",
+          "風物",
+          "風情"
+        ],
+        "optionOrder": [
+          2,
+          3,
+          1,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "jlpt4you-2024.12-vocabulary-2-6",
+        "number": 12,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "工場の誘致について、市長が丁寧に説明し、住民の不安の（ ）に努めた。",
+        "options": [
+          "払拭",
+          "喪失",
+          "破棄",
+          "排斥"
+        ],
+        "optionOrder": [
+          4,
+          1,
+          3,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2012.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2012.12-文字・語彙-2-10",
+        "number": 10,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この論文が今後の医学の発展に()するところは大きいだろう。",
+        "options": [
+          "寄与",
+          "普及",
+          "供与",
+          "波及"
+        ],
+        "optionOrder": [
+          2,
+          1,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "jlpt4you-2023.12-vocabulary-2-5",
+        "number": 11,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "飛行機やホテルの予約、関係者との日程調整など、出張の（ ）はすべて秘書に任せている。",
+        "options": [
+          "手配",
+          "始末",
+          "実施",
+          "整備"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2019.12-文字・語彙-2-10",
+        "number": 10,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "このグラフは10年間の市の人口の()を示したものです。",
+        "options": [
+          "推移",
+          "過程",
+          "転換",
+          "変容"
+        ],
+        "optionOrder": [
+          1,
+          3,
+          4,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2014.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2014.07-文字・語彙-2-7",
+        "number": 7,
+        "selected": [
+          2
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "雨の降らない日がこれ以上続けば、農業に影響するだけでなく、日常生活にも()を来すおそれがある。",
+        "options": [
+          "苦境",
+          "不況",
+          "支障",
+          "停滞"
+        ],
+        "optionOrder": [
+          4,
+          2,
+          1,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2011.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2011.07-文字・語彙-2-10",
+        "number": 10,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "その選手は、十年に一人の()だと言われている。",
+        "options": [
+          "玄人",
+          "大家",
+          "巨匠",
+          "逸材"
+        ],
+        "optionOrder": [
+          1,
+          4,
+          2,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2020.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2020.12-文字・語彙-2-8",
+        "number": 8,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "御社は新技術を導入することになった()についてお聞かせください。",
+        "options": [
+          "軌道",
+          "経緯",
+          "経路",
+          "軌跡"
+        ],
+        "optionOrder": [
+          3,
+          1,
+          4,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2021.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2021.12-文字・語彙-2-11",
+        "number": 11,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "彼はこの機械の開発者なので、仕組みを()しているはずだ。",
+        "options": [
+          "熟成",
+          "熟知",
+          "探索",
+          "探知"
+        ],
+        "optionOrder": [
+          3,
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2017.07-文字・語彙-2-7",
+        "number": 7,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この学校は教育の()として、職業体験活動を授業に取り入れている。",
+        "options": [
+          "一環",
+          "一体",
+          "内部",
+          "部門"
+        ],
+        "optionOrder": [
+          4,
+          2,
+          3,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2012.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2012.12-文字・語彙-2-9",
+        "number": 9,
+        "selected": [
+          3
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "このままでは交渉がまとまらないので、互いに()せざるをえない。",
+        "options": [
+          "同調",
+          "妥協",
+          "和解",
+          "融合"
+        ],
+        "optionOrder": [
+          3,
+          4,
+          2,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2010.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2010.12-文字・語彙-2-12",
+        "number": 12,
+        "selected": [
+          3
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "次の大会に向けて、チームの()を強めよう。",
+        "options": [
+          "収束",
+          "結束",
+          "親密",
+          "緊密"
+        ],
+        "optionOrder": [
+          3,
+          1,
+          4,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "jlpt4you-2023.12-vocabulary-2-4",
+        "number": 10,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "学内から選ばれた学生たちによって、代表チームが（ ）された。",
+        "options": [
+          "集約",
+          "結合",
+          "結成",
+          "採集"
+        ],
+        "optionOrder": [
+          2,
+          1,
+          4,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2010.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji",
+          "language.q2.adjective.other"
+        ],
+        "id": "sbry-n1-2010.07-文字・語彙-2-13",
+        "number": 13,
+        "selected": [
+          3
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "新しいビジネスを始めるにあたっては、()計画を立てる必要がある。",
+        "options": [
+          "零細な",
+          "綿密な",
+          "繊細な",
+          "濃密な"
+        ],
+        "optionOrder": [
+          4,
+          2,
+          3,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2020.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2020.12-文字・語彙-2-11",
+        "number": 11,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "住民からの要望で、空き地に放置されたごみの ()が行われた。",
+        "options": [
+          "消去",
+          "駆除",
+          "削除",
+          "撤去"
+        ],
+        "optionOrder": [
+          4,
+          3,
+          2,
+          1
+        ]
+      }
+    ]
+  }
+}

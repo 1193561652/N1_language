@@ -1,0 +1,840 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1792569899398-32sjv5",
+    "submittedAt": "2026-10-21T08:04:59.398Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "period",
+    "showFurigana": true,
+    "practice": null,
+    "year": "2019.12",
+    "category": "阅读",
+    "questionCount": 24,
+    "totalPoints": 24,
+    "total": 6,
+    "answered": 6,
+    "correct": 3,
+    "percentage": 50,
+    "durationSeconds": 7703,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.12-読解-8-46",
+        "number": 46,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": true,
+        "questionText": "「A42-C4」の再修理について、このお知らせで伝えたいことは何か。",
+        "options": [
+          "再修理の対象となる人はお客様センターに連絡してほしい。",
+          "該当する期間にホース修理をした人に、関連会社から連絡がある。",
+          "該当する期間にホース修理をして、その後不具合が生じた人は、お客様センターに連絡してほしい。",
+          "該当する期間以外にホース修理をした人に、関連会社から連絡がある。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.12-読解-8-47",
+        "number": 47,
+        "selected": [
+          1
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": true,
+        "questionText": "筆者が言いたいことは何か。",
+        "options": [
+          "目的を持っていては、豊かな人生が送れない。",
+          "目的を一つだけに限定しなければ、充実した人生になる。",
+          "目的の達成ばかりを考えていては、人生を十分に味わえない。",
+          "目的が達成できなくても、自然を感じて生きれば幸せな気持ちになる。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.12-読解-8-48",
+        "number": 48,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": true,
+        "questionText": "【仮面をつけた模倣】とは、どのようなものか。",
+        "options": [
+          "誰の真似もしていないように見える模倣",
+          "教師の真似をしているように見える模倣",
+          "自分の気持ちに反してする模倣",
+          "実体を見せないための模倣"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.12-読解-8-49",
+        "number": 49,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": true,
+        "questionText": "筆者によると、現代とはどういう時代か。",
+        "options": [
+          "人間は、「必要」な物は何でも「発明」できると錯覚している。",
+          "人間は物質的に豊かになったのに、新たな「発明」品を求め続けている。",
+          "「発明」された物によって、人間の精神が影響を受けている。",
+          "「発明」品は、人間の精神の飢えを満たすために改良され続けている。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.12-読解-9-50",
+        "number": 50,
+        "selected": [
+          2
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": true,
+        "questionText": "筆者によると、書くとはどういうことか。",
+        "options": [
+          "直感や思いつきを頭に浮かんだ順に並べていくこと",
+          "ばらばらな断片を直感に基づいてつないでいくこと",
+          "頭に浮かんだ断片を筋道を立ててつないでいくこと",
+          "論理的に考えたことをスムーズな流れに並べていくこと"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.12-読解-9-51",
+        "number": 51,
+        "selected": [
+          2
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": true,
+        "questionText": "【不思議だ】とあるが、なぜか。",
+        "options": [
+          "考えていたことが書けていなくても、書けたように思えてくるから",
+          "書くことに集中しすぎないほうが、うまく書けたと思えてくるから",
+          "書き足しているうちに、自分の考えがより深まったと思えてくるから",
+          "書き上げたものが、初めから考えていたことであるかのように思えるから"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.12-読解-9-52",
+        "number": 52,
+        "selected": [
+          null
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "筆者の考えに合うのはどれか。",
+        "options": [
+          "言葉にすることで、自分の「考え」が出来上がる。",
+          "言葉が作り出す「考え」は自分の「考え」ではない。",
+          "「考え」が存在して初めて、書き進められる。",
+          "意識によって「考え」を言葉にすることができる。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.12-読解-9-53",
+        "number": 53,
+        "selected": [
+          null
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "カエルが寄生虫に感染して発病する割合が低いのは、どのような場合か。",
+        "options": [
+          "1種類の寄生虫しかいない。",
+          "1種類のカエルしかいない。",
+          "数種類の寄生虫が共存する。",
+          "数種類のカエルが共存する。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.12-読解-9-54",
+        "number": 54,
+        "selected": [
+          null
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【種のレベルを超えた協力】とはどのようなものか。",
+        "options": [
+          "他の種に自分の種の病気を広めない。",
+          "他の種とともに、ある特定の1種類を滅ぼす。",
+          "自分の種の存続より他の種の存続を優先させる。",
+          "多少の犠牲を払っても、他の種の存続を助ける。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.12-読解-9-55",
+        "number": 55,
+        "selected": [
+          null
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "寄生虫について、筆者はどのように述べているか。",
+        "options": [
+          "感染するカエルが1種類だけだと、寄生虫自身も絶滅してしまう。",
+          "感染するカエルが1種類だけだと、長期的に寄生虫の増殖率が高まる。",
+          "感染するカエルが多種類だと、寄生虫自身も絶滅してしまう。",
+          "感染するカエルが多種類だと、一時的に寄生虫の増殖率が高まる。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.12-読解-9-56",
+        "number": 56,
+        "selected": [
+          null
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【これ】とは何か。",
+        "options": [
+          "職人の経験や勘、心を「見える化」すると、変形してしまうこと",
+          "職人の経験や勘、心を「見える化」する技術がまだないこと",
+          "「見える化」されたものには、職人の経験や勘、心は含まれないこと",
+          "「見える化」されるには、職人の経験や勘が必要であること"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.12-読解-9-57",
+        "number": 57,
+        "selected": [
+          null
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "筆者によると、新しい技術を生み出すのに必要なことは何か。",
+        "options": [
+          "できるだけ多くのプロセスを手作業で行うこと",
+          "優れた職人の技を「見える化」すること",
+          "職人が「見える化」に取り組むこと",
+          "手と頭を使って作業をすること"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.12-読解-10-58",
+        "number": 58,
+        "selected": [
+          null
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "脳科学について、筆者はどのようにとらえているか。",
+        "options": [
+          "他の学問より早いスピードで進歩している。",
+          "人々の脳機能を高めることに貢献している。",
+          "身近な疑問を扱っており、多くの人々に理解されている。",
+          "脳の働きが理解されないまま、人々の興味だけが先行している。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.12-読解-10-59",
+        "number": 59,
+        "selected": [
+          null
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【そういう色気】とは、どのようなことか。",
+        "options": [
+          "科学者が科学本来の面白さを前面に出そうとすること",
+          "科学者が事実を実際より面白くして伝えようとすること",
+          "科学者が一般の人々に分かりやすく科学を説明しようとすること",
+          "科学者が新聞に掲載されるような興味深い研究をしようとすること"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.12-読解-10-60",
+        "number": 60,
+        "selected": [
+          null
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "現代のメディアと脳科学の現場との関係はどのようになっているか。",
+        "options": [
+          "メディアが、研究内容に介入するようになってきている。",
+          "メディアの過剰な要求のため、研究の現場に負担がかかっている。",
+          "脳科学に関する情報提供の機会が、メディアに奪われている。",
+          "脳科学本来の面白さが、メディアに取り上げられなくなっている。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.12-読解-10-61",
+        "number": 61,
+        "selected": [
+          null
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "筆者によると、昨今のメディアとの関わりにおいて、科学者はどうあるべきか。",
+        "options": [
+          "メディアを自身の研究のために活用するべきだ。",
+          "メディアを通じて研究の現場から情報を発信するべきだ。",
+          "メディアへの対応よりも、研究を優先するべきだ。",
+          "メディアの要求には対応せず、研究の現場を大切にするべきだ。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.12-読解-11-62",
+        "number": 62,
+        "selected": [
+          null
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "部下を褒めすぎることの問題点として、AとBが共通して述べていることは何か。",
+        "options": [
+          "部下同士の人間関係が悪くなること",
+          "部下が上司に不信感を持ち、やる気をなくすこと",
+          "部下が褒められるために仕事をするようになること",
+          "部下が仕事で成果を上げることだけを目標にすること"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.12-読解-11-63",
+        "number": 63,
+        "selected": [
+          null
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "部下への接し方について、AとBはどのように述べているか。",
+        "options": [
+          "Aは状況に応じて褒めたり叱ったりすることが必要だと述べ、Bは良い点をすぐに褒めることが大切だと述べている。",
+          "Aは叱った後には褒めるようにしたほうがいいと述べ、Bは適切なタイミングで褒めることが大切だと述べている。",
+          "Aはできるだけ叱るのをやめるべきだと述べ、Bは良いと思った点を率直に表現したほうがいいと述べている。",
+          "Aは分かりやすい言葉で褒めることが大切だと述べ、Bは仕事の過程の中で良かった点を褒めたほうがいいと述べている。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.12-読解-12-64",
+        "number": 64,
+        "selected": [
+          null
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【とんでもない発明だと思う】のは、なぜか。",
+        "options": [
+          "人間の脳の対応力を徐々に変えてきたから",
+          "人間に抽象的な思考を強いるようになったから",
+          "多様な人生観や人間性を生み出してきたから",
+          "生活から考え方まで人間のあり方を変えてきたから"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.12-読解-12-65",
+        "number": 65,
+        "selected": [
+          null
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "狩猟採集生活をしていた頃のヒトの欲望について、筆者はどのように述べているか。",
+        "options": [
+          "自分たちの日常しか知らなかったから、欲望は限られていた。",
+          "自らの経験から欲望には限りがないことを知っていた。",
+          "多くの欲望を持っていたが、それを満たす手段は限られていた。",
+          "生きることが最優先だったから、欲望を持つ余裕がなかった。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.12-読解-12-66",
+        "number": 66,
+        "selected": [
+          null
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "筆者によると、ヒトは貨幣を手に入れてどうなったか。",
+        "options": [
+          "人間関係に関心がなくなった。",
+          "貨幣自体が欲望の対象になった。",
+          "特定の物に対する欲望が強くなった。",
+          "何が本当に欲しいのか分からなくなった。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.12-読解-12-67",
+        "number": 67,
+        "selected": [
+          null
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "筆者が最も言いたいことは何か。",
+        "options": [
+          "貨幣を得ることだけが働く意味ではないと自覚することが必要だ。",
+          "貨幣があることによって共同という感覚が必要ではなくなっている。",
+          "貨幣によって失われている共同という感覚を忘れてはいけない。",
+          "貨幣には人間関係を壊すという負の面もあることを忘れてはいけない。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.12-読解-13-68",
+        "number": 68,
+        "selected": [
+          null
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この助成制度への応募に関して、留意しなければならないことはどれか。",
+        "options": [
+          "この助成金の交付を過去に一度も受けていない団体である必要がある。",
+          "助成を受ける事業は決められた期間内に実施しなければならない。",
+          "合計を30万円以内にすれば、複数の事業について応募できる。",
+          "団体によるプレゼンテーションを1次選考の際に行わなければならない。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2019.12-読解-13-69",
+        "number": 69,
+        "selected": [
+          null
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "ソンさんは十条市民による国際交流クラブの代表で、この助成制度に応募することにした。参加必須のもの以外は出るつもりはない。12月10日の説明会に参加できない場合、ソンさんの応募方法として合っているのはどれか。",
+        "options": [
+          "12月19日の説明会に参加し、提出書類を応募期間内にファクスで送る。",
+          "12月19日の説明会に参加し、提出書類を応募期間内に着くように郵送する。",
+          "12月19日の説明会と個別相談会に参加し、提出書類を応募期間内にメールで送る。",
+          "12月19日の説明会と個別相談会に参加し、提出書類を応募期間内に窓口に提出する。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}

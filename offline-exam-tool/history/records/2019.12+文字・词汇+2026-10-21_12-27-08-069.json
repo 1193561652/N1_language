@@ -1,0 +1,934 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1792556828069-cj8m21",
+    "submittedAt": "2026-10-21T04:27:08.069Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "period",
+    "showFurigana": false,
+    "practice": null,
+    "year": "2019.12",
+    "category": "文字・词汇",
+    "questionCount": 25,
+    "totalPoints": 25,
+    "total": 25,
+    "answered": 25,
+    "correct": 22,
+    "percentage": 88,
+    "durationSeconds": 333,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2019.12-文字・語彙-1-1",
+        "number": 1,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "彼はその話を【披露】するチャンスをうかがっていたようだ。",
+        "options": [
+          "ひろ",
+          "ひろう",
+          "ばくろう",
+          "ばくろ"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2019.12-文字・語彙-1-2",
+        "number": 2,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "力を入れたら【砕けて】しまった。",
+        "options": [
+          "くだけて",
+          "かけて",
+          "はじけて",
+          "さけて"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2019.12-文字・語彙-1-3",
+        "number": 3,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "年を取って、物に【執着】する気持ちが少なくなった。",
+        "options": [
+          "しゅちゃく",
+          "しちゃく",
+          "しっちゃく",
+          "しゅうちゃく"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2019.12-文字・語彙-1-4",
+        "number": 4,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【債務】の状況を確かめる",
+        "options": [
+          "さいむ",
+          "ざいむ",
+          "せきむ",
+          "ぜきむ"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2019.12-文字・語彙-1-5",
+        "number": 5,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "鈴木氏の研究は物理学の発展に大いに【貢献】した。",
+        "options": [
+          "こうかん",
+          "こうけん",
+          "こかん",
+          "こけん"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.adjective.i"
+        ],
+        "id": "sbry-n1-2019.12-文字・語彙-1-6",
+        "number": 6,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "昨日の彼の態度は、実に【潔い】ものだった。",
+        "options": [
+          "きよい",
+          "とうとい",
+          "いさぎよい",
+          "こころよい"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2019.12-文字・語彙-2-7",
+        "number": 7,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "森選手は記者会見で今シーズン限りで引退することを()した。",
+        "options": [
+          "証言",
+          "開示",
+          "供述",
+          "表明"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji",
+          "language.q2.adjective.other"
+        ],
+        "id": "sbry-n1-2019.12-文字・語彙-2-8",
+        "number": 8,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "政治家の高木氏は、全国各地を飛び回って()講演を行い、政策の支持を呼び掛けた。",
+        "options": [
+          "圧倒的に",
+          "精力的に",
+          "急進的に",
+          "普遍的に"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.adjective.other"
+        ],
+        "id": "sbry-n1-2019.12-文字・語彙-2-9",
+        "number": 9,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "友人に預けてきたぺットのことが()で、旅行はあまり楽しめなかった。",
+        "options": [
+          "手つかず",
+          "臆病",
+          "気がかり",
+          "迷惑"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2019.12-文字・語彙-2-10",
+        "number": 10,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "このグラフは10年間の市の人口の()を示したものです。",
+        "options": [
+          "推移",
+          "過程",
+          "転換",
+          "変容"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.verb.simple"
+        ],
+        "id": "sbry-n1-2019.12-文字・語彙-2-11",
+        "number": 11,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "予算が減らされたことにより、その事業は継続が()いる。",
+        "options": [
+          "損なわれて",
+          "恐れられて",
+          "崩されて",
+          "危ぶまれて"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.mimetic"
+        ],
+        "id": "sbry-n1-2019.12-文字・語彙-2-12",
+        "number": 12,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この箱の中には本が詰まっていて、()重い。",
+        "options": [
+          "ぐらぐらと",
+          "どんよりと",
+          "ずっしりと",
+          "じめじめと"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2019.12-文字・語彙-2-13",
+        "number": 13,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "二つの商品を並べると、それらの違いは()としていて、片方は偽物だとすぐに分かる。",
+        "options": [
+          "歴然",
+          "整然",
+          "続々",
+          "堂々"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q3.kanji",
+          "language.q3.adjective.other"
+        ],
+        "id": "sbry-n1-2019.12-文字・語彙-3-14",
+        "number": 14,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "新人でいきなり主役に選ばれるのは【異例】のことだよ。",
+        "options": [
+          "珍しい",
+          "めでたい",
+          "立派な",
+          "幸運な"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q3.verb.compound"
+        ],
+        "id": "sbry-n1-2019.12-文字・語彙-3-15",
+        "number": 15,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "木村さんは新しい薬を開発するための実験に【打ち込んだ】。",
+        "options": [
+          "失敗した",
+          "苦労した",
+          "協力した",
+          "熱中した"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q3.katakana",
+          "language.q3.adjective.other"
+        ],
+        "id": "sbry-n1-2019.12-文字・語彙-3-16",
+        "number": 16,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "池田さんはお金に関して【ルーズ】な人だ。",
+        "options": [
+          "けちな",
+          "だらしない",
+          "無関心な",
+          "厳しい"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q3.adverb"
+        ],
+        "id": "sbry-n1-2019.12-文字・語彙-3-17",
+        "number": 17,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "祖父は学生時代に体験した不思議な出来事を【つぶさに】語って聞かせてくれた。",
+        "options": [
+          "のんびりと",
+          "繰り返し",
+          "詳細に",
+          "懐かしそうに"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q3.kanji"
+        ],
+        "id": "sbry-n1-2019.12-文字・語彙-3-18",
+        "number": 18,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "高橋さんの話は【脈絡】がない。",
+        "options": [
+          "うそ",
+          "終わり",
+          "面白み",
+          "つながり"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q3.kanji"
+        ],
+        "id": "sbry-n1-2019.12-文字・語彙-3-19",
+        "number": 19,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "次の会議で新しいプロジェクトについて【吟味】することになっている。",
+        "options": [
+          "決定",
+          "提案",
+          "検討",
+          "報告"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q4.sense",
+          "language.q4.boundary"
+        ],
+        "id": "sbry-n1-2019.12-文字・語彙-4-20",
+        "number": 20,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "要望",
+        "options": [
+          "宇宙飛行士になるという子どものころからの【要望】がついに実現した。",
+          "市民の【要望】で、交通量の多い道に新たに道路標識が設置された。",
+          "必要な書類をすべて窓口に出せば、パスポートの【要望】ができる。",
+          "進学か就職か迷っていたが、両親と相談し、担当の先生に進学の【要望】を出した。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q4.object",
+          "language.q4.collocation",
+          "language.q4.boundary"
+        ],
+        "id": "sbry-n1-2019.12-文字・語彙-4-21",
+        "number": 21,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "覆す",
+        "options": [
+          "どんなに若いころに戻りたくても、年齢を【覆す】ことはできない。",
+          "予定を【覆し】てもいいなら、先に買い物に行きましょう。",
+          "記入後はアンケート用紙を【覆し】て、裏面を上にして置いてください。",
+          "これまでの定説を【覆す】ような新しい研究結果が発表された。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q4.object",
+          "language.q4.boundary"
+        ],
+        "id": "sbry-n1-2019.12-文字・語彙-4-22",
+        "number": 22,
+        "selected": [
+          2
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "繁盛",
+        "options": [
+          "駅前のスーパーは安いと評判で、とても【繁盛】している。",
+          "都心に向かう道路は通勤ラッシュの車で【繁盛】し、なかなか前に進まない。",
+          "久しぶりの同窓会は、歌やおしゃべりで大いに【繁盛】した。",
+          "この国の経済は10年の間に急速に【繁盛】してきた。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q4.object",
+          "language.q4.boundary"
+        ],
+        "id": "sbry-n1-2019.12-文字・語彙-4-23",
+        "number": 23,
+        "selected": [
+          1
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "くじける",
+        "options": [
+          "年を取っても体力が【くじけない】よう、毎日運動している。",
+          "庭の草花が暑さで【くじけない】よう、一日に何度も水をやっている。",
+          "失敗して【くじけそう】になった時、親友が励ましてくれた。",
+          "今は晴れているが、午後は天気が【くじけそう】だから、傘を持っていこう。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q4.object",
+          "language.q4.evaluation"
+        ],
+        "id": "sbry-n1-2019.12-文字・語彙-4-24",
+        "number": 24,
+        "selected": [
+          1
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "ひたむき",
+        "options": [
+          "科学技術の【ひたむき】な進歩のおかげで、我々の生活は便利になった。",
+          "この時計は百年もの間、この家で【ひたむき】に時を刻んできた。",
+          "早朝から雪が【ひたむき】に積もり、すでに1メートル以上になっている。",
+          "転んでもゴールに向かって走り続ける少女の【ひたむき】な姿に感動した。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q4.object",
+          "language.q4.boundary"
+        ],
+        "id": "sbry-n1-2019.12-文字・語彙-4-25",
+        "number": 25,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "互角",
+        "options": [
+          "今回のプロジェクトで得た利益は、メンバー全員で【互角】に分配した。",
+          "決勝に残った選手たちの実力は【互角】だから、誰が優勝するか分からない。",
+          "いつも出張で使うホテルが満室だったので、【互角】の料金のところを見つけた。",
+          "エアコンが壊れているみたいで、室温が外の気温と【互角】になってしまった。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}

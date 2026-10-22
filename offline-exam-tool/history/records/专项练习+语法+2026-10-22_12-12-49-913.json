@@ -1,0 +1,472 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1792642369913-tlwclo",
+    "submittedAt": "2026-10-22T04:12:49.913Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": true,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "sbry-n1-2011.07-文法-5-32",
+        "sbry-n1-2013.12-文法-5-32",
+        "sbry-n1-2013.12-文法-5-31",
+        "sbry-n1-2011.07-文法-5-35",
+        "sbry-n1-2013.07-文法-5-33",
+        "sbry-n1-2014.12-文法-5-31",
+        "sbry-n1-2020.12-文法-5-28",
+        "sbry-n1-2015.12-文法-5-35",
+        "sbry-n1-2022.12-文法-5-30",
+        "sbry-n1-2019.07-文法-5-32"
+      ],
+      "shuffleOptions": true,
+      "optionOrders": {
+        "sbry-n1-2011.07-文法-5-32": [
+          4,
+          3,
+          2,
+          1
+        ],
+        "sbry-n1-2013.12-文法-5-32": [
+          4,
+          2,
+          1,
+          3
+        ],
+        "sbry-n1-2013.12-文法-5-31": [
+          4,
+          2,
+          3,
+          1
+        ],
+        "sbry-n1-2011.07-文法-5-35": [
+          4,
+          3,
+          1,
+          2
+        ],
+        "sbry-n1-2013.07-文法-5-33": [
+          2,
+          4,
+          1,
+          3
+        ],
+        "sbry-n1-2014.12-文法-5-31": [
+          3,
+          4,
+          2,
+          1
+        ],
+        "sbry-n1-2020.12-文法-5-28": [
+          3,
+          2,
+          4,
+          1
+        ],
+        "sbry-n1-2015.12-文法-5-35": [
+          4,
+          3,
+          1,
+          2
+        ],
+        "sbry-n1-2022.12-文法-5-30": [
+          3,
+          2,
+          4,
+          1
+        ],
+        "sbry-n1-2019.07-文法-5-32": [
+          3,
+          2,
+          4,
+          1
+        ]
+      },
+      "showFurigana": true
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "totalPoints": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 8,
+    "percentage": 80,
+    "durationSeconds": 1127,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2011.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c03",
+          "grammar.q5.b01"
+        ],
+        "id": "sbry-n1-2011.07-文法-5-32",
+        "number": 32,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "留学するまで、私は自分が見ている世界がすべてだと思っていた。実はそれが世界のほんの小さな一部分()気付いていなかった。",
+        "options": [
+          "でないことにしか",
+          "でしかないことに",
+          "にないことでしか",
+          "にしかないことで"
+        ],
+        "optionOrder": [
+          4,
+          3,
+          2,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2013.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c08"
+        ],
+        "id": "sbry-n1-2013.12-文法-5-32",
+        "number": 32,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "昨日行ったそば屋は、たくさん人が並んでいたので()、意外にすぐに席に案内された。",
+        "options": [
+          "待たされたかと思えば",
+          "待たされることと思い",
+          "待たされるかと思いきや",
+          "待たされたことと思うが"
+        ],
+        "optionOrder": [
+          4,
+          2,
+          1,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2013.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c14",
+          "grammar.q5.b04"
+        ],
+        "id": "sbry-n1-2013.12-文法-5-31",
+        "number": 31,
+        "selected": [
+          4
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "自分ではそんなに短気ではないと思っているが、友達に()、私はけっこう怒りっぽいらしい。",
+        "options": [
+          "言われれば",
+          "言われたら",
+          "言わせると",
+          "言わせて"
+        ],
+        "optionOrder": [
+          4,
+          2,
+          3,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2011.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2011.07-文法-5-35",
+        "number": 35,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(宇宙飛行士)山田太郎さんへのインタビューで\n山田「実は、初めから宇宙飛行士になる()、そうじゃないんです。大学を出たら、医者になろうと思っていましたから。」\n記者「では、何がきっかけで、宇宙飛行士になりたいと思ったんですか。」",
+        "options": [
+          "つもりだったかっていうと",
+          "つもりなのかっていわれたら",
+          "つもりじゃなかったのかっていわれたら",
+          "つもりがなかったかっていうと"
+        ],
+        "optionOrder": [
+          4,
+          3,
+          1,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2013.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2013.07-文法-5-33",
+        "number": 33,
+        "selected": [
+          3
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(会社で)\n田中「ねえ、中村くん。もう遅いし、今日はここまでにしようよ。」\n中村「そうだね。じゃあ、残りはあした()。」\n田中「うん。またあしたがんばろう。」",
+        "options": [
+          "やるとするか",
+          "やりはするから",
+          "やろうとしているか",
+          "やってはいるから"
+        ],
+        "optionOrder": [
+          2,
+          4,
+          1,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2014.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c08"
+        ],
+        "id": "sbry-n1-2014.12-文法-5-31",
+        "number": 31,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "悪いと思うなら素直に「ごめん」と()、弟はそれができなくて、すぐ言い訳する。",
+        "options": [
+          "謝ろうとしないのだから",
+          "謝っているところに",
+          "謝ればいいものを",
+          "謝らないかぎりは"
+        ],
+        "optionOrder": [
+          3,
+          4,
+          2,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2020.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c08",
+          "grammar.q5.b01"
+        ],
+        "id": "sbry-n1-2020.12-文法-5-28",
+        "number": 28,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "これまで森さんのことなど何とも思っていなかった。()最近、なぜか急に恋愛対象として意識するようになってしまった。",
+        "options": [
+          "それは",
+          "それも",
+          "それか",
+          "それが"
+        ],
+        "optionOrder": [
+          3,
+          2,
+          4,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2015.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c18"
+        ],
+        "id": "sbry-n1-2015.12-文法-5-35",
+        "number": 35,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "先月、自分のミスで試合に負けてしまい、落ち込んでしばらく練習に集中できなかった。だが、()と思い、また練習を一生懸命やることにした。",
+        "options": [
+          "落ち込みもしない",
+          "落ち込むわけではない",
+          "落ち込んでいたことは否めない",
+          "落ち込んでばかりいても始まらない"
+        ],
+        "optionOrder": [
+          4,
+          3,
+          1,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2022.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c03",
+          "grammar.q5.b02"
+        ],
+        "id": "sbry-n1-2022.12-文法-5-30",
+        "number": 30,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(ホームページで)\n当店では、商品に欠陥がある()、返品及び交換はお受けできませんので、あらかじめご了承ください。",
+        "options": [
+          "点に加えて",
+          "点を除いて",
+          "場合に加えて",
+          "場合を除いて"
+        ],
+        "optionOrder": [
+          3,
+          2,
+          4,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c17",
+          "grammar.q5.b01"
+        ],
+        "id": "sbry-n1-2019.07-文法-5-32",
+        "number": 32,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "今回の事故について社長が会見を行ったが、あれでは何の説明()、わが社の信用が失われるだけだ。",
+        "options": [
+          "になっておらず",
+          "にもなっておらず",
+          "になっているのではなく",
+          "にもなっているのではなく"
+        ],
+        "optionOrder": [
+          3,
+          2,
+          4,
+          1
+        ]
+      }
+    ]
+  }
+}

@@ -1,4 +1,4 @@
-"""Generate offline readings for grammar sentence questions and all reading questions.
+"""Generate offline readings for vocabulary meaning, grammar and reading questions.
 
 Optional maintenance dependencies: requirements-furigana.txt. Normal exam builds
 use the checked-in JSON and do not need a tokenizer or network connection.
@@ -22,7 +22,8 @@ OCR_READINGS = {'增': 'ふ', '问': 'もん', '携帶': 'けいたい', '责任
                 '厶': 'む', '述': 'の', '滅': 'ほろ', '滅少': 'げんしょう',
                 '剩': 'じょう', '赘沢': 'ぜいたく', '费者': 'ひしゃ', '查書': 'さしょ',
                 '杈': 'のり', '尐数': 'しょうすう', '窗体': 'そうたい', '侵人': 'しんにゅう',
-                '募': 'ぼ', '激': 'げき', '吞': 'の', '踏': 'とう', '励金': 'れいきん'}
+                '募': 'ぼ', '激': 'げき', '吞': 'の', '踏': 'とう', '励金': 'れいきん',
+                '涉': 'しょう'}
 
 
 def hiragana(text):
@@ -46,9 +47,10 @@ def build():
     engine = dictionary.Dictionary().tokenizer()
     output, unknown = {}, []
     for categories in data['exams'].values():
-        for q in categories.get('语法', []) + categories.get('阅读', []):
-            if q not in categories.get('阅读', []) and (int(q['groupNumber']) != 5 or len(q['options']) != 4):
-                continue
+        eligible = ([q for q in categories.get('词汇', []) if int(q['groupNumber']) == 2]
+                    + [q for q in categories.get('语法', []) if int(q['groupNumber']) == 5 and len(q['options']) == 4]
+                    + categories.get('阅读', []))
+        for q in eligible:
             entries = {}
             for text in [q.get(k, '') for k in ('groupTitle', 'passage', 'title', 'question', 'subQuestion')] + q['options']:
                 if not text:
