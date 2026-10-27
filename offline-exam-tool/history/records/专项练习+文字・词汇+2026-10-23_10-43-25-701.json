@@ -1,0 +1,985 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1792723405701-bwjubq",
+    "submittedAt": "2026-10-23T02:43:25.701Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": false,
+    "practice": {
+      "filters": {
+        "subject": "文字・词汇",
+        "problem": "2",
+        "tags": [
+          "language.q2.mimetic"
+        ]
+      },
+      "requestedCount": 50,
+      "questionIds": [
+        "jlpt4you-2023.12-vocabulary-2-6",
+        "markdown-2025.12-language-13",
+        "sbry-n1-2016.07-文字・語彙-2-12",
+        "jlpt4you-2024.07-vocabulary-2-6",
+        "jlpt4you-2023.07-vocabulary-2-3",
+        "jlpt4you-2024.12-vocabulary-2-5",
+        "sbry-n1-2019.07-文字・語彙-2-13",
+        "sbry-n1-2020.12-文字・語彙-2-13",
+        "sbry-n1-2010.07-文字・語彙-2-11",
+        "sbry-n1-2016.12-文字・語彙-2-8",
+        "sbry-n1-2013.12-文字・語彙-2-10",
+        "sbry-n1-2015.07-文字・語彙-2-10",
+        "sbry-n1-2014.07-文字・語彙-2-13",
+        "sbry-n1-2018.12-文字・語彙-2-13",
+        "sbry-n1-2022.07-文字・語彙-2-12",
+        "sbry-n1-2013.07-文字・語彙-2-13",
+        "sbry-n1-2018.07-文字・語彙-2-11",
+        "markdown-2025.07-language-12",
+        "sbry-n1-2021.07-文字・語彙-2-12",
+        "sbry-n1-2019.12-文字・語彙-2-12",
+        "sbry-n1-2020.12-文字・語彙-2-10",
+        "sbry-n1-2021.12-文字・語彙-2-12"
+      ],
+      "shuffleOptions": true,
+      "optionOrders": {
+        "jlpt4you-2023.12-vocabulary-2-6": [
+          1,
+          3,
+          2,
+          4
+        ],
+        "markdown-2025.12-language-13": [
+          2,
+          4,
+          3,
+          1
+        ],
+        "sbry-n1-2016.07-文字・語彙-2-12": [
+          4,
+          2,
+          1,
+          3
+        ],
+        "jlpt4you-2024.07-vocabulary-2-6": [
+          2,
+          3,
+          1,
+          4
+        ],
+        "jlpt4you-2023.07-vocabulary-2-3": [
+          2,
+          4,
+          1,
+          3
+        ],
+        "jlpt4you-2024.12-vocabulary-2-5": [
+          2,
+          1,
+          3,
+          4
+        ],
+        "sbry-n1-2019.07-文字・語彙-2-13": [
+          1,
+          3,
+          2,
+          4
+        ],
+        "sbry-n1-2020.12-文字・語彙-2-13": [
+          2,
+          4,
+          1,
+          3
+        ],
+        "sbry-n1-2010.07-文字・語彙-2-11": [
+          4,
+          3,
+          1,
+          2
+        ],
+        "sbry-n1-2016.12-文字・語彙-2-8": [
+          1,
+          2,
+          4,
+          3
+        ],
+        "sbry-n1-2013.12-文字・語彙-2-10": [
+          1,
+          4,
+          2,
+          3
+        ],
+        "sbry-n1-2015.07-文字・語彙-2-10": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "sbry-n1-2014.07-文字・語彙-2-13": [
+          2,
+          3,
+          1,
+          4
+        ],
+        "sbry-n1-2018.12-文字・語彙-2-13": [
+          1,
+          3,
+          2,
+          4
+        ],
+        "sbry-n1-2022.07-文字・語彙-2-12": [
+          1,
+          2,
+          4,
+          3
+        ],
+        "sbry-n1-2013.07-文字・語彙-2-13": [
+          3,
+          4,
+          2,
+          1
+        ],
+        "sbry-n1-2018.07-文字・語彙-2-11": [
+          2,
+          1,
+          3,
+          4
+        ],
+        "markdown-2025.07-language-12": [
+          4,
+          3,
+          1,
+          2
+        ],
+        "sbry-n1-2021.07-文字・語彙-2-12": [
+          1,
+          2,
+          4,
+          3
+        ],
+        "sbry-n1-2019.12-文字・語彙-2-12": [
+          1,
+          2,
+          4,
+          3
+        ],
+        "sbry-n1-2020.12-文字・語彙-2-10": [
+          2,
+          3,
+          1,
+          4
+        ],
+        "sbry-n1-2021.12-文字・語彙-2-12": [
+          3,
+          2,
+          1,
+          4
+        ]
+      },
+      "showFurigana": false
+    },
+    "year": "专项练习",
+    "category": "文字・词汇",
+    "questionCount": 22,
+    "totalPoints": 22,
+    "total": 22,
+    "answered": 22,
+    "correct": 22,
+    "percentage": 100,
+    "durationSeconds": 232,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.mimetic"
+        ],
+        "id": "jlpt4you-2023.12-vocabulary-2-6",
+        "number": 12,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "入院生活をして、健康の大切さを（ ）感じた。",
+        "options": [
+          "めきめき",
+          "せいぜい",
+          "はきはき",
+          "つくづく"
+        ],
+        "optionOrder": [
+          1,
+          3,
+          2,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2025.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.mimetic"
+        ],
+        "id": "markdown-2025.12-language-13",
+        "number": 13,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "嫌なことがあって気分が(  )していたが、カラオケで大声で歌ったらすっきりした。",
+        "options": [
+          "はらはら",
+          "ひやひや",
+          "おどおど",
+          "むしゃくしゃ"
+        ],
+        "optionOrder": [
+          2,
+          4,
+          3,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2016.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.mimetic"
+        ],
+        "id": "sbry-n1-2016.07-文字・語彙-2-12",
+        "number": 12,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "一日中歩いて()疲れたので、今夜はゆっくり休みたい。",
+        "options": [
+          "すっきり",
+          "からからに",
+          "へとへとに",
+          "ぎっしり"
+        ],
+        "optionOrder": [
+          4,
+          2,
+          1,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2024.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.mimetic"
+        ],
+        "id": "jlpt4you-2024.07-vocabulary-2-6",
+        "number": 12,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "会場は、人々の話し声で（ ）と騒がしく、アナウンスがよく聞こえなかった。",
+        "options": [
+          "じわじわ",
+          "どろどろ",
+          "がやがや",
+          "べたべた"
+        ],
+        "optionOrder": [
+          2,
+          3,
+          1,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.mimetic"
+        ],
+        "id": "jlpt4you-2023.07-vocabulary-2-3",
+        "number": 9,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "今日は朝から空が（ ）と曇っていて、今にも雨が降り出しそうだ。",
+        "options": [
+          "びっしょり",
+          "どっさり",
+          "どんより",
+          "ぐったり"
+        ],
+        "optionOrder": [
+          2,
+          4,
+          1,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.mimetic"
+        ],
+        "id": "jlpt4you-2024.12-vocabulary-2-5",
+        "number": 11,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "今日は試合で一日中走り続けたので、疲れて（ ）になった。",
+        "options": [
+          "めちゃめちゃ",
+          "へとへと",
+          "どろどろ",
+          "ぐちゃぐちゃ"
+        ],
+        "optionOrder": [
+          2,
+          1,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.mimetic"
+        ],
+        "id": "sbry-n1-2019.07-文字・語彙-2-13",
+        "number": 13,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "社長になり、トップに立つ者の責任の重さを()感じている。",
+        "options": [
+          "はらはらと",
+          "びくびくと",
+          "どきどきと",
+          "ひしひしと"
+        ],
+        "optionOrder": [
+          1,
+          3,
+          2,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2020.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.mimetic"
+        ],
+        "id": "sbry-n1-2020.12-文字・語彙-2-13",
+        "number": 13,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "注文していたテレビゲームが明日届くので、早く遊びたくて()している。",
+        "options": [
+          "びくびく",
+          "おどおど",
+          "うずうず",
+          "はらはら"
+        ],
+        "optionOrder": [
+          2,
+          4,
+          1,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2010.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.mimetic"
+        ],
+        "id": "sbry-n1-2010.07-文字・語彙-2-11",
+        "number": 11,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "先方に協力を依頼したが、()断られてしまった。",
+        "options": [
+          "しんなり",
+          "やんわり",
+          "うんざり",
+          "ひんやり"
+        ],
+        "optionOrder": [
+          4,
+          3,
+          1,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2016.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.mimetic"
+        ],
+        "id": "sbry-n1-2016.12-文字・語彙-2-8",
+        "number": 8,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "議論は難航すると思ったが、すぐに意見がまとまり、()結論が出た。",
+        "options": [
+          "すんなり",
+          "うっとり",
+          "ふんわり",
+          "こっそり"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          4,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2013.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.mimetic"
+        ],
+        "id": "sbry-n1-2013.12-文字・語彙-2-10",
+        "number": 10,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "妹は今日が初めてのデートらしく、朝から()して落ち着かない様子だ。",
+        "options": [
+          "ぐらぐら",
+          "そわそわ",
+          "ぶらぶら",
+          "めそめそ"
+        ],
+        "optionOrder": [
+          1,
+          4,
+          2,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2015.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.mimetic"
+        ],
+        "id": "sbry-n1-2015.07-文字・語彙-2-10",
+        "number": 10,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "失敗は誰にでもあるのだから、いつまでも()していないで、元気を出してよ。",
+        "options": [
+          "くよくよ",
+          "のろのろ",
+          "ひっそり",
+          "ふんわり"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2014.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.mimetic"
+        ],
+        "id": "sbry-n1-2014.07-文字・語彙-2-13",
+        "number": 13,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "田中さんはいつも手際よく()仕事を進めている。",
+        "options": [
+          "めきめきと",
+          "さらさらと",
+          "てきぱきと",
+          "すくすくと"
+        ],
+        "optionOrder": [
+          2,
+          3,
+          1,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.mimetic"
+        ],
+        "id": "sbry-n1-2018.12-文字・語彙-2-13",
+        "number": 13,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "あの人はいつも()忙しそうに動き回っている。",
+        "options": [
+          "のろのろと",
+          "すいすいと",
+          "せかせかと",
+          "ふらふらと"
+        ],
+        "optionOrder": [
+          1,
+          3,
+          2,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2022.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.mimetic"
+        ],
+        "id": "sbry-n1-2022.07-文字・語彙-2-12",
+        "number": 12,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この温泉には肌にいい成分が含まれているので、入浴後は肌が()になります。",
+        "options": [
+          "ざらざら",
+          "ねばねば",
+          "すべすべ",
+          "ごつごつ"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          4,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2013.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.mimetic"
+        ],
+        "id": "sbry-n1-2013.07-文字・語彙-2-13",
+        "number": 13,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この数日ずっと雨で、窓も開けられないので、部屋が()して気持ち悪い。",
+        "options": [
+          "からっと",
+          "しっとり",
+          "じめじめ",
+          "がさがさ"
+        ],
+        "optionOrder": [
+          3,
+          4,
+          2,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2018.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.mimetic"
+        ],
+        "id": "sbry-n1-2018.07-文字・語彙-2-11",
+        "number": 11,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "久しぶりに帰省すると、町の様子が()変わっていて、驚いた。",
+        "options": [
+          "がらりと",
+          "ずらりと",
+          "けろりと",
+          "ちらりと"
+        ],
+        "optionOrder": [
+          2,
+          1,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2025.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.mimetic"
+        ],
+        "id": "markdown-2025.07-language-12",
+        "number": 12,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "近ごろの彼女の態度から、彼女の気持ちが変わったことには(  )気づいていた。",
+        "options": [
+          "そよそよ",
+          "うすうす",
+          "ひんやり",
+          "しっとり"
+        ],
+        "optionOrder": [
+          4,
+          3,
+          1,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2021.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.mimetic"
+        ],
+        "id": "sbry-n1-2021.07-文字・語彙-2-12",
+        "number": 12,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "小さなけんかがもとで、友達との関係が()している。",
+        "options": [
+          "しょんぼり",
+          "ぎくしゃく",
+          "ぼんやり",
+          "うろちょろ"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          4,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.mimetic"
+        ],
+        "id": "sbry-n1-2019.12-文字・語彙-2-12",
+        "number": 12,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この箱の中には本が詰まっていて、()重い。",
+        "options": [
+          "ぐらぐらと",
+          "どんよりと",
+          "ずっしりと",
+          "じめじめと"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          4,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2020.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.mimetic"
+        ],
+        "id": "sbry-n1-2020.12-文字・語彙-2-10",
+        "number": 10,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "試験前の一週間は、朝から晩まで()勉強した。",
+        "options": [
+          "みっちり",
+          "ぐっすり",
+          "べったり",
+          "めっきり"
+        ],
+        "optionOrder": [
+          2,
+          3,
+          1,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2021.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.mimetic"
+        ],
+        "id": "sbry-n1-2021.12-文字・語彙-2-12",
+        "number": 12,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "妹はピアノを習い始めると()上達して、コンクールで優勝できるまでになった。",
+        "options": [
+          "ぐずぐず",
+          "だらだら",
+          "めきめき",
+          "うろうろ"
+        ],
+        "optionOrder": [
+          3,
+          2,
+          1,
+          4
+        ]
+      }
+    ]
+  }
+}
