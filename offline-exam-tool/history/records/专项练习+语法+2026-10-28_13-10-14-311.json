@@ -1,0 +1,471 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1793164214311-sjbgn1",
+    "submittedAt": "2026-10-28T05:10:14.311Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": true,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "sbry-n1-2022.12-文法-5-29",
+        "sbry-n1-2018.07-文法-5-35",
+        "sbry-n1-2013.12-文法-5-33",
+        "sbry-n1-2011.12-文法-5-32",
+        "markdown-2025.12-language-29",
+        "sbry-n1-2011.12-文法-5-33",
+        "sbry-n1-2014.07-文法-5-28",
+        "sbry-n1-2017.12-文法-5-26",
+        "markdown-2025.12-language-33",
+        "sbry-n1-2011.07-文法-5-26"
+      ],
+      "shuffleOptions": true,
+      "optionOrders": {
+        "sbry-n1-2022.12-文法-5-29": [
+          2,
+          1,
+          3,
+          4
+        ],
+        "sbry-n1-2018.07-文法-5-35": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "sbry-n1-2013.12-文法-5-33": [
+          4,
+          2,
+          1,
+          3
+        ],
+        "sbry-n1-2011.12-文法-5-32": [
+          2,
+          4,
+          1,
+          3
+        ],
+        "markdown-2025.12-language-29": [
+          1,
+          3,
+          2,
+          4
+        ],
+        "sbry-n1-2011.12-文法-5-33": [
+          2,
+          1,
+          3,
+          4
+        ],
+        "sbry-n1-2014.07-文法-5-28": [
+          1,
+          2,
+          4,
+          3
+        ],
+        "sbry-n1-2017.12-文法-5-26": [
+          1,
+          3,
+          4,
+          2
+        ],
+        "markdown-2025.12-language-33": [
+          1,
+          4,
+          3,
+          2
+        ],
+        "sbry-n1-2011.07-文法-5-26": [
+          3,
+          2,
+          4,
+          1
+        ]
+      },
+      "showFurigana": true
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "totalPoints": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 7,
+    "percentage": 70,
+    "durationSeconds": 713,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2022.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c06",
+          "grammar.q5.b04"
+        ],
+        "id": "sbry-n1-2022.12-文法-5-29",
+        "number": 29,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "高校に入学して、特に入りたいクラブもなかったので、友人に()、テニス部に入った。",
+        "options": [
+          "誘われるまま",
+          "誘われようが",
+          "誘われた上に",
+          "誘われない限り"
+        ],
+        "optionOrder": [
+          2,
+          1,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2018.07-文法-5-35",
+        "number": 35,
+        "selected": [
+          2
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "A「ねえ、昨日、ABCデパートにいたでしょう？見かけたよ。」\nB「ええ！気づいたなら声をかけて()。」",
+        "options": [
+          "くれたと思ったんだね",
+          "もらったと思ったのに",
+          "くれればよかったのに",
+          "もらえばよかったんだね"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2013.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c17"
+        ],
+        "id": "sbry-n1-2013.12-文法-5-33",
+        "number": 33,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "企画立案というのは苦しい作業だが、自分の案が採用されたときのうれしさ()。",
+        "options": [
+          "といったらない",
+          "にすぎない",
+          "ほどのことではない",
+          "ともかぎらない"
+        ],
+        "optionOrder": [
+          4,
+          2,
+          1,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2011.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c12"
+        ],
+        "id": "sbry-n1-2011.12-文法-5-32",
+        "number": 32,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "夫「週末の旅行、このスーツケースでどうかなあ？」\n妻「何週間も海外に()、今度はそんなに大きいスーツケースは要らないんじゃない？」",
+        "options": [
+          "行くわけじゃあるまいし",
+          "行くもんだっただろうに",
+          "行くわけだったんだから",
+          "行くもんじゃないだろうけど"
+        ],
+        "optionOrder": [
+          2,
+          4,
+          1,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2025.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01",
+          "grammar.q5.c09"
+        ],
+        "id": "markdown-2025.12-language-29",
+        "number": 29,
+        "selected": [
+          2
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この仮説を正しい(  )まだデータ数が十分ではないため、さらなる調査が必要だ。",
+        "options": [
+          "とするには",
+          "となるには",
+          "とするとは",
+          "となるとは"
+        ],
+        "optionOrder": [
+          1,
+          3,
+          2,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2011.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03"
+        ],
+        "id": "sbry-n1-2011.12-文法-5-33",
+        "number": 33,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(インタビューで)\n記者「田中監督、優勝おめでとうございます。田中監督ご自身の今のお気持ちを()。」\n監督「はい。優勝できて本当にうれしいです。」",
+        "options": [
+          "お聞きいただけませんか",
+          "お聞かせ願えますか",
+          "お話しになるでしょうか",
+          "お話し申し上げましょうか"
+        ],
+        "optionOrder": [
+          2,
+          1,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2014.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c02"
+        ],
+        "id": "sbry-n1-2014.07-文法-5-28",
+        "number": 28,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "テニスの木村健一選手は、おととしの全日本大会優勝()、競技から離れていたが、昨日、正式に引退を表明した。",
+        "options": [
+          "を最後に",
+          "を皮切りに",
+          "にあたって",
+          "に沿って"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          4,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c01"
+        ],
+        "id": "sbry-n1-2017.12-文法-5-26",
+        "number": 26,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "X陶芸美術館が25日、Y市に開館する。同美術館ではこれ()、23日に関係者を招いて記念式典を行った。",
+        "options": [
+          "に先立ち",
+          "に次ぎ",
+          "につけ",
+          "につれ"
+        ],
+        "optionOrder": [
+          1,
+          3,
+          4,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2025.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03",
+          "grammar.q5.b06"
+        ],
+        "id": "markdown-2025.12-language-33",
+        "number": 33,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "けんか中の父と母を仲直りさせられそうだったのに、姉が話を蒸し返したせいで、うまくいかなくなってしまった。まったく、余計なことを(  )。",
+        "options": [
+          "してくれたものだ",
+          "しかねないものだ",
+          "してくれたはずだ",
+          "しかねないはずだ"
+        ],
+        "optionOrder": [
+          1,
+          4,
+          3,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2011.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c12"
+        ],
+        "id": "sbry-n1-2011.07-文法-5-26",
+        "number": 26,
+        "selected": [
+          2
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "人気作家A氏の講演会が無料()、多くのファンが詰めかけた。",
+        "options": [
+          "にして",
+          "にあって",
+          "として",
+          "とあって"
+        ],
+        "optionOrder": [
+          3,
+          2,
+          4,
+          1
+        ]
+      }
+    ]
+  }
+}

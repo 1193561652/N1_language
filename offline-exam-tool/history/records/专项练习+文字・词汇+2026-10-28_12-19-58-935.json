@@ -1,0 +1,2199 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1793161198935-iwhjea",
+    "submittedAt": "2026-10-28T04:19:58.935Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": false,
+    "practice": {
+      "filters": {
+        "subject": "文字・词汇",
+        "problem": "1",
+        "tags": [
+          "language.q1.noun"
+        ]
+      },
+      "requestedCount": 50,
+      "questionIds": [
+        "sbry-n1-2021.07-文字・語彙-1-1",
+        "sbry-n1-2017.07-文字・語彙-1-2",
+        "sbry-n1-2012.12-文字・語彙-1-5",
+        "sbry-n1-2022.12-文字・語彙-1-6",
+        "sbry-n1-2012.12-文字・語彙-1-6",
+        "sbry-n1-2016.12-文字・語彙-1-4",
+        "sbry-n1-2020.12-文字・語彙-1-6",
+        "sbry-n1-2018.12-文字・語彙-1-2",
+        "sbry-n1-2010.07-文字・語彙-1-4",
+        "sbry-n1-2011.12-文字・語彙-1-3",
+        "sbry-n1-2016.07-文字・語彙-1-3",
+        "sbry-n1-2019.12-文字・語彙-1-5",
+        "sbry-n1-2014.12-文字・語彙-1-5",
+        "sbry-n1-2013.07-文字・語彙-1-2",
+        "sbry-n1-2021.12-文字・語彙-1-1",
+        "jlpt4you-2024.07-vocabulary-1-1",
+        "sbry-n1-2019.12-文字・語彙-1-4",
+        "sbry-n1-2012.12-文字・語彙-1-3",
+        "markdown-2025.07-language-1",
+        "sbry-n1-2014.07-文字・語彙-1-1",
+        "sbry-n1-2015.07-文字・語彙-1-4",
+        "jlpt4you-2023.12-vocabulary-1-2",
+        "sbry-n1-2018.12-文字・語彙-1-6",
+        "jlpt4you-2024.07-vocabulary-1-6",
+        "sbry-n1-2013.12-文字・語彙-1-2",
+        "sbry-n1-2011.12-文字・語彙-1-6",
+        "sbry-n1-2017.12-文字・語彙-1-4",
+        "sbry-n1-2021.07-文字・語彙-1-2",
+        "sbry-n1-2022.07-文字・語彙-1-5",
+        "sbry-n1-2016.12-文字・語彙-1-1",
+        "sbry-n1-2017.12-文字・語彙-1-5",
+        "sbry-n1-2022.07-文字・語彙-1-1",
+        "sbry-n1-2017.12-文字・語彙-1-1",
+        "sbry-n1-2013.12-文字・語彙-1-1",
+        "sbry-n1-2011.07-文字・語彙-1-5",
+        "sbry-n1-2015.07-文字・語彙-1-1",
+        "jlpt4you-2023.12-vocabulary-1-6",
+        "sbry-n1-2012.07-文字・語彙-1-1",
+        "sbry-n1-2012.07-文字・語彙-1-5",
+        "sbry-n1-2019.07-文字・語彙-1-4",
+        "sbry-n1-2010.12-文字・語彙-1-2",
+        "sbry-n1-2020.12-文字・語彙-1-1",
+        "sbry-n1-2019.07-文字・語彙-1-1",
+        "sbry-n1-2011.12-文字・語彙-1-4",
+        "sbry-n1-2013.12-文字・語彙-1-4",
+        "sbry-n1-2011.07-文字・語彙-1-3",
+        "jlpt4you-2023.12-vocabulary-1-1",
+        "sbry-n1-2012.07-文字・語彙-1-6",
+        "sbry-n1-2021.12-文字・語彙-1-6",
+        "sbry-n1-2019.07-文字・語彙-1-5"
+      ],
+      "shuffleOptions": true,
+      "optionOrders": {
+        "sbry-n1-2021.07-文字・語彙-1-1": [
+          2,
+          1,
+          3,
+          4
+        ],
+        "sbry-n1-2017.07-文字・語彙-1-2": [
+          1,
+          4,
+          3,
+          2
+        ],
+        "sbry-n1-2012.12-文字・語彙-1-5": [
+          2,
+          4,
+          1,
+          3
+        ],
+        "sbry-n1-2022.12-文字・語彙-1-6": [
+          2,
+          4,
+          3,
+          1
+        ],
+        "sbry-n1-2012.12-文字・語彙-1-6": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "sbry-n1-2016.12-文字・語彙-1-4": [
+          4,
+          2,
+          3,
+          1
+        ],
+        "sbry-n1-2020.12-文字・語彙-1-6": [
+          1,
+          3,
+          2,
+          4
+        ],
+        "sbry-n1-2018.12-文字・語彙-1-2": [
+          3,
+          4,
+          1,
+          2
+        ],
+        "sbry-n1-2010.07-文字・語彙-1-4": [
+          1,
+          3,
+          4,
+          2
+        ],
+        "sbry-n1-2011.12-文字・語彙-1-3": [
+          4,
+          2,
+          1,
+          3
+        ],
+        "sbry-n1-2016.07-文字・語彙-1-3": [
+          4,
+          2,
+          3,
+          1
+        ],
+        "sbry-n1-2019.12-文字・語彙-1-5": [
+          3,
+          1,
+          2,
+          4
+        ],
+        "sbry-n1-2014.12-文字・語彙-1-5": [
+          1,
+          2,
+          4,
+          3
+        ],
+        "sbry-n1-2013.07-文字・語彙-1-2": [
+          3,
+          4,
+          1,
+          2
+        ],
+        "sbry-n1-2021.12-文字・語彙-1-1": [
+          3,
+          4,
+          1,
+          2
+        ],
+        "jlpt4you-2024.07-vocabulary-1-1": [
+          2,
+          4,
+          1,
+          3
+        ],
+        "sbry-n1-2019.12-文字・語彙-1-4": [
+          3,
+          2,
+          4,
+          1
+        ],
+        "sbry-n1-2012.12-文字・語彙-1-3": [
+          4,
+          1,
+          3,
+          2
+        ],
+        "markdown-2025.07-language-1": [
+          4,
+          3,
+          2,
+          1
+        ],
+        "sbry-n1-2014.07-文字・語彙-1-1": [
+          1,
+          2,
+          4,
+          3
+        ],
+        "sbry-n1-2015.07-文字・語彙-1-4": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "jlpt4you-2023.12-vocabulary-1-2": [
+          3,
+          4,
+          2,
+          1
+        ],
+        "sbry-n1-2018.12-文字・語彙-1-6": [
+          3,
+          4,
+          2,
+          1
+        ],
+        "jlpt4you-2024.07-vocabulary-1-6": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "sbry-n1-2013.12-文字・語彙-1-2": [
+          1,
+          3,
+          4,
+          2
+        ],
+        "sbry-n1-2011.12-文字・語彙-1-6": [
+          4,
+          3,
+          2,
+          1
+        ],
+        "sbry-n1-2017.12-文字・語彙-1-4": [
+          4,
+          2,
+          3,
+          1
+        ],
+        "sbry-n1-2021.07-文字・語彙-1-2": [
+          1,
+          2,
+          4,
+          3
+        ],
+        "sbry-n1-2022.07-文字・語彙-1-5": [
+          1,
+          2,
+          4,
+          3
+        ],
+        "sbry-n1-2016.12-文字・語彙-1-1": [
+          2,
+          3,
+          4,
+          1
+        ],
+        "sbry-n1-2017.12-文字・語彙-1-5": [
+          4,
+          1,
+          2,
+          3
+        ],
+        "sbry-n1-2022.07-文字・語彙-1-1": [
+          2,
+          4,
+          3,
+          1
+        ],
+        "sbry-n1-2017.12-文字・語彙-1-1": [
+          3,
+          1,
+          4,
+          2
+        ],
+        "sbry-n1-2013.12-文字・語彙-1-1": [
+          1,
+          4,
+          2,
+          3
+        ],
+        "sbry-n1-2011.07-文字・語彙-1-5": [
+          2,
+          3,
+          1,
+          4
+        ],
+        "sbry-n1-2015.07-文字・語彙-1-1": [
+          4,
+          2,
+          1,
+          3
+        ],
+        "jlpt4you-2023.12-vocabulary-1-6": [
+          1,
+          2,
+          4,
+          3
+        ],
+        "sbry-n1-2012.07-文字・語彙-1-1": [
+          2,
+          4,
+          3,
+          1
+        ],
+        "sbry-n1-2012.07-文字・語彙-1-5": [
+          3,
+          2,
+          1,
+          4
+        ],
+        "sbry-n1-2019.07-文字・語彙-1-4": [
+          1,
+          4,
+          3,
+          2
+        ],
+        "sbry-n1-2010.12-文字・語彙-1-2": [
+          4,
+          2,
+          3,
+          1
+        ],
+        "sbry-n1-2020.12-文字・語彙-1-1": [
+          2,
+          3,
+          1,
+          4
+        ],
+        "sbry-n1-2019.07-文字・語彙-1-1": [
+          2,
+          1,
+          4,
+          3
+        ],
+        "sbry-n1-2011.12-文字・語彙-1-4": [
+          4,
+          1,
+          2,
+          3
+        ],
+        "sbry-n1-2013.12-文字・語彙-1-4": [
+          4,
+          3,
+          2,
+          1
+        ],
+        "sbry-n1-2011.07-文字・語彙-1-3": [
+          2,
+          1,
+          4,
+          3
+        ],
+        "jlpt4you-2023.12-vocabulary-1-1": [
+          2,
+          3,
+          4,
+          1
+        ],
+        "sbry-n1-2012.07-文字・語彙-1-6": [
+          3,
+          1,
+          4,
+          2
+        ],
+        "sbry-n1-2021.12-文字・語彙-1-6": [
+          3,
+          1,
+          2,
+          4
+        ],
+        "sbry-n1-2019.07-文字・語彙-1-5": [
+          4,
+          3,
+          1,
+          2
+        ]
+      },
+      "showFurigana": false
+    },
+    "year": "专项练习",
+    "category": "文字・词汇",
+    "questionCount": 50,
+    "totalPoints": 50,
+    "total": 50,
+    "answered": 50,
+    "correct": 48,
+    "percentage": 96,
+    "durationSeconds": 495,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2021.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun",
+          "language.q1.adjective.other"
+        ],
+        "id": "sbry-n1-2021.07-文字・語彙-1-1",
+        "number": 1,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "今回の件については、大変【遺憾】に思っております。",
+        "options": [
+          "いがい",
+          "いかん",
+          "いかく",
+          "いかり"
+        ],
+        "optionOrder": [
+          2,
+          1,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2017.07-文字・語彙-1-2",
+        "number": 2,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "使う前に必ず熱湯で【殺菌】してください。",
+        "options": [
+          "ざっきん",
+          "さっきん",
+          "さっこん",
+          "ざっこん"
+        ],
+        "optionOrder": [
+          1,
+          4,
+          3,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2012.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2012.12-文字・語彙-1-5",
+        "number": 5,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "あそこに見えるのは、千年前に建てられた【由緒】あるお寺です。",
+        "options": [
+          "ゆうしょ",
+          "ゆいしょ",
+          "ゆうしょう",
+          "ゆいしょう"
+        ],
+        "optionOrder": [
+          2,
+          4,
+          1,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2022.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun",
+          "language.q1.adjective.other"
+        ],
+        "id": "sbry-n1-2022.12-文字・語彙-1-6",
+        "number": 6,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "調査データは、地球の温暖化を【如実に】示した。",
+        "options": [
+          "じょじつに",
+          "じょうじつに",
+          "にょじつに",
+          "にょうじつに"
+        ],
+        "optionOrder": [
+          2,
+          4,
+          3,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2012.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2012.12-文字・語彙-1-6",
+        "number": 6,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "若いスタッフたちが【手際】よく作業を進めていた。",
+        "options": [
+          "しゅざい",
+          "てきわ",
+          "しゅさい",
+          "てぎわ"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2016.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun",
+          "language.q1.adjective.other"
+        ],
+        "id": "sbry-n1-2016.12-文字・語彙-1-4",
+        "number": 4,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "相談の内容は【多岐】にわたった。",
+        "options": [
+          "たき",
+          "たじ",
+          "たぎ",
+          "たし"
+        ],
+        "optionOrder": [
+          4,
+          2,
+          3,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2020.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2020.12-文字・語彙-1-6",
+        "number": 6,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "スポーツを通じて、地域の【振興】を図りたい",
+        "options": [
+          "しんきょう",
+          "じんきょう",
+          "じんこう",
+          "しんこう"
+        ],
+        "optionOrder": [
+          1,
+          3,
+          2,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2018.12-文字・語彙-1-2",
+        "number": 2,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "今回の仕事にはかなりの【忍耐】が必要だ。",
+        "options": [
+          "にんてい",
+          "にんたい",
+          "じんたい",
+          "じんてい"
+        ],
+        "optionOrder": [
+          3,
+          4,
+          1,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2010.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun",
+          "language.q1.adjective.other"
+        ],
+        "id": "sbry-n1-2010.07-文字・語彙-1-4",
+        "number": 4,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "警備が【手薄】なところがないか調べた。",
+        "options": [
+          "しゅうす",
+          "しゅはく",
+          "てうす",
+          "てはく"
+        ],
+        "optionOrder": [
+          1,
+          3,
+          4,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2011.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2011.12-文字・語彙-1-3",
+        "number": 3,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【閲覧】した資料は、カウンターに戻してください。",
+        "options": [
+          "はいらん",
+          "はいけん",
+          "えつらん",
+          "えっけん"
+        ],
+        "optionOrder": [
+          4,
+          2,
+          1,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2016.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2016.07-文字・語彙-1-3",
+        "number": 3,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この店は今月から商品の【陳列】の仕方を変更した。",
+        "options": [
+          "ちんれつ",
+          "しんれつ",
+          "ちんれい",
+          "しんれい"
+        ],
+        "optionOrder": [
+          4,
+          2,
+          3,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2019.12-文字・語彙-1-5",
+        "number": 5,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "鈴木氏の研究は物理学の発展に大いに【貢献】した。",
+        "options": [
+          "こうかん",
+          "こうけん",
+          "こかん",
+          "こけん"
+        ],
+        "optionOrder": [
+          3,
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2014.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun",
+          "language.q1.adjective.other"
+        ],
+        "id": "sbry-n1-2014.12-文字・語彙-1-5",
+        "number": 5,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "応募作品を【厳正】に審査した。",
+        "options": [
+          "げんせい",
+          "げんしょう",
+          "がんせい",
+          "がんしょう"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          4,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2013.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun",
+          "language.q1.adjective.other"
+        ],
+        "id": "sbry-n1-2013.07-文字・語彙-1-2",
+        "number": 2,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "相手チームの【巧妙】な作戦に引っかかってしまった。",
+        "options": [
+          "こうしょう",
+          "こうみょう",
+          "きみょう",
+          "きしょう"
+        ],
+        "optionOrder": [
+          3,
+          4,
+          1,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2021.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2021.12-文字・語彙-1-1",
+        "number": 1,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この絵は目の【錯覚】を利用した作品です。",
+        "options": [
+          "しゃかく",
+          "しゃっかく",
+          "さかく",
+          "さっかく"
+        ],
+        "optionOrder": [
+          3,
+          4,
+          1,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2024.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "jlpt4you-2024.07-vocabulary-1-1",
+        "number": 1,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "食品の⟦u⟧腐敗⟦/u⟧を防止する",
+        "options": [
+          "ふはい",
+          "ふばい",
+          "ふうはい",
+          "ふうばい"
+        ],
+        "optionOrder": [
+          2,
+          4,
+          1,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2019.12-文字・語彙-1-4",
+        "number": 4,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【債務】の状況を確かめる",
+        "options": [
+          "さいむ",
+          "ざいむ",
+          "せきむ",
+          "ぜきむ"
+        ],
+        "optionOrder": [
+          3,
+          2,
+          4,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2012.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun",
+          "language.q1.adjective.other"
+        ],
+        "id": "sbry-n1-2012.12-文字・語彙-1-3",
+        "number": 3,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "このような賞を受けることは、私にとって大変【名誉】なことです",
+        "options": [
+          "めいゆう",
+          "めいゆ",
+          "めいよう",
+          "めいよ"
+        ],
+        "optionOrder": [
+          4,
+          1,
+          3,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2025.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "markdown-2025.07-language-1",
+        "number": 1,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "⟦u⟧余暇⟦/u⟧の楽しみ方はいろいろある。",
+        "options": [
+          "ようか",
+          "よか",
+          "よが",
+          "ようが"
+        ],
+        "optionOrder": [
+          4,
+          3,
+          2,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2014.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2014.07-文字・語彙-1-1",
+        "number": 1,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "今回の大会では、若手の【躍進】が目立った。",
+        "options": [
+          "やくしん",
+          "ようしん",
+          "たくしん",
+          "とうしん"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          4,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2015.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2015.07-文字・語彙-1-4",
+        "number": 4,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この件は、すでに部長の【承諾】を得ている。",
+        "options": [
+          "しゅうだく",
+          "しょうにん",
+          "しゅうにん",
+          "しょうだく"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "jlpt4you-2023.12-vocabulary-1-2",
+        "number": 2,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "ここに書いてある情報には⟦u⟧偏り⟦/u⟧がある。",
+        "options": [
+          "へだたり",
+          "かたより",
+          "あやまり",
+          "こだわり"
+        ],
+        "optionOrder": [
+          3,
+          4,
+          2,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2018.12-文字・語彙-1-6",
+        "number": 6,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "彼の見識の高さには【驚嘆】するばかりだ。",
+        "options": [
+          "きょたん",
+          "きょうたん",
+          "きょうだん",
+          "きょだん"
+        ],
+        "optionOrder": [
+          3,
+          4,
+          2,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2024.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "jlpt4you-2024.07-vocabulary-1-6",
+        "number": 6,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "⟦u⟧誓約書⟦/u⟧に署名する時、少し緊張した。",
+        "options": [
+          "けいやくしょ",
+          "せつやくしょ",
+          "せいやくしょ",
+          "けつやくしょ"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2013.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2013.12-文字・語彙-1-2",
+        "number": 2,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "社長の発言に【憤り】を感じる。",
+        "options": [
+          "あせり",
+          "こだわり",
+          "いきどおり",
+          "いかり"
+        ],
+        "optionOrder": [
+          1,
+          3,
+          4,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2011.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2011.12-文字・語彙-1-6",
+        "number": 6,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "ようやく景気回復の【兆し】が見えてきた。",
+        "options": [
+          "しるし",
+          "あかし",
+          "きざし",
+          "ひざし"
+        ],
+        "optionOrder": [
+          4,
+          3,
+          2,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2017.12-文字・語彙-1-4",
+        "number": 4,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "本人の【了承】を得て、写真を掲載した。",
+        "options": [
+          "りょうしゅう",
+          "ろうしょう",
+          "りょうしょう",
+          "ろうしゅう"
+        ],
+        "optionOrder": [
+          4,
+          2,
+          3,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2021.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2021.07-文字・語彙-1-2",
+        "number": 2,
+        "selected": [
+          3
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この門は常時【閉鎖】されている。",
+        "options": [
+          "へいそく",
+          "へいさく",
+          "へいそ",
+          "へいさ"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          4,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2022.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2022.07-文字・語彙-1-5",
+        "number": 5,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "対策の結果、地盤の【沈下】は食い止められている。",
+        "options": [
+          "ちんげ",
+          "ちんか",
+          "しんか",
+          "しんげ"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          4,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2016.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2016.12-文字・語彙-1-1",
+        "number": 1,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "社会活動に参加することで、【人脈】を広げることができた。",
+        "options": [
+          "じんみゃく",
+          "じんまく",
+          "にんみゃく",
+          "にんまく"
+        ],
+        "optionOrder": [
+          2,
+          3,
+          4,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2017.12-文字・語彙-1-5",
+        "number": 5,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "あの人はいつもあれこれ【指図】をする。",
+        "options": [
+          "さしじ",
+          "さしず",
+          "しず",
+          "しじ"
+        ],
+        "optionOrder": [
+          4,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2022.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun",
+          "language.q1.adjective.other"
+        ],
+        "id": "sbry-n1-2022.07-文字・語彙-1-1",
+        "number": 1,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【勇敢】に戦う主人公に子どもたちは夢中だ。",
+        "options": [
+          "ゆうかん",
+          "ゆうがん",
+          "ゆうけん",
+          "ゆうげん"
+        ],
+        "optionOrder": [
+          2,
+          4,
+          3,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2017.12-文字・語彙-1-1",
+        "number": 1,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "新しい販売ルートを【開拓】した。",
+        "options": [
+          "かいたく",
+          "かいだく",
+          "かいせき",
+          "かいぜき"
+        ],
+        "optionOrder": [
+          3,
+          1,
+          4,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2013.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2013.12-文字・語彙-1-1",
+        "number": 1,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "関係者から話を聞いて、ようやく現状が【把握】できた。",
+        "options": [
+          "ばおく",
+          "はおく",
+          "ばあく",
+          "はあく"
+        ],
+        "optionOrder": [
+          1,
+          4,
+          2,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2011.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2011.07-文字・語彙-1-5",
+        "number": 5,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この説は科学的な【根拠】に乏しい。",
+        "options": [
+          "こんしょ",
+          "こんじょ",
+          "こんきょ",
+          "こんぎょ"
+        ],
+        "optionOrder": [
+          2,
+          3,
+          1,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2015.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2015.07-文字・語彙-1-1",
+        "number": 1,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "申込書にパスポートのコピーを【添付】した。",
+        "options": [
+          "でんふ",
+          "てんふ",
+          "でんぷ",
+          "てんぷ"
+        ],
+        "optionOrder": [
+          4,
+          2,
+          1,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun",
+          "language.q1.adjective.other"
+        ],
+        "id": "jlpt4you-2023.12-vocabulary-1-6",
+        "number": 6,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "⟦u⟧軽率⟦/u⟧な行動が批判を招いた。",
+        "options": [
+          "けいそつ",
+          "けいりつ",
+          "かいそつ",
+          "かいりつ"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          4,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2012.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2012.07-文字・語彙-1-1",
+        "number": 1,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "珍しいイベントがあると聞いて、広場に【群衆】が押し寄せた。",
+        "options": [
+          "かんしゅ",
+          "かんしゅう",
+          "ぐんしゅ",
+          "ぐんしゅう"
+        ],
+        "optionOrder": [
+          2,
+          4,
+          3,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2012.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2012.07-文字・語彙-1-5",
+        "number": 5,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "新社長は、これまでの経営方針を【踏襲】すると述べた。",
+        "options": [
+          "とうしょう",
+          "とうしゅう",
+          "としょう",
+          "としゅう"
+        ],
+        "optionOrder": [
+          3,
+          2,
+          1,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2019.07-文字・語彙-1-4",
+        "number": 4,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この薬にはウイルスの【繁殖】を抑える効果がある。",
+        "options": [
+          "はんしょく",
+          "はんちょく",
+          "ばんしょく",
+          "ばんちょく"
+        ],
+        "optionOrder": [
+          1,
+          4,
+          3,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2010.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2010.12-文字・語彙-1-2",
+        "number": 2,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "友人にピアノの【伴奏】を頼まれた。",
+        "options": [
+          "はんそう",
+          "ばんそう",
+          "はんそ",
+          "ばんそ"
+        ],
+        "optionOrder": [
+          4,
+          2,
+          3,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2020.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2020.12-文字・語彙-1-1",
+        "number": 1,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "自分の将来について、他人には【干渉】されたくない。",
+        "options": [
+          "がんしょう",
+          "かんしょう",
+          "がんぽ",
+          "かんぽ"
+        ],
+        "optionOrder": [
+          2,
+          3,
+          1,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun",
+          "language.q1.adjective.other"
+        ],
+        "id": "sbry-n1-2019.07-文字・語彙-1-1",
+        "number": 1,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "あの態度には【猛烈】に腹が立った。",
+        "options": [
+          "もれつ",
+          "きょうれつ",
+          "きょれつ",
+          "もうれつ"
+        ],
+        "optionOrder": [
+          2,
+          1,
+          4,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2011.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2011.12-文字・語彙-1-4",
+        "number": 4,
+        "selected": [
+          2
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "首相は自身の発言についての【釈明】に追われた。",
+        "options": [
+          "しゅくめい",
+          "やくめい",
+          "たくめい",
+          "しゃくめい"
+        ],
+        "optionOrder": [
+          4,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2013.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2013.12-文字・語彙-1-4",
+        "number": 4,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "兄は大学で【日夜】研究に励んでいる。",
+        "options": [
+          "にちよ",
+          "じつよ",
+          "にちや",
+          "じつや"
+        ],
+        "optionOrder": [
+          4,
+          3,
+          2,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2011.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2011.07-文字・語彙-1-3",
+        "number": 3,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "子どものおもちゃは、安全性を【考慮】して選ぶようにしている。",
+        "options": [
+          "こうろ",
+          "こうりょ",
+          "こうろう",
+          "こうりょう"
+        ],
+        "optionOrder": [
+          2,
+          1,
+          4,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "jlpt4you-2023.12-vocabulary-1-1",
+        "number": 1,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "ある画家の人生の⟦u⟧軌跡⟦/u⟧を描いた映画を見た。",
+        "options": [
+          "きぜき",
+          "きせき",
+          "きゅうせき",
+          "きゅうぜき"
+        ],
+        "optionOrder": [
+          2,
+          3,
+          4,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2012.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2012.07-文字・語彙-1-6",
+        "number": 6,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "新しい政権には、医療制度の【改革】が期待されている。",
+        "options": [
+          "かいかく",
+          "かいこく",
+          "かいがく",
+          "かいごく"
+        ],
+        "optionOrder": [
+          3,
+          1,
+          4,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2021.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2021.12-文字・語彙-1-6",
+        "number": 6,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "試合会場には【緊迫】した雰囲気が漂っていた。",
+        "options": [
+          "きんぱく",
+          "ぎんぱく",
+          "きんばく",
+          "ぎんばく"
+        ],
+        "optionOrder": [
+          3,
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2019.07-文字・語彙-1-5",
+        "number": 5,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "サイトの【履歴】は残っていなかった。",
+        "options": [
+          "ふくれき",
+          "られき",
+          "りれき",
+          "ふうれき"
+        ],
+        "optionOrder": [
+          4,
+          3,
+          1,
+          2
+        ]
+      }
+    ]
+  }
+}

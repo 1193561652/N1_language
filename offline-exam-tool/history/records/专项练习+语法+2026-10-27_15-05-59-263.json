@@ -1,0 +1,471 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1793084759263-669akf",
+    "submittedAt": "2026-10-27T07:05:59.263Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": true,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "sbry-n1-2014.07-文法-5-31",
+        "sbry-n1-2015.07-文法-5-27",
+        "sbry-n1-2010.07-文法-5-33",
+        "sbry-n1-2010.12-文法-5-30",
+        "sbry-n1-2016.07-文法-5-30",
+        "sbry-n1-2019.07-文法-5-26",
+        "sbry-n1-2015.07-文法-5-31",
+        "jlpt4you-2024.12-grammar-5-8",
+        "sbry-n1-2013.12-文法-5-33",
+        "sbry-n1-2021.12-文法-5-31"
+      ],
+      "shuffleOptions": true,
+      "optionOrders": {
+        "sbry-n1-2014.07-文法-5-31": [
+          3,
+          4,
+          1,
+          2
+        ],
+        "sbry-n1-2015.07-文法-5-27": [
+          4,
+          3,
+          2,
+          1
+        ],
+        "sbry-n1-2010.07-文法-5-33": [
+          3,
+          1,
+          2,
+          4
+        ],
+        "sbry-n1-2010.12-文法-5-30": [
+          3,
+          4,
+          1,
+          2
+        ],
+        "sbry-n1-2016.07-文法-5-30": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "sbry-n1-2019.07-文法-5-26": [
+          4,
+          3,
+          1,
+          2
+        ],
+        "sbry-n1-2015.07-文法-5-31": [
+          4,
+          2,
+          1,
+          3
+        ],
+        "jlpt4you-2024.12-grammar-5-8": [
+          4,
+          1,
+          2,
+          3
+        ],
+        "sbry-n1-2013.12-文法-5-33": [
+          4,
+          3,
+          1,
+          2
+        ],
+        "sbry-n1-2021.12-文法-5-31": [
+          3,
+          4,
+          2,
+          1
+        ]
+      },
+      "showFurigana": true
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "totalPoints": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 7,
+    "percentage": 70,
+    "durationSeconds": 151,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2014.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03",
+          "grammar.q5.b05"
+        ],
+        "id": "sbry-n1-2014.07-文法-5-31",
+        "number": 31,
+        "selected": [
+          3
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "新市長に当選した上田氏は「選挙中に掲げた政策を、市長として私自らが先頭に立って実行して()。」と決意を述べた。",
+        "options": [
+          "まいります",
+          "願います",
+          "いたします",
+          "頂戴します"
+        ],
+        "optionOrder": [
+          3,
+          4,
+          1,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2015.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c14"
+        ],
+        "id": "sbry-n1-2015.07-文法-5-27",
+        "number": 27,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "みんな「幸せになりたい。」と言うが、そもそも何()幸せとするのだろうか。",
+        "options": [
+          "にむけて",
+          "をめぐって",
+          "をもって",
+          "につれて"
+        ],
+        "optionOrder": [
+          4,
+          3,
+          2,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2010.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2010.07-文法-5-33",
+        "number": 33,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "「３歳までの育児は母親がすべきだ」と言う人もいるが、子育てをするのが母親で()、必ずしもそうではないと思う。",
+        "options": [
+          "なくてはならないからといって",
+          "なくてはならないかというと",
+          "あるわけにはいかないからといって",
+          "あるわけにはいかないかというと"
+        ],
+        "optionOrder": [
+          3,
+          1,
+          2,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2010.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03"
+        ],
+        "id": "sbry-n1-2010.12-文法-5-30",
+        "number": 30,
+        "selected": [
+          3
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "「このたびは、私どもの商品発送ミスにより、お客様に大変ご迷惑をかけましたことを深く()。申し訳ございませんでした。」",
+        "options": [
+          "わびていただきます",
+          "わびていらっしゃいます",
+          "おわびいただきます",
+          "おわび申し上げます"
+        ],
+        "optionOrder": [
+          3,
+          4,
+          1,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2016.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2016.07-文法-5-30",
+        "number": 30,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "昨日初めてハンバーグを作ったが、家族にあまりおいしくないと言われてしまった。今度は絶対おいしく()。",
+        "options": [
+          "作るものか",
+          "作る始末だ",
+          "作ってみせる",
+          "作りつつある"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2019.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c08",
+          "grammar.q5.c17"
+        ],
+        "id": "sbry-n1-2019.07-文法-5-26",
+        "number": 26,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "優勝()逃したが、石川選手は今大会で自己べストを更新する好成績を収めた。",
+        "options": [
+          "さえ",
+          "こそ",
+          "ほど",
+          "ばかり"
+        ],
+        "optionOrder": [
+          4,
+          3,
+          1,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2015.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c01",
+          "grammar.q5.c09"
+        ],
+        "id": "sbry-n1-2015.07-文法-5-31",
+        "number": 31,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "日本近海で海水の酸性化が認められたという。海の生態系に大きな影響が()遅い。早急な対策が求められる。",
+        "options": [
+          "出たせいなのかは",
+          "出てしまうかは",
+          "出たばかりでは",
+          "出てからでは"
+        ],
+        "optionOrder": [
+          4,
+          2,
+          1,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2024.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "jlpt4you-2024.12-grammar-5-8",
+        "number": 33,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "専門家の話では、かつてこの地域一帯は海だった（ ）。",
+        "options": [
+          "という",
+          "といえる",
+          "といった",
+          "といわれる"
+        ],
+        "optionOrder": [
+          4,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2013.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c17"
+        ],
+        "id": "sbry-n1-2013.12-文法-5-33",
+        "number": 33,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "企画立案というのは苦しい作業だが、自分の案が採用されたときのうれしさ()。",
+        "options": [
+          "といったらない",
+          "にすぎない",
+          "ほどのことではない",
+          "ともかぎらない"
+        ],
+        "optionOrder": [
+          4,
+          3,
+          1,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2021.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03",
+          "grammar.q5.c09"
+        ],
+        "id": "sbry-n1-2021.12-文法-5-31",
+        "number": 31,
+        "selected": [
+          3
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "先生に()、地元の名物料理をお出ししたいと思います。",
+        "options": [
+          "おいでくださるにしては",
+          "おいでいただくにしては",
+          "おいでくださるからには",
+          "おいでいただくからには"
+        ],
+        "optionOrder": [
+          3,
+          4,
+          2,
+          1
+        ]
+      }
+    ]
+  }
+}

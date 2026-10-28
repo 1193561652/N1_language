@@ -1,0 +1,935 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1793085111214-y02l0j",
+    "submittedAt": "2026-10-27T07:11:51.214Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "period",
+    "showFurigana": true,
+    "practice": null,
+    "year": "2018.12",
+    "category": "文字・词汇",
+    "questionCount": 25,
+    "totalPoints": 25,
+    "total": 25,
+    "answered": 25,
+    "correct": 22,
+    "percentage": 88,
+    "durationSeconds": 269,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun",
+          "language.q1.adjective.other"
+        ],
+        "id": "sbry-n1-2018.12-文字・語彙-1-1",
+        "number": 1,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "父は、楽しいときはいつも【豪快】に笑う.",
+        "options": [
+          "ゆうかい",
+          "ごかい",
+          "ごうかい",
+          "ゆかい"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2018.12-文字・語彙-1-2",
+        "number": 2,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "今回の仕事にはかなりの【忍耐】が必要だ。",
+        "options": [
+          "にんてい",
+          "にんたい",
+          "じんたい",
+          "じんてい"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2018.12-文字・語彙-1-3",
+        "number": 3,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "今、アイディアを【募って】いるところですので、ご協力をお願いします。",
+        "options": [
+          "しぼって",
+          "ねって",
+          "つのって",
+          "さぐって"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun",
+          "language.q1.adjective.other"
+        ],
+        "id": "sbry-n1-2018.12-文字・語彙-1-4",
+        "number": 4,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "現代の社会では、【膨大】なエネルギーが消費されている。",
+        "options": [
+          "はくだい",
+          "ほうだい",
+          "ばくだい",
+          "ぼうだい"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2018.12-文字・語彙-1-5",
+        "number": 5,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【滞って】いた作業が、担当者が変わってからスムーズに進み出した。",
+        "options": [
+          "とどこおって",
+          "つまって",
+          "てこずって",
+          "たまって"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2018.12-文字・語彙-1-6",
+        "number": 6,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "彼の見識の高さには【驚嘆】するばかりだ。",
+        "options": [
+          "きょたん",
+          "きょうたん",
+          "きょうだん",
+          "きょだん"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2018.12-文字・語彙-2-7",
+        "number": 7,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "マラソン大会が終わり、先ほど道路の交通規制が()されました。",
+        "options": [
+          "解除",
+          "解禁",
+          "廃止",
+          "停止"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.katakana"
+        ],
+        "id": "sbry-n1-2018.12-文字・語彙-2-8",
+        "number": 8,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "記事のすぐ下に写真を載せるなど()を工夫すれば、もっと読みやすくなるだろう。",
+        "options": [
+          "スケッチ",
+          "レイアウト",
+          "アウトライン",
+          "ルックス"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2018.12-文字・語彙-2-9",
+        "number": 9,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "来春から始まる情報番組の司会に、若手のアナウンサーを()することが決まった。",
+        "options": [
+          "採取",
+          "引用",
+          "採択",
+          "起用"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.verb.compound"
+        ],
+        "id": "sbry-n1-2018.12-文字・語彙-2-10",
+        "number": 10,
+        "selected": [
+          4
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "事件発生の連絡を受け、記者たちは急いで現場に()。",
+        "options": [
+          "寄りかかった",
+          "駆けつけた",
+          "結びついた",
+          "突っ込んだ"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji",
+          "language.q2.adjective.other"
+        ],
+        "id": "sbry-n1-2018.12-文字・語彙-2-11",
+        "number": 11,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この食品会社は、薬品や化粧品の分野にも進出し、()経営に乗り出している。",
+        "options": [
+          "建設的な",
+          "普遍的な",
+          "圧倒的な",
+          "多角的な"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji",
+          "language.q2.adjective.other"
+        ],
+        "id": "sbry-n1-2018.12-文字・語彙-2-12",
+        "number": 12,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "毎年8月の祭りは、県内外から集まった数千人が歌や踊りに参加し、()行われる。",
+        "options": [
+          "鮮烈に",
+          "絶大に",
+          "盛大に",
+          "熱烈に"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.mimetic"
+        ],
+        "id": "sbry-n1-2018.12-文字・語彙-2-13",
+        "number": 13,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "あの人はいつも()忙しそうに動き回っている。",
+        "options": [
+          "のろのろと",
+          "すいすいと",
+          "せかせかと",
+          "ふらふらと"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q3.katakana"
+        ],
+        "id": "sbry-n1-2018.12-文字・語彙-3-14",
+        "number": 14,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "ハムを【スライス】して皿に載せた。",
+        "options": [
+          "細かく切って",
+          "薄く切って",
+          "よく焼いて",
+          "軽く焼いて"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q3.adverb"
+        ],
+        "id": "sbry-n1-2018.12-文字・語彙-3-15",
+        "number": 15,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "集会が始まると、資料が【めいめい】に配られた.",
+        "options": [
+          "グループごとに",
+          "一人一人に",
+          "一斉に",
+          "順々に"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q3.kanji",
+          "language.q3.adjective.other"
+        ],
+        "id": "sbry-n1-2018.12-文字・語彙-3-16",
+        "number": 16,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "祖父のノートには、当時の出来事が【克明に】記されていた。",
+        "options": [
+          "客観的に",
+          "簡潔にまとめて",
+          "生き生きと",
+          "詳しく丁寧に"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q3.other"
+        ],
+        "id": "sbry-n1-2018.12-文字・語彙-3-17",
+        "number": 17,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "状況を改善する【手立て】がない。",
+        "options": [
+          "方法",
+          "費用",
+          "時間",
+          "意志"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q3.mimetic.repeat"
+        ],
+        "id": "sbry-n1-2018.12-文字・語彙-3-18",
+        "number": 18,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "子どものころの思い出が【ありありと】浮かんできた.",
+        "options": [
+          "次々と",
+          "ぼんやり",
+          "はっきり",
+          "ふと"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q3.verb.simple"
+        ],
+        "id": "sbry-n1-2018.12-文字・語彙-3-19",
+        "number": 19,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "部長は返事を【しぶっていた】。",
+        "options": [
+          "なかなか返事をしようとしなかった",
+          "返事するのをすっかり忘れていた",
+          "返事が来るのをいつまでも待っていた",
+          "早く返事が欲しいと何度も要求した"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q4.object",
+          "language.q4.boundary"
+        ],
+        "id": "sbry-n1-2018.12-文字・語彙-4-20",
+        "number": 20,
+        "selected": [
+          2
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "作動",
+        "options": [
+          "その子は、音楽を流すとすぐに【作動】して踊りだした。",
+          "最近の金融市場は専門家の予想と逆の方向に【作動】している。",
+          "郊外に建設した新しい工場が、今日無事に【作動】した。",
+          "このガスストーブは転倒すると安全装置が【作動】してガスが止まる。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q4.sense",
+          "language.q4.boundary"
+        ],
+        "id": "sbry-n1-2018.12-文字・語彙-4-21",
+        "number": 21,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "しぶとい",
+        "options": [
+          "今日は朝から熱があり、体が【しぶとく】て動くのがつらい。",
+          "この箱は紙でできているのにとても【しぶとく】、強く押してもつぶれない。",
+          "妹は【しぶとい】ところがあって、失敗してもあきらめず何度でも挑戦する。",
+          "地下の部屋は、風通しが悪く湿気が【しぶとく】て、居心地が悪い。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q4.object",
+          "language.q4.collocation"
+        ],
+        "id": "sbry-n1-2018.12-文字・語彙-4-22",
+        "number": 22,
+        "selected": [
+          3
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "備え付ける",
+        "options": [
+          "寮の部屋にはパソコンが【備え付けて】あったので、自分で買わずに済んだ。",
+          "食事をテーブルに【備え付けて】おいたので、どうぞ召し上がってください。",
+          "家にお金を【備え付けて】おくために、銀行で現金を下ろしてきた。",
+          "父が乗って出かけたのか、車庫に【備え付けて】あった車がない。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q4.object",
+          "language.q4.collocation"
+        ],
+        "id": "sbry-n1-2018.12-文字・語彙-4-23",
+        "number": 23,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "基調",
+        "options": [
+          "私は自然環境の豊かさを【基調】にして、引越し先の家を選んだ。",
+          "このチームはキャプテンの鈴木選手を【基調】によくまとまっている。",
+          "実話を【基調】に書かれた小説が映画化され、多くの感動を呼んだ。",
+          "この部屋の家具は白を【基調】にした明るい色で統一されている。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q4.object",
+          "language.q4.boundary"
+        ],
+        "id": "sbry-n1-2018.12-文字・語彙-4-24",
+        "number": 24,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "かさばる",
+        "options": [
+          "映画館で、前の席の人の頭が【かさばって】、スクリーンがよく見えなかった。",
+          "紙の袋に入れた荷物が【かさばって】、持って歩くのが大変だった。",
+          "品質のいい材料を使ったら費用が【かさばって】しまった。",
+          "弁論大会で自分の番が近づくにつれて、不安が【かさばって】きた。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q4.object",
+          "language.q4.boundary"
+        ],
+        "id": "sbry-n1-2018.12-文字・語彙-4-25",
+        "number": 25,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "交錯",
+        "options": [
+          "これからの人生を考えると、様々な思いが【交錯】し、昨夜は朝まで眠れなかった。",
+          "運搬中に箱が落下して中身が散乱し、分けてあった商品が【交錯】してしまった。",
+          "この道は100メートル先で大きな道路と【交錯】するので、そこを左折してください。",
+          "この集まりでは様々な年代の人と【交錯】するので、見聞を広める良い機会だ。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}

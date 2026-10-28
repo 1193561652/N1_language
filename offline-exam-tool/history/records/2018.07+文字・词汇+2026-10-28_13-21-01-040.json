@@ -1,0 +1,933 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1793164861040-idlzm5",
+    "submittedAt": "2026-10-28T05:21:01.040Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "period",
+    "showFurigana": false,
+    "practice": null,
+    "year": "2018.07",
+    "category": "文字・词汇",
+    "questionCount": 25,
+    "totalPoints": 25,
+    "total": 25,
+    "answered": 25,
+    "correct": 23,
+    "percentage": 92,
+    "durationSeconds": 386,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2018.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2018.07-文字・語彙-1-1",
+        "number": 1,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "鈴木氏は当時を【回顧】して、次のように語った。",
+        "options": [
+          "かいこう",
+          "かいこ",
+          "かいそう",
+          "かいそ"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2018.07-文字・語彙-1-2",
+        "number": 2,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "彼の話には多少の【偽り】があると思われた。",
+        "options": [
+          "へだたり",
+          "あせり",
+          "かたより",
+          "いつわり"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2018.07-文字・語彙-1-3",
+        "number": 3,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "私は特に【嫌悪感】は持たなかった。",
+        "options": [
+          "けんおかん",
+          "けんあくかん",
+          "げんおかん",
+          "げんあくかん"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2018.07-文字・語彙-1-4",
+        "number": 4,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "問題が解決するまで【自粛】することにした。",
+        "options": [
+          "じしゅう",
+          "じしゅく",
+          "じせい",
+          "じせき"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2018.07-文字・語彙-1-5",
+        "number": 5,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "自分を【戒めたい】と思う。",
+        "options": [
+          "あらためたい",
+          "なぐさめたい",
+          "きわめたい",
+          "いましめたい"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.07",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2018.07-文字・語彙-1-6",
+        "number": 6,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この国の南側には、なだらかな【丘陵】地帯が広がっている。",
+        "options": [
+          "しゅうりょう",
+          "きゅうろう",
+          "きゅうりょう",
+          "しゅうろう"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2018.07-文字・語彙-2-7",
+        "number": 7,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "この商品は非常によく売れていて、どの店にも()がほとんどない状態だ。",
+        "options": [
+          "設置",
+          "残留",
+          "所持",
+          "在庫"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.katakana"
+        ],
+        "id": "sbry-n1-2018.07-文字・語彙-2-8",
+        "number": 8,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "企業の海外進出は()を伴うが、成功すれば利益は大きい。",
+        "options": [
+          "アウト",
+          "エラー",
+          "リスク",
+          "ダウン"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji",
+          "language.q2.adjective.other"
+        ],
+        "id": "sbry-n1-2018.07-文字・語彙-2-9",
+        "number": 9,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "不景気が続いても父の会社が倒産しなかったのは、設立以来、()経営を続けてきたおかげだ。",
+        "options": [
+          "切実な",
+          "堅実な",
+          "安泰な",
+          "安易な"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2018.07-文字・語彙-2-10",
+        "number": 10,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "品質の劣化を防ぐには、光を通さない黒い箱に入れて、光を()する必要がある。",
+        "options": [
+          "拒絶",
+          "駆除",
+          "遮断",
+          "隔離"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.mimetic"
+        ],
+        "id": "sbry-n1-2018.07-文字・語彙-2-11",
+        "number": 11,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "久しぶりに帰省すると、町の様子が()変わっていて、驚いた。",
+        "options": [
+          "がらりと",
+          "ずらりと",
+          "けろりと",
+          "ちらりと"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.verb.simple"
+        ],
+        "id": "sbry-n1-2018.07-文字・語彙-2-12",
+        "number": 12,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "中村さんの勝手な行動には強い怒りを覚えたが、友人に()、少し気持ちが落ち着いた。",
+        "options": [
+          "親しまれて",
+          "なだめられて",
+          "勧められて",
+          "ゆだねられて"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2018.07-文字・語彙-2-13",
+        "number": 13,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "部長は昨日の会議で、新企画について大枠は説明したが、具体的な開始時期には()しなかった。",
+        "options": [
+          "供述",
+          "言及",
+          "告白",
+          "通話"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q3.adjective.other"
+        ],
+        "id": "sbry-n1-2018.07-文字・語彙-3-14",
+        "number": 14,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【すみやかに】片づけてください。",
+        "options": [
+          "元の通りに",
+          "できるだけきれいに",
+          "できるだけ早く",
+          "決めた通りに"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q3.kanji"
+        ],
+        "id": "sbry-n1-2018.07-文字・語彙-3-15",
+        "number": 15,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "高橋さんの主張は【漠然としていた】.",
+        "options": [
+          "ぼんやりしていた",
+          "ごちゃごちゃしていた",
+          "あっさりしていた",
+          "はっきりしていた"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q3.kanji"
+        ],
+        "id": "sbry-n1-2018.07-文字・語彙-3-16",
+        "number": 16,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【妨害する】つもりはなかったんです。",
+        "options": [
+          "だます",
+          "いたずらする",
+          "からかう",
+          "じゃまする"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q3.katakana",
+          "language.q3.adjective.other"
+        ],
+        "id": "sbry-n1-2018.07-文字・語彙-3-17",
+        "number": 17,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "池田さんは、いつも【エレガント】な服を着ている.",
+        "options": [
+          "活動的な",
+          "地味な",
+          "上品な",
+          "個性的な"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q3.other"
+        ],
+        "id": "sbry-n1-2018.07-文字・語彙-3-18",
+        "number": 18,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【つかの間】の休息だった",
+        "options": [
+          "短い",
+          "久しぶりの",
+          "充実した",
+          "十分な"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q3.verb.simple"
+        ],
+        "id": "sbry-n1-2018.07-文字・語彙-3-19",
+        "number": 19,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "また【しくじって】しまった.",
+        "options": [
+          "緊張して",
+          "失敗して",
+          "遅刻して",
+          "誤解して"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q4.object",
+          "language.q4.collocation"
+        ],
+        "id": "sbry-n1-2018.07-文字・語彙-4-20",
+        "number": 20,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "巧み",
+        "options": [
+          "山本さんは観察力が【巧み】で、小さな違いも見逃さない。",
+          "社員全員に意見を募ったところ、【巧み】なアイディアが寄せられた.",
+          "中島さんは計算が早くて、算数が【巧み】なんです。",
+          "職人の【巧み】な技術によって、この器は作り出される"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q4.object",
+          "language.q4.boundary"
+        ],
+        "id": "sbry-n1-2018.07-文字・語彙-4-21",
+        "number": 21,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "配属",
+        "options": [
+          "夜間は患者10人に対して看護師一人を【配属】している。",
+          "新入社員の全員が希望の部署に【配属】されるわけではない。",
+          "要請に応じて、毎年日本語講師を海外に【配属】している。",
+          "営業部の石川部長が次期社長に【配属】された。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q4.object",
+          "language.q4.collocation",
+          "language.q4.register"
+        ],
+        "id": "sbry-n1-2018.07-文字・語彙-4-22",
+        "number": 22,
+        "selected": [
+          1
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "乗り出す",
+        "options": [
+          "息子は学生から社会人へと新たな道に【乗り出した】.",
+          "法律の改正に協力してくれるよう、関係者に【乗り出している】.",
+          "労働者不足が深刻化し、政府が調査に【乗り出した】。",
+          "母は買い物から戻ると、すぐに料理に【乗り出した】。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q4.object",
+          "language.q4.boundary"
+        ],
+        "id": "sbry-n1-2018.07-文字・語彙-4-23",
+        "number": 23,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "面識",
+        "options": [
+          "大学の松本先生は、名前は以前からよく知っているが、【面識】はない.",
+          "このあたりの土地は【面識】がないので、地図がないとどこにも行けない。",
+          "好きな画家の展示会に行ったら、【面識】がない新しい絵が展示されていた。",
+          "海外旅行中の友人から届いた絵はがきには、【面識】のない文字が写っていた。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q4.object",
+          "language.q4.boundary"
+        ],
+        "id": "sbry-n1-2018.07-文字・語彙-4-24",
+        "number": 24,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "抜粋",
+        "options": [
+          "このシャンプーは、植物から【抜粋】された天然成分だけで作られています。",
+          "アンケートによって【抜粋】した消費者の不満の声を今後の商品開発に生かしたい。",
+          "多数の応募者の中から厳正に【抜粋】した10名に賞品を送った。",
+          "お渡しした資料は、私の論文の一部分を【抜粋】したものです。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.07",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q4.sense",
+          "language.q4.boundary"
+        ],
+        "id": "sbry-n1-2018.07-文字・語彙-4-25",
+        "number": 25,
+        "selected": [
+          2
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "心当たり",
+        "options": [
+          "なぜ木村さんが私のことを嫌っているのか、私には【心当たり】がない.",
+          "このカメラを買ったのは10年も前なので、いくらで買ったか【心当たり】がない。",
+          "今日は仕事が忙しいので、何時ごろ帰れるか【心当たり】がない.",
+          "何かいい解決方法がないか考えているが、まだ【心当たり】がない。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}

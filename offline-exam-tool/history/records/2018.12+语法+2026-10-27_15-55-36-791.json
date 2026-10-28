@@ -1,0 +1,781 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1793087736791-bqbozx",
+    "submittedAt": "2026-10-27T07:55:36.791Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "period",
+    "showFurigana": true,
+    "practice": null,
+    "year": "2018.12",
+    "category": "语法",
+    "questionCount": 20,
+    "totalPoints": 20,
+    "total": 20,
+    "answered": 20,
+    "correct": 14,
+    "percentage": 70,
+    "durationSeconds": 2566,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01"
+        ],
+        "id": "sbry-n1-2018.12-文法-5-26",
+        "number": 26,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "私は、Tシャツ()ジーンズといったカジュアルな格好が好きだ。",
+        "options": [
+          "を",
+          "に",
+          "など",
+          "ほど"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c19"
+        ],
+        "id": "sbry-n1-2018.12-文法-5-27",
+        "number": 27,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "大波海岸に面している夏原町では、海の町()新鮮な魚料理が楽しめます。",
+        "options": [
+          "なり",
+          "なくして",
+          "ながらに",
+          "ならではの"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b01"
+        ],
+        "id": "sbry-n1-2018.12-文法-5-28",
+        "number": 28,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "昨日、水月滝を見に行った。さすが日本有数の水量を誇るだけあって、()見事な滝だった。",
+        "options": [
+          "あえて",
+          "まさか",
+          "なかなか",
+          "かえって"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c01",
+          "grammar.q5.b05"
+        ],
+        "id": "sbry-n1-2018.12-文法-5-29",
+        "number": 29,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(メールで)映画の情報、ありがとうございます。教えてもらわなかったら、()ところでした。明日早速見に行きます。",
+        "options": [
+          "見逃す",
+          "見逃さなかった",
+          "見逃せる",
+          "見逃せなかった"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2018.12-文法-5-30",
+        "number": 30,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "最近、多くの地域で和紙職人の高齢化が進んでおり、このままでは、せっかくの伝統技術が()。",
+        "options": [
+          "失われたようだ",
+          "失われかけている",
+          "失われかねない",
+          "失われてはならない"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c13"
+        ],
+        "id": "sbry-n1-2018.12-文法-5-31",
+        "number": 31,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "会社の先輩は、「わからないことがあったら、何でも聞いて。」と言ってくれるが、会議や外出でほとんど席にいないので、()聞けない。",
+        "options": [
+          "聞いては",
+          "聞くには",
+          "聞こうにも",
+          "聞かずとも"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c16",
+          "grammar.q5.b04"
+        ],
+        "id": "sbry-n1-2018.12-文法-5-32",
+        "number": 32,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "西清さんは元銀行員。支店長を()、夢であった和菓子職人を目指し、45歳で退職。その10年後、大ヒット商品の「七色だんご」を生み出した。",
+        "options": [
+          "任されたまでは",
+          "任されたくらいでは",
+          "任されるまでになったが",
+          "任されるくらいになれば"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c09"
+        ],
+        "id": "sbry-n1-2018.12-文法-5-33",
+        "number": 33,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "母「ねえ、たけしの次の対戦相手、去年優勝してるんだって。勝つのは難しいかな。」\n父「そんなの()わかんないよ。」",
+        "options": [
+          "やってるって",
+          "やってみなきゃ",
+          "やっちゃうのが",
+          "やっちゃおうと"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b05",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2018.12-文法-5-34",
+        "number": 34,
+        "selected": [
+          1
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "A「昨日、取引先の人と食事したんだけど、プライベートなことまでいろいろ聞かれて困っちゃった。」\nB「そんなのは、いちいち本当のことを言わずに適当に()。」",
+        "options": [
+          "答えてくれそうだよ",
+          "答えられたせいだよ",
+          "答えただけのことだよ",
+          "答えておけばいいんだよ"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b04",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2018.12-文法-5-35",
+        "number": 35,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "適切な目標を設定するのは難しいと言われている。目標があまりに高すぎると、やる気を()からだ。",
+        "options": [
+          "失わせてしまってはならない",
+          "失わせてしまいつつある",
+          "失わせてしまうところだ",
+          "失わせてしまうおそれがある"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q6.c02",
+          "grammar.q6.c03"
+        ],
+        "id": "sbry-n1-2018.12-文法-6-36",
+        "number": 36,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          2,
+          3,
+          1,
+          4
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "民話「鶴の恩返し」は、わなにかかって苦しんでいる＿＿＿＿ ＿＿＿＿ ★ ＿＿＿＿おじいさんに美しい布を織って恩返しをするというお話です。",
+        "options": [
+          "鶴が",
+          "ところを",
+          "助けられた",
+          "助けてくれた"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q6.c01",
+          "grammar.q6.c03"
+        ],
+        "id": "sbry-n1-2018.12-文法-6-37",
+        "number": 37,
+        "selected": [
+          2
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          4,
+          3,
+          2,
+          1
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "新人が仕事中に居眠りしているのを発見。上司としては、見なかった＿＿＿＿ ＿＿＿＿ ★ ＿＿＿＿注意することにした",
+        "options": [
+          "起こして",
+          "ほうっておく",
+          "ことにして",
+          "わけにもいかず"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q6.c02",
+          "grammar.q6.c03"
+        ],
+        "id": "sbry-n1-2018.12-文法-6-38",
+        "number": 38,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          1,
+          2,
+          4,
+          3
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "株式会社トモカワ。短期的な成果が重視されがちな＿＿＿＿ ＿＿＿＿ ★ ＿＿＿＿工作機械メーカーである。",
+        "options": [
+          "時代にあって",
+          "目先の利益だけでなく",
+          "着実に成長を続けている",
+          "日本の将来を見据えながら"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q6.c01",
+          "grammar.q6.c02"
+        ],
+        "id": "sbry-n1-2018.12-文法-6-39",
+        "number": 39,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          1,
+          3,
+          2,
+          4
+        ],
+        "starPosition": 3,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "犯罪心理学者でもある小説家大石竜也が描く巧みな心理描写は、犯罪心理学に精通した＿＿＿＿ ＿＿＿＿ ★ ＿＿＿＿ものである。",
+        "options": [
+          "専門家",
+          "初めて",
+          "にして",
+          "書ける"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q6.c01",
+          "grammar.q6.c02"
+        ],
+        "id": "sbry-n1-2018.12-文法-6-40",
+        "number": 40,
+        "selected": [
+          3
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [
+          2,
+          3,
+          4,
+          1
+        ],
+        "starPosition": 2,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "自分の人生に関わる選択は自分でしたい。たとえその結果失敗したとしても、自分が＿＿＿＿ ★ ＿＿＿＿ ＿＿＿＿経験として受け入れられると思う",
+        "options": [
+          "ひとつの",
+          "決めたことなら",
+          "それで",
+          "それは"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q7.c01",
+          "grammar.q7.c12"
+        ],
+        "id": "sbry-n1-2018.12-文法-7-41",
+        "number": 41,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "",
+        "options": [
+          "見つけられなかった",
+          "見つけられなくなった",
+          "見つけないようにした",
+          "見つけようとしなかった"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q7.c09"
+        ],
+        "id": "sbry-n1-2018.12-文法-7-42",
+        "number": 42,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "",
+        "options": [
+          "むしろ",
+          "一方で",
+          "しかも",
+          "それどころか"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q7.c07",
+          "grammar.q7.c01"
+        ],
+        "id": "sbry-n1-2018.12-文法-7-43",
+        "number": 43,
+        "selected": [
+          2
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "",
+        "options": [
+          "その時ぐらいである",
+          "その時だからである",
+          "その時のためである",
+          "その時のことである"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q7.c07"
+        ],
+        "id": "sbry-n1-2018.12-文法-7-44",
+        "number": 44,
+        "selected": [
+          4
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "",
+        "options": [
+          "その他の",
+          "例の",
+          "こうした",
+          "以下のような"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q7.c11",
+          "grammar.q7.c12"
+        ],
+        "id": "sbry-n1-2018.12-文法-7-45",
+        "number": 45,
+        "selected": [
+          2
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "",
+        "options": [
+          "持っているのだ",
+          "持っているべきだ",
+          "持っていてほしい",
+          "持っていてもかまわない"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}
