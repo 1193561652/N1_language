@@ -1,0 +1,932 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1793672102005-iipjsa",
+    "submittedAt": "2026-11-03T02:15:02.005Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "period",
+    "showFurigana": false,
+    "practice": null,
+    "year": "2017.12",
+    "category": "文字・词汇",
+    "questionCount": 25,
+    "totalPoints": 25,
+    "total": 25,
+    "answered": 25,
+    "correct": 21,
+    "percentage": 84,
+    "durationSeconds": 516,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2017.12-文字・語彙-1-1",
+        "number": 1,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "新しい販売ルートを【開拓】した。",
+        "options": [
+          "かいたく",
+          "かいだく",
+          "かいせき",
+          "かいぜき"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2017.12-文字・語彙-1-2",
+        "number": 2,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "私たちは、町の【復興】に全力で取り組んでいます。",
+        "options": [
+          "ふっこう",
+          "ふっきょう",
+          "ふくこう",
+          "ふくきょう"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2017.12-文字・語彙-1-3",
+        "number": 3,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "書類の確認を【怠った】ために、問題が生じた。",
+        "options": [
+          "いつわった",
+          "ためらった",
+          "あやまった",
+          "おこたった"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2017.12-文字・語彙-1-4",
+        "number": 4,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "本人の【了承】を得て、写真を掲載した。",
+        "options": [
+          "りょうしゅう",
+          "ろうしょう",
+          "りょうしょう",
+          "ろうしゅう"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.noun"
+        ],
+        "id": "sbry-n1-2017.12-文字・語彙-1-5",
+        "number": 5,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "あの人はいつもあれこれ【指図】をする。",
+        "options": [
+          "さしじ",
+          "さしず",
+          "しず",
+          "しじ"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "文字",
+        "tags": [
+          "language.q1.verb"
+        ],
+        "id": "sbry-n1-2017.12-文字・語彙-1-6",
+        "number": 6,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "友人と東京の名所を【巡り】、旅を満喫した。",
+        "options": [
+          "さぐり",
+          "たどり",
+          "めぐり",
+          "ねばり"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.katakana"
+        ],
+        "id": "sbry-n1-2017.12-文字・語彙-2-7",
+        "number": 7,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "小型カメラの国内市場では、弊社が20パーセントの()を占めています。",
+        "options": [
+          "レート",
+          "レベル",
+          "ランク",
+          "シェア"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2017.12-文字・語彙-2-8",
+        "number": 8,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "転勤の意向を上司からそれとなく()されたが、返答に迷っている。",
+        "options": [
+          "自問",
+          "打診",
+          "試行",
+          "探索"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2017.12-文字・語彙-2-9",
+        "number": 9,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "新しい上司は、元警察官という()の持ち主だ。",
+        "options": [
+          "由来",
+          "経路",
+          "経歴",
+          "従来"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.verb.simple"
+        ],
+        "id": "sbry-n1-2017.12-文字・語彙-2-10",
+        "number": 10,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "布のバッグは水が染み込みやすいが、このバッグは水を()素材で作られているので、雨の日も安心だ。",
+        "options": [
+          "はじく",
+          "そらす",
+          "さける",
+          "こばむ"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.kanji"
+        ],
+        "id": "sbry-n1-2017.12-文字・語彙-2-11",
+        "number": 11,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "今回の活動の趣旨は、この団体の設立目的から大きく()している。",
+        "options": [
+          "脱退",
+          "逸脱",
+          "分散",
+          "拡散"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.adverb"
+        ],
+        "id": "sbry-n1-2017.12-文字・語彙-2-12",
+        "number": 12,
+        "selected": [
+          2
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "インターネットを使えば、様々な情報を()簡単に入手できる。",
+        "options": [
+          "あえて",
+          "いっそ",
+          "せめて",
+          "いとも"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q2.adjective.other"
+        ],
+        "id": "sbry-n1-2017.12-文字・語彙-2-13",
+        "number": 13,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "河原の石は形も大きさも()で、同じものが一つもないように見えた。",
+        "options": [
+          "ごろごろ",
+          "まちまち",
+          "ぐらぐら",
+          "ぬるぬる"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q3.kanji"
+        ],
+        "id": "sbry-n1-2017.12-文字・語彙-3-14",
+        "number": 14,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "松本氏は自身のブログで【抱負】を述べていた。",
+        "options": [
+          "見解",
+          "感謝",
+          "反省",
+          "決意"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q3.other"
+        ],
+        "id": "sbry-n1-2017.12-文字・語彙-3-15",
+        "number": 15,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "あのころは、暮らしに【ゆとり】があった。",
+        "options": [
+          "目標",
+          "活気",
+          "余裕",
+          "知恵"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q3.kanji",
+          "language.q3.adverb"
+        ],
+        "id": "sbry-n1-2017.12-文字・語彙-3-16",
+        "number": 16,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "出荷台数は【若干】伸びている。",
+        "options": [
+          "いまだに",
+          "わずかに",
+          "つねに",
+          "さらに"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q3.kanji"
+        ],
+        "id": "sbry-n1-2017.12-文字・語彙-3-17",
+        "number": 17,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "その議員は議会での発言を【撤回】した。",
+        "options": [
+          "とりけした",
+          "訂正した",
+          "くりかえした",
+          "省略した"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q3.verb.compound"
+        ],
+        "id": "sbry-n1-2017.12-文字・語彙-3-18",
+        "number": 18,
+        "selected": [
+          1
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "あの二人はいつも【張り合って】いる。",
+        "options": [
+          "見つめ合って",
+          "助け合って",
+          "競い合って",
+          "傷つけ合って"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q3.adjective.other"
+        ],
+        "id": "sbry-n1-2017.12-文字・語彙-3-19",
+        "number": 19,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "中村(なかむら)氏の【かたくな】態度は変わらなかった。",
+        "options": [
+          "冷静な",
+          "頑固な",
+          "強引な",
+          "真剣な"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q4.sense",
+          "language.q4.boundary"
+        ],
+        "id": "sbry-n1-2017.12-文字・語彙-4-20",
+        "number": 20,
+        "selected": [
+          1
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "重複",
+        "options": [
+          "私は、努力を惜しまず何度も【重複】して覚えることで、記憶を定着させた。",
+          "大量のデータの中には【重複】しているものもあり、早急に整理が必要だった。",
+          "健康に自信があっても、無理が【重複】すれば体を壊してしまいますよ。",
+          "開園を待つ人の列が、驚くほど【重複】して入場ゲートの前にできていた。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q4.object",
+          "language.q4.collocation"
+        ],
+        "id": "sbry-n1-2017.12-文字・語彙-4-21",
+        "number": 21,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "拠点",
+        "options": [
+          "うわさの【拠点】を追究しても、なにも解決はしないだろう。",
+          "日本近代文学の【拠点】となった作品として、この小説は高く評価された。",
+          "この都市は、広場を【拠点】にして道が放射状に伸びている。",
+          "A社は、地元の京都を【拠点】に全国各地でビジネスを展開している。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q4.sense",
+          "language.q4.boundary"
+        ],
+        "id": "sbry-n1-2017.12-文字・語彙-4-22",
+        "number": 22,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "真っ先",
+        "options": [
+          "リーダーに適した人として、【真っ先】に私の頭に浮かんだのは石川(いしかわ)さんだった。",
+          "次のテストではクラスで【真っ先】になれるように頑張って勉強しようと思う。",
+          "先ほどお配りした資料の【真っ先】にあるグラフをご覧ください。",
+          "目が悪いので、教室の【真っ先】に座らないと、黒板の字がよく読めない。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q4.object",
+          "language.q4.collocation"
+        ],
+        "id": "sbry-n1-2017.12-文字・語彙-4-23",
+        "number": 23,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "緊密",
+        "options": [
+          "空港の滑走路を増設したことで、航空機の発着がますます【緊密】になった。",
+          "今日の講演会は参加者が多く、会場の体育館には【緊密】にいすが並べられた。",
+          "この二つの単語は意味が【緊密】に使い分けられているので、習得が難しい。",
+          "この地区では子どもの安全を守るため、学校と地域が【緊密】に協力している。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q4.object",
+          "language.q4.collocation",
+          "language.q4.boundary"
+        ],
+        "id": "sbry-n1-2017.12-文字・語彙-4-24",
+        "number": 24,
+        "selected": [
+          4
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "遂げる",
+        "options": [
+          "この町は、近年の再開発により、驚くような変化を【遂げた】。",
+          "指定の口座に入金した時点で、正式な契約が【遂げら】れる。",
+          "池田(いけだ)さんは若手だが、担当部署で重要な責任を【遂げて】いる。",
+          "業者の話では、来月末には駅前の工事を【遂げる】予定らしい。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "词汇",
+        "tags": [
+          "language.q4.sense",
+          "language.q4.evaluation"
+        ],
+        "id": "sbry-n1-2017.12-文字・語彙-4-25",
+        "number": 25,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "うなだれる",
+        "options": [
+          "ビルの最上階の窓から【うなだれる】と、あまりの高さに恐怖を感じた。",
+          "昨日の会議では、皆、部長の話に納得し力強く【うなだれて】いた。",
+          "姉は知らせを聞いてがっかりしたのか、【うなだれて】顔を上げなかった。",
+          "何か踏んだような気がしたので、思わず【うなだれて】足元を見た。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}

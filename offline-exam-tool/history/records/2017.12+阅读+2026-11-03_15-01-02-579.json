@@ -1,0 +1,874 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1793689262579-qlo5px",
+    "submittedAt": "2026-11-03T07:01:02.579Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "period",
+    "showFurigana": true,
+    "practice": null,
+    "year": "2017.12",
+    "category": "阅读",
+    "questionCount": 25,
+    "totalPoints": 25,
+    "total": 7,
+    "answered": 7,
+    "correct": 4,
+    "percentage": 57,
+    "durationSeconds": 5640,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2017.12-読解-8-46",
+        "number": 46,
+        "selected": [
+          1
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": true,
+        "questionText": "このメールで最も伝えたいことは何か。",
+        "options": [
+          "航空券仮予約の確認書を近日中に送ること",
+          "航空券の予約はまだ確定していないこと",
+          "航空券の手配に必要な情報が足りないこと",
+          "航空券が手配できないので別の便を提案したいこと"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2017.12-読解-8-47",
+        "number": 47,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": true,
+        "questionText": "筆者の考えに合うのはどれか。",
+        "options": [
+          "世界に存在するあらゆる仕事には、それぞれの価値がある。",
+          "自然の中で働き、自身の存在を確認することが大切だ。",
+          "人はどんなに豊かになっても、働くことをやめてはいけない。",
+          "人は仕事を通じて、自身が存在する意義を実感できる。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2017.12-読解-8-48",
+        "number": 48,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": true,
+        "questionText": "筆者によると、歴史学とはどのようなものか。",
+        "options": [
+          "史料の分析をとおして現代史を解明するもの",
+          "古い時代の人々の立場に立って研究するもの",
+          "過去を現代の人々の視点で解釈するもの",
+          "過去を現代史と比較して理解するもの"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2017.12-読解-8-49",
+        "number": 49,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": true,
+        "questionText": "筆者の考えに合うのはどれか。",
+        "options": [
+          "言語・思想・文化は、人間だけのものと考えるべきではない。",
+          "人間も動物であるという視点で、人間について考えるべきだ。",
+          "人間と他の動物とのちがいを問うても意味がない。",
+          "人間と動物のちがいを根本的に問い直すべきだ。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2017.12-読解-9-50",
+        "number": 50,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": true,
+        "questionText": "富士山(ふじさん)の例を挙げて、筆者が述べようとしていることは何か。",
+        "options": [
+          "旅行者の観光の目的が変化してきた。",
+          "旅行者が個人的な思い入れのある観光地にしか行かなくなった。",
+          "ただ見物するだけの観光地は飽きられやすい。",
+          "観光地は非日常への憧(あこが)れを満たす場ではなくなった。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2017.12-読解-9-51",
+        "number": 51,
+        "selected": [
+          2
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": true,
+        "questionText": "このことは観光地においても事情は同じとあるが、どういうことか。",
+        "options": [
+          "繰り返し訪れる旅行者の存在が観光地の経営を支える。",
+          "観光地の価値を認めて広めてくれる人が必要だ。",
+          "観光地が新しい旅行者を獲得し続けなければならない。",
+          "安定的な収益を得て観光地の価値を高めることが必要だ。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2017.12-読解-9-52",
+        "number": 52,
+        "selected": [
+          4
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": true,
+        "questionText": "観光地として何度も足を運んでもらうには、何が重要か。",
+        "options": [
+          "次々と新しい観光資源を生み出し続けること",
+          "観光資源としての名所旧跡(きゅうせき)を大切に保存すること",
+          "風土特有の文化や産業の中で人々が暮らしていること",
+          "その土地の人たちが生き生きと暮らせる理由を説明すること"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2017.12-読解-9-53",
+        "number": 53,
+        "selected": [
+          null
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "筆者によると、【①天邪鬼(あまのじゃく)としての芸術】が社会に必要なのはなぜか。",
+        "options": [
+          "社会が不安や刺激を当然のものとして受け入れられるようになるから",
+          "社会にこれまでにないような創造性やエネルギーをもたらすから",
+          "社会の穏やかさや心地よさを人々に再認識させるから",
+          "社会の不安や狂気や驚きから人々を解放するから"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2017.12-読解-9-54",
+        "number": 54,
+        "selected": [
+          null
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【②その繰り返し】とあるが、何を繰り返すのか。",
+        "options": [
+          "ある芸術が社会に取り込まれ、また異質性を持った別の芸術が求められること",
+          "ひとつの芸術が社会に完全に排除されると、次の新たな芸術が誕生すること",
+          "新しい芸術が、社会に刺激を与えたり与えなかったりすること",
+          "芸術に、同質性が求められたり異質性が求められたりすること"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2017.12-読解-9-55",
+        "number": 55,
+        "selected": [
+          null
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "筆者によると、いまの芸術家はどのような状況に置かれているか。",
+        "options": [
+          "時代の変化を感じさせる作品を世に出さなければならない。",
+          "穏やかさをもたらす作品を世に出さなければならない。",
+          "常に作品の質を追求していかなければならない。",
+          "作品を世に出し続けていかなければならない。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2017.12-読解-9-56",
+        "number": 56,
+        "selected": [
+          null
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【①大きな誤り】とは何か。",
+        "options": [
+          "あるべき社会の姿と現実とを区別できず、的確な判断ができないこと",
+          "現実社会における行動の判断基準があるにもかかわらず、従わないこと",
+          "現実は動かしようがないとあきらめて、自ら動こうとしないこと",
+          "現実を変えられないものとして受け入れ、そのなかでしか行動を考えないこと"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2017.12-読解-9-57",
+        "number": 57,
+        "selected": [
+          null
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "【②その現実】とあるが、どのようなものか。",
+        "options": [
+          "不正義が行われている現実",
+          "何が不正義か決められない現実",
+          "社会が正義を求めている現実",
+          "あるべき社会を求めている現実"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2017.12-読解-9-58",
+        "number": 58,
+        "selected": [
+          null
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "行為の適切さと正しさについて、筆者はどのように考えているか。",
+        "options": [
+          "現実においては、正しい行為より最も適切とされる行為を選択すべきだ。",
+          "現実で適切とされる行為が、いつも正しい行為であるとは言えない。",
+          "行為の正しさを追求しすぎて、現実における適切さを忘れてはいけない。",
+          "最も適切な行為を探究しても、正しい行為は見つけ出せない。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2017.12-読解-10-59",
+        "number": 59,
+        "selected": [
+          null
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "筆者によると、サル社会のルールとは何か。",
+        "options": [
+          "強いサルも弱いサルも、挑戦されれば相手を攻撃する。",
+          "強いサルは、弱いサルを威(い)嚇(かく)することはない。",
+          "弱いサルは、強いサルに挑戦するようなことはしない。",
+          "弱いサルは、強いサルの関心を引こうとする。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2017.12-読解-10-60",
+        "number": 60,
+        "selected": [
+          null
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "サルとは違ったこととは何か。",
+        "options": [
+          "視線以外の手段を使って気持ちを表現すること",
+          "視線の向け方が場面によって決められること",
+          "視線を向け続ければ威嚇(いかく)につながること",
+          "視線を様々な意味に使い分けること"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2017.12-読解-10-61",
+        "number": 61,
+        "selected": [
+          null
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "筆者は、視線の作法をどのようにとらえているか。",
+        "options": [
+          "お互いの感情をうまく伝え合うために必要なもの",
+          "言葉によるコミュニケーションの替わりになるもの",
+          "相手にいやな感情を伝えないようにするためのもの",
+          "性別や年齢、身分や服装に惑わされないように使うもの"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2017.12-読解-10-62",
+        "number": 62,
+        "selected": [
+          null
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "筆者の考えに合うものはどれか。",
+        "options": [
+          "情報機器を使用せずに感情を伝え合うことは難しくなってきている。",
+          "情報機器によるよりも対面のほうが、意味を伝え合うには効果的である。",
+          "情報機器の使用も視線を交わすことも、コミュニケーションに不可欠である。",
+          "情報機器の発達で、視線がコミュニケーションに果たす役割が見失われつつある。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2017.12-読解-11-63",
+        "number": 63,
+        "selected": [
+          null
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "部下に未経験の仕事をさせることについて、AとBはどのように述べているか。",
+        "options": [
+          "AもBも、仕事上の判断や行動を学べるので多くさせたほうがいいと述べている。",
+          "AもBも、与えられた仕事ができるようになったらさせたほうがいいと述べている。",
+          "Aは自力でやりとげられそうな仕事ならさせたほうがいいと述べ、Bはイメージがつかめる仕事ならさせたほうがいいと述べている。",
+          "Aは積極的に経験させたほうがいいと述べ、Bは十分な情報を与えてからさせたほうがいいと述べている。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2017.12-読解-11-64",
+        "number": 64,
+        "selected": [
+          null
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "AとBが共通して部下に期待していることは何か。",
+        "options": [
+          "会社で必要な新しい行動スタイルを身につけること",
+          "新しいことに挑戦しようという気持ちを持つこと",
+          "自力で多くの問題を克服できるようになること",
+          "自身がしている仕事に自信を持つこと"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2017.12-読解-12-65",
+        "number": 65,
+        "selected": [
+          null
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "そうした雰囲気とあるが、どのようなことか。",
+        "options": [
+          "社会が倫理を求めている。",
+          "マスコミが倫理の必要性を訴えている。",
+          "倫理学の価値が見直されつつある。",
+          "倫理学が他の分野に応用され始めている。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2017.12-読解-12-66",
+        "number": 66,
+        "selected": [
+          null
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "倫理と空気の似ている点について、筆者の考えに合うのはどれか。",
+        "options": [
+          "実体がわかりにくいので、意識されない。",
+          "生きていく上で、常になくてはならない。",
+          "必要だと感じなければ、意識されない。",
+          "必要になっても、すぐには意識されにくい。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2017.12-読解-12-67",
+        "number": 67,
+        "selected": [
+          null
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "筆者は「倫理的な時代」をどのような時代だととらえているか。",
+        "options": [
+          "新たな価値観が生まれ、社会に受け入れられている。",
+          "従来の価値観が通用しなくなり、人々が生きる方向性を見失っている。",
+          "倫理の価値が再評価され、次の世代に積極的に倫理を教えている。",
+          "倫理自体に価値がないと考えられ、社会が大きく揺らいでいる。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2017.12-読解-12-68",
+        "number": 68,
+        "selected": [
+          null
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "筆者は「倫理的な時代」を生きる人間にできることは何だと考えているか。",
+        "options": [
+          "積極的に発言し行動すること",
+          "現在の経験を将来に生かすこと",
+          "現状の問題を把握して考えること",
+          "未来を切り開く方法を考えること"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2017.12-読解-13-69",
+        "number": 69,
+        "selected": [
+          null
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "マイクさんは北山大学の4年生である。就職活動のため、以下の四つの証明書が必要になり、メモをした。この中で、受付時間内に申請をすれば、その日のうちに受け取れるのはどれか。マイクさんのメモ・成績証明書・卒業見込証明書・健康診断証明書(書式は会社指定のもの)・調査書(書式は会社指定のもの)",
+        "options": [
+          "成績証明書と卒業見込証明書",
+          "成績証明書と卒業見込証明書と健康診断証明書",
+          "成績証明書と卒業見込証明書と調查書",
+          "成績証明書と健康診断証明書"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2017.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "sbry-n1-2017.12-読解-13-70",
+        "number": 70,
+        "selected": [
+          null
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "証明書の申請に関して、留意しなければならないことはどれか。",
+        "options": [
+          "申請までに、次の学期の授業料を納入しておく必要がある。",
+          "窓口で申請する場合、学生証とパスワードが必要である。",
+          "学生センター窓口でしか申請ができない期間がある。",
+          "大学に行けない場合の申請方法はメールのみである。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}
