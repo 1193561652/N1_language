@@ -1,0 +1,471 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1793769706164-1ovu5p",
+    "submittedAt": "2026-11-04T05:21:46.164Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "special",
+    "showFurigana": true,
+    "practice": {
+      "filters": {
+        "subject": "语法",
+        "problem": "5",
+        "tags": []
+      },
+      "requestedCount": 10,
+      "questionIds": [
+        "markdown-2025.07-language-28",
+        "sbry-n1-2016.07-文法-5-27",
+        "sbry-n1-2019.12-文法-5-28",
+        "sbry-n1-2018.12-文法-5-29",
+        "markdown-2025.12-language-34",
+        "sbry-n1-2014.07-文法-5-28",
+        "sbry-n1-2019.12-文法-5-32",
+        "sbry-n1-2012.07-文法-5-30",
+        "sbry-n1-2018.07-文法-5-30",
+        "sbry-n1-2018.12-文法-5-34"
+      ],
+      "shuffleOptions": true,
+      "optionOrders": {
+        "markdown-2025.07-language-28": [
+          4,
+          2,
+          1,
+          3
+        ],
+        "sbry-n1-2016.07-文法-5-27": [
+          3,
+          4,
+          2,
+          1
+        ],
+        "sbry-n1-2019.12-文法-5-28": [
+          1,
+          3,
+          4,
+          2
+        ],
+        "sbry-n1-2018.12-文法-5-29": [
+          2,
+          3,
+          1,
+          4
+        ],
+        "markdown-2025.12-language-34": [
+          3,
+          1,
+          4,
+          2
+        ],
+        "sbry-n1-2014.07-文法-5-28": [
+          4,
+          2,
+          3,
+          1
+        ],
+        "sbry-n1-2019.12-文法-5-32": [
+          1,
+          4,
+          3,
+          2
+        ],
+        "sbry-n1-2012.07-文法-5-30": [
+          1,
+          3,
+          4,
+          2
+        ],
+        "sbry-n1-2018.07-文法-5-30": [
+          1,
+          3,
+          4,
+          2
+        ],
+        "sbry-n1-2018.12-文法-5-34": [
+          4,
+          1,
+          3,
+          2
+        ]
+      },
+      "showFurigana": true
+    },
+    "year": "专项练习",
+    "category": "语法",
+    "questionCount": 10,
+    "totalPoints": 10,
+    "total": 10,
+    "answered": 10,
+    "correct": 9,
+    "percentage": 90,
+    "durationSeconds": 548,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2025.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c10",
+          "grammar.q5.c04"
+        ],
+        "id": "markdown-2025.07-language-28",
+        "number": 28,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "同僚の山川(やまかわ)さんは、相手が( )、おかしいと思ったことを指摘せずにはいられない性格だ。",
+        "options": [
+          "先輩やら上司やら",
+          "先輩なり上司なり",
+          "先輩というか上司というか",
+          "先輩だろうが上司だろうが"
+        ],
+        "optionOrder": [
+          4,
+          2,
+          1,
+          3
+        ]
+      },
+      {
+        "sourceYear": "2016.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c10"
+        ],
+        "id": "sbry-n1-2016.07-文法-5-27",
+        "number": 27,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "相手の意見に対して、どんな反論を()自由だが、自分の考えを一方的に押し付けるのはよくないと思う。",
+        "options": [
+          "する以上",
+          "しつつも",
+          "しようと",
+          "している限りは"
+        ],
+        "optionOrder": [
+          3,
+          4,
+          2,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c01"
+        ],
+        "id": "sbry-n1-2019.12-文法-5-28",
+        "number": 28,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "半年後に大学受験()、アイドルの西田アキは現在活動を休止している。",
+        "options": [
+          "を基にして",
+          "を控えて",
+          "をもって",
+          "をめぐって"
+        ],
+        "optionOrder": [
+          1,
+          3,
+          4,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c01",
+          "grammar.q5.b05"
+        ],
+        "id": "sbry-n1-2018.12-文法-5-29",
+        "number": 29,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(メールで)映画の情報、ありがとうございます。教えてもらわなかったら、()ところでした。明日早速見に行きます。",
+        "options": [
+          "見逃す",
+          "見逃さなかった",
+          "見逃せる",
+          "見逃せなかった"
+        ],
+        "optionOrder": [
+          2,
+          3,
+          1,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2025.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b06",
+          "grammar.q5.b02"
+        ],
+        "id": "markdown-2025.12-language-34",
+        "number": 34,
+        "selected": [
+          1
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "(弁護士へのインタビューで)\nA「弁護士として毎日お忙しいと思いますが、休日はどのようにお過ごしですか。」\nB「家にいることが多いですね。弁護士は、人と話すのが仕事(  )ので、休日は一人でゆっくりしたいんです。」",
+        "options": [
+          "らしいことである",
+          "らしいところがある",
+          "みたいなことである",
+          "みたいなところがある"
+        ],
+        "optionOrder": [
+          3,
+          1,
+          4,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2014.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c02"
+        ],
+        "id": "sbry-n1-2014.07-文法-5-28",
+        "number": 28,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "テニスの木村健一選手は、おととしの全日本大会優勝()、競技から離れていたが、昨日、正式に引退を表明した。",
+        "options": [
+          "を最後に",
+          "を皮切りに",
+          "にあたって",
+          "に沿って"
+        ],
+        "optionOrder": [
+          4,
+          2,
+          3,
+          1
+        ]
+      },
+      {
+        "sourceYear": "2019.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c08"
+        ],
+        "id": "sbry-n1-2019.12-文法-5-32",
+        "number": 32,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "取引先との打ち合わせで、「御社で」と()、誤って「弊社で」と言ってしまい、相手を混乱させてしまった。",
+        "options": [
+          "言うのにひきかえ",
+          "言ったことにしても",
+          "言うべきところを",
+          "言ったつもりはないのに"
+        ],
+        "optionOrder": [
+          1,
+          4,
+          3,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2012.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b03"
+        ],
+        "id": "sbry-n1-2012.07-文法-5-30",
+        "number": 30,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "お客様、ご希望のホテルが満室でしたので、他のホテルにご変更()のですが……。よろしいでしょうか。",
+        "options": [
+          "ねがいたい",
+          "なさりたい",
+          "くださりたい",
+          "になりたい"
+        ],
+        "optionOrder": [
+          1,
+          3,
+          4,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2018.07",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.c19"
+        ],
+        "id": "sbry-n1-2018.07-文法-5-30",
+        "number": 30,
+        "selected": [
+          2
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "富士山頂から見た景色のなんと美しかった().本当に感動した。",
+        "options": [
+          "のか",
+          "ことか",
+          "わけだ",
+          "ものだ"
+        ],
+        "optionOrder": [
+          1,
+          3,
+          4,
+          2
+        ]
+      },
+      {
+        "sourceYear": "2018.12",
+        "sourceCategory": "语法",
+        "tags": [
+          "grammar.q5.b05",
+          "grammar.q5.b06"
+        ],
+        "id": "sbry-n1-2018.12-文法-5-34",
+        "number": 34,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "A「昨日、取引先の人と食事したんだけど、プライベートなことまでいろいろ聞かれて困っちゃった。」\nB「そんなのは、いちいち本当のことを言わずに適当に()。」",
+        "options": [
+          "答えてくれそうだよ",
+          "答えられたせいだよ",
+          "答えただけのことだよ",
+          "答えておけばいいんだよ"
+        ],
+        "optionOrder": [
+          4,
+          1,
+          3,
+          2
+        ]
+      }
+    ]
+  }
+}
