@@ -1,0 +1,772 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1794399495078-6hhrvc",
+    "submittedAt": "2026-11-11T12:18:15.078Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "period",
+    "showFurigana": false,
+    "practice": null,
+    "year": "2023.12",
+    "category": "阅读",
+    "questionCount": 22,
+    "totalPoints": 22,
+    "total": 4,
+    "answered": 4,
+    "correct": 2,
+    "percentage": 50,
+    "durationSeconds": 81345,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2023.12-reading-8-1",
+        "number": 45,
+        "selected": [
+          4
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": true,
+        "questionText": "筆者の考えに合うのはどれか。",
+        "options": [
+          "機械の進化に伴い、人間も技術や能力を向上させることが必要だ。",
+          "機械がどんなに進化しても、人間は機械に使われないようにすべきだ。",
+          "人間は機械も道具であるという認識を考え直したほうがいい。",
+          "人間はどこまで機械を進化させるべきかをよく考えたほうがいい。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2023.12-reading-8-2",
+        "number": 46,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": true,
+        "questionText": "イヤホン「AS-10」について、このメールで確認していることは何か。",
+        "options": [
+          "今から予約しても発売日には渡せないが、予約するかどうか。",
+          "発売日が10月以降になってしまうが、予約するかどうか。",
+          "発売日に渡せるかは分からないが、予約したままでいいかどうか。",
+          "発売日ではなく10月以降に渡すことになるが、予約したままでいいかどうか。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2023.12-reading-8-3",
+        "number": 47,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": true,
+        "questionText": "筆者が最も言いたいことは何か。",
+        "options": [
+          "顧客を限定して、その要望に応えた商品を作るべきだ。",
+          "顧客の要望に応えるために、経営資源を増やすべきだ。",
+          "多様なニーズに応えて、多くの消費者を満足させるべきだ。",
+          "ひとつの商品に焦点を当てて、経営資源を最大限に活用すべきだ。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2023.12-reading-8-4",
+        "number": 48,
+        "selected": [
+          1
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": true,
+        "questionText": "筆者が言いたいことは何か。",
+        "options": [
+          "他人に嫌われることなく生きることは難しい。",
+          "世間の評価や期待を気にしながら生きる必要はない。",
+          "自分の悪い部分を見せなければ、他人に嫌われることはない。",
+          "自分の悪い部分を見せて他人から嫌われるほうが、楽に生きられる。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2023.12-reading-9-1",
+        "number": 49,
+        "selected": [
+          null
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "筆者によると、中学や高校でさまざまな知識に触れていくと、どうなるか。",
+        "options": [
+          "分野ごとに前提とされる世界観や物事の枠組みが違うことに気づく。",
+          "身についた世界観や物事の枠組みの中で思考するようになる。",
+          "新しい世界観や考え方にしか興味が持てなくなる。",
+          "自分の世界観や考え方がより明確になる。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2023.12-reading-9-2",
+        "number": 50,
+        "selected": [
+          null
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "筆者によると、何のために「哲学する力」が必要か。",
+        "options": [
+          "激しく変化する社会の中で、自分の価値観を探求できるようにするため",
+          "自分のものの見方や考える枠組みの間違いを修正できるようにするため",
+          "自分の価値観を問い直し、社会の仕組みを正しく理解するため",
+          "社会の共通認識を学び、より深いレベルでの学習を進めるため"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2023.12-reading-9-3",
+        "number": 51,
+        "selected": [
+          null
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "筆者によると、羽毛を持つことにはどのような利点があるか。",
+        "options": [
+          "低温の環境でも、卵を一定の温かさで保つことができる。",
+          "低温の環境でも、卵の成長を促し早く孵すことができる。",
+          "環境にかかわらず体温が維持でき、卵が多く産める。",
+          "環境に合わせて卵の温度を調整でき、早く孵すことができる。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2023.12-reading-9-4",
+        "number": 52,
+        "selected": [
+          null
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "⟦u⟧お腹のあたりの羽毛が抜けていたと思われます⟦/u⟧とあるが、筆者はなぜそう考えるのか。",
+        "options": [
+          "体の熱を逃がすことで、卵を温めすぎるのを防げるから",
+          "皮膚から卵に直接体温が伝わることで、効率的に卵を温められるから",
+          "卵に皮膚を直接当てることで、卵の温度を知ることができるから",
+          "卵と接する部分の皮膚がむき出しになることで、卵が抱きやすくなるから"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2023.12-reading-9-5",
+        "number": 53,
+        "selected": [
+          null
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "⟦u⟧それ⟦/u⟧とあるが、どのようなことか。",
+        "options": [
+          "仕事を具体的な内容よりイメージで捉えて答えていること",
+          "よいイメージが持たれやすい仕事を選んで答えていること",
+          "できない仕事をできると思い込んで答えていること",
+          "本当にやりたい仕事を選ばずに答えていること"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2023.12-reading-9-6",
+        "number": 54,
+        "selected": [
+          null
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "部下への接し方について、筆者はどのように考えているか。",
+        "options": [
+          "希望と違う仕事に挑戦させて、本人の新しいスキルを引き出すことが大切だ。",
+          "適性を見極めて仕事を任せれば、本人は充実感を持って取り組むようになる。",
+          "本人のやりたい仕事に挑戦させれば、望ましい成果が出せるようになる。",
+          "個人の成果を望むより、チームに貢献する経験をさせることが大切だ。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2023.12-reading-9-7",
+        "number": 55,
+        "selected": [
+          null
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "筆者によると、自分の仮説に合う実験結果が得られない場合、多くの研究者はどうするか。",
+        "options": [
+          "仮説と条件を少しずつ変えて、実験を繰り返す。",
+          "仮説の問題点を明らかにするために、実験の条件を変える。",
+          "仮説に合う結果を得るために、条件を変えて実験を繰り返す。",
+          "仮説に合う結果を求めて、条件を変えずに時間をかけて実験する。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2023.12-reading-9-8",
+        "number": 56,
+        "selected": [
+          null
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "実験科学の分野の研究者について、筆者の考えに合うのはどれか。",
+        "options": [
+          "実験結果に振り回されず、常に仮説と結果を冷静に検証する必要がある。",
+          "実験に冷静に臨んでも、思いどおりのよい結果が得られるとは限らない。",
+          "「発見」のためには、膨大な時間と試行錯誤を覚悟しなければならない。",
+          "思い描いたとおりの結果を得るには、実験による検証を諦めてはならない。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2023.12-reading-10-1",
+        "number": 57,
+        "selected": [
+          null
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "写真とテレビの映像について、筆者の考えに合うのはどれか。",
+        "options": [
+          "想像力を働かせて写真を見れば、映像と同じような臨場感が得られる。",
+          "写真のほうが原始的だからこそ、見る人に簡潔に意味が伝わる。",
+          "写真は一瞬しか写し出されていないため、映像より見る人の想像力が必要だ。",
+          "写真は写っていないものがある分、見る人が自分を重ね合わせるのが難しい。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2023.12-reading-10-2",
+        "number": 58,
+        "selected": [
+          null
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "「名作」と呼ばれる写真について、筆者はどのように考えているか。",
+        "options": [
+          "若い時に価値が分からなくても、年を取るとよさが分かるようになる。",
+          "多くのメッセージを含んでおり、見る人に様々な感情を呼び起こす。",
+          "明確な一つのメッセージが伝わるような構成力や力強さがある。",
+          "見る人や心の状態によって、受け取るメッセージが違う。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2023.12-reading-10-3",
+        "number": 59,
+        "selected": [
+          null
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "写真について、筆者の考えに合うのはどれか。",
+        "options": [
+          "誰もがどこでも撮れる時代になり、心に迫るものを撮ることが難しくなっている。",
+          "想像力を生かせば、他の人が見逃していた視点で撮れる環境が整ってきている。",
+          "他の人にはない視点で想像力を呼び起こすものが撮れれば、力を持ち続ける。",
+          "技術の進歩で誰でもよいものが撮れるようになり、力が再認識されている。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2023.12-reading-11-1",
+        "number": 60,
+        "selected": [
+          null
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "小説を書くときの問題点として、AとBが共通して挙げていることは何か。",
+        "options": [
+          "うまく書けないのは技術が足りないからだと考えること",
+          "他者にアドバイスを求めて、自分で考えようとしないこと",
+          "本当の小説とはどのようなものかが理解できていないこと",
+          "書くのに必要な技術や手法を身につけていると過信すること"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2023.12-reading-11-2",
+        "number": 61,
+        "selected": [
+          null
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "小説を書くために必要なことについて、AとBはどのように述べているか。",
+        "options": [
+          "AもBも、本当に書きたいことかどうかを考えながら書くことだと述べている。",
+          "AもBも、うまく書けないと思っても、怠けずに書き続けることだと述べている。",
+          "Aは自分が書きたいことを明確にすることだと述べ、Bは最後まで書き上げることだと述べている。",
+          "Aは内容と表現の関係を考えて書くことだと述べ、Bは手順に沿って書き進めていくことだと述べている"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2023.12-reading-12-1",
+        "number": 62,
+        "selected": [
+          null
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "⟦u⟧SNSの支持はほとんど役に立たない⟦/u⟧とあるが、なぜか。",
+        "options": [
+          "SNSの支持者の意見はさまざまで、すぐにはまとまらないから",
+          "SNSの支持者は無名で権威を持たないひとが多いから",
+          "SNSの支持者はトラブルの原因を誤解したまますぐに発信するから",
+          "SNSの支持者はすぐに興味をなくし、去ってしまうから"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2023.12-reading-12-2",
+        "number": 63,
+        "selected": [
+          null
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "困難な時期について、筆者はどのように述べているか。",
+        "options": [
+          "自分と世界の認識のズレに気づき自分が変わろうとすれば、乗り越えられる。",
+          "「議論」によって相手や自分を変化させることで、乗り越えられる。",
+          "少数の身の回りの人々から人間関係を広げていけば、乗り越えられる。",
+          "家族や友人のような存在との深い関係によって、乗り越えられる。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2023.12-reading-12-3",
+        "number": 64,
+        "selected": [
+          null
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "筆者が言いたいことは何か。",
+        "options": [
+          "情報技術の特徴を理解したうえで活用すれば、自分自身の変化につながる。",
+          "情報技術を活用すれば、面倒な人間関係を変えられる可能性がある。",
+          "情報技術によって作られた人間関係では、人間の変化は期待できない。",
+          "情報技術は人間の変化の可能性を奪うものであり、利用は控えるべきだ。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2023.12-reading-13-1",
+        "number": 65,
+        "selected": [
+          null
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "チョウさんは、机1台を買い取ってもらいたいと思っている。机は、重さが12kgで、三辺の合計が220cmである。チョウさんが利用できる方法はどれか。",
+        "options": [
+          "店頭買取 か 出張買取 か 宅配買取",
+          "店頭買取 か 出張買取",
+          "店頭買取 か 宅配買取",
+          "店頭買取"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2023.12",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2023.12-reading-13-2",
+        "number": 66,
+        "selected": [
+          null
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "森村さんは、ギター重さ5kg、三辺の合計150cmと自転車重さ10kg、三辺の合計160cmをまとめて買い取ってもらいたいと思っているが、店頭に自分で持っていかずに済む方法がいい。 森村さんが利用できる方法はどれで、何を準備しなければならないか。",
+        "options": [
+          "宅配買取で、品物と顔写真付きの本人確認書類のコピーを準備する。",
+          "宅配買取で、品物と本人確認書類は、顔写真付きでなくてもいい。",
+          "出張買取で、品物と顔写真付きの本人確認書類を準備する。",
+          "出張買取で、品物と本人確認書類を準備する。本人確認書類は、顔写真付きでなくてもいい。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}

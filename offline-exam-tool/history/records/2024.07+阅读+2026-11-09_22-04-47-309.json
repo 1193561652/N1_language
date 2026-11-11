@@ -1,0 +1,772 @@
+{
+  "version": 2,
+  "record": {
+    "id": "1794233087310-3gmaoh",
+    "submittedAt": "2026-11-09T14:04:47.309Z",
+    "timezoneOffsetMinutes": -480,
+    "mode": "period",
+    "showFurigana": false,
+    "practice": null,
+    "year": "2024.07",
+    "category": "阅读",
+    "questionCount": 22,
+    "totalPoints": 22,
+    "total": 8,
+    "answered": 8,
+    "correct": 5,
+    "percentage": 63,
+    "durationSeconds": 6320,
+    "reasonCount": 0,
+    "optionReasonCount": 0,
+    "details": [
+      {
+        "sourceYear": "2024.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.07-reading-8-1",
+        "number": 45,
+        "selected": [
+          3
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": true,
+        "questionText": "筆者の考えに合うのはどれか。",
+        "options": [
+          "本当に実力があれば、練習でできなかったことでも試合でできる。",
+          "全力で練習したから試合でも成功するというのは、甘い考えだ。",
+          "練習でしっかりできていても、試合で実力を発揮するのは難しい。",
+          "練習にも全力で取り組まなければ、試合でいい結果は出せない。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.07-reading-8-2",
+        "number": 46,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": true,
+        "questionText": "感情について、筆者はどのように述べているか。",
+        "options": [
+          "感情は生理的な反応より思考の影響が大きい。",
+          "感情は相手の対応ではなく自分の実感で決まる。",
+          "感情は実感だけではなく価値判断も含む。",
+          "感情は思考より先に生まれるものである。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.07-reading-8-3",
+        "number": 47,
+        "selected": [
+          3
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": true,
+        "questionText": "科学者について、筆者はどのように述べているか。",
+        "options": [
+          "原因と結果が単純に結ばれない限り、疑い続ける。",
+          "原因と結果が論理的に証明できなければ、受け入れない。",
+          "原因と結果の関係が複雑であるほど、より強固な証拠を要求する。",
+          "原因と結果の関係が意外な場合には、証拠がない限り推測を述べない。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.07-reading-8-4",
+        "number": 48,
+        "selected": [
+          3
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": true,
+        "questionText": "筆者の説明によると、自立した人とはどのような人か。",
+        "options": [
+          "自立と依存が全く違うことだと認識している人。",
+          "依存を少なくしたうえで、他者と生きようとする人。",
+          "必要に応じて依存し、自身の依存をよく理解している人。",
+          "孤立することを恐れず、依存をなくそうと努力している人。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.07-reading-9-1",
+        "number": 49,
+        "selected": [
+          1
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": true,
+        "questionText": "筆者は何のために新聞を使って「修業」をしていたか。",
+        "options": [
+          "記事の人物について自分の考えを持つため。",
+          "記事を参考に、自分なりのストーリーを作り出すため。",
+          "自分自身の考えを持てるようにするため。",
+          "自分の考えを言葉で表現できるようになるため。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.07-reading-9-2",
+        "number": 50,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": true,
+        "questionText": "筆者は、「修業」を繰り返した後、漫画で何を表現したいと思ったか。",
+        "options": [
+          "ヒロインが自ら決断し人生を生きる姿。",
+          "ヒロインが自らの人生について悩む姿。",
+          "ヒロインが自ら選んだ人生で成功する過程。",
+          "ヒロインの感情や心が変化する過程。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.07-reading-9-3",
+        "number": 51,
+        "selected": [
+          4
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": true,
+        "questionText": "カブトムシの例を挙げて筆者が言おうとしていることは、何か。",
+        "options": [
+          "環境によって、個体が生き残るために必要な基本形も変化していく。",
+          "さまざまな形の個体が生まれても、時間がたてばひとつの形になっていく。",
+          "生存の条件に合う変化の生じた個体だけが生き残ることができる。",
+          "生存にかかわる本質的な部分の変化でなければ、どんな形の個体も生き残る。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.07-reading-9-4",
+        "number": 52,
+        "selected": [
+          1
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          true
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": true,
+        "questionText": "生物の進化について、筆者はどのように述べているか。",
+        "options": [
+          "突然変異で生じた多様性は、環境次第で維持されたり縮小したりする。",
+          "突然変異が頻繁に起こることで、環境の影響を受けない個体が生まれる。",
+          "突然変異も環境からの圧力も、多様性を拡大したり縮小したりする役割がある。",
+          "多様性は、環境からの圧力で絞り込まれても、突然変異によって拡大し続けていく。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.07-reading-9-5",
+        "number": 53,
+        "selected": [
+          null
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "⟦u⟧「正しい怒り」の罠⟦/u⟧とはどういうことか。",
+        "options": [
+          "不正に対する怒りの感情が自分で制御できなくなってしまうこと。",
+          "不正に怒りを感じる自分の側に正義があると思い込んでしまうこと。",
+          "不正だけではなく正しいことに対しても怒りを抱いてしまうこと。",
+          "怒りによってしか不正を正すことができないと思い込んでしまうこと。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.07-reading-9-6",
+        "number": 54,
+        "selected": [
+          null
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "「正しく怒る」ことについて、筆者の考えに合うのはどれか。",
+        "options": [
+          "怒りに基づいた行為が正当かどうかを社会全体で考えるべきだ。",
+          "怒りから生じた行為が正当かどうかを常に客観視する必要がある。",
+          "怒りをどのようにして正義に結びつけたらいいか冷静に考えるべきだ。",
+          "一人一人が自分の怒りの行動に責任を持ち、冷静でいる必要がある"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.07-reading-9-7",
+        "number": 55,
+        "selected": [
+          null
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "筆者によると、最初から批判的に読むことの問題点は何か。",
+        "options": [
+          "論点だけでなく、重要でない点まで取り上げて批判するようになること。",
+          "著者の主張が正しいと分かっているのに、受け入れられなくなること。",
+          "批判することが目的になり、著者の主張を正確に理解できなくなること。",
+          "批判することしか頭になくなり、自分の考えが持てなくなること。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.07-reading-9-8",
+        "number": 56,
+        "selected": [
+          null
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "筆者の考えに合うのはどれか。",
+        "options": [
+          "批判的に読みながら徹底的な読みも加えることを意識するべきだ。",
+          "徹底的に読むことが必要だが、批判的な読みも忘れてはいけない。",
+          "徹底的に読むか批判的に読むかは内容によって決める必要がある。",
+          "徹底的に深く読めば、意識しなくても鋭く批判的に読むことができる。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.07-reading-10-1",
+        "number": 57,
+        "selected": [
+          null
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "数学の問題を解くことについて、筆者の考えに合うのはどれか。",
+        "options": [
+          "早く解けなくても、解き方を身につけることが大切だ。",
+          "解けても解けなくても、問題に取り組むことが大切だ。",
+          "解けなかった問題が解けるようになったらおもしろくなる。",
+          "解き方のわからない問題を解こうとすることに意味がある。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.07-reading-10-2",
+        "number": 58,
+        "selected": [
+          null
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "⟦u⟧頭のなかに飼っておく⟦/u⟧とはどういうことか。",
+        "options": [
+          "わかる問題を手がかりにして、わからない問題を考えること。",
+          "わかる問題とわからない問題を、頭のなかで区別しておくこと。",
+          "わからない問題をわかるまで解き続けていること。",
+          "わからない状態のまま、問題を頭のなかに残しておくこと。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.07-reading-10-3",
+        "number": 59,
+        "selected": [
+          null
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "筆者によると、どのように勉強すればよいか。",
+        "options": [
+          "結果を急がずに、考えることを楽しむ。",
+          "結果に達することができれば、どんなやり方でもよい。",
+          "目的を忘れないで、あせらずに勉強を楽しめばよい。",
+          "自分に合ったやり方を探して、時間を気にせず取り組む。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.07-reading-11-1",
+        "number": 60,
+        "selected": [
+          null
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "あきらめることについて、A と B はどのように述べているか。",
+        "options": [
+          "A も B も、成果が出せる可能性が低い場合には、あきらめたほうがよいと述べている。",
+          "A も B も、つらくても、できるだけあきらめずに頑張ったほうがよいと述べている。",
+          "A は状況によっては、あきらめたほうがよいこともあると述べ、Bはあきらめてもいいと思ったほうが、頑張り続けられる場合もあると述べている。",
+          "A は努力しても結果に結びつかない場合は、あきらめたほうがよいと述べ、B は十分にやってみるまでは、あきらめることを考えるべきではないと述べている。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.07-reading-11-2",
+        "number": 61,
+        "selected": [
+          null
+        ],
+        "expected": [
+          4
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "A と B の認識で共通していることは何か。",
+        "options": [
+          "あきらめることになった原因を考えるべきだ。",
+          "あきらめるのが早ければ、早く立ち直れる。",
+          "あきらめたことでも、再挑戦することはできる。",
+          "あきらめたことを後悔してはいけない。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.07-reading-12-1",
+        "number": 62,
+        "selected": [
+          null
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "筆者によると、親や教師は子どもや生徒に対して何をしているか。",
+        "options": [
+          "反抗を容認しつつ、不自由な社会的規範に従わせている。",
+          "どの時代にも通用する社会的規範を身につけさせている。",
+          "社会的規範を教え、社会の枠組みに適応させている。",
+          "社会的規範を教えたうえで、自由に生きる方法を身につけさせている。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.07-reading-12-2",
+        "number": 63,
+        "selected": [
+          null
+        ],
+        "expected": [
+          3
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "⟦u⟧精神的な財産⟦/u⟧とは何か",
+        "options": [
+          "ひとが幸福になるために守ってきたもの。",
+          "ひとが本能を抑圧されずに生きるためのもの。",
+          "ひとが社会で生きていくために作られてきたもの。",
+          "これから生まれ育っていく子どもにとって必要なもの。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.07-reading-12-3",
+        "number": 64,
+        "selected": [
+          null
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "筆者が言いたいことは何か。",
+        "options": [
+          "社会的規範は時代によって変化するものであり、子どもはおとなの思うとおりにならな くて当然である。",
+          "社会的規範は暫定的なものにすぎず、子どもが自身の考え方に合ったものを作って いくことが望ましい。",
+          "時代の変化に適応できるように、おとなは子どもに社会的規範の背景となる考え方 を教えたほうがいい。",
+          "時代によって考え方は変化するものなので、それに合わせて次の世代が社会的規範 を変えるべきだ。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.07-reading-13-1",
+        "number": 65,
+        "selected": [
+          null
+        ],
+        "expected": [
+          1
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "マリーさんは秋川大学で本を借りるために、図書館利用カードを作ろうと思っている。今日は金曜日である。明日の夜までに本を借りたいが、図書館利用カードは、どのように申請しなければならないか。",
+        "options": [
+          "今日、中央図書館か文学部図書館で 9 時から 17 時までの間に申請する。",
+          "今日、中央図書館で 9 時から 17 時までの間に申請する。文学部図書館では申請できない。",
+          "今日、中央図書館か文学部図書館で 9 時から 17 時までの間に申請するか、明日、中央図書館で 9 時から 17 時までの間に申請する。",
+          "今日か明日、中央図書館か文学部図書館で 9 時から 17 時までの間に申請する。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "sourceYear": "2024.07",
+        "sourceCategory": "阅读",
+        "tags": [],
+        "id": "jlpt4you-2024.07-reading-13-2",
+        "number": 66,
+        "selected": [
+          null
+        ],
+        "expected": [
+          2
+        ],
+        "results": [
+          false
+        ],
+        "reason": "",
+        "optionReasons": {},
+        "order": [],
+        "starPosition": null,
+        "answerRevealedBeforeSubmit": false,
+        "questionText": "カイさんは、研究のために資料を借りたり複写したりする必要があって、秋川大学の文学部図書館に来た。図書館利用カードは持っている。今日は、授業期間の火曜日である。貸し出しと複写は、何時まで可能か。",
+        "options": [
+          "貸し出しは 18 時の15 分前まで、複写は 18 時まで可能である。",
+          "貸し出しは 21 時の15 分前まで、複写は 21 時まで可能である。",
+          "貸し出しは 21 時の15 分前まで、複写は 21 時の10 分前まで可能である。",
+          "貸し出しは 21 時の30 分前まで、複写は 21 時の10 分前まで可能である。"
+        ],
+        "optionOrder": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  }
+}

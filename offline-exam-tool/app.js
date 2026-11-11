@@ -69,6 +69,15 @@
     (history || []).forEach((record) => {
       let recordChanged = false;
       (record.details || []).forEach((detail) => {
+        if (detail.id === "jlpt4you-2024.07-reading-9-4") {
+          const result = Number(detail.selected?.[0]) === 1;
+          if (Number(detail.expected?.[0]) !== 1 || detail.results?.[0] !== result) {
+            detail.expected = [1];
+            detail.results = [result];
+            changed = true;
+            recordChanged = true;
+          }
+        }
         const question = questionsById.get(detail.id);
         const order = (detail.order || []).map(Number);
         if (!question || Number(question.groupNumber) !== 6 || order.length !== 4) return;
